@@ -73,7 +73,7 @@
 "EntryPermitInner","bearing passport number","Do passaporte de número:"
 "EntryPermitInner","Purpose","Propósito"
 "EntryPermitInner","Duration","Estadia"
-"EntryPermitInner","Enter by","Valido até"
+"EntryPermitInner","Enter by","Válido até"
 "EntryPermitInner","Ministry of Admission","Ministério da Admissão"
 "EntryTicketInner","Arstotzka","Arstotzka"
 "EntryTicketInner","ENTRY TICKET","BILHETE"
@@ -344,7 +344,7 @@ AQUI"
 "image:StampBotDenied.png","export/StampBotDenied.png","http://i.imgur.com/fbKJZGq.png"
 "image:ReasonStampTop.png","export/ReasonStampTop.png","http://i.imgur.com/7M3uexY.png"
 "image:InkReason.png","export/InkReason.png","http://i.imgur.com/GH7dIck.png"
-"news:RANDOM_WEATHER","The Weather","O Tempo de André"
+"news:RANDOM_WEATHER","The Weather","O Tempo"
 "news:RANDOM_SPORTS","Sports","Esportes"
 "news:RANDOM_ENTERTAINMENT","Entertainment","Entretenimento"
 "news:RANDOM_POLITICS","Politics","Política"
@@ -442,7 +442,7 @@ AQUI"
 "news:SERIAL_KILLER","Simon Wens: An Arstotzkan Native - Returning Home?","Simon Wens: Nativo de Arstotzka - Estará Voltando Para Casa?"
 "news:SERIAL_KILLER_MURDERED","Bloody Scene In Gennistora!","Cena Sangrenta Em Gennistora!"
 "news:SERIAL_KILLER_MURDERED","Simon Wens Found Dead In Confusing Mess","Simon Wens É Encontrado Morto Numa Grande Confusão"
-"news:EZIC_ATTACK0","Grestin Metro Halted","Metrô de Grestin Pára"
+"news:EZIC_ATTACK0","Grestin Metro Halted","Metrô de Grestin Para"
 "news:EZIC_ATTACK0","Tunnel Cave-in, Hints At Sabotage","Tunel Desaba, Indícios De Sabotagem"
 "news:EZIC_ATTACK1_GIFT","Gov't Headquarters In Paradizna Evacuated!","Sede do Governo Em Paradizna é Evacuada!"
 "news:EZIC_ATTACK1_GIFT","Strange Gas Detected - Staff Safe, Records Missing","Gás Misterioso Detectado - Equipe Segura, Documentos Desaparecidos"
@@ -451,7 +451,7 @@ AQUI"
 "news:POISONING","Mysterious Poison Hospitalizes Several!","Veneno Misterioso Hospitaliza Vários!"
 "news:POISONING","Unnamed Immigrant Smuggles Deadly Agent","Imigrante Desconhecido Contrabandeia Substancia Mortal"
 "news:MARKED_DIPLOMAT","Top-Level Talks Called","Negociações Importantes Canceladas"
-"news:MARKED_DIPLOMAT","Grestin Territory Remains Dividing Issue","Território de Grestin Ainda É Um Questão Polêmica"
+"news:MARKED_DIPLOMAT","Grestin Territory Remains Dividing Issue","Território de Grestin Ainda É Uma Questão Polêmica"
 "news:DIPLOMAT_SWAPPED","Kolechians Are Crazy","Kolechianos Estão Loucos"
 "news:DIPLOMAT_SWAPPED","Bizarre Behavior From Top Negotiator Spoils Talks","Comportamento Bizarro de Negociador Põe Fim às Discussões"
 "news:DIPLOMAT_ORIGINAL","A Tentative Understanding","Um Acordo Provisório"
@@ -569,7 +569,7 @@ $approved aprovados
 $denied recusados
 $detained detidos
 $citations deméritos obtidos
-$stamps carimbos aplicaods
+$stamps carimbos aplicados
 Final $endnum de $endtotal"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
@@ -1095,7 +1095,7 @@ Do not confiscate foreign passports.","Respondendo aos contínuos ataques, o Min
 
 Confisque todos os passaportes de aplicantes Arstotzkanos.
 
-Não haverão exceções.
+Não haverá exceções.
 
 Não confisque passaportes estrangeiros."
 "bulletin:29A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
@@ -1282,15 +1282,15 @@ Continue a confiscar todos os passaportes de aplicantes Arstotzkanos."
 "facts","No entry from Kolechia","Proibidos Viajantes de Kolechia"
 "facts","Possible Terrorist Admitted","Possível Terrorista Aceito"
 "facts","Entrant Holds Conflicting Passports","Viajante Possui Passaportes Conflitantes"
-"facts","Entrant must have a passport","Aplicantes devem ter passaportes"
-"facts","Foreigners require an entry permit","Estrangeiros devem ter Lic. de Entrada"
-"facts","Foreigners require an entry ticket","Estrangeiros devem ter Bilhete de Acesso"
-"facts","All documents must be current","Documentos devem estar em dia"
-"facts","Workers must have a work pass","Trabalhadors devem
+"facts","Entrant must have a passport","Aplicante deve ter um passaporte"
+"facts","Foreigners require an entry permit","Estrangeiro deve ter Licença de Entrada"
+"facts","Foreigners require an entry ticket","Estrangeiro deve ter Bilhete de Acesso"
+"facts","All documents must be current","Todos os documentos devem estar em dia"
+"facts","Workers must have a work pass","Trabalhador deve
 ter Visto de Trabalho"
-"facts","Citizens must have an id card","Cidadãos devem possuir identidade"
+"facts","Citizens must have an id card","Cidadãos devem apresentar identidade"
 "facts","Foreigners require an id supplement","Estrangeiros devem ter C. Complementar"
-"facts","Arstotzkan citizens only","Somente cidadãos de Arstotzka permitidos"
+"facts","Arstotzkan citizens only","Somente nativos de Arstotzka permitidos"
 "facts","No entry from United Federation","Proibidos viajantes da Federação Unida"
 "facts","No weapons or contraband","Contrabandos e armas são proibidos"
 "facts","All Kolechians must be searched","Kolechianos devem ser todos revistados"
@@ -1300,7 +1300,7 @@ autorização"
 "facts","Asylum seekers must have a grant","Requerentes de asilo devem ter garantia"
 "facts","Foreigners require an access permit","Estrangeiros devem ter Lic. de Acesso"
 "facts","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.","CONFISCAR PASSAPORTES ARSTOTZKANOS DOS RESIDENTES DE ALTAN."
-"facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","CONFISCAR TODO PASSAPORTE ARSTOTZKANO. SEM EXCESSÕES."
+"facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","CONFISCAR TODO PASSAPORTE ARSTOTZKANO. SEM EXCEÇÕES."
 "facts","Passport not confiscated","Passaporte não confiscado"
 "paper:SecondPassport","West Grestin","Grestin Oeste"
 "paper:Rules","Basic Rules","Regras Básicas"
