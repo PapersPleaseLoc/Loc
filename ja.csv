@@ -1,0 +1,3290 @@
+"CONTEXT (DO NOT MODIFY)","ENGLISH (DO NOT MODIFY)","LOCALIZED (EDIT THIS COLUMN)"
+"AccessPermitInner","ARSTOTZKA","ｱﾙｽﾄﾂｶ"
+"AccessPermitInner","Access Permit","渡航許可証"
+"AccessPermitInner","This permit grants conditional access to the sovereign nation of Arstotzka","本許可証は主権国家ｱﾙｽﾄﾂｶへの条件的入国を認めるものである。"
+"AccessPermitInner","NAME","氏名"
+"AccessPermitInner","NATIONALITY","国籍"
+"AccessPermitInner","PURPOSE","目的"
+"AccessPermitInner","HEIGHT","身長"
+"AccessPermitInner","PHYSICAL APPEARANCE","身体的特徴"
+"AccessPermitInner","ID NUMBER","ID番号"
+"AccessPermitInner","DURATION","滞在期間"
+"AccessPermitInner","WEIGHT","体重"
+"AccessPermitInner","ENTER BY","入国日"
+"AccessPermitInner","Keep on person","常時携帯すること"
+"AccessPermitInner","Ministry of Admission","出入国管理省"
+"AsylumGrantInner","Arstotzka","ｱﾙｽﾄﾂｶ"
+"AsylumGrantInner","GRANT of ASYLUM","亡命認可証"
+"AsylumGrantInner","This document grants conditional asylum status within Arstotzkan borders","本書によりｱﾙｽﾄﾂｶへの暫定亡命者として認める。"
+"AsylumGrantInner","NAT","NAT"
+"AsylumGrantInner","ID#","ID#"
+"AsylumGrantInner","DOB","DOB"
+"AsylumGrantInner","HT","HT"
+"AsylumGrantInner","WT","WT"
+"AsylumGrantInner","Offer expires after","有効期限"
+"AsylumGrantInner","Ministry of Admission","出入国管理省"
+"BizCardInnerFront","ENGINEERING","ｴﾝｼﾞﾆｱﾘﾝｸﾞ"
+"BizCardInnerFront","Director","取締役"
+"BizCardInnerBack","WE NEED ENGINEERS","ｴﾝｼﾞﾆｱ募集"
+"BizCardInnerBack","WILL BEAT .GOV PAY","給与は政府支払い以上"
+"BizCardInnerBack","CONTACT NOW","今すぐご連絡下さい"
+"BrothelHelpInner","A man named <span>Dari Ludum</span> promised me and my sister good work in Arstotzka.","私と妹は<span>Dari Ludum</span> という<br>男に、アルストツカで良い仕事を<br>紹介すると言われてやって来ました。"
+"BrothelHelpInner","I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.","でも彼は信用できません。<br>きっと私たちのパスポートは<br>奪われて売春宿で働かされる<br>のだと思います。<br>彼も今日の列に並んでいます。"
+"BrothelHelpInner","Please do something.","どうにかして助けて下さい。"
+"BulletinInnerDiploTut","Diplomat","外交官"
+"BulletinInnerDiploTut","Verification Procedure","確認手順"
+"BulletinInnerDiploTut","Verify issuing country","発行国を確認"
+"BulletinInnerDiploTut","Verify identity","IDを確認"
+"BulletinInnerDiploTut","Verify diplomatic access to Arstotzka","ｱﾙｽﾄﾂｶへの外交渡航の権限が認められているか確認"
+"BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","不足書類は、受付台と<br>ルールブック内の関連箇所を選択することで関係付けることができる。"
+"BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","さらに進めていくためには、ルールブック内の関連箇所と違反情報を関係づけること。"
+"BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","発見した武器や密輸品を<br>ルールブック内の記載箇所と関係づける。"
+"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","調査モードにおいて矛盾する２つの情報を選択することで入国者への審問が可能。"
+"BulletinInnerPassportTut","Pay attention to passport nationality.","ﾊﾟｽﾎﾟｰﾄの国籍に<br>注意を払うこと。"
+"BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","ｱﾙｽﾄﾂｶ国民<br>出入国管理省"
+"BulletinInnerBoothTut","Inspector's Booth","審査官ブース"
+"BulletinInnerBoothTut","Shutter","安全扉"
+"BulletinInnerBoothTut","Counter","受付台"
+"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","ルールブック<br>録音記録<br>公報保管場所<br>時刻 &amp; 日付"
+"BulletinInnerGunTut","Weapons Protocol","武器 使用規定"
+"BulletinInnerGunTut","WHEN ALARM SOUNDS","警報鳴動時"
+"BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","鍵穴にキーを差し込み、<br>武器を解錠。"
+"BulletinInnerGunTut","Select gun, aim and fire.","銃を選び、狙いを定め発砲。"
+"BulletinInnerGunTut","Time is short. Act fast.","時間は限られている。<br>迅速に行動すること。"
+"BulletinInnerFilerTut","Passport Confiscation","パスポートの押収"
+"BulletinInnerFilerTut","Verify ALTAN resident on id.","IDでｱﾙﾀﾝ住民か確認。"
+"BulletinInnerFilerTut","Drop passport in confiscation drawer.","押収品引き出しに<br>ﾊﾟｽﾎﾟｰﾄを入れる。"
+"BulletinInnerFilerTut","If arresting, confiscate before detaining.","逮捕する場合、<br>拘留前に押収すること。"
+"BulletinInnerCriminals","Ministry of Justice","法務省"
+"BulletinInnerCriminals","WANTED CRIMINALS","指名手配犯"
+"BulletinInnerNews","NEWS","新報"
+"BulletinPagesNote","CHECK ALL<br>PAGES","全ページを<br>確認"
+"CitationInner","M.O.A. CITATION","入管省 通告"
+"DiplomaticAuthInner","Diplomatic<br>Authorization","外交<br>権限証明"
+"DiplomaticAuthInner","This document authorizes named agent as a diplomatic entity of a Council of Nations member state.","本書は下記の代理人に国際評議会加盟国の外交官としての権限を認めるものである。"
+"DiplomaticAuthInner","AGENT","代理人"
+"DiplomaticAuthInner","PASSPORT","ﾊﾟｽﾎﾟｰﾄ"
+"DiplomaticAuthInner","Unconditional access to all named Council of Nations member states must be granted upon presentation.","提示次第、全ての記載された国際評議会加盟国において無条件の入国が認められる。"
+"DiplomaticAuthInner","This document has no expiry.","本書には有効期限がない。"
+"DiplomaticAuthInner","COUNCIL OF NATIONS - SEVEN MEMBER FORUM","国際評議会 - 七カ国フォーラム"
+"EntryPermitInner","ARSTOTZKA","ｱﾙｽﾄﾂｶ"
+"EntryPermitInner","Entry Permit","入国許可証"
+"EntryPermitInner","Conditional entry to the sovereign nation of Arstotzka is hereby granted to","主権国家ｱﾙｽﾄﾂｶへの条件的入国が下記の者に認められる"
+"EntryPermitInner","bearing passport number","所持ﾊﾟｽﾎﾟｰﾄ番号"
+"EntryPermitInner","Purpose","目的"
+"EntryPermitInner","Duration","滞在期間"
+"EntryPermitInner","Enter by","入国日"
+"EntryPermitInner","Ministry of Admission","出入国管理省"
+"EntryTicketInner","Arstotzka","ｱﾙｽﾄﾂｶ"
+"EntryTicketInner","ENTRY TICKET","入国券"
+"EntryTicketInner","VALID ON","有効日"
+"EzicNoteInnerOpen","READ QUICKLY","ｽﾐﾔｶ ﾆ ﾖﾐ"
+"EzicNoteInnerOpen","RETURN TO MESSENGER","ｼｼｬ　ﾆ ﾍﾝｷｬｸ ｾﾖ"
+"FamilyPhotoInner","HANG ON WALL","壁に掛けられます"
+"FingerprintsInner","GIVE THIS PAPER TO APPLICANT","入国希望者に本紙を渡すこと"
+"ForgeryFlyerInnerFront","NEED FORGED<br>OBRISTAN DOCS?","ｵﾌﾞﾘｽﾀﾝの書類<br>ご入用では？"
+"ForgeryFlyerInnerFront","""It looks so real!""","「どうみても本物！」"
+"ForgeryFlyerInnerFront","""Approved for entry!""","「入国が許可されました！」"
+"ForgeryFlyerInnerFront","Fair rates!","安心価格！"
+"ForgeryFlyerInnerFront","No questions asked!","目的不問！"
+"ForgeryFlyerInnerFront","Fast turnaround!","即発行!"
+"ForgeryFlyerInnerFront","CONDITIONS ON BACK","各種条件は裏面"
+"ForgeryFlyerInnerBack","PRICING (EACH)","価格（一通あたり）"
+"ForgeryFlyerInnerBack","Passport *","ﾊﾟｽﾎﾟｰﾄ *"
+"ForgeryFlyerInnerBack","Entry Ticket","入国券"
+"ForgeryFlyerInnerBack","*<br>","*<br>"
+"ForgeryFlyerInnerBack","Client must provide existing Obristan passport to be modified with new info","上書き用にｵﾌﾞﾘｽﾀﾝの最新ﾊﾟｽﾎﾟｰﾄをお客様ご自身にご用意していただく必要がございます。"
+"ForgeryFlyerInnerBack","Service at border Arstotzka/Obristan","ｱﾙｽﾄﾂｶ／ｵﾌﾞﾘｽﾀﾝ<br>国境付近にて営業中"
+"ForgeryFlyerInnerBack","Ask for Timofei Wee","お問い合わせはTimofei Weeまで"
+"GymFlyerInner","Underweight?Weak?Tired?","やせ過ぎ？貧相？疲れ気味？"
+"GymFlyerInner","JOIN BEST GYM!","最強<br>ジムに<br>入会！"
+"GymFlyerInner","GET BIG TOWN","ﾑｷﾑｷ ﾀｳﾝ"
+"GymFlyerInner","East Grestin","東グレスチン"
+"HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","この入国者は書類を持っていません"
+"HintMissingInner","To proceed, use INSPECT mode to interrogate.","調査モード使い審問することで、<br>検問を進めることができます"
+"HintMissingInner","Review page 2 of today's bulletin for full instructions.","詳しい手順は本日の公報、<br>第２ページを参照。"
+"IdCardInner","ARSTOTZKA IDENTITY CARD","ｱﾙｽﾄﾂｶ IDｶｰﾄﾞ"
+"IdCardInner","DOB","DOB"
+"IdCardInner","HT.","HT."
+"IdCardInner","WT.","WT."
+"IdentityRecordInner","M.O.A. IDENTITY RECORD","入管省 ID記録"
+"IdentityRecordInner","NAME:","氏名:"
+"IdentityRecordInner","ALIAS:","別名:"
+"IdentityRecordInner","Applicant's fingerprints and claimed name/alias must match this record.","入国希望者の指紋及び氏名（又は<br>別名）は本記録と合致しなければ<br>ならない。"
+"IdSupplementInner","IDENTITY<br>SUPPLEMENT","身元証明<br>補完書"
+"IdSupplementInner","HT","HT"
+"IdSupplementInner","WT","WT"
+"IdSupplementInner","DESCRIPTION","特徴"
+"IdSupplementInner","THUMB","拇印"
+"IdSupplementInner","Keep on person","常時携帯すること"
+"IdSupplementInner","EXP.","期日"
+"LocketInnerOpen","To Sergiu from your Elisa","Sergiuへ<br>あなたの<br>Elisa"
+"LocketInnerOpen","I Love You Always","愛してる永遠に"
+"LoveSongInner1","YOU","YOU"
+"LoveSongInner1","YOU ARE HOT LIKE FIRE","アナタはまるで熱い炎~"
+"LoveSongInner2","you","you"
+"LoveSongInner2","OBJECT OF DESIRE","私の欲望そのもの~"
+"LoveSongInner3","YOU<br>(AGAIN)","YOU<br>(AGAIN)"
+"LoveSongInner3","WRAP MY HEART IN WIRE","つかまえて私のココロ~"
+"LoveSongInner4","ApPROVED","ApPROVED"
+"LoveSongInner4","APPROVE MY VISA","ビザを認めてね"
+"PassportInnerAntegria","ENTRY VISA","入国ビザ"
+"PassportInnerAntegria","DOB.","DOB."
+"PassportInnerAntegria","SEX","SEX"
+"PassportInnerAntegria","ISS.","ISS."
+"PassportInnerAntegria","EXP.","EXP."
+"PassportInnerAntegria","ANTEGRIA","ANTEGRIA"
+"PassportInnerArstotzka","ENTRY VISA","入国ビザ"
+"PassportInnerArstotzka","DOB.","DOB."
+"PassportInnerArstotzka","SEX","SEX"
+"PassportInnerArstotzka","ISS.","ISS."
+"PassportInnerArstotzka","EXP.","EXP."
+"PassportInnerArstotzka","ARSTOTZKA","ARSTOTZKA"
+"PassportInnerImpor","ENTRY VISA","入国ビザ"
+"PassportInnerImpor","DOB.","DOB."
+"PassportInnerImpor","SEX","SEX"
+"PassportInnerImpor","ISS.","ISS."
+"PassportInnerImpor","EXP.","EXP."
+"PassportInnerImpor","IMPOR","IMPOR"
+"PassportInnerKolechia","ENTRY VISA","入国ビザ"
+"PassportInnerKolechia","DOB.","DOB."
+"PassportInnerKolechia","SEX","SEX"
+"PassportInnerKolechia","ISS.","ISS."
+"PassportInnerKolechia","EXP.","EXP."
+"PassportInnerKolechia","KOLECHIA","KOLECHIA"
+"PassportInnerObristan","ENTRY VISA","入国ビザ"
+"PassportInnerObristan","DOB.","DOB."
+"PassportInnerObristan","SEX","SEX"
+"PassportInnerObristan","ISS.","ISS."
+"PassportInnerObristan","EXP.","EXP."
+"PassportInnerObristan","OBRISTAN","OBRISTAN"
+"PassportInnerRepublia","ENTRY VISA","入国ビザ"
+"PassportInnerRepublia","DOB.","DOB."
+"PassportInnerRepublia","SEX","SEX"
+"PassportInnerRepublia","ISS.","ISS."
+"PassportInnerRepublia","EXP.","EXP."
+"PassportInnerRepublia","REPUBLIA","REPUBLIA"
+"PassportInnerUnitedFed","ENTRY VISA","入国ビザ"
+"PassportInnerUnitedFed","DOB.","DOB."
+"PassportInnerUnitedFed","SEX","SEX"
+"PassportInnerUnitedFed","ISS.","ISS."
+"PassportInnerUnitedFed","EXP.","EXP."
+"PassportInnerUnitedFed","UNITED FEDERATION","UNITED FEDERATION"
+"PlaqueOneInner","Ministry of Admission","出入国管理省"
+"PlaqueOneInner","RECOGNITION","表彰"
+"PlaqueOneInner","FOR","評価"
+"PlaqueOneInner","HANG ON WALL","壁に掛けられます"
+"PlaqueTwoInner","Ministry of Admission","出入国管理省"
+"PlaqueTwoInner","RECOGNITION","表彰"
+"PlaqueTwoInner","FOR","評価"
+"PlaqueTwoInner","HANG ON WALL","壁に掛けられます"
+"PoisonInnerBack","OPEN","開ける"
+"PoisonInnerOpen1","DO NOT TOUCH POWDER","粉に触れるな"
+"PoisonInnerOpen1","CLOSE","閉じる"
+"PoisonInnerOpen2","ALIGN POWDER OVER PASSPORT","パスポートの上に<br>粉を載せる"
+"PoisonInnerOpen2","PUSH HARD TO AFFIX","強く押し貼付"
+"PoisonInnerOpen2","CLOSE","閉じる"
+"PoliceBadgeInner","MINISTRY OF INFORMATION","情報省"
+"PoliceBadgeInner","Office of Investigation","捜査課"
+"PoliceBadgeInner","East Grestin Division","東ｸﾞﾚｽﾁﾝ区画"
+"PoliceBadgeInner","Special Investigator","特殊捜査官"
+"PoliceBadgeInner","MOI","MOI"
+"PressPassInner","INTERNATIONAL","国際"
+"PressPassInner","PRESS","報道官"
+"PressPassInner","IDENTIFICATION","身分証明書"
+"RuleDiploAccess","AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA","権限証明によるｱﾙｽﾄﾂｶへの入国は認められ<br>なければならない"
+"RuleIssuingCity","PASSPORT <span>ISS.</span> FIELD MUST BE VALID","ﾊﾟｽﾎﾟｰﾄの <span>発行地</span>は正当である必要がある"
+"RuleSealRequired","DOCUMENT MUST<br>HAVE A SEAL","書類には印鑑が<br>なければならない"
+"RulesInnerHome","Arstotzkan","ｱﾙｽﾄﾂｶ"
+"RulesInnerHome","Ministry<span>of</span>Admission","出入国管理省"
+"RulesInnerHome","RULES","規則"
+"RulesInnerHome","&amp;","及び"
+"RulesInnerHome","REGULATIONS","規制"
+"RulesInnerHome","for Inspectors","入国審査官用"
+"RulesInnerHome","CONTENTS","目次"
+"RulesInnerHome","PROPERTY OF","入管省"
+"RulesInnerHome","M.O.A","所有蔵書"
+"RulesInnerBasic","RULES","規則"
+"RulesInnerRegion","DIPLOMATIC SEALS","外交印"
+"RulesInnerRegion","PASSPORT","ﾊﾟｽﾎﾟｰﾄ"
+"RulesInnerRegion","ISSUING CITIES","発行都市"
+"RulesInnerRegionArstotzka","DISTRICTS","行政区画"
+"RulesInnerRegionArstotzka","PASSPORT","ﾊﾟｽﾎﾟｰﾄ"
+"RulesInnerRegionArstotzka","ISSUING CITIES","発行都市"
+"RulesInnerBooth","INSPECTOR'S BOOTH","審査官ブース"
+"RulesInnerBooth","Shutter","安全扉"
+"RulesInnerBooth","Counter","受付台"
+"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","ルールブック<br>録音記録<br>公報<br>時刻 &amp; 日付"
+"RulesInnerBooth","UPGRADES","アップグレード"
+"RulesInnerBooth","NO UPGRADES<br>INSTALLED","ｱｯﾌﾟｸﾞﾚｰﾄﾞは<br>ありません"
+"RulesInnerDocs","OFFICIALLY RECOGNIZED","公式認定済"
+"RulesInnerDocs","DOCUMENTS","書類一覧"
+"RulesInnerDocs","CONTENTS","目次"
+"RulesInnerEntryPermit","ENTRY PERMIT","入国許可証"
+"RulesInnerEntryPermit","VALID SEALS","正式印章"
+"RulesInnerIdCard","ARSTOTZKAN<br>ID CARD","アルストツカ<br>国民IDカード"
+"RulesInnerIdCard","ISSUED TO ALL ARSTOTZKAN CITIZENS","全ｱﾙｽﾄﾂｶ国民に<br>発行されている"
+"RulesInnerIdCard","DISTRICTS","行政区画"
+"RulesInnerIdSupplement","IDENTITY<br>SUPPLEMENT","身元証明<br>補完書"
+"RulesInnerIdSupplement","ISSUED TO ALL QUALIFIED FOREIGNERS","全ての外国人に<br>発行されている"
+"RulesInnerIdSupplement","FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE","外国人の身体的特徴を確認"
+"RulesInnerIdSupplement","VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE","指紋記録が使用できない時に限り拇印を確認"
+"RulesInnerIdSupplement","THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY","本書類は短期間限定で発行されているため、有効期日を慎重に確認"
+"RulesInnerAccessPermit","ACCESS PERMIT","渡航許可証"
+"RulesInnerAccessPermit","VALID SEALS","正式印章"
+"RulesInnerAccessPermit","THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT","本書は入国許可証及び<br>身元証明補完書の<br>代替となるものである"
+"RulesInnerWorkPermit","WORK PASS","労働許可証"
+"RulesInnerWorkPermit","ISSUED TO ALL QUALIFIED FOREIGN LABOR","全ての外国人労働者に発行されている"
+"RulesInnerWorkPermit","VALID SEALS","正式印章"
+"RulesInnerDiplomaticAuth","DIPLOMATIC","外交"
+"RulesInnerDiplomaticAuth","AUTHORIZATION","権限証明"
+"RulesInnerDiplomaticAuth","VALIDATE SEAL WITH COUNTRY PAGE","各国のページにて国家印章を確認すること"
+"RulesInnerAsylumGrant","GRANT OF<br>ASYLUM","GRANT OF<br>ASYLUM"
+"RulesInnerAsylumGrant","VALID SEALS","VALID SEALS"
+"RulesInnerAsylumGrant","ALWAYS VERIFY FINGERPRINTS","ALWAYS VERIFY FINGERPRINTS"
+"RulesInnerVaccineCert","VACCINE CERTIFICATE","ワクチン証明書"
+"RulesInnerVaccineCert","MINISTRY","保健省"
+"RulesInnerVaccineCert","OF","OF"
+"RulesInnerVaccineCert","HEALTH","HEALTH"
+"RulesInnerVaccineCert","REGULATION DOCUMENT","規制書類"
+"RulesInnerVaccineCert","POLIO VACCINATION REQUIRED FOR ALL ENTRANTS","全ての入国者は<br>ﾎﾟﾘｵﾜｸﾁﾝの接種<br>が必要である"
+"RulesInnerVaccineCert","NO EXCEPTIONS","例外はない"
+"RulesInnerConfiscation","PASSPORT CONFISCATION","パスポート押収"
+"RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","押収品引き出しに<br>ﾊﾟｽﾎﾟｰﾄを入れる"
+"RulesInnerConfiscation","POLICY","手順"
+"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","拘留前にﾊﾟｽﾎﾟｰﾄを<br>押収すること"
+"RulesInnerConfiscation","MOI","MOI"
+"RulesInnerLast","PROPERTY OF","入管省"
+"RulesInnerLast","M.O.A.","所有蔵書"
+"RulesInnerLast","GLORY TO ARSTOTZKA","ｱﾙｽﾄﾂｶに栄光あれ"
+"RulesInnerLast","Arstotzkan","ｱﾙｽﾄﾂｶ"
+"RulesInnerLast","Ministry of Admission","出入国管理省"
+"RulesInnerLast","Rules &amp; Regulations","規則 及び 規制"
+"RulesInnerLast","for Inspectors","審査官用"
+"RulesInnerLast","1982-1983 Edition","1982-1983 年版"
+"RulesInnerLast","DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY","流通厳禁<br>違反の場合<br>酷刑に処する"
+"RulesTabConfL","CONF.","押収品"
+"RulesTabConfR","CONF.","押収品"
+"RulesTabDocsL","DOCS","資料"
+"RulesTabDocsR","DOCS","資料"
+"RulesTabMapL","MAP","地図"
+"RulesTabMapR","MAP","地図"
+"RulesTabRulesL","RULES","規則"
+"RulesTabRulesR","RULES","規則"
+"RulesUpgrade0","TOGGLE INSPECT","調査モード 切換"
+"RulesUpgrade0","SPACE","SPACE"
+"RulesUpgrade1","TOGGLE STAMP BAR","押印バー　表示"
+"RulesUpgrade1","TAB","TAB"
+"RulesUpgrade2","RULEBOOK SHORTCUTS","ﾙｰﾙﾌﾞｯｸ<br>ショートカット"
+"RulesUpgrade3","QUICK INSPECT","短縮調査"
+"RulesUpgrade3","DOUBLE-CLICK","ダブルクリック"
+"SeizureSlipInner","Arstotzka Ministry of Admission","ｱﾙｽﾄﾂｶ 出入国管理省"
+"SeizureSlipInner","PASSPORT SEIZURE SLIP","ﾊﾟｽﾎﾟｰﾄ押収伝票"
+"SeizureSlipInner","ENTRY VISA","入国ビザ"
+"SeizureSlipInner","Your passport has been seized.","貴殿のﾊﾟｽﾎﾟｰﾄは<br>差し押さえられました。"
+"SeizureSlipInner","Contact 1509-6103 for redress.","補償には1509-6103までご連絡を"
+"SpyDocsInnerBack","Mating Habits of Lesser Kolechian Waterfowl","コレチア・コガモの交尾行動"
+"SpyDocsInnerBack","A FULL REPORT","詳報"
+"SpyDocsInnerBack","Ministry of Information","情報省"
+"TranscriptInner","AUDIO TRANSCRIPT","録音記録"
+"VaccineCertInner","Certificate<span>of</span>Vaccination","ﾜｸﾁﾝ<span>.</span>接種証明書"
+"VaccineCertInner","ID#","ID#"
+"VaccineCertInner","DATE","接種日"
+"VaccineCertInner","VACCINE","ﾜｸﾁﾝ名"
+"VaccineCertInner","Vax valid for 3 years","ﾜｸﾁﾝの有効期間は3年である"
+"VisaSlipInner","TEMPORARY VISA SLIP","仮ビザ伝票"
+"VisaSlipInner","ENTRY VISA","入国ビザ"
+"VisaSlipInner","TO BE USED FOR DENIALS ONLY","入国拒否時にのみ使用"
+"WorkPermitInner","Ministry of Labor","労働省"
+"WorkPermitInner","Work Pass","労働許可証"
+"WorkPermitInner","This pass grants its holder the right to work in a specific field for a limited time.","本許可証は限定期間内における<br>記載職種での就労を下記の<br>所持人に認めるものである。"
+"WorkPermitInner","HOLDER","氏名"
+"WorkPermitInner","FIELD","職種"
+"WorkPermitInner","UNTIL","期日"
+"WorkPermitInner","Keep this pass with you at all times.","本許可証は常時携帯"
+"EndNews","Kolechian Consensus Reached Over Grestin","Kolechian Consensus Reached Over Grestin"
+"ApartmentClass","CLASS","クラス"
+"DetainButton","DETAIN","拘束"
+"FingerprintButton","FINGERPRINT","指紋"
+"SearchButton","SEARCH","検査"
+"EmblemsMOA","M.O.A","M.O.A"
+"EmblemsMOA","M.O.L","M.O.L"
+"EmblemsMOL","M.O.L","M.O.L"
+"Filer","CONFISCATED DOCUMENTS","押収書類"
+"Filer","PROPERTY OF","PROPERTY OF"
+"Filer","M.O.A.","M.O.A."
+"GiveIcon","GIVE","渡す"
+"LoadButtonNew","NEW","NewGame"
+"LoadDay","DAY","日付"
+"LoadDrag","DRAG TO SCROLL","ﾄﾞﾗｯｸﾞｽｸﾛｰﾙ"
+"News","The Truth of Arstotzka","ｱﾙｽﾄﾂｶの真実"
+"News","No Charge","無料"
+"ReasonButton","REASON","事由"
+"RifleKill","KILL","殺傷用"
+"RifleTranq","TRANQ","麻酔用"
+"StampBarMid","ALIGN VISA BENEATH STAMP","ビザを印判の下に配置"
+"Upgrades","SPACE","SPACE"
+"Upgrades","TAB","TAB"
+"image:ArskickersInner.png","capture/ArskickersInner.png","capture/ArskickersInner.png"
+"ArskickersInner","HANG ON WALL","壁に掛けられます"
+"image:BrothelFlyerInner.png","capture/BrothelFlyerInner.png","capture/BrothelFlyerInner.png"
+"BrothelFlyerInner","East Grestin","東グレスチン"
+"BrothelFlyerInner","FOR ALL YOUR FANTASIES","あなたの妄想 すべて叶えます"
+"image:PezpertInner.png","capture/PezpertInner.png","capture/PezpertInner.png"
+"PezpertInner","STAMP HERE","押印"
+"image:SonDrawingInner.png","capture/SonDrawingInner.png","capture/SonDrawingInner.png"
+"SonDrawingInner","hanG on wAll","かべにかけてね"
+"image:Emotions.png","export/Emotions.png","export/Emotions.png"
+"image:LoadButtonLatest.png","export/LoadButtonLatest.png","export/LoadButtonLatest.png"
+"image:InkApproved.png","export/InkApproved.png","export/InkApproved.png"
+"image:InkDenied.png","export/InkDenied.png","export/InkDenied.png"
+"image:StampBotApproved.png","export/StampBotApproved.png","export/StampBotApproved.png"
+"image:StampBotDenied.png","export/StampBotDenied.png","export/StampBotDenied.png"
+"image:ReasonStampTop.png","export/ReasonStampTop.png","export/ReasonStampTop.png"
+"image:InkReason.png","export/InkReason.png","export/InkReason.png"
+"image:Arstotzka.png","export/Arstotzka.png","export/Arstotzka.png"
+"image:Intro1.png","export/Intro1.png","export/Intro1.png"
+"image:Obrinspector.png","export/Obrinspector.png","export/Obrinspector.png"
+"image:Shutter.png","export/Shutter.png","export/Shutter.png"
+"news:RANDOM_WEATHER","The Weather","気象"
+"news:RANDOM_SPORTS","Sports","スポーツ"
+"news:RANDOM_ENTERTAINMENT","Entertainment","エンタメ"
+"news:RANDOM_POLITICS","Politics","政治"
+"news:FIRST_DAY","Grestin Border Checkpoint Opens At Last!","グレスチン国境検問所 ようやく開設！"
+"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","６年の長い月日を経て、出入国管理省は安全を保てるのか？"
+"news:FIRST_DAY","Families To Reunite","家族と再会を果たす"
+"news:CHECKPOINT_SUCCESS","Grestin Checkpoint a Success!","グレスチン検問所 順調に始動！"
+"news:CHECKPOINT_SUCCESS","Entry Restrictions To Relax, Admit Foreigners","入国制限緩和へ、外国人も許可される"
+"news:CHECKPOINT_SUCCESS","Analysts Upbeat","アナリスト 景気上昇を予測"
+"news:CHECKPOINT_SUCCESS","Increased Trade And Cooperation Predicted","貿易や経済協力の増加が想定される"
+"news:FIRST_TERRORISTS","Terrorists Strike At Grestin!","グレスチン検問所にテロリスト襲撃！"
+"news:FIRST_TERRORISTS","Kolechian Agitators Suspected.","コレチカ人運動家に容疑がかかる。"
+"news:FIRST_TERRORISTS","Checkpoint Lockdown","検問所 閉鎖"
+"news:FIRST_TERRORISTS","More Guards - More Scrutiny","警備の強化 - 検査も厳重化"
+"news:BLACKMARKET_EXPLODES","Blackmarket Activity Explodes","闇市場での取引が激増"
+"news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","政府は出入国管理の緩さを非難"
+"news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","検問所の拡大延期へ"
+"news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","就職難 さらに深刻化"
+"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","移住労働者が国民から仕事を奪っている"
+"news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","コレチア国首席 異議申立て"
+"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","不当な国境検問による 権利の侵害を訴える"
+"news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","グレスチン国境検問所 再び襲撃される！"
+"news:AFTER_SUICIDE_BOMBER","Suicide Bomber Slips Through Security","自爆テロ犯 警備をすり抜ける"
+"news:GENERIC_BOMBER","Grestin Suffers Another Border Attack","グレスチン国境 繰り返される襲撃"
+"news:GENERIC_BOMBER","Suicide Bombings Becoming Routine","自爆テロがもはや日常化"
+"news:PIMP_BUSTED","Human Trafficking Ring Shut Down!","人身売買組織 摘発される！"
+"news:PIMP_BUSTED","Grestin Checkpoint Officer Nabs Mastermind","ｸﾞﾚｽﾁﾝ国境検問所職員 首謀者を捕獲"
+"news:PIMP_ESCAPED","Dancers At Grestin Club Found Dead!","グレスチンのクラブ 踊り子らの死体発見！"
+"news:PIMP_ESCAPED","Newly Immigrated Girls Victims Of Human Trafficking","移住して間もない少女たちが人身売買の犠牲者に"
+"news:KILLERATHLETE","Republian Track Star Wanted For Murder!","リパブリアの陸上スターに殺人容疑！"
+"news:KILLERATHLETE","Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia","Vince Lestrade選手 行方不明 - ﾘﾊﾟﾌﾞﾘｱから逃亡か"
+"news:KILLERATHLETE","Vince Lestrade: Profile","Vince Lestrade容疑者：その人物像"
+"news:KILLERATHLETE","Girlfriend Killed In Jealous Rage?","嫉妬に狂い 交際女性を殺害？"
+"news:KILLERATHLETE_DETAINED","Vince Lestrade Apprehended In Grestin!","Vince Lestrade容疑者 グレスチンで逮捕！"
+"news:KILLERATHLETE_DETAINED","Track Champ Looks Quite Guilty Now","陸上の星 ようやく反省の色"
+"news:KILLERATHLETE_APPROVED","Vince Lestrade Spotted in Arstotzka","Vince Lestrade容疑者 ｱﾙｽﾄﾂｶで目撃される"
+"news:KILLERATHLETE_DENIED","Vince Lestrade Apprehended In Kolechia!","Vince Lestrade容疑者 ｺﾚﾁｱで逮捕！"
+"news:DIPLOMAT_FIRST","Kolechia Sends Top-Level Diplomat","コレチア政府 上級外交官を派遣"
+"news:DIPLOMAT_FIRST","Normalizing Trade Top Issue","貿易の重要課題 規格化へ"
+"news:BUSTED_SPY","Top-level Kolechian Exposed as Arstotzkan Spy!","ｺﾚﾁｱ国上級官ｱﾙｽﾄﾂｶ工作員として摘発！"
+"news:BUSTED_SPY","Missing From Post, Presumed Dead","任地から失踪、殺害されたと推定"
+"news:BUSTED_SPY_GAVEREALDOCS","Kolechia Cleans House - Eliminates Arstotzkan Spies","ｺﾚﾁｱにて一斉捜索 - ｱﾙｽﾄﾂｶ工作員 一掃"
+"news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","勇敢な諜報員ら窮地に追い込まれる"
+"news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","ｺﾚﾁｱにて一斉捜索 - 自らを窮地に追い込む"
+"news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","一連の失踪事件は偽証に基づいていたと発覚"
+"news:FORGERY_NEWS","Theft At Ministry Of Admission!","出入国管理省に強盗！"
+"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","影響は軽微 - 盗難被害 数点"
+"news:SECRET_SOCIETY","The History of Arstotzka","アルストツカの歴史"
+"news:SECRET_SOCIETY","In Pictures and Words - Mostly Words","写真と文章で綴る - 徒然に"
+"news:CRIMINAL_ACTIVITY","A Criminal's Safe Haven","犯罪者たちの温床化"
+"news:CRIMINAL_ACTIVITY","Arstotzka Earns Dubious Reputation","ｱﾙｽﾄﾂｶに不信の声"
+"news:LOSING_GUARDS","Ministries Fight Over Staff","各省庁で人員の奪い合い"
+"news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","有能な護衛や士官らが求められる"
+"news:LOSING_GUARDS","Consolidation, Reassignment At Border","国境地域にて統合、配置転換が行われる"
+"news:LOSING_GUARDS","Still Safe With Smaller Detail?","縮小体制でも平和は保たれるのか？"
+"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","グレスチンで事件 警備体制の危険性露呈"
+"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","更なる侵害行為も予測される"
+"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","グレスチン検問所で 不敵なバイク襲撃！"
+"news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","より大胆になる過激派 ? ｸﾞﾚｽﾁﾝに集まる"
+"news:BORDER_TARGETED","Can The Wall Hold?","壁は保たれるのか？"
+"news:BORDER_TARGETED","Border Safety Continually Questioned","国境地域の安全に 度重なる不信の声"
+"news:BIKERUNNER_NEWS","Coordinated Border Breach!","計画的な国境侵害事件！"
+"news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","謎の襲撃者らが警備を圧倒する"
+"news:NOSY_JOURNALIST_APPROVED","Arstotzka's Frail Border","アルストツカ 脆弱な国境管理"
+"news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","合衆連邦の記者が緩い規制を暴露"
+"news:NOSY_JOURNALIST_DENIED","Arstotzka's Iron Border","アルストツカ 鉄壁の国境線"
+"news:NOSY_JOURNALIST_DENIED","Int. Media Reveals Entry Visa Bias","国際情報機関が入国ビザの偏りをあばく"
+"news:IDSUPPLEMENT_INTRO","Another Bomber Slips Through!","新たな爆弾犯 警備をすり抜ける！"
+"news:IDSUPPLEMENT_INTRO","Immigrant Screening Falls Short","移民に対する不十分な検査体制"
+"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","入管省 新長官を迎える"
+"news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","国境でのより厳重な規制を約束する"
+"news:WHISTLEBLOWER_SETUP0","Antegria Domestic Spying Exposed!","アンテグリア 自国内の工作行為が漏洩！"
+"news:WHISTLEBLOWER_SETUP0","Whistleblower On The Run","告発者は逃亡中"
+"news:WHISTLEBLOWER_SETUP1","Antegrian Whistleblower Denied Asylum In Republia","ｱﾝﾃｸﾞﾘｱの告発者 ﾘﾊﾟﾌﾞﾘｱへの亡命ならず"
+"news:WHISTLEBLOWER_SETUP2","Antegrian Whistleblower Turned Away From United Fed","ｱﾝﾃｸﾞﾘｱの告発者 合衆連邦に拒否される"
+"news:WHISTLEBLOWER_COMING","Antegrian Whistleblower Accepted By Arstotzka","ｱﾝﾃｸﾞﾘｱの告発者 ｱﾙｽﾄﾂｶが受け入れへ"
+"news:WHISTLEBLOWER_COMING","Move Risks Angering Neighbors","怒れる隣国と関係悪化が懸念される"
+"news:WHISTLEBLOWER_IN","Antegrian Whistleblower Arrives - Disappears Immediately","ｱﾝﾃｸﾞﾘｱの告発者 入国 - まもなく失踪"
+"news:WHISTLEBLOWER_OUT","Antegrian Whistleblower Turned Away - Whereabouts Unknown","ｱﾝﾃｸﾞﾘｱの告発者 入国拒否 - 行方不明に"
+"news:IMPOR_UNHAPPY","Impor Protests Unbalanced Trade Restrictions","インポール 不当な貿易規制に不服申立て"
+"news:IMPOR_UNHAPPY","Claims Arstotzka Unfairly Taxes Imporian Goods","ｲﾝﾎﾟｰﾙ輸入品に対するｱﾙｽﾄﾂｶの関税は不公正"
+"news:IMPOR_SANCTIONS_START","Impor Begins Trade Sanctions!","インポール 貿易制裁を開始！"
+"news:IMPOR_SANCTIONS_START","Immediately Restricts All Imports From Arstotzka","ｱﾙｽﾄﾂｶからの輸入品を全面規制"
+"news:IMPOR_SANCTIONS_END","Impor Sanctions End!","インポールの制裁処置 解除される"
+"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","なぜ早急に？何が起こったのか？"
+"news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","大躍進 脊椎手術に成功"
+"news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","ｱﾙｽﾄﾂｶの専門技術でしか不可能"
+"news:VIRUS_PRIMER","Polio Resurfaces In United Fed","ポリオウィルス 合衆連邦で再流行"
+"news:VIRUS_PRIMER","Isolated Diagnosis Or Something More?","隔離診断 又はそれ以上が必要か？"
+"news:VIRUS_BAN_UNITED_FED","Full-blown Epidemic Threatens United Fed!","合衆連邦 伝染病まん延の危機！"
+"news:VIRUS_BAN_UNITED_FED","Previously Under Control, Polio Back With Vengeance","一時は抑えられた ﾎﾟﾘｵｳｨﾙｽの逆襲"
+"news:VIRUS_REQUIRE_CERT","Ministry of Health Acts To Protect Citizens","保健省 国民の安全確保に尽力"
+"news:VIRUS_REQUIRE_CERT","New Policy, Safeguards At Borders","新規約、国境にて保障措置"
+"news:SERIAL_KILLER","Serial Child Killer Escapes United Fed Prison!","連続児童殺人犯 合衆連邦から脱獄逃亡！"
+"news:SERIAL_KILLER","Simon Wens: An Arstotzkan Native - Returning Home?","Simon Wens：ｱﾙｽﾄﾂｶ出身 - 母国へ帰ったのか？"
+"news:SERIAL_KILLER_MURDERED","Bloody Scene In Gennistora!","ジェニストラで血の惨事！"
+"news:SERIAL_KILLER_MURDERED","Simon Wens Found Dead In Confusing Mess","Simon Wens遺体で発見され混乱を生む"
+"news:EZIC_ATTACK0","Grestin Metro Halted","グレスチンで地下鉄運休"
+"news:EZIC_ATTACK0","Tunnel Cave-in, Hints At Sabotage","ﾄﾝﾈﾙ崩壊、破壊活動を示唆"
+"news:EZIC_ATTACK1_GIFT","Gov't Headquarters In Paradizna Evacuated!","パラディツナ入りの政府高官ら撤退！"
+"news:EZIC_ATTACK1_GIFT","Strange Gas Detected - Staff Safe, Records Missing","異常ガスを検知 - 職員に怪我なし、記録が行方不明"
+"news:EZIC_ATTACK1_NOGIFT","Head Minister Of Finance Missing!","金融庁長官 行方不明！"
+"news:EZIC_ATTACK1_NOGIFT","Markets React With Fast Selling, Instability","市場に動揺 人気製品さえ不安定化"
+"news:POISONING","Mysterious Poison Hospitalizes Several!","奇怪な毒物 数人が病院送りに！"
+"news:POISONING","Unnamed Immigrant Smuggles Deadly Agent","謎の移民による致死薬品の密輸があった模様"
+"news:MARKED_DIPLOMAT","Top-Level Talks Called","トップ会談 開催へ"
+"news:MARKED_DIPLOMAT","Grestin Territory Remains Dividing Issue","ｸﾞﾚｽﾁﾝ領域に未だに残る境界線問題"
+"news:DIPLOMAT_SWAPPED","Kolechians Are Crazy","コレチア人は狂っている"
+"news:DIPLOMAT_SWAPPED","Bizarre Behavior From Top Negotiator Spoils Talks","上級外務官の突飛な行動で会談決裂"
+"news:DIPLOMAT_ORIGINAL","A Tentative Understanding","暫定的な合意がなされる"
+"news:DIPLOMAT_ORIGINAL","Kolechian Talks Establish Common Ground","ｺﾚﾁｱ外務官 共通認識を確立"
+"news:TALKS_BREAK_DOWN","Roadblock To Kolechian Resolution","コレチアとの決議 立ちはだかる壁"
+"news:TALKS_BREAK_DOWN","Contested City Drives Wedge","争点となる街 意見の不一致を招く"
+"news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","グレスチン国境検問所 今後が未定"
+"news:BORDER_CLOSING","Too Open, Too Soon?","緩すぎたのか、早急過すぎたのか？"
+"text:language_code","en","ja"
+"text:language_name","ENGLISH","日本語"
+"text:language_author","Author","PLAYISM"
+"text:wrap_hyphen","-","NONE"
+"text:created_by","created by Lucas Pope","created by Lucas Pope"
+"text:papers_please","Papers, please.","書類を下さい。"
+"text:protocol_violated","Protocol Violated.","規定違反。"
+"text:unauth_confiscation","Unauthorized passport confiscation","権限外のﾊﾟｽﾎﾟｰﾄ押収。"
+"text:missing_reason","Denial reason not given","拒否事由の不足。"
+"text:citation_warning","WARNING ISSUED - NO PENALTY","WARNING ISSUED - NO PENALTY"
+"text:citation_lastwarning","LAST WARNING - NO PENALTY","LAST WARNING - NO PENALTY"
+"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","PENALTY ASSESSED - $0 CREDITS"
+"text:border_next","NEXT!","NEXT!"
+"text:border_bomber","FOR KOLECHIA!","ｺﾚﾁｱ万歳！"
+"text:border_comeback","COME BACK AT 6AM TOMORROW","明日6時にまたお越し下さい。"
+"text:border_announce0","ENTRY IS NOT GUARANTEED","入国は認められません。"
+"text:border_announce1","HAVE YOUR DOCUMENTS READY","必要書類をご準備下さい。"
+"text:border_announce2","ARSTOTZKA WELCOMES YOU","ｱﾙｽﾄﾂｶは貴方を歓迎します。"
+"text:border_guardout","OUT!","出ろ!"
+"text:border_elisa","ELISA!","ELISA!"
+"text:family_son_budget","SON","息子"
+"text:family_wife_budget","WIFE","妻"
+"text:family_niece_budget","NIECE","姪"
+"text:family_uncle_budget","UNCLE","叔父"
+"text:family_mil_budget","MIL","義母"
+"text:family_son_status","Son","息子"
+"text:family_wife_status","Wife","妻"
+"text:family_niece_status","Niece","姪"
+"text:family_uncle_status","Uncle","叔父"
+"text:family_mil_status","Mother-in-law","義母"
+"text:family_son_message","son","息子"
+"text:family_wife_message","wife","妻"
+"text:family_niece_message","niece","姪"
+"text:family_uncle_message","uncle","叔父"
+"text:family_mil_message","mother-in-law","義母"
+"text:night_endof","END OF","第$0日目"
+"text:night_day","DAY $0","終了$0"
+"text:family_verysick_1","Your $0 will die without medicine.","薬がなければ$0が亡くなってしまいます。"
+"text:family_verysick_many","Very sick family members will die without medicine.","重症な家族は薬がないと亡くなってしまいます。"
+"text:family_sick_1","Your $0 is sick and needs medicine.","$0は病気のため薬が必要です。"
+"text:family_sick_many","Your family needs medicine.","家族が薬を必要としています。"
+"text:family_died_1","Your $0 has died.","$0が亡くなりました。"
+"text:family_died_2","Your $0 and $1 have died.","$0と$1が亡くなりました。"
+"text:family_died_3","Your $0, $1, and $2 have died.","$0、$1、そして$2が亡くなりました。"
+"text:family_died_4","Your $0, $1, $2, and $3 have died.","$0、$1、$2、そして$3が亡くなりました。"
+"text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","$0、$1、$2、$3、そして$4が亡くなりました。"
+"text:family_escape_with_0","You leave behind everything.","You leave behind everything."
+"text:family_escape_with_1","You gather your $0 to leave for Obristan.","You gather your $0 to leave for Obristan."
+"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","You gather your $0 and $1 to leave for Obristan."
+"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","You gather your $0, $1, and $2 to leave for Obristan."
+"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","You gather your $0, $1, $2, and $3 to leave for Obristan."
+"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","You gather your $0, $1, $2, $3, and $4 to leave for Obristan."
+"text:family_escape_without_1","Your $0 prepares to return to Nirsk.","Your $0 prepares to return to Nirsk."
+"text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","Your $0 and $1 prepare to return to Nirsk."
+"text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","Your $0, $1, and $2 prepare to return to Nirsk."
+"text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","Your $0, $1, $2, and $3 prepare to return to Nirsk."
+"text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk."
+"text:family_flee_final_0","Obristan Above All","Obristan Above All"
+"text:family_flee_final_1","The safety of your $0 is unknown.","The safety of your $0 is unknown."
+"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","The safety of your $0 and $1 is unknown."
+"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","The safety of your $0, $1, and $2 is unknown."
+"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 is unknown."
+"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0, $1, $2, $3, and $4 is unknown."
+"text:budget_savings","SAVINGS","貯金"
+"text:budget_salary","SALARY ($0)","給与 ($0)"
+"text:budget_penalties","PENALTIES ($0)","罰金 ($0)"
+"text:budget_bribes","BRIBES","賄賂"
+"text:budget_rent","RENT","賃貸"
+"text:budget_food","FOOD","食料"
+"text:budget_heat","HEAT","暖房"
+"text:budget_medicine","MEDICINE ($0)","医薬品 ($0)"
+"text:budget_sleep","SLEEP","就寝"
+"text:menu_back","BACK","戻る"
+"text:confirm_ok","OKAY","OK"
+"text:confirm_cancel","CANCEL","ｷｬﾝｾﾙ"
+"text:menu_mainmenu","MAIN MENU","ﾒｲﾝﾒﾆｭｰ"
+"text:menu_resume","RESUME","再開"
+"text:menu_quit","QUIT","ｹﾞｰﾑ終了"
+"text:menu_done","DONE","完了"
+"text:menu_story","STORY","ｽﾄｰﾘｰ"
+"text:menu_endless","ENDLESS","ｴﾝﾄﾞﾚｽ"
+"text:menu_play","PLAY","ﾌﾟﾚｲ"
+"text:menu_fullscreen","Fullscreen","ﾌﾙｽｸﾘｰﾝ"
+"text:menu_nudity","Nudity","ﾇｰﾄﾞ描写"
+"text:menu_easy","Easy Mode","ｲｰｼﾞｰﾓｰﾄﾞ"
+"text:menu_music","Music","BGM"
+"text:menu_sound","Sound","効果音"
+"text:menu_dateformat","Date Format","日付表示形式"
+"text:menu_language","Language","言語"
+"text:menu_easytip","+ 20 credits per day","1日につき +20ｸﾚｼﾞｯﾄ"
+"text:menu_stats","STATS","総数"
+"text:menu_next","NEXT","次へ"
+"text:menu_walktowork","WALK TO WORK","出勤する"
+"text:menu_paused","PAUSED","PAUSED"
+"text:menu_settings","SETTINGS","SETTINGS"
+"text:menu_credits","CREDITS","ｸﾚｼﾞｯﾄ"
+"text:stats_text","Played for $time
+$processed travelers processed
+$approved approved
+$denied denied
+$detained detained
+$citations citations earned
+$stamps stamps applied
+Ending $endnum of $endtotal","ﾌﾟﾚｲ時間 $time
+処理旅行者　$processed
+許可数　$approved
+拒否数　$denied
+拘束数　$detained
+通告数　$citations
+総押印数　$stamps
+ｴﾝﾃﾞｨﾝｸﾞ　$endtotal種類中 $endnuml番"
+"text:steam_noinit","STEAM CONNECTION FAILED
+
+If this problem persists, re-install the Steam client.","STEAMとの接続に失敗しました。
+
+この問題が繰り返される場合、Steamｸﾗｲｱﾝﾄを再ｲﾝｽﾄｰﾙして下さい。"
+"text:steam_restartfailed","STEAM RESTART FAILED
+
+If this problem persists, re-install the Steam client.","STEAMの再起動に失敗しました。
+
+この問題が繰り返される場合、Steamｸﾗｲｱﾝﾄを再ｲﾝｽﾄｰﾙして下さい。"
+"text:steam_noconnect","STEAM CONNECTION FAILED
+
+The game will attempt to restart through the Steam client.","STEAMとの接続に失敗しました。
+
+Steamｸﾗｲｱﾝﾄからｹﾞｰﾑの再開を試みます。"
+"text:steam_restart","RESTART","再開"
+"text:load_title","Select day to continue or start a new game","ﾛｰﾄﾞする日付またはNewGameを選択して下さい。"
+"text:load_confirm_delete_single","Delete this day $0 save?
+
+There is no undo.","第$0日目のﾃﾞｰﾀを消去しますか？
+
+復元はできません。"
+"text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
+
+There is no undo.","第$0日目から第$1日目までをまとめて消去しますか？
+
+復元はできません。"
+"text:load_delete","DELETE","消去"
+"text:load_confirm_full","Save tracks full.
+
+Continue from a right-most save or delete a save branch to free up a track.","セーブデータがいっぱいです。
+
+一番右のセーブデータから再開するか、
+分岐を消去してデータを解放して下さい。"
+"text:load_summary","Day $day
+""$news""
+
+$savings credits, $family family members,
+$tokens tokens, apartment $apt","第$day日目
+""$news""
+
+$savingsｸﾚｼﾞｯﾄ、$family人家族、
+記念品 $tokens個、ｱﾊﾟｰﾄ $apt"
+"text:load_continue","CONTINUE","ﾛｰﾄﾞ"
+"text:emotion_happy","HAPPY","幸せ"
+"text:emotion_ok","OK","普通"
+"text:emotion_sad","SAD","惨め"
+"text:emotion_cold","COLD","寒い"
+"text:emotion_sick","SICK","病気"
+"text:emotion_verysick","VERY SICK","重症"
+"text:emotion_dead","DEAD","死亡"
+"text:emotion_hungry","HUNGRY","空腹"
+"text:load_latest","LATEST","最新"
+"text:entry_approved","ENTRY GRANTED","入国許可"
+"text:entry_denied","ENTRY DENIED","入国拒否"
+"text:stamp_approved","APPROVED","許可"
+"text:stamp_denied","DENIED","拒否"
+"text:stamp_reason","REASON","事由"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","ここに書類をﾄﾞﾗｯｸﾞ"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","不一致箇所を選択"
+"text:booth_discrepancy","DISCREPANCY
+DETECTED","不一致
+検知"
+"text:booth_interrogate","INTERROGATE","審問する"
+"text:booth_matching","MATCHING
+DATA","一致する
+情報"
+"text:booth_nocorrelation","NO
+CORRELATION","矛盾
+無し"
+"text:env_clearforentry","Applicant clear for entry","入国希望者は条件を満たしています"
+"text:env_lettermale","M","男"
+"text:env_letterfemale","F","女"
+"text:env_noalias","No known alias","別名登録なし"
+"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","ｲｳﾕ,ﾗﾘﾙﾛ,ﾀﾁﾂﾃﾄ,ｧｴｲ,ｶｹｺ"
+"text:endless_complete","$style
+$course
+
+$time
+$score Points","$style
+$course
+
+$time
+$score点"
+"text:endless_ranked","Ranked #$0","ﾗﾝｸ #$0"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","ｽﾄｰﾘｰﾓｰﾄﾞを完全ｸﾘｱするとｴﾝﾄﾞﾚｽﾓｰﾄﾞが解除されます。"
+"text:date_verbose","$month $day, $year","$month $day、$year"
+"text:month_1","January","1月"
+"text:month_2","February","2月"
+"text:month_3","March","3月"
+"text:month_4","April","4月"
+"text:month_5","May","5月"
+"text:month_6","June","6月"
+"text:month_7","July","7月"
+"text:month_8","August","8月"
+"text:month_9","September","9月"
+"text:month_10","October","10月"
+"text:month_11","November","11月"
+"text:month_12","December","12月"
+"text:day_1","1st","1日"
+"text:day_2","2nd","2日"
+"text:day_3","3rd","3日"
+"text:day_4","4th","4日"
+"text:day_5","5th","5日"
+"text:day_6","6th","6日"
+"text:day_7","7th","7日"
+"text:day_8","8th","8日"
+"text:day_9","9th","9日"
+"text:day_10","10th","10日"
+"text:day_11","11th","11日"
+"text:day_12","12th","12日"
+"text:day_13","13th","13日"
+"text:day_14","14th","14日"
+"text:day_15","15th","15日"
+"text:day_16","16th","16日"
+"text:day_17","17th","17日"
+"text:day_18","18th","18日"
+"text:day_19","19th","19日"
+"text:day_20","20th","20日"
+"text:day_21","21st","21日"
+"text:day_22","22nd","22日"
+"text:day_23","23rd","23日"
+"text:day_24","24th","24日"
+"text:day_25","25th","25日"
+"text:day_26","26th","26日"
+"text:day_27","27th","27日"
+"text:day_28","28th","28日"
+"text:day_29","29th","29日"
+"text:day_30","30th","30日"
+"text:day_31","31st","31日"
+"text:bulletin_default","Arstotzka
+Ministry of Admission
+Official Bulletin
+
+Inspector,
+
+$content
+
+Glory to Arstotzka.","ｱﾙｽﾄﾂｶ
+出入国管理省
+公式報告書
+
+審査員各位、
+
+$content
+
+ｱﾙｽﾄﾂｶに栄光あれ。"
+"text:bulletin_notice","Arstotzka
+Ministry of Admission
+Official Bulletin
+
+NOTICE:
+
+$content
+
+Glory to Arstotzka.","ｱﾙｽﾄﾂｶ
+出入国管理省
+公式報告書
+
+告知：
+
+$content
+
+ｱﾙｽﾄﾂｶに栄光あれ。"
+"text:bulletin_endless","Arstotzka
+Ministry of Admission
+Official Bulletin
+
+$style
+
+$course
+
+Glory to Arstotzka.","ｱﾙｽﾄﾂｶ
+出入国管理省
+公式報告書
+
+$style
+
+$course
+
+ｱﾙｽﾄﾂｶに栄光あれ。"
+"bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
+
+Stamp passport ENTRY VISA and return documents to entrant.
+
+Entry is restricted to Arstotzkan citizens only.
+
+Deny all foreigners.","ｸﾞﾚｽﾁﾝ国境検問所への
+着任おめでとう。
+
+ﾊﾟｽﾎﾟｰﾄの入国ビザを押印し<br>入国者に書類を返却するように。
+
+入国はｱﾙｽﾄﾂｶ国民限定とする。
+
+他国からの者は全員拒否すること。"
+"bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
+
+Your booth's INSPECTION hardware is now installed.
+
+Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+
+Continued...[PAGESNOTE]","本日より、正規のﾊﾟｽﾎﾟｰﾄを持った
+外国人も入国が認められる。
+
+貴殿のﾌﾞｰｽには調査設備が
+取り付けられた。
+
+ﾊﾟｽﾎﾟｰﾄの情報に矛盾がないか
+慎重に調べること。
+
+次項へ続く...[PAGESNOTE]"
+"bulletin:2B","__________________________
+INSPECT MODE
+
+Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+
+__________________________
+RULES &amp; REGULATIONS
+
+This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
+調査モード
+
+ﾃﾞｽｸの赤いﾎﾞﾀﾝを押すと
+調査ﾓｰﾄﾞへ入る。調査の際は、
+矛盾する2つの情報を選択し
+審査を進めること。
+
+__________________________
+規則 及び 規制
+
+本通達は出入国管理省の規則及び規制
+に準ずるものである。
+ﾙｰﾙﾌﾞｯｸを熟読すること。"
+"bulletin:3A","Entry for non-citizens is now regulated. 
+
+All foreigners require a valid ENTRY TICKET.
+
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","外国人の入国が許可された。
+
+全ての外国人は正規の入国券が
+必要である。
+
+ﾊﾟｽﾎﾟｰﾄの入国ﾋﾞｻﾞに押印し入国者
+に書類を返却する前に、内容を確認
+すること。 [PAGESNOTE]"
+"bulletin:4A","Stricter credential requirements have been instituted.
+
+Arstotzkan citizens must show their ID CARD.
+
+Foreigners must secure and present a valid ENTRY PERMIT.
+
+Entry tickets are no longer sufficient.
+
+Continued...","より厳重な資格要件が制定された。
+
+ｱﾙｽﾄﾂｶ国民にIDｶｰﾄﾞの提示が
+義務付けられた。
+
+外国人は正規の入国許可証を取得し
+提出しなければならない。
+
+今後入国券は資格要件に十分ではない。
+
+続く..."
+"bulletin:4B","A new chapter detailing document features has been added to your rulebook.
+
+Check all information thoroughly.
+
+Deny any applicant with discrepant documents.
+
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","書類の特徴に関する新しい章が
+ﾙｰﾙﾌﾞｯｸに追加された。
+
+全ての情報を徹底的に確認すること。
+
+書類に矛盾のある入国希望者は
+全て拒否するように。
+
+入国者の陳述との関連性は録音記録を
+参照すること。"
+"bulletin:5A","You are now authorized to detain suspicious individuals.
+
+Interrogate discrepancies to enable detention option.","貴殿に、身元不審者の拘束権限が
+与えられた。
+
+矛盾点を審問することにより
+拘束の選択が可能となる。"
+"bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
+
+Travelers entering for work require a valid WORK PASS.","労働省は移住労働者を規制するための
+特別施策を制定した。
+
+労働目的で入国する渡航者は正規の
+労働許可証が必要である。"
+"bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+
+Kolechian extremists are suspected in yesterday's bombing. 
+
+Search all Kolechians before approving their entry.","審査を円滑に進めるため、
+貴殿のﾌﾞｰｽに検査ｽｷｬﾅｰが
+設置された。
+
+昨日の爆破事件においてｺﾚﾁｱの
+過激派が容疑にかけられている。
+
+ｺﾚﾁｱ国民は入国を許可する前に
+全員検査をすること。"
+"bulletin:8A","The Kolechians have filed a formal complaint. 
+
+A diplomat will arrive today for high-level discussions.
+
+Automatic searches of Kolechian citizens are no longer authorized.
+
+Continued...[PAGESNOTE]","ｺﾚﾁｱから公式な申し立てが
+なされた。
+
+本日、上層部との会談のため
+外交官が訪れる。
+
+ｺﾚﾁｱ国民への強制検査は
+今後認められない。
+
+続く...[PAGESNOTE]"
+"bulletin:8B","__________________________
+DIPLOMATS
+
+Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+
+Refer to the rulebook for updated document information.","__________________________
+外交官
+
+外交官は入国に際し、ﾊﾟｽﾎﾟｰﾄ及び
+外交権限証明のみを必要とする。
+
+ﾙｰﾙﾌﾞｯｸにて最新の情報を
+参照のこと。"
+"bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
+
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","情報省の諜報員が危機に瀕している。
+
+出入国管理省は密通を請け負うことと
+なった。本日連絡が入る可能性有り。"
+"bulletin:10A","The divisional authority of East Grestin operations will visit today.
+
+Maintain your best behavior.","本日、東ｸﾞﾚｽﾁﾝ区画の官憲が
+訪問する。
+
+最良の対応を心がけるように。"
+"bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
+
+Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+
+Continued...","入管省への不法侵入があり、
+書類印章の信用が傷つけられた
+可能性がある。
+
+重要な物は何も盗まれていないが、
+諜報部によると偽造者たちは
+ｱﾙｽﾄﾂｶの公的文書の偽造を
+既に開始している。
+
+続く..."
+"bulletin:11B","__________________________
+FORGERIES
+
+Double-check that required documents contain valid seals. 
+
+Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
+偽造
+
+正式印章による印鑑があるべき書類は
+二重確認すること。
+
+偽わり又は不足している印鑑は、
+ﾙｰﾙﾌﾞｯｸ内の該当箇所と
+関連づけるように。"
+"bulletin:13A","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+
+From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+
+The rulebook DOCUMENTS chapter has been updated.","新長官は外国人に対する検問の水準に
+不満である。
+
+本日より全ての外国人入国者に対し、
+身長・体重・外観の特徴が記載された
+最新の身元証明補完書を提示すること
+が義務付けられた。 
+
+ﾙｰﾙﾌﾞｯｸの公式書類の章が更新
+されている。"
+"bulletin:14A","The Ministry of Justice has requested our support.
+
+Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","法務省より協力の要請があった。
+
+公報には国際重要指名手配犯の
+上位3名が記載される。
+
+入国者の容貌を確認し、
+容疑者は即時拘束すること。[PAGESNOTE]"
+"bulletin:16A","The Ministry of Justice has appropriated the outer guard detail. 
+
+You are now responsible for controlling trespasser activity.
+
+The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+
+Continued...[PAGESNOTE]","法務省は外部警備のため分隊を
+派遣した。
+
+今後、貴殿は侵入者の行動にも
+責任を持つ。
+
+警報鳴動時、支給されたｷｰで
+麻酔銃を解錠することができる。
+
+続く...[PAGESNOTE]"
+"bulletin:16B","__________________________
+COMPENSATION
+
+You will receive a bonus for stopping any trespasser. A smaller bonus is provided for firing on, but missing, your target.
+
+__________________________
+WEAPONS PROTOCOL
+
+Review instructional diagram on following page.","__________________________
+報酬
+
+侵入者を妨害すると手当が
+支給される。発砲したが
+命中しなかった場合は少額の
+手当となる。
+
+__________________________
+武器 使用規定
+
+次項に記載された手順を
+参照すること。"
+"bulletin:18A","Unfavorable international press has affected immigration protocol.
+
+All denials must be accompanied by a REASON FOR DENIAL stamp.
+
+A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
+
+Continued...","批判的な国際報道官により、
+移民の規制に影響が出た。
+
+入国拒否の際は拒否事由の
+押印が義務付けられる。
+
+新しいコンピューターシステム
+が導入された。
+矛盾を問いただすことで
+拒否事由の印判を出すことが
+できる。
+
+続く..."
+"bulletin:18B","__________________________
+DENIAL PROTOCOL
+
+REASON FOR DENIAL stamp is activated on first interrogation.
+
+When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
+
+If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available.","__________________________
+入国拒否 規定
+
+拒否事由の印判は最初の審問で
+使用可能となる。
+
+入国者を拒否する際は、
+入国拒否の印判及び
+拒否事由の印判の双方を
+押印すること。
+
+矛盾が解決した場合、
+拒否事由の印判が出ていても
+入国許可の押印が可能である。"
+"bulletin:19A","Impor rejects all imported goods from Arstotzka.
+
+Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
+
+Deny all travelers from Impor.","ｲﾝﾎﾟｰﾙはｱﾙｽﾄﾂｶからの
+輸入を全面規制している。
+
+貿易省の要請により、入管省は
+この侵害行為に対し姿勢を示す。
+
+ｲﾝﾎﾟｰﾙからの渡航者は全て
+拒否するように。"
+"bulletin:20A","Impor has relented on their faulty policy.
+
+Imporians are now permitted entry.
+
+The divisional authority of East Grestin operations will visit again today.","ｲﾝﾎﾟｰﾙは不当な規制を解除した。
+
+ｲﾝﾎﾟｰﾙ人の入国は許可される。
+
+東ｸﾚｽﾁﾝ区画の官憲が
+本日再び訪れる。"
+"bulletin:21A","A special program for political asylum has been established.
+
+Those seeking asylum must carry a valid GRANT OF ASYLUM.
+
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","政治亡命に関する特別施策が
+制定された。
+
+亡命希望者は亡命許可証の提示が
+必要である。
+
+この許可証を持った者は入国許可証や
+身元証明補完書を必要としない。"
+"bulletin:23A","Your position is important and your responsibilities are broad.
+
+Follow all protocols strictly.","貴殿の職位は重要であり、
+責任は広範囲に及ぶ。
+
+全ての規定に厳密に従うように。"
+"bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+
+The Ministry of Information has requested our cooperation.
+
+A special drawer for confiscating documents has been installed in your booth.
+
+Continued...","最近の一連の事件に関し、
+ｱﾙﾀﾝ地区の住民に
+容疑がかけられた。
+
+情報省から協力が要請されている。
+
+貴殿のﾌﾞｰｽに、押収書類用の
+特別な引き出しが設置された。
+
+続く..."
+"bulletin:24B","The rulebook has been updated with information regarding confiscation policy.
+
+Confiscate all Arstotzkan passports from residents living in ALTAN district.
+
+Travelers may still be granted entry if passport is confiscated and no other rules are violated.
+
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","押収手順に関し、ﾙｰﾙﾌﾞｯｸの
+情報が更新された。
+
+ｱﾙﾀﾝ地区の全住民から
+ｱﾙｽﾄﾂｶ国のﾊﾟｽﾎﾟｰﾄを
+押収すること。
+
+ﾊﾟｽﾎﾟｰﾄが押収されても、
+他の規則に違反していなければ
+渡航者の入国は許可される。
+
+ﾊﾟｽﾎﾟｰﾄのない者の入国許可及び
+拒否は押収伝票が発行される。"
+"bulletin:25A","United Federation citizens present a risk of spreading infectious disease.
+
+Deny all entrants from United Federation.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","合衆連邦国民は伝染性の疾患を
+流行させる恐れがある。
+
+合衆連邦からの入国者は全て
+拒否すること。
+
+ｱﾙﾀﾝ地区住民からは引き続き
+ｱﾙｽﾄﾂｶのﾊﾟｽﾎﾟｰﾄを
+押収すること。"
+"bulletin:26A","The risk of disease is too great. A new protocol has been instituted.
+
+All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
+
+This requirement extends to natives, foreigners, diplomats, and asylum seekers.
+
+Continued...","伝染病の危険性は計り知れない。
+新たな規定が制定された。
+
+全ての入国者は、ﾎﾟﾘｵﾜｸﾁﾝが
+有効であるﾜｸﾁﾝ接種証明書を
+所持している必要がある。
+
+これは自国民、外国人、外交官、
+亡命希望者、全てに義務化されている。
+
+続く..."
+"bulletin:26B","United Federation citizens are permitted entry with such certification.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","証明書を持った合衆連邦国民は
+入国が許可される。
+
+ｱﾙﾀﾝ地区住民からは引き続き
+ｱﾙｽﾄﾂｶのﾊﾟｽﾎﾟｰﾄを
+押収すること。"
+"bulletin:27A","In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+
+Foreigners are now required to present a valid ACCESS PERMIT.
+
+Continued...","業務の効率化を図るため, 
+入国許可証及び身元証明補完書は、
+一枚の渡航許可証に統合された。
+
+外国人は今後、渡航許可証が
+必要である。
+
+続く..."
+"bulletin:27B","Yesterday's coordinated attack has prompted an emergency meeting. 
+
+An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨日の計画的襲撃により
+緊急会談が行われた。 
+
+本日、国境付近の問題に関する
+討議のためにｺﾚﾁｱから重要な
+交渉人が到着する。
+
+ｱﾙﾀﾝ地区住民からは引き続き
+ｱﾙｽﾄﾂｶのﾊﾟｽﾎﾟｰﾄを
+押収すること。"
+"bulletin:28A","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
+
+Confiscate all Arstotzkan passports from native entrants.
+
+There are no exceptions.
+
+Do not confiscate foreign passports.","度重なる襲撃をうけて、情報省は
+ﾊﾟｽﾎﾟｰﾄの押収施策の範囲を
+広げることとした。
+
+全ｱﾙｽﾄﾂｶ国民からﾊﾟｽﾎﾟｰﾄを
+押収すること。
+
+例外は無い。
+
+外国人のﾊﾟｽﾎﾟｰﾄは押収しないように。"
+"bulletin:29A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued...","[NOTICE] 全ての政府職員は
+情報捜査の対象である。
+
+不正組織との関連が見つかった者は
+直ちに逮捕される。
+
+貴殿の捜査は12月24日に
+予定されている。
+
+所定地域を後にしてはならない。
+
+続く..."
+"bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","引き続き全国民よりｱﾙｽﾄﾂｶの
+ﾊﾟｽﾎﾟｰﾄを押収すること。"
+"bulletin:30A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued...","[NOTICE] 全ての政府職員は
+情報捜査の対象である。
+
+不正組織との関連が見つかった者は
+直ちに逮捕される。
+
+貴殿の捜査は12月24日に
+予定されている。
+
+所定地域を後にしてはならない。
+
+続く..."
+"bulletin:30B","Continue to confiscate all Arstotzkan passports from native entrants.","引き続き全国民よりｱﾙｽﾄﾂｶの
+ﾊﾟｽﾎﾟｰﾄを押収すること。"
+"bulletin:31A","The Ministry of Admission is involved in discussions regarding the closure of this checkpoint.
+
+Until a decision is made, maintain your duties as ordered.
+
+Continued...","出入国管理省は、本検問所の閉鎖に
+関する討議に出席する。
+
+決定が降りるまで、通常通り
+業務を遂行すること。
+
+続く..."
+"bulletin:31B","You are scheduled for an information audit tomorrow morning.
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continue to confiscate all Arstotzkan passports from native entrants.","明日、貴殿の情報捜査が行われる
+予定である。
+
+所定地域を後にしてはならない。
+
+引き続き全国民よりｱﾙｽﾄﾂｶの
+ﾊﾟｽﾎﾟｰﾄを押収すること。"
+"facts","$paper: Invalid $fact","$paper: 無効な$fact"
+"facts","Missing $paper","$paper 不足"
+"facts","$0 DISTRICT","地区$0"
+"facts","Presence","可"
+"facts","Sufficience","良"
+"facts","Excellence","優"
+"facts","Obristan","ｵﾌﾞﾘｽﾀﾝ"
+"facts","Antegria","ｱﾝﾃｸﾞﾘｱ"
+"facts","Republia","ﾘﾊﾟﾌﾞﾘｱ"
+"facts","UnitedFed","合衆連邦"
+"facts","Impor","ｲﾝﾎﾟｰﾙ"
+"facts","Kolechia","ｺﾚﾁｱ"
+"facts","Arstotzka","ｱﾙｽﾄﾂｶ"
+"facts","Skal","ｽｶｰﾙ"
+"facts","Lorndaz","ﾛｰﾝﾀﾞﾂ"
+"facts","Mergerous","ﾒﾙｹﾞﾛｰｽ"
+"facts","St. Marmero","ｾﾝﾄ・ﾏﾙﾒﾛ"
+"facts","Glorian","ｸﾞﾛﾘｱﾝ"
+"facts","Outer Grouse","ｱｳﾀｰｸﾞﾛｰｽ"
+"facts","True Glorian","ﾄｩﾙｰｸﾞﾛﾘｱﾝ"
+"facts","Lesrenadi","ﾚｽﾅﾃﾞｨ"
+"facts","Bostan","ﾎﾞｽﾀﾝ"
+"facts","Great Rapid","ｸﾞﾚｲﾄﾗﾋﾟﾄﾞ"
+"facts","Shingleton","ｼﾝｸﾞﾙﾄﾝ"
+"facts","Korista City","ｺﾘｽﾀｼﾃｨ"
+"facts","Enkyo","ｴﾝｷｮｳ"
+"facts","Haihan","ﾊｲﾊﾝ"
+"facts","Tsunkeido","ﾂﾝｹｲﾄﾞ"
+"facts","Yurko City","ﾕﾙｺｼﾃｨ"
+"facts","Vedor","ｳﾞｪﾄﾞｰﾙ"
+"facts","West Grestin","西ｸﾞﾚｽﾁﾝ"
+"facts","Orvech Vonor","ｵﾙｳﾞｪｸｳﾞｫﾉｰﾙ"
+"facts","East Grestin","東ｸﾞﾚｽﾁﾝ"
+"facts","Paradizna","ﾊﾟﾗﾃﾞｨﾂﾅ"
+"facts","Passport","ﾊﾟｽﾎﾟｰﾄ"
+"facts","Entry Ticket","入国券"
+"facts","Entry Permit","入国許可証"
+"facts","Work Pass","労働許可証"
+"facts","Id Card","IDカード"
+"facts","Id Supplement","身元証明補完書"
+"facts","Access Permit","渡航許可証"
+"facts","Diplomatic Auth","外交権限証明"
+"facts","Asylum Grant","亡命認可証"
+"facts","Vaccine Cert","ﾜｸﾁﾝ証明書"
+"facts","Identity Record","身分証明書"
+"facts","Fingerprints","指紋"
+"facts","Name","氏名"
+"facts","Id Number","ID番号"
+"facts","Expiration Date","有効期日"
+"facts","Issuing City","発行地"
+"facts","Birth Date","生年月日"
+"facts","Alias","別名"
+"facts","Height","身長"
+"facts","Weight","体重"
+"facts","Description","特徴"
+"facts","Thumbprint","拇印"
+"facts","Date","日付"
+"facts","Purpose","目的"
+"facts","Duration","期間"
+"facts","Face","顔"
+"facts","District","District"
+"facts","Gender","Gender"
+"facts","Altan","ｱﾙﾀﾝ"
+"facts","Vescillo","ｳﾞｪｼｰﾛ"
+"facts","Burnton","ﾊﾞｰﾝﾄﾝ"
+"facts","Octovalis","ｵｸﾄｳﾞｧﾘｽ"
+"facts","Gennistora","ｼﾞｪﾆｽﾄﾗ"
+"facts","Lendiforma","ﾚﾝﾃﾞｨﾌｫﾙﾏ"
+"facts","Wozenfield","ｳｫｾﾞﾝﾌｨﾙﾄﾞ"
+"facts","Fardesto","ﾌｧｰﾃﾞｽﾄ"
+"facts","DENTISTRY","DENTISTRY"
+"facts","HEALTH-CARE","HEALTH-CARE"
+"facts","GENERAL-LABOR","GENERAL-LABOR"
+"facts","ENGINEERING","ENGINEERING"
+"facts","SPORTS","SPORTS"
+"facts","ARCHITECTURE","ARCHITECTURE"
+"facts","FOOD-SERVICE","FOOD-SERVICE"
+"facts","AVIATION","AVIATION"
+"facts","ACCOUNTING","ACCOUNTING"
+"facts","FISHING","FISHING"
+"facts","DRAFTING","DRAFTING"
+"facts","RESEARCH","RESEARCH"
+"facts","FINE-ARTS","FINE-ARTS"
+"facts","AGRICULTURE","AGRICULTURE"
+"facts","MANUFACTURING","MANUFACTURING"
+"facts","CONSTRUCTION","CONSTRUCTION"
+"facts","SURVEYING","SURVEYING"
+"facts","STATISTICS","STATISTICS"
+"facts","POLIO","ﾎﾟﾘｵ"
+"facts","HPV","HPV"
+"facts","COWPOX","牛痘"
+"facts","TETANUS","破傷風"
+"facts","YEL.FEV.","黄熱"
+"facts","CHOLERA","ｺﾚﾗ"
+"facts","RUBELLA","風疹"
+"facts","HEP-B","B型肝炎"
+"facts","MEASLES","はしか"
+"facts","TUBERC.","肺炎"
+"facts","2 DAYS","14日間"
+"facts","14 DAYS","14 DAYS"
+"facts","1 MONTH","1ヶ月"
+"facts","2 MONTHS","6ヶ月"
+"facts","3 MONTHS","3 MONTHS"
+"facts","6 MONTHS","6 MONTHS"
+"facts","1 YEAR","1年"
+"facts","FOREVER","永住"
+"facts","visit","観光"
+"facts","transit","乗継ぎ"
+"facts","work","労働"
+"facts","immigrate","移住"
+"facts","Possible Smuggler Admitted","密輸容疑者 許可"
+"facts","Missing documents","不足書類"
+"facts","Wanted criminal admitted","指名手配犯 許可"
+"facts","Incorrect purpose response","滞在目的の返答が不適当"
+"facts","Incorrect visit duration response","滞在期間の返答が不適当"
+"facts","Passport: Non-matching photo","ﾊﾟｽﾎﾟｰﾄ：写真不一致"
+"facts","Forged Entry Permit","偽造された入国許可証"
+"facts","Forged Work Pass","偽造された労働許可証"
+"facts","Id Card: Non-matching photo","IDｶｰﾄﾞ：写真不一致"
+"facts","Forged Access Permit","偽造された渡航許可証"
+"facts","No Diplomatic Access to Arstotzka","ｱﾙｽﾄﾂｶでの外交権限なし"
+"facts","Forged Diplomatic Auth","偽造された外交権限証明"
+"facts","Forged Asylum Grant Seal","亡命認可証に偽造印鑑"
+"facts","Necessary vaccine expired","必要なﾜｸﾁﾝが期限切れ"
+"facts","Missing necessary vaccine","必要なﾜｸﾁﾝが不足"
+"facts","Name does not match record","氏名が登録と一致しない"
+"facts","Alias does not match record","別名が登録と一致しない"
+"facts","Fingerprints do not match record","指紋が登録と一致しない"
+"facts","Cobrastan is not a real country","ｺﾌﾞﾗｽﾀﾝは実在する国ではない"
+"facts","No entry from Antegria","ｱﾝﾃｸﾞﾘｱ国民は入国不可"
+"facts","No entry from Arstotzka","ｱﾙｽﾄﾂｶ国民は入国不可"
+"facts","No entry from Republia","ﾘﾊﾟﾌﾞﾘｱ国民は入国不可"
+"facts","No entry from United Fed","合衆連邦国民は入国不可"
+"facts","No entry from Obristan","ｵﾌﾞﾘｽﾀﾝ国民は入国不可"
+"facts","No entry from Impor","ｲﾝﾎﾟｰﾙ国民は入国不可"
+"facts","No entry from Kolechia","ｺﾚﾁｱ国民は入国不可"
+"facts","Possible Terrorist Admitted","ﾃﾛ容疑者を入国許可"
+"facts","Entrant Holds Conflicting Passports","入国者が矛盾するﾊﾟｽﾎﾟｰﾄを所持"
+"facts","Entrant must have a passport","入国者はﾊﾟｽﾎﾟｰﾄが必要"
+"facts","Foreigners require an entry permit","外国人は入国許可証が必要"
+"facts","Foreigners require an entry ticket","外国人は入国券が必要"
+"facts","All documents must be current","全ての書類は最新の物でなければならない"
+"facts","Workers must have a work pass","労働者は労働許可証が必要"
+"facts","Citizens must have an id card","ｱﾙｽﾄﾂｶ国民はIDｶｰﾄﾞが必要"
+"facts","Foreigners require an id supplement","外国人は身元証明補完書が必要"
+"facts","Arstotzkan citizens only","ｱﾙｽﾄﾂｶ国民限定"
+"facts","No entry from United Federation","合衆連邦からの入国者は認められない"
+"facts","No weapons or contraband","武器や密輸品は認められない"
+"facts","All Kolechians must be searched","全ｺﾚﾁｱ国民に検査が必要"
+"facts","Diplomats require authorization","外交官は権限証明が必要"
+"facts","Entrant must have polio vaccine cert","入国者はﾎﾟﾘｵﾜｸﾁﾝ証明書が必要"
+"facts","Asylum seekers must have a grant","亡命希望者は認可証が必要"
+"facts","Foreigners require an access permit","外国人は渡航許可証が必要"
+"facts","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.","ｱﾙﾀﾝ地区住民に限りｱﾙｽﾄﾂｶのﾊﾟｽﾎﾟｰﾄを押収すること。"
+"facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","全ｱﾙｽﾄﾂｶ国民のﾊﾟｽﾎﾟｰﾄを押収すること。例外は認められない。"
+"facts","Passport not confiscated","ﾊﾟｽﾎﾟｰﾄ 未押収"
+"paper:SecondPassport","West Grestin","西ｸﾞﾚｽﾁﾝ"
+"paper:Rules","Basic Rules","基本規則"
+"paper:Rules","Regional Map","行政地図"
+"paper:Rules","Booth Info","ﾌﾞｰｽ情報"
+"paper:Rules","Documents","書類"
+"paper:Rules","Confiscation","押収"
+"paper:Rules","Obristan","ｵﾌﾞﾘｽﾀﾝ"
+"paper:Rules","Antegria","ｱﾝﾃｸﾞﾘｱ"
+"paper:Rules","Republia","ﾘﾊﾟﾌﾞﾘｱ"
+"paper:Rules","United","合衆"
+"paper:Rules","Federation","連邦"
+"paper:Rules","Impor","ｲﾝﾎﾟｰﾙ"
+"paper:Rules","Kolechia","ｺﾚﾁｱ"
+"paper:Rules","Arstotzka","ｱﾙｽﾄﾂｶ"
+"paper:Rules","ANTEGRIA","ANTEGRIA"
+"paper:Rules","ARSTOTZKA","ARSTOTZKA"
+"paper:Rules","IMPOR","IMPOR"
+"paper:Rules","KOLECHIA","KOLECHIA"
+"paper:Rules","OBRISTAN","OBRISTAN"
+"paper:Rules","REPUBLIA","REPUBLIA"
+"paper:Rules","UNITED FED.","合衆連邦"
+"paper:Rules","Id Card (Native)","IDｶｰﾄﾞ(自国民)"
+"paper:Rules","Entry Permit","入国許可証"
+"paper:Rules","Id Supplement","身元証明補完書"
+"paper:Rules","Access Permit","渡航許可証"
+"paper:Rules","Work Pass","労働許可証"
+"paper:Rules","Diplomatic Auth.","外交権限証明"
+"paper:Rules","Grant of Asylum","亡命認可証"
+"paper:Rules","Vaccine Cert.","ﾜｸﾁﾝ証明書"
+"intro","Congratulations.","おめでとう。"
+"intro","The October labor lottery is complete. Your name was pulled.","10月度勤労抽選の結果、<br>貴殿の名前が選ばれた。"
+"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","即時配属のため、出入国管理省へ<br>報告に赴くように。"
+"intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","貴殿及びその家族にはアパートが与えられる。<br>クラス8の住居を想定せよ。"
+"intro","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:in-debt","Arstotzka has zero tolerance for delinquency.","アルストツカは犯罪を一切許容しない。"
+"end:in-debt","Your family will be sent back to their village.","家族は村へ送り返されることになる。"
+"end:in-debt","You are under arrest until your debts are repaid.","貴方は負債が完済されるまで拘禁される。"
+"end:in-debt","A replacement inspector will be found easily.","代わりの審査官は簡単に見つかるだろう。"
+"end:in-debt","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:family-dead","Your entire family is gone.","家族は全員死亡した。"
+"end:family-dead","The Ministry Of Labor focuses on Arstotzka's future growth.","労働省は将来的な成長を重視している。"
+"end:family-dead","Workers are expected to support large healthy families.","よって労働者には大人数の健康な家族を<br>養うことが期待されている。"
+"end:family-dead","Your position will be filled by someone more appropriate.","貴方の職位はより相応しい者に割り当てられる。"
+"end:family-dead","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:turned-over-ezic-docs","You are under arrest for associating with suspicious groups.","貴方は不審な組織に協力した容疑で逮捕された。"
+"end:turned-over-ezic-docs","The Ministry of Information will perform a full audit of your recent activities.","情報省は、貴方の最近の活動に対し<br>徹底捜査を行うこととなる。"
+"end:turned-over-ezic-docs","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:caught-with-ezic-money","The Ministry of Income has discovered an anomaly in your earnings.","所得省は貴方の所得に異常を発見した。"
+"end:caught-with-ezic-money","You are under arrest pending a full audit of your recent activities.","貴方は逮捕され、最近の活動に関する<br>徹底捜査が行われる。"
+"end:caught-with-ezic-money","Your family will likewise be held for questioning.","家族にも尋問が行われるだろう。"
+"end:caught-with-ezic-money","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:caught-with-ezic-money","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:killed-innocent","You are under arrest for the murder of an innocent.","貴方は無実の者を殺害したとして逮捕された。"
+"end:killed-innocent","The penalty is death.","罪状は死刑である。"
+"end:killed-innocent","Your family will be questioned about their involvement.","家族も関与に関して尋問されるだろう。"
+"end:killed-innocent","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:killed-innocent","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:tranqed-innocent","You are under arrest for attacking an innocent.","貴方は無実の者を殺害したとして逮捕された。"
+"end:tranqed-innocent","The penalty is forced labor.","罪状は強制労働である。"
+"end:tranqed-innocent","Your family will be questioned about their involvement.","家族も関与に関して尋問されるだろう。"
+"end:tranqed-innocent","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:tranqed-innocent","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:killed-guard","You are under arrest for the murder of an Arstotzkan official.","貴方はアルストツカの官吏を殺害したとして<br>逮捕された。"
+"end:killed-guard","The penalty is death.","罪状は死刑である。"
+"end:killed-guard","Your family will be questioned about their involvement.","家族も関与に関して尋問されるだろう。"
+"end:killed-guard","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:killed-guard","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:tranqed-guard","You are under arrest for attacking an Arstotzkan official.","貴方はアルストツカの官吏を襲撃したとして<br>逮捕された。"
+"end:tranqed-guard","The penalty is death.","罪状は死刑である。"
+"end:tranqed-guard","Your family will be questioned about their involvement.","家族も関与に関して尋問されるだろう。"
+"end:tranqed-guard","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:tranqed-guard","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:killed-target","You are under arrest for the murder of an innocent.","貴方は無実の者を殺害したとして逮捕された。"
+"end:killed-target","The penalty is death.","罪状は強制労働である。"
+"end:killed-target","Your family will be questioned about their involvement.","家族も関与に関して尋問されるだろう。"
+"end:killed-target","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:killed-target","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:killed-target","[A note appears from under the cell door]","[牢獄の扉の底にメモが差し込まれた]"
+"end:killed-target","INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE","審査官殿 - 家族は無事<br> - 標的排除後新たな問題浮上"
+"end:killed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","代理審査官は非協力的 - EZICの活動が妨害されている"
+"end:killed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","これ以上の援助は不可能 - EZICは活動を再凍結する"
+"end:killed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","家族はオブリスタンに送られる - 幸運を祈る"
+"end:tranqed-target","You are under arrest for attacking an innocent.","貴方は無実の者を襲撃したとして逮捕された。"
+"end:tranqed-target","The penalty is forced labor.","罪状は強制労働である。"
+"end:tranqed-target","Your family will be questioned about their involvement.","家族も関与に関して尋問されるだろう。"
+"end:tranqed-target","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:tranqed-target","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:tranqed-target","[A note appears from under the cell door]","[牢獄の扉の底にメモが差し込まれた]"
+"end:tranqed-target","INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL","審査官殿 - 家族は無事 - 標的は病床より回復"
+"end:tranqed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","代理審査官は非協力的 - EZICの活動が妨害されている"
+"end:tranqed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","これ以上の援助は不可能 - EZICは活動を再凍結する"
+"end:tranqed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","家族はオブリスタンに送られる - 幸運を祈る"
+"end:stuff-on-walls","You are under arrest for violating direct orders.","貴方は指揮命令違反で逮捕された。"
+"end:stuff-on-walls","The penalty is forced labor.","罪状は強制労働である。"
+"end:stuff-on-walls","Your family will be sent back to their village.","家族は村へ送り返されることになる。"
+"end:stuff-on-walls","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:stuff-on-walls","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:arrested-boss-buddy","Your supervisor has reported you for theft of Arstotzkan property.","上官は貴方がアルストツカの所有物を<br>窃取したと報告をあげた。"
+"end:arrested-boss-buddy","The penalty is forced labor.","罪状は強制労働である。"
+"end:arrested-boss-buddy","Your family will be sent back to their village.","家族は村へ送り返されることになる。"
+"end:arrested-boss-buddy","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:arrested-boss-buddy","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:wall-destroyed","The Grestin Border wall has been destroyed.","グレスチン国境検問所は破壊された。"
+"end:wall-destroyed","You are under arrest for failure to defend the checkpoint.","貴方は検問所の防衛に失敗したとして逮捕された。"
+"end:wall-destroyed","Your family will be sent back to their village.","家族は村へ送り返されることになる。"
+"end:wall-destroyed","The border will reopen under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
+"end:wall-destroyed","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:help-ezic-kill-attackers-wall-safe","Hello inspector.","やぁ審査官。"
+"end:help-ezic-kill-attackers-wall-safe","We have audited your recent activities.","君の最近の活動を捜査させてもらったよ。"
+"end:help-ezic-kill-attackers-wall-safe","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","自分たちをEZICスター機関と呼んでいる連中との<br>関与が発覚した。"
+"end:help-ezic-kill-attackers-wall-safe","Several members of this group have been arrested in Arstotzka.","組織の何人かはアルストツカで逮捕された。"
+"end:help-ezic-kill-attackers-wall-safe","At least one EZIC member has confessed to receiving your help.","その一人が君に協力を得ていたと自白したよ。"
+"end:help-ezic-kill-attackers-wall-safe","This represents treason of the highest order.","これは最上位の反逆に値する。"
+"end:help-ezic-kill-attackers-wall-safe","Goodbye inspector.","さようなら審査官。"
+"end:help-ezic-kill-attackers-wall-safe","The execution is scheduled for tonight.","貴方の死刑は今晩執行される。"
+"end:help-ezic-kill-attackers-wall-safe","Your family's safety is unknown.","家族の安否は不明。"
+"end:help-ezic-kill-attackers-wall-safe","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅。正義の秤は覆された。"
+"end:help-ezic-kill-attackers-wall-safe","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:help-ezic-kill-attackers-wall-safe","[A note appears from under the cell door]","[牢獄の扉の底にメモが差し込まれた]"
+"end:help-ezic-kill-attackers-wall-safe","INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT","審査官殿 - 君には最後で裏切られた"
+"end:help-ezic-kill-attackers-wall-safe","THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY","今のEZICはもう終わりだ - 君の家族に援助はできない"
+"end:help-ezic-kill-attackers-wall-destroyed","The border has been pierced.","国境は崩壊した。"
+"end:help-ezic-kill-attackers-wall-destroyed","It is a glorious day for THE ORDER OF THE EZIC STAR but you have betrayed us at the last moment.","EZICスター機関にとって輝かしい一日だが、<br>君は最後で我々を裏切った。"
+"end:help-ezic-kill-attackers-wall-destroyed","EZIC grows strong while the corrupt and greedy weaken.","腐敗体制の中でEZICは勢力を伸ばし、<br>蔓延る悪は衰退した。"
+"end:help-ezic-kill-attackers-wall-destroyed","Your betrayal means you have chosen the wrong side.","君の裏切りは、間違った側についた<br>ことを意味する。"
+"end:help-ezic-kill-attackers-wall-destroyed","There is no place for you or your family in this revolution.","この革命に君とその家族の居場所は無い。"
+"end:help-ezic-kill-attackers-wall-destroyed","Goodbye inspector.","さようなら審査官殿。"
+"end:help-ezic-kill-attackers-wall-destroyed","Glory to the New Arstotzka.","新アルストツカに栄光あれ。"
+"end:help-few-ezic","Hello inspector.","やぁ審査官。"
+"end:help-few-ezic","We have audited your recent activities.","君の最近の活動を捜査させてもらったよ。"
+"end:help-few-ezic","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","自分たちをEZICスター機関と呼んでいる連中との<br>関与が発覚した。"
+"end:help-few-ezic","Several members of this group have been arrested in Arstotzka.","組織の何人かはアルストツカで逮捕された。"
+"end:help-few-ezic","At least one EZIC member has confessed to receiving your help.","その一人が君に協力を得ていたと自白したよ。"
+"end:help-few-ezic","This represents treason of the highest order.","これは最上位の反逆に値する。"
+"end:help-few-ezic","Goodbye inspector.","さようなら審査官。"
+"end:help-few-ezic","The execution is scheduled for tonight.","貴方の死刑は今晩執行される。"
+"end:help-few-ezic","Your family's safety is unknown.","家族の安否は不明。"
+"end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅。正義の秤は覆された。"
+"end:help-few-ezic","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:escape","You board the late train to the Northern Territories. It is nearly empty.","貴方は北方地区行きの夜間列車に乗った。<br>乗客はほとんどいない。"
+"end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","間に合わせの偽造パスポートと再入国券を<br>購入した。ひどい出来だ。"
+"end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","間に合わせの偽造パスポートと再入国券を<br>人数分購入した。ひどい出来だ。"
+"end:escape","You reach the border crossing at dawn. The line is immense.","明け方に国境へ到着した。長蛇の列ができている。"
+"end:escape","Six hours later.","6時間後。"
+"end:escape","Your documents.","書類を出せ。"
+"end:escape","Here.","これです。"
+"end:escape","You are entering alone?","入国は一人だけか？"
+"end:escape","Yes.","はい。"
+"end:escape","I come to visit relatives.","親戚を訪ねに来ました。"
+"end:escape","No, my family as well.","いえ、家族も一緒です。"
+"end:escape","Hand over all documents now.","全ての書類を渡せ。"
+"end:escape","We come to visit relatives.","皆で親戚を訪ねに来ました。"
+"end:escape","I do not care why you come. Wait here.","なぜ来たのかは関係ない。ここで待て。"
+"end:escape","*KACHUNK*","*カチャン*"
+"end:escape","Welcome to Obristan. Next!","オブリスタンへようこそ。次！"
+"end:help-ezic-hold-fire","Inspector! It is a glorious day!","審査官殿！なんて輝かしい日だろう！"
+"end:help-ezic-hold-fire","The border has been pierced.","国境は崩壊した。"
+"end:help-ezic-hold-fire","EZIC grows strong while the corrupt and greedy weaken.","腐敗体制の中でEZICは勢力を伸ばし、<br>蔓延る悪は衰退した。"
+"end:help-ezic-hold-fire","We are moving you and your family to a better home.","君とその家族はもっと良い住まいへ<br>引っ越すことになる。"
+"end:help-ezic-hold-fire","Your services as an inspector are no longer required. We need agents.","審査官としての役目はもう終わった。<br>我々は諜報員を求めている。"
+"end:help-ezic-hold-fire","Follow us and together we will complete the revolution!","我々と共に進み、革命を完成させよう！"
+"end:help-ezic-hold-fire","Glory to the New Arstotzka.","新アルストツカに栄光あれ。"
+"end:ignore-ezic","Hello inspector.","やぁ審査官。"
+"end:ignore-ezic","We have audited your activities for the past 20 years.","我々は君の活動を20年分捜査した。"
+"end:ignore-ezic","There are some anomalies.","いくつか異常な動きがあった。"
+"end:ignore-ezic","But you have served Arstotzka well.","しかし君はアルストツカによく尽くしてくれた。"
+"end:ignore-ezic","We will overlook these small transgressions.","小さな違犯は見逃すこととする。"
+"end:ignore-ezic","You have been cleared of any suspicion.","これで全ての容疑は晴れた。"
+"end:ignore-ezic","Glory to Arstotzka.","アルストツカに栄光あれ。"
+"end:ignore-ezic","A new agreement has been reached with Kolechia.","コレチアと新たな条約が締結した。"
+"end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","グレスチン国境検問所はまもなく再稼働する。"
+"end:ignore-ezic","Return to your post on January 1st.","1月1日付けで任務に戻るように。"
+"end:ignore-ezic","ENDLESS UNLOCK CODE: 62131","エンドレスモード 解除コード：62131"
+"endless:timed","Timed","Timed"
+"endless:timed","Process as many travelers as possible in 10 minutes.","10分で可能な限り多くの渡航者を判断する。"
+"endless:timed","ENDLESS - TIMED
+
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","ｴﾝﾄﾞﾚｽ - 時間
+
+10分で可能な限り多くの渡航者を判断すること。1人につき1点加算。通告1通につき30秒減る。"
+"endless:perfection","Perfection","Perfection"
+"endless:perfection","Game over at first penalty. Earn dwindling points.","最初のﾐｽでｹﾞｰﾑｵｰﾊﾞｰ。減っていく得点を稼げ。"
+"endless:perfection","ENDLESS - PERFECTION
+
+Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","ｴﾝﾄﾞﾚｽ - 精度
+
+渡航者をさばき点数を上げること。 通告を受けてはいけない。初めの1分は1人につき10点、1分経つごとに得点が1点減少。作業を急ぐように。"
+"endless:endurance","Endurance","Endurance"
+"endless:endurance","Play until balance goes negative. Avoid penalties.","点数がﾏｲﾅｽになるまで判断し続ける。ﾐｽを防げ。"
+"endless:endurance","ENDLESS - ENDURANCE
+
+Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","ｴﾝﾄﾞﾚｽ - 耐久
+
+点数が0以下になるまで渡航者をさばくこと。 通告を受け取ると減点は倍増していく。獲得した最高得点が記録される。"
+"bullend:1A","Check rulebook for rules in effect.","有効な規則をﾙｰﾙﾌﾞｯｸで確認するように。"
+"bullend:2A","Check rulebook for rules in effect.","有効な規則をﾙｰﾙﾌﾞｯｸで確認するように。"
+"bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","有効な規則をﾙｰﾙﾌﾞｯｸで確認するように。<br>入国を拒否する際は拒否事由の押印が必要である。"
+"bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","有効な規則をﾙｰﾙﾌﾞｯｸで確認するように。<br>入国を拒否する際は拒否事由の押印が必要である。"
+"night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","下記のチェック項目を使い、収入を管理して下さい。"
+"night:AFTER_6PM","Applicants entering after 6PM are unpaid.","午後６時以降の入国希望者は給与支払い対象外です。"
+"night:PROGRESS_SAVED","Progress is saved at the start of each day.","各日開始時にデータがセーブされます。"
+"night:ATTACK_DIDNOTHING","The day was cut short by a terrorist attack.","テロリストの襲撃により本日の業務は中断されました。"
+"night:ATTACK_FIREDGUN","The day was cut short by a terrorist attack.","テロリストの襲撃により本日の業務は中断されました。"
+"night:ATTACK_FIREDGUN","TRIGGER BONUS","発砲手当"
+"night:ATTACK_SOLVED","The day was cut short by a terrorist attack.","テロリストの襲撃により本日の業務は中断されました。"
+"night:ATTACK_SOLVED","SHARPSHOOTER BONUS","精密射撃手当"
+"night:POISONING","The day was cut short by a security incident.","テロリストの襲撃により本日の業務は中断されました。"
+"night:FAMILY_PICTURE","Your wife found an old family picture.","貴方の妻が古い家族写真を見つけました。"
+"night:BUY_UPGRADE0","Booth Upgrade Available: SPACE key to toggle INSPECT mode.","ブースアップグレード可能：スペースキーで調査モードに切り換え。"
+"night:BUY_UPGRADE0","UPGRADE BOOTH","ブースアップグレード"
+"night:BUY_UPGRADE1","Booth Upgrade Available: TAB key to toggle stamp bar.","ブースアップグレード可能： タブキーで押印バーを表示。"
+"night:BUY_UPGRADE1","UPGRADE BOOTH","ブースアップグレード"
+"night:BUY_UPGRADE2","Booth Upgrade Available: Rulebook shortcuts.","ブースアップグレード可能： ルールブックのショートカット。"
+"night:BUY_UPGRADE2","UPGRADE BOOTH","ブースアップグレード"
+"night:BUY_UPGRADE3","Booth Upgrade Available: Double-click for quick INSPECT.","ブースアップグレード可能： ダブルクリックで短縮調査。"
+"night:BUY_UPGRADE3","UPGRADE BOOTH","ブースアップグレード"
+"night:APARTMENT_RENT","The rent has gone up.","賃貸料が足りません。"
+"night:APARTMENT_UPGRADE","A cheaper class 8 apartment is available (Rent = 25, Heat = 10)","最も安いクラス8のアパートへ移行できます。 (家賃 = 25, 暖房費 = 10)"
+"night:APARTMENT_UPGRADE","MOVE TO CLASS-8","クラス8へ引っ越す"
+"night:APARTMENT_UPGRADE","A class-7 apartment is available. (Rent = 30, Heat = 10)","クラス7のアパートへ移行できます。(家賃 = 30, 暖房費 = 10)"
+"night:APARTMENT_UPGRADE","MOVE TO CLASS-7","クラス7へ引っ越す"
+"night:APARTMENT_UPGRADE","A class-6 apartment is available. (Rent = 40, Heat = 5)","クラス6のアパートへ移行できます。(家賃 = 40, 暖房費 = 5)"
+"night:APARTMENT_UPGRADE","MOVE TO CLASS-6","クラス6へ引っ越す"
+"night:APARTMENT_UPGRADE","A class-5 apartment is available. (Rent = 50, Heat = 0)","クラス5のアパートへ移行できます。(家賃 = 50, 暖房費 = 0)"
+"night:APARTMENT_UPGRADE","Class-5 is the best a worker can have.","クラス5は労働者にとっては最上級です。"
+"night:APARTMENT_UPGRADE","MOVE TO CLASS-5","クラス5へ引っ越す"
+"night:SON_BIRTHDAY","Your son's birthday is in 2 days.","息子の誕生日が 2日後です。"
+"night:SON_BIRTHDAY2","Your son's birthday is tomorrow. He wants an expensive crayon set.","明日は息子の誕生日です。高級クレヨンセットを欲しがっています。"
+"night:SON_BIRTHDAY2","SON'S GIFT","息子への贈り物"
+"night:SON_BIRTHDAY3","Your son has drawn a picture for you to take to work.","仕事場へ持っていく絵を、息子が描いてくれました。"
+"night:NIECE","Your sister has been arrested. Her young daughter needs a home.","妹が逮捕されました。彼女の幼い娘には住む場所が必要です。"
+"night:NIECE","ADOPT NIECE","姪を引き取る"
+"night:NIECE2_YES","Your niece has brought her mother's savings.","姪は母親の貯金を持ってきました。"
+"night:NIECE2_YES","SISTER'S SAVINGS","妹の貯金"
+"night:NIECE2_NO","Your niece has disappeared.","姪は行方不明になりました。"
+"night:FRIENDLY_GUARD_PAYOUT","A young woman dropped off something.","若い女性が何か置いていきました。"
+"night:FRIENDLY_GUARD_PAYOUT","ELISA'S GIFT","ELISAの贈り物"
+"night:DETAIN_PAYOUT","DETAIN BONUS","拘束手当"
+"night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","不審な男が金を持ってきました。燃やす場合チェックを解除。"
+"night:EZIC_PAYOUT","EZIC GIFT","EZICからの贈り物"
+"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","不審な男が再び金を持ってきました。燃やす場合チェックを解除。"
+"night:EZIC_PAYOUT_RETRY","EZIC GIFT","EZICからの贈り物"
+"night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","近隣住民が貴方の収入の増加を報告しました。"
+"night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","所得省が貴方の貯金を押収し取り調べ中です。"
+"night:EZIC_CLEARED","The Ministry of Income has cleared all wrongdoing.","所得省が貴方の不正行為を全て処理しました。"
+"night:EZIC_CLEARED","Your savings will not be returned.","貯金が返還されることはありません。"
+"night:EZIC_REWARD","A small package arrived.","小包が届きました。"
+"night:EZIC_REWARD","EZIC GIFT","EZICからの贈り物"
+"night:TAKE_FAMILY_PASSPORTS","The Ministry of Information has confiscated your family's passports.","情報省が貴方の家族のパスポートを押収しました。"
+"night:ESCAPE","You can now escape to Obristan by yourself.","これで貴方はオブリスタンへ逃亡が可能です。"
+"night:ESCAPE","You can now escape to Obristan with one family member.","これで貴方と家族 1人がオブリスタンへ逃亡可能です。"
+"night:ESCAPE","You can now escape to Obristan with two family members.","これで貴方と家族 2人がオブリスタンへ逃亡可能です。"
+"night:ESCAPE","You can now escape to Obristan with three family members.","これで貴方と家族 3人がオブリスタンへ逃亡可能です。"
+"night:ESCAPE","You can now escape to Obristan with four family members.","これで貴方と家族 4人がオブリスタンへ逃亡可能です。"
+"night:ESCAPE","You can now escape to Obristan with everyone.","これで家族全員とオブリスタンへ逃亡が可能です。"
+"night:ESCAPE_1","ESCAPE (SELF)","逃亡 (自分)"
+"night:ESCAPE_2","ESCAPE (SELF+1)","逃亡 (自分+1)"
+"night:ESCAPE_3","ESCAPE (SELF+2)","逃亡 (自分+2)"
+"night:ESCAPE_4","ESCAPE (SELF+3)","逃亡 (自分+3)"
+"night:ESCAPE_5","ESCAPE (SELF+4)","逃亡 (自分+4)"
+"night:ESCAPE_6","ESCAPE (SELF+5)","逃亡 (自分+5)"
+"night:HANGINGS_PENALTY","A fine has been assessed for unofficial wall hangings.","非公認物の掲示により罰金が徴収されました。"
+"night:HANGINGS_PENALTY","HANGINGS FINE","掲示物に問題なし"
+"night:SELL_WATCH","You sold the digital watch on your way home.","貴方は帰り道にデジタル時計を売り払いました。"
+"night:SELL_WATCH","WATCH PROFIT","腕時計の利益"
+"night:EASY_MODE","EASY MODE CRUTCH","イージーモード補助"
+"night:SNEAK_HOME","You have rushed home amid the panic at work to check on your family.","貴方は家族の安全を確かめるため、職場の混乱中に急いで帰宅しました。"
+"night:SNEAK_HOME","Your information audit is scheduled for tomorrow morning.","貴方の情報聴取が明日に予定されています。"
+"note:EZIC_CORMAN","ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
+
+WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
+
+HELP US FREE ARSTOTZKA FROM ITS SHACKLES
+
+
+* THE ORDER OF THE EZIC STAR","アルストツカ ハ スバラシイクニ ダガ
+フハイシタ ジョウソウブ ニ ドクサレテイル
+
+センソウ デ セイフ ハ ヨクニマミレ クルッタ
+キミ モ シル トオリダ
+
+アルストツカ ヲ クサリ カラ ハナツ タメニ 
+チカラ ヲ カシテ ホシイ
+
+
+* EZICスター キカン"
+"note:EZIC_HANDLER_POST0","FIRST AGENT WAS DENIED
+
+SECOND WILL COME IN TWO DAYS
+
+DO NOT MAKE SAME MISTAKE","サイショ ノ コウサクイン ハ キョヒ サレタ
+
+ツギ ハ フツカゴ ニ クル
+
+オナジ マチガイ ヲ オカスナ"
+"note:EZIC_HANDLER_PRE1","LARGE GIFT WAS MISTAKE
+
+MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
+
+NEXT AGENT COMES TODAY
+
+WILL SOLVE PROBLEM
+
+DENY AT OWN RISK","オオキナ ホウシュウ ハ マチガイ ダッタ
+
+ジョウホウショウ ハ キミト EZIC ノ 
+カンケイ ヲ シラベ ハジメタ
+
+ツギ ノ コウサクイン ハ キョウ ハイル
+
+モンダイ ヲ カイケツ シテ クレル
+
+キョヒ スルカ ハ ジコセキニン デアル"
+"note:EZIC_HANDLER_POST1","BOTH AGENTS WERE DENIED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","コウサクイン ハ フタリトモ キョヒ サレタ
+
+キミ ノ キョウリョク ナシニハ セイコウ ハ ナイ
+
+アルストツカ ケンコク ノ サイ モ キカン ハ 
+イマ ト オナジ ヤクメ ヲ ハタシタ
+
+アッセイ ガ オワレバ マタ ワレラ ハ キエル"
+"note:EZIC_HANDLER_POST1","ONLY ONE AGENT APPROVED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","コウサクイン ハ ヒトリシカ キョカサレナカッタ
+
+キミ ノ キョウリョク ナシニハ セイコウ ハ ナイ
+
+アルストツカ ケンコク ノ サイ モ キカン ハ 
+イマ ト オナジ ヤクメ ヲ ハタシタ
+
+アッセイ ガ オワレバ マタ ワレラ ハ キエル"
+"note:EZIC_HANDLER_POST1","YOU HAVE DONE WELL
+
+BOTH AGENTS NOW OPERATING
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","ヨク ヤッタ
+
+コウサクイン ハ フタリトモ ニンム ニ ツイタ
+
+アルストツカ ケンコク ノ サイ モ キカン ハ 
+イマ ト オナジ ヤクメ ヲ ハタシタ
+
+アッセイ ガ オワレバ マタ ワレラ ハ キエル"
+"note:EZIC_HANDLER_EXT","BORDER ATTACKS ARE NOT EZIC OPERATIONS
+
+UNKNOWN EXTREMIST GROUPS RESPONSIBLE
+
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","コッキョウ シュウゲキ ハ EZIC ノ ケイカク
+デハナイ
+
+ドコカ ノ カゲキハ ノ シワザ デアル
+
+キカン ハ フハイ シタ ケンリョク ノ チュウスウ ヲ 
+ヨワラセヨウ ト ウゴイテイル
+- ムザイノモノハ マキコマナイ
+- EZIC コウサクイン ガ カゲキハ ヲ ツキトメニ
+キョウ トウチャク スル"
+"note:EZIC_POISON_MESSENGER","ASSASSIN COMING FROM ANTEGRIA
+
+WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
+
+MUST BE STOPPED
+
+HIS NAME IS KHALED ISTOM
+
+DO NOT FORGET","アンテグリア カラ コロシヤ ガ クル
+
+アルストツカ ナイ ノ ジュウヨウ コウサクイン ヲ 
+ネラウ ダロウ
+
+ソシ セネバ ナラナイ
+
+カレ ノ ナハ KHALED ISTOM
+
+ワスレルナ"
+"note:EZIC_HANDLER_SNIPE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED ガ クニ ニ カエル - EZIC ノ 
+ゼンコウサクイン ノ ジョウホウ ヲ 
+モッテイル 
+
+モウ ユウヨ ハ ナイ - キョウ カレ ヲ コロセ -
+アカ ノ オトコダ - ソノ キ ハ ワレワレ ガ 
+ヨウイスル
+
+セイコウ シタ バアイ キミ ハ タイホ サレル 
+- アルストツカ ノ タメニ ギセイ ガ ヒツヨウダ - 
+カゾク ノ アンゼン ハ ヤクソク スル"
+"note:EZIC_HANDLER_SNIPE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED ハ EZIC ノ コウサクイン ヲ 
+フタリ コロシタ 
+- ベツ ノ コロシヤ ガ クル - アカ ノ オトコ -
+アルストツカ ニ イル EZIC ノ ゼンコウサクイン 
+ノ ジョウホウ ヲ モッテイル
+
+モウ ユウヨ ハ ナイ - キョウ カレ ヲ コロセ -
+アカ ノ オトコダ - ソノ キ ハ ワレワレ ガ 
+ヨウイスル
+
+セイコウ シタ バアイ、キミ ハ タイホ サレル 
+- アルストツカ ノ タメニ ギセイ ガ ヒツヨウダ - 
+カゾク ノ アンゼン ハ ヤクソク スル"
+"note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED ハ シマツ サレタ 
+- ベツ ノ コロシヤ ガ クル - アカ ノ オトコ -
+アルストツカ ニ イル EZIC ノ ゼンコウサクイン 
+ノ ジョウホウ ヲ モッテイル
+
+モウ ユウヨ ハ ナイ - キョウ カレ ヲ コロセ -
+アカ ノ オトコダ - ソノ キ ハ ワレワレ ガ 
+ヨウイスル
+
+セイコウ シタ バアイ、キミ ハ タイホ サレル 
+- アルストツカ ノ タメニ ギセイ ガ ヒツヨウダ - 
+カゾク ノ アンゼン ハ ヤクソク スル"
+"note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
+
+MAN IN RED SURVIVES
+
+HE NOW TARGETS EZIC AGENTS IN KOLECHIA
+
+OUR PLANS MUST ADAPT","ワレワレ ハ キカイ ヲ ノガシタ
+
+アカ ノ オトコ ハ イキノビタ
+
+コンド ハ コレチア ノ EZICコウサクイン 
+ヲ ネラッテイル
+
+ケイカク ヲ ヘンコウ セネバ ナラナイ"
+"note:EZIC_HANDLER_DIPLO","GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
+
+NEGOTIATIONS MUST BE IMPEDED
+
+ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
+
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
+
+NEGOTIATIONS MUST BE IMPEDED
+
+ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
+
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY"
+"note:EZIC_FINAL","GRESTIN CHECKPOINT IS AT AN END
+
+TODAY WE BREAK THIS WALL DOWN
+
+YOU WILL BE SAFE
+
+HOLD YOUR FIRE
+
+* THE ORDER OF THE EZIC STAR","グレスチン ケンモンジョ ハ オワル
+
+キョウ カベ ヲ ハカイ スル
+
+キミ ハ アンゼン ダ
+
+ハッポウ ハ ヒカエロ
+
+* EZICスター キカン"
+"traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","私のﾊﾟｽﾎﾟｰﾄはどうしたんですか？ ; 私のﾊﾟｽﾎﾟｰﾄは？ ; ﾊﾟｽﾎﾟｰﾄは？ ; この紙はなんです？ ﾊﾟｽﾎﾟｰﾄはどこ？"
+"traveler:DEFAULT","@It is being confiscated.","@押収されました。"
+"traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","どうやって移動すれば？ ; どうしたらいいですか？ ; なんで？ ; こんなことしていいわけない。"
+"traveler:DEFAULT","@Contact number on slip.","@伝票の番号に問い合わせて下さい。"
+"traveler:EZIC_INTRO","The Order awaits.","機関は君を待っている。"
+"traveler:EZIC_CORMAN","Very good.","結構。"
+"traveler:EZIC_CORMAN","Read quickly.","急いで読め。"
+"traveler:EZIC_CORMAN","Do not lose this.","これを失くすな。"
+"traveler:EZIC_CORMAN","You have something of mine.","私に渡すものがあるだろう。"
+"traveler:EZIC_CORMAN","My name is Corman Drex.","私はCorman Drex。"
+"traveler:EZIC_CORMAN","Read the note then return it to me.","メモを読んだら返してくれ。"
+"traveler:EZIC_HANDLER_PRE0","Our agents are ready.","密使の準備は整った。"
+"traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","明日から開始する。"
+"traveler:EZIC_HANDLER_PRE0","Let them pass.","彼らを通すように。"
+"traveler:EZIC_AGENT0","The Order rises.","機関は立ち上がった。"
+"traveler:EZIC_AGENT0","The Order knows.","機関は知っている。"
+"traveler:EZIC_AGENT1","For Arstotzka and the Order.","ｱﾙｽﾄﾂｶと機関のために。"
+"traveler:EZIC_HANDLER_POST1","Give me the coded documents.","暗号文書を渡せ。"
+"traveler:EZIC_HANDLER_POST1","Both.","両方だ。"
+"traveler:EZIC_HANDLER_EXT","Today.","今日。"
+"traveler:EZIC_AGENT_EXT","For Arstotzka and the Order.","ｱﾙｽﾄﾂｶと機関のために。"
+"traveler:EZIC_AGENT_EXT","The others do not agree, but I believe the man in red is not a threat.","機関は賛成しなかったが、赤い男は大した脅威じゃないだろう。"
+"traveler:EZIC_AGENT_EXT","@What?","@え？"
+"traveler:EZIC_AGENT_EXT","Nevermind.","なんでもない。"
+"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","狙撃して殺せ。"
+"traveler:EZIC_DIPLO","I require my passport.","ﾊﾟｽﾎﾟｰﾄが必要なんだが。"
+"traveler:EZIC_DIPLO","@It has been confiscated.","@押収されました。"
+"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","私は政府の要請で来たｺﾚﾁｱの外交官だぞ。"
+"traveler:EZIC_DIPLO","Return passport at once.","今すぐﾊﾟｽﾎﾟｰﾄを返しなさい。"
+"traveler:EZIC_DIPLO","@Call number on slip to recover.","@補償には伝票の番号まで問い合わせて下さい。"
+"traveler:EZIC_DIPLO","Barbarian.","野蛮人め。"
+"traveler:EZIC_DIPLO","You cannot do this.","こんなことする権利は無いぞ。"
+"traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","ヤツが入国するのを見た。"
+"traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","そのﾊﾟｽﾎﾟｰﾄを渡すんだ。"
+"traveler:EZIC_DIPLO_FOLLOW","Ah good.","いいだろう。"
+"traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","ヤツと俺は十分似ているだろう。"
+"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","あとは髭さえそればいい。"
+"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","犠牲は付きものだからな。"
+"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","ビザを許可してくれ。"
+"traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","ｱﾙｽﾄﾂｶと機関のために。"
+"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","話が違うぞ。"
+"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","外交官のﾊﾟｽﾎﾟｰﾄを受け取りに来たんだ。"
+"traveler:EZIC_DIPLO_FOLLOW","@I do not have it.","@私は持っていません。"
+"traveler:SECRET_POLICE_INTRO","Good morning, inspector.","お早う、審査官。"
+"traveler:SECRET_POLICE_INTRO","You are healthy today yes?","今日も元気かね？"
+"traveler:SECRET_POLICE_INTRO","I have just few questions for you.","いくつか質問があるのだよ。"
+"traveler:SECRET_POLICE_INTRO","There was problem at Metro last night.","昨晩、地下鉄で問題が起こった。"
+"traveler:SECRET_POLICE_INTRO","Maybe you read about it in paper.","君も新聞で読んだだろう。"
+"traveler:SECRET_POLICE_INTRO","Is very big news.","大きく報道されてたからね。"
+"traveler:SECRET_POLICE_INTRO","We think it is not accident.","我々はあれは事故ではないと<br>考えている。"
+"traveler:SECRET_POLICE_INTRO","We think it is caused by suspicious group.","不審な組織が起こしたものだと。"
+"traveler:SECRET_POLICE_INTRO","We think some members pass through this checkpoint.","そしてそのメンバーは検問所を<br>通過したのではないか。"
+"traveler:SECRET_POLICE_INTRO","So we come talk to you.","だから君と話をしに来たのだ。"
+"traveler:SECRET_POLICE_INTRO","Have you seen anything like this?","このような物を見たことはないかな？"
+"traveler:SECRET_POLICE_INTRO","Is some kind of symbol for group.","組織のシンボルなんだがね。"
+"traveler:SECRET_POLICE_INTRO","If you have any information, you give to us yes?","何か情報を得たら、我々に<br>知らせてもらえるね？"
+"traveler:SECRET_POLICE_INTRO","Yes?","はい？"
+"traveler:SECRET_POLICE_INTRO","@Yes.","@はい。"
+"traveler:SECRET_POLICE_INTRO","Very good.","大変よろしい。"
+"traveler:SECRET_POLICE_INTRO","Please return my badge and paper.","バッジと紙を返してくれ。"
+"traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","不審な組織が問題を起こそうとしていると我々は見ている。"
+"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","そのメンバーは何人かこの検問所に来るだろう。"
+"traveler:SECRET_POLICE_INTRO","What is this?","なんだこれは？"
+"traveler:SECRET_POLICE_INTRO","Interesting.","興味深い。"
+"traveler:SECRET_POLICE_INTRO","Yes, very interesting.","あぁ、実に興味深い。"
+"traveler:SECRET_POLICE_INTRO","I think it is best if you come with me.","私と一緒に来てくれるかな。"
+"traveler:SECRET_POLICE_INTRO","This group is very dangerous.","この組織は非常に危険だ。"
+"traveler:SECRET_POLICE_INTRO","If you see any curious thing, report immediately.","少しでもおかしな物を見たら、<br>報告してくれ。"
+"traveler:SECRET_POLICE_CAUGHT","Hello inspector.","やぁ審査官。"
+"traveler:SECRET_POLICE_CAUGHT","There is small discrepancy with your finances.","君の収入に少し矛盾がある<br>ようだね。"
+"traveler:SECRET_POLICE_CAUGHT","The Ministry of Income was thoughtful enough to notify us.","情報省がわざわざ報告してくれたのだよ。"
+"traveler:SECRET_POLICE_CAUGHT","It is best if you come with me.","私と一緒に来てもらおうか。"
+"traveler:SECRET_POLICE_FINAL","Inspector.","審査官。"
+"traveler:SECRET_POLICE_FINAL","It has been some time.","あれから大分経った。"
+"traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","今日の公報をよく読むように。"
+"traveler:SECRET_POLICE_FINAL","We will be speaking with many workers.","我々は多くの職員と話すことになる。"
+"traveler:SECRET_POLICE_FINAL","Your audit comes soon.","君の調査も遠くない。"
+"traveler:SECRET_POLICE_FINAL","I will personally conduct it.","私が個人的に執り行おう。"
+"traveler:SECRET_POLICE_FINAL","There is nothing to fear.","恐れることは何も無い。"
+"traveler:SECRET_POLICE_FINAL","Work hard.","職務に励むように。"
+"traveler:JORJI_BASE","All right! You the best!","おぉう！お前サイコー！"
+"traveler:JORJI_BASE","Arstotzka the best!","ｱﾙｽﾄﾂｶ、サイコー！"
+"traveler:JORJI_BASE","Here, take this!","コレ、やる！"
+"traveler:JORJI0","Ok! Here we go!","よし！いくゾー！"
+"traveler:JORJI0","Glory to Arstotzka!","ｱﾙｽﾄﾂｶに栄光あれ！"
+"traveler:JORJI0","The greatest country!","世界一の国！"
+"traveler:JORJI0","@Where is your passport?","@ﾊﾟｽﾎﾟｰﾄは？"
+"traveler:JORJI0","Passport!","ﾊﾟｽﾎﾟｰﾄ！"
+"traveler:JORJI0","Arstotzka so great, passport not required.","素晴らしい国ｱﾙｽﾄﾂｶは<br>ﾊﾟｽﾎﾟｰﾄいらない。"
+"traveler:JORJI0","Right?","そだろ？"
+"traveler:JORJI0","@A passport is required.","@ﾊﾟｽﾎﾟｰﾄは必要です。"
+"traveler:JORJI0","Ok, ok. I hear you.","はいはい、わかた。"
+"traveler:JORJI0","I come back again.","また来るゾ。"
+"traveler:JORJI1","Ok! Hello again!","よし！また会ったナ！"
+"traveler:JORJI1","Now I have passport!","今回はﾊﾟｽﾎﾟｰﾄ持てきた！"
+"traveler:JORJI1","Arstotzka still best country for sure!","絶対ｱﾙｽﾄﾂｶが一番だ！"
+"traveler:JORJI1","@This passport is crude fake.","@これはひどい偽物ですね。"
+"traveler:JORJI1","Hey now! Is not true!","なんだて！まさかあ！"
+"traveler:JORJI1","Is pre-approved!","承認されたものだゾ！"
+"traveler:JORJI1","@ Cobrastan is not a real country.","@ コブラスタンなんて国は<br>ありません。"
+"traveler:JORJI1","Ok, ok.","わかた、わかた。"
+"traveler:JORJI1","You no like passport, I understand.","このﾊﾟｽﾎﾟｰﾄ気に入らないか、そか。"
+"traveler:JORJI1","I come back again with better one.","良いやつ持って<br>また来るゾ。"
+"traveler:JORJI2","Old friend hello!","オッスー、我が友！"
+"traveler:JORJI2","I am back again!","戻てきたゾ！"
+"traveler:JORJI2","This time everything set.","今度はカンペキ。"
+"traveler:JORJI2","@You are missing an entry permit.","@入国許可証がありません。"
+"traveler:JORJI2","Oh man you funny guy!","なんだい、笑えるナー！"
+"traveler:JORJI2","@An entry permit is required.","@入国許可証が必要です。"
+"traveler:JORJI2","Wow, you run very strict border here.","わぁ、ここ厳しくしてる。"
+"traveler:JORJI2","That is good. Do job right.","良いことだ。<br>しっかり仕事しろナ。"
+"traveler:JORJI2","I look for entry thing and come back.","入国なんとか持て<br>また来るナ。"
+"traveler:JORJI3","Hey it is me!","オレだゾ！"
+"traveler:JORJI3","Are you happy to see?","会えて嬉しいナ？"
+"traveler:JORJI3","I have everything you ask for now.","お前が言てたもの全部ある。"
+"traveler:JORJI3","@Tickets are no longer accepted.","@入国券はもう認められません。"
+"traveler:JORJI3","Hey no!","なんだて！"
+"traveler:JORJI3","Guy sold me ticket. Say is good!","あいつ、これイケると<br>売ってきたんだ！"
+"traveler:JORJI3","You check again maybe.","たぶんまた審査してもらうゾ。"
+"traveler:JORJI3","@Do not come back again.","@もう来ないで下さい。"
+"traveler:JORJI3","Haha!","わはは！"
+"traveler:JORJI3","You nice guy but I have business in Arstotzka.","お前いい奴だ、でも<br>ｱﾙｽﾄﾂｶに仕事ある。"
+"traveler:JORJI3","I get right papers and come see you.","ちゃんとした書類そろえる<br>会いに来るゾ。"
+"traveler:JORJI4","Hello my guy!","ヨウ相棒！"
+"traveler:JORJI4","Ok. Today is day!","さぁ。今日こそは！"
+"traveler:JORJI4","Look at all good papers.","ステキな書類見てくれ。"
+"traveler:JORJI4","Was not easy.","大変だたゾ。"
+"traveler:JORJI4","Or cheap! Haha!","安くなかたしナ！わはは！"
+"traveler:JORJI4","@I told you not to come back.","@もう来ないで下さいと<br>言いましたよね。"
+"traveler:JORJI4","This is crap.","くそーう。"
+"traveler:JORJI4","You know what? Forget it.","もういい、ゼンブ忘れてくれ。"
+"traveler:JORJI4","Arstotzka worst country.","ｱﾙｽﾄﾂｶ最悪の国。"
+"traveler:JORJI4","You worst person.","お前も最悪の人間。"
+"traveler:JORJI4","Thank you so much!","どうもありがとナ！"
+"traveler:JORJI4","If I am honest to you, I was little nervous.","正直はなすと、ちょと心配だた。"
+"traveler:JORJI4","Even with right papers is hard to say.","本物の書類でも通ること難しい<br>聞いてたからナ。"
+"traveler:JORJI4","Ok bye!","よし、じゃあナ！"
+"traveler:JORJI_SMUGGLE0","Again I am here!","また来たゾー！"
+"traveler:JORJI_SMUGGLE0","Everything all set up now.","全部ちゃんと準備した。"
+"traveler:JORJI_SMUGGLE0","I come through often to see you.","お前にたくさん会いにきてる。"
+"traveler:JORJI_SMUGGLE0","We become good friends!","もう親友だナ！"
+"traveler:JORJI_SMUGGLE0","@Your weight is different.","@体重が一致しません。"
+"traveler:JORJI_SMUGGLE0","Is sad story.","聞いてくれ。"
+"traveler:JORJI_SMUGGLE0","My wife very bad cook.","カミさんひどい料理下手でナ。"
+"traveler:JORJI_SMUGGLE0","But if I do not eat, she get angry.","でも食べないとき、怒られる。"
+"traveler:JORJI_SMUGGLE0","Uh oh, maybe you not like this!","おっとう、<br>これはきと気に入らないナ！"
+"traveler:JORJI_SMUGGLE0","@What is this?","@コレは何ですか？"
+"traveler:JORJI_SMUGGLE0","Is drugs!","クスリだゾ！"
+"traveler:JORJI_SMUGGLE0","I have little side business here.","ちょと副業があるんだナ。"
+"traveler:JORJI_SMUGGLE0","You let me through and I give you something something.","通してくれれば、お前にも<br>いいものやる。"
+"traveler:JORJI_SMUGGLE0","@Something what?","@いいものって？"
+"traveler:JORJI_SMUGGLE0","Ten credits.","10ｸﾚｼﾞｯﾄだ。"
+"traveler:JORJI_SMUGGLE0","I give you ten credits for just little stamp.","ちいさいハンコひとつ<br>10ｸﾚｼﾞｯﾄやる。"
+"traveler:JORJI_SMUGGLE0","@Wait here Jorji.","@ここで待つんだな、Jorji。"
+"traveler:JORJI_SMUGGLE0","Is ok, I understand.","そか、わかたよ。"
+"traveler:JORJI_SMUGGLE0","Drugs are bad. Not good for kids.","クスリよくない。<br>子供たちにワルイ。"
+"traveler:JORJI_SMUGGLE0","You do great work here still.","お前やぱりいい仕事してるナ。"
+"traveler:JORJI_SMUGGLE0","Ok!","よし！"
+"traveler:JORJI_SMUGGLE0","We go full speed!","全速でいくゾ！"
+"traveler:JORJI_SMUGGLE0","Hey what is problem?","ん、どうした？"
+"traveler:JORJI_SMUGGLE0","@I do not trust you.","@あなたは信用できません。"
+"traveler:JORJI_SMUGGLE0","Ok, ok.","わかた、わかた。"
+"traveler:JORJI_SMUGGLE0","You good guy so I win trust next time.","お前いいやつ、次はちゃんとする。"
+"traveler:JORJI_SMUGGLE1","Ok, I am back!","よし、戻たゾ！"
+"traveler:JORJI_SMUGGLE1","Same procedure!","いつも通りだ！"
+"traveler:JORJI_SMUGGLE1","They told me this hard business.","みんなタイヘンなことだと<br>言てくる。"
+"traveler:JORJI_SMUGGLE1","So far everything smooth like ice!","でも今のところ氷みたい<br>スルスルだゾ！"
+"traveler:JORJI_SMUGGLE1","Thanks to you!","ありがとナ！"
+"traveler:JORJI_SMUGGLE1","Buy something happy for wife.","奥さんにいいもの買てあげるのがいい。"
+"traveler:JORJI_SMUGGLE1","Phew!","ふーう！"
+"traveler:JORJI_SMUGGLE1","Was tough one. Lucky for me, guard was easy.","危ない。護衛が簡単でオレ運がいい。"
+"traveler:JORJI_SMUGGLE1","He asks for big money but is reasonable man.","大金言われたけど、負けて<br>くれた。"
+"traveler:JORJI_SMUGGLE1","Oh man, again!","なんだい、まただナ！"
+"traveler:JORJI_SMUGGLE1","That guard have another good day.","あの護衛もいい日になるといい！"
+"traveler:JORJI_SMUGGLE1","Not sure I keep this up with no sales!","売れないとこのままじゃ<br>マズイナ！"
+"traveler:JORJI_SMUGGLE1","Ok, we try again!","よし、また頑張ろう！"
+"traveler:JORJI_SMUGGLE1","Sorry to bother you, but this my only job.","面倒ごめんナ、でもオレ仕事は<br>これだけ。"
+"traveler:JORJI_SMUGGLE1","@Wait here, Jorji.","@ここで待つんだな、Jorji。"
+"traveler:JORJI_SMUGGLE1","Is ok, I understand.","そか、わかたよ。"
+"traveler:JORJI_SMUGGLE1","Drugs are bad. Not good for kids.","クスリよくない。<br>子供たちにワルイ。"
+"traveler:JORJI_SMUGGLE1","You do great work here still.","お前やぱりいい仕事してるナ。"
+"traveler:JORJI_SMUGGLE1","@I see a difference here.","@ここが一致しませんね。"
+"traveler:JORJI_SMUGGLE1","Is real mystery for sure.","オレにもほんとに謎だ。"
+"traveler:JORJI_SMUGGLE1","Maybe things get too sexy in here.","ここもｴﾛｽになてきたナ。"
+"traveler:JORJI_SMUGGLE1","@Drugs?","@薬物か？"
+"traveler:JORJI_SMUGGLE1","Looks like good stuff right?","いいものだ思うだろ？"
+"traveler:JORJI_SMUGGLE1","Wait! I give you 10 credits for ok stamp!","待てくれ！通れるﾊﾝｺで<br>10ｸﾚｼﾞｯﾄやる！"
+"traveler:JORJI_SMUGGLE1","Think about family!","家族のこと考えろナ？"
+"traveler:JORJI_SMUGGLE1","They can buy many happy things with these credits.","このｸﾚｼﾞｯﾄでﾊｯﾋﾟｰなもの<br>いぱい買えるゾ。"
+"traveler:JORJI_SMUGGLE1","Just for little harmless drugs!","無害なおクスリ少しでだゾ！"
+"traveler:JORJI_SMUGGLE1","This much better, see?","この方がいいナ？"
+"traveler:JORJI_SMUGGLE1","Wow, you really stand-up guy.","わぁ、お前ほんとに正しい男だナ。"
+"traveler:JORJI_SMUGGLE1","Maybe is not so good for me when I think about.","考えてみるなら、オレにもよくないナ。"
+"traveler:JORJI_CRIMINAL","Is good to see you again!","また会えて嬉しいゾ！"
+"traveler:JORJI_CRIMINAL","Today I come just for short visit.","今日は少し観光に来たんだナ。"
+"traveler:JORJI_CRIMINAL","Everything is definitely ok with me.","ゼンブがばちり大丈夫だゾ。"
+"traveler:JORJI_CRIMINAL","For sure I am not in criminal bulletin or anything!","オレは指名手配で公報に<br>載てないからナ！"
+"traveler:JORJI_CRIMINAL","@Your face is in wanted bulletin.","@公報の指名手配犯として顔が載ってる。"
+"traveler:JORJI_CRIMINAL","What! I pay police like crazy!","えぇ！警察にバカみたいに<br>いぱい払ったゾ！"
+"traveler:JORJI_CRIMINAL","They promise no bulletin. All clear they say.","公報載せない約束したゾ。<br>大丈夫だ言てた。"
+"traveler:JORJI_CRIMINAL","I think twice about trusting friendly people.","優しい人はこれから信じちゃ<br>ダメと思う。"
+"traveler:JORJI_CRIMINAL","Hey I really like you.","なぁ、お前はとても好きだゾ。"
+"traveler:JORJI_CRIMINAL","I know is risky to help me like this.","オレを助けるはとても危ないと<br>知てる。"
+"traveler:JORJI_CRIMINAL","I try to make it up for you.","お前のために何かするゾ。"
+"traveler:JORJI_CRIMINAL","Ah, is ok.","あぁ、わかた。"
+"traveler:JORJI_CRIMINAL","At least you do not arrest me.","逮捕はしない助かる。"
+"traveler:JORJI_CRIMINAL","Thanks anyways.","まぁありがとナ。"
+"traveler:JORJI_CRIMINAL","@Sorry Jorji.","@すまないJorji。"
+"traveler:JORJI_CRIMINAL","Ah, is ok. Most police know me now.","あぁ、わかた。警察ほとんど<br>オレ知てる。"
+"traveler:JORJI_CRIMINAL","I have little talk with them again.","また少しおしゃべりしてくるゾ。"
+"traveler:JORJI_CRIMINAL","Anyway, you have tough job.","でもお前は大変な仕事だ。"
+"traveler:JORJI_CRIMINAL","I rather sell drugs!","オレならクスリ売るのがマシ！"
+"traveler:JORJI_PASSPORTS","I read newspaper.","新聞よんだ。"
+"traveler:JORJI_PASSPORTS","@Hello Jorji.","@やぁ、Jorji。"
+"traveler:JORJI_PASSPORTS","Things getting little crazy in Arstotzka.","ｱﾙｽﾄﾂｶおかしくなてきた。"
+"traveler:JORJI_PASSPORTS","Maybe you think about going away for a bit.","ちょと離れるいいかもしれないゾ？"
+"traveler:JORJI_PASSPORTS","Obristan is good place.","ｵﾌﾞﾘｽﾀﾝいい国だ。"
+"traveler:JORJI_PASSPORTS","Right next door up north.","少し北に行くだけ。"
+"traveler:JORJI_PASSPORTS","@Our passports have been confiscated.","@ﾊﾟｽﾎﾟｰﾄは全部押収された。"
+"traveler:JORJI_PASSPORTS","@We cannot leave.","@ここを去ることはできない。"
+"traveler:JORJI_PASSPORTS","Hey that not good sign.","それは悪いはなしだナ。"
+"traveler:JORJI_PASSPORTS","Hold on.","そだ。"
+"traveler:JORJI_PASSPORTS","I know a guy.","オレの知り合いいる。"
+"traveler:JORJI_PASSPORTS","Just give him real passports to work with.","本物のﾊﾟｽﾎﾟｰﾄあれば頼める。"
+"traveler:JORJI_PASSPORTS","He changes info to match for you.","お前の情報に書き換えてくれる。"
+"traveler:JORJI_PASSPORTS","I learn that in hard way.","オレもいぱい勉強したからナ。"
+"traveler:JORJI_PASSPORTS","Thanks again!","ありがとナ！"
+"traveler:JORJI_PASSPORTS","Bah! Maybe you right.","ふん！お前正しいかもナ。"
+"traveler:JORJI_PASSPORTS","Better to take little break.","少し休むがいいかもしれない。"
+"traveler:JORJI_PASSPORTS","Hey what the hell?","ふざけるナー！"
+"traveler:JORJI_PASSPORTS","You take my passport!","ﾊﾟｽﾎﾟｰﾄとるか！"
+"traveler:JORJI_PASSPORTS","You can see it was expensive!","高かったのわかてるだろ！"
+"traveler:JORJI_PASSPORTS","@You said I need real Obristan passports.","@本物のｵﾌﾞﾘｽﾀﾝのﾊﾟｽﾎﾟｰﾄが必要だと聞いたので。"
+"traveler:JORJI_PASSPORTS","Man. Fine.","くそう。いい。"
+"traveler:JORJI_PASSPORTS","I get another but little unhappy about it.","新しいの手に入れるけど、ちょと悲しい。"
+"traveler:JORJI_PASSPORTS","Memorize flyer and give back.","チラシ暗記して、返してくれ。"
+"traveler:JORJI_PASSPORTS","Hey you know what.","あぁ、そだ。"
+"traveler:JORJI_PASSPORTS","Take my passport.","オレのﾊﾟｽﾎﾟｰﾄやるゾ。"
+"traveler:JORJI_PASSPORTS","I get another one no problem.","また新しいの手に入れる大丈夫。"
+"traveler:JORJI_PASSPORTS","Now memorize flyer and give back if you finish reading.","さぁ、チラシ暗記して、読み終わたら返してくれ。"
+"traveler:JORJI_PASSPORTS","Do not want to get in trouble!","問題起こしたくないだろ！"
+"traveler:JORJI_PASSPORTS","Obristan really great this time of year.","ｵﾌﾞﾘｽﾀﾝ今すごくいい<br>季節だゾ。"
+"traveler:JORJI_PASSPORTS","Lots of snow.","雪もたくさんある。"
+"traveler:JORJI_PASSPORTS","Not sure where you get more passports for family.","家族のﾊﾟｽﾎﾟｰﾄどう手に入れればいいかオレわからないナ。"
+"traveler:JORJI_PASSPORTS","But you smart guy.","でもお前かしこい。"
+"traveler:JORJI_PASSPORTS","Probably figure it out!","なんとかできるだろ！"
+"traveler:JORJI_PASSPORTS","Good luck.","頑張れ。"
+"traveler:JORJI_GOODBYE","Ho boy! I make big score!","よー大将！オレはやった！"
+"traveler:JORJI_GOODBYE","Huge! You have no idea!","でっかい仕事。<br>想像できないだろな。"
+"traveler:JORJI_GOODBYE","Anyway. I just want to say thank you.","とにかく。お礼言いに来たゾ。"
+"traveler:JORJI_GOODBYE","I wait in line just for that!","それだけのため列に並んだ！"
+"traveler:JORJI_GOODBYE","Maybe I quit now.","これで終わりすると思う。"
+"traveler:JORJI_GOODBYE","Haha!","わはは！"
+"traveler:BROTHEL0","Hello handsome.","こんにちはイケメンさん。"
+"traveler:BROTHEL0","You look bored.","退屈そうね。"
+"traveler:BROTHEL0","If you want good time, come see us.","いいことがしたい時は、ウチの店に来てね。"
+"traveler:BROTHEL0","I will be around couple months.","数ヶ月はいるから。"
+"traveler:BROTHEL0","Don't forget to visit.","会いに来てよ。"
+"traveler:BROTHEL1","Hey there.","あらどうも。"
+"traveler:BROTHEL1","I can make you happy any time.","私ならいつでもあなたを<br>気持ちよくできるわよ。"
+"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","ピンク・ヴァイスに来て。<br>Avaを指名して。"
+"traveler:BROTHEL2","Oh. Here.","あ、これを。"
+"traveler:BROTHEL2","Please help me.","助けて下さい。"
+"traveler:BROTHEL3","Hello friend.","やぁ友よ。"
+"traveler:BROTHEL3","You come down, I give you good girl.","町に来たら、<br>いい娘を紹介するよ。"
+"traveler:BROTHEL3","That little bitch.","あのクソアマ。"
+"traveler:BROTHEL3","I break her in two.","八つ裂きにしてやる。"
+"traveler:BROTHEL3","@You are Dari Ludum?","@Dari Ludumさん？"
+"traveler:BROTHEL3","Of course, it says on passport.","もちろん、ﾊﾟｽﾎﾟｰﾄの通りだ。"
+"traveler:BROTHEL3","@One moment.","@少々お待ち下さい。"
+"traveler:BROTHEL3","What is this shit?","なんだよコイツは？"
+"traveler:BROTHEL3","Give my papers back.","書類を返してくれ。"
+"traveler:KILLERATHLETE","@You are Vince Lestrade?","@Vince Lestradeさん？"
+"traveler:KILLERATHLETE","Damn.","くそっ。"
+"traveler:KILLERATHLETE","Look, I did not kill her. I was set up.","聞いてくれ、<br>俺はハメられたんだ。"
+"traveler:KILLERATHLETE","Do not believe the Republian lies.","リパブリア人どもの嘘を<br>信じるな。"
+"traveler:KILLERATHLETE","Let me through.","通してくれ。"
+"traveler:KILLERATHLETE","Shit.","ちくしょう。"
+"traveler:HUSBAND_WIFE0","Today is beautiful day, my friend.","友よ、<br>今日はなんて美しい日だろう。"
+"traveler:HUSBAND_WIFE0","We finally become free from Antegrian tyranny!","アンテグリアの圧政から<br>やっと解放されるんだ！"
+"traveler:HUSBAND_WIFE0","Thank you so much!","本当にありがとう！"
+"traveler:HUSBAND_WIFE0","Please be kind to my wife, she is just after me.","妻にも優しくしてくれよ、<br>すぐ後ろに並んでるから。"
+"traveler:HUSBAND_WIFE0","No! They will kill us!","そんな！奴らに殺される！"
+"traveler:HUSBAND_WIFE0","Please, I beg you.","お願いだ、頼む。"
+"traveler:HUSBAND_WIFE0","Let my wife pass. She is coming to you next.","妻は通してやってくれ。<br>次の順番なんだ。"
+"traveler:HUSBAND_WIFE1","Did you see my husband?","主人には会いました？"
+"traveler:HUSBAND_WIFE1","He made it through, yes?","入国できたのよね？"
+"traveler:HUSBAND_WIFE1","@Where is your entry permit?","@入国許可証は？"
+"traveler:HUSBAND_WIFE1","Please, I beg you.","どうか、お願いです。"
+"traveler:HUSBAND_WIFE1","They would not give me permit. I have no choice.","政府がを発行してくれません。<br>無理なんです。"
+"traveler:HUSBAND_WIFE1","I will be killed if I return to Antegria.","アンテグリアに戻ったら<br>殺されます。"
+"traveler:HUSBAND_WIFE1","Thank you.","ありがとう。"
+"traveler:HUSBAND_WIFE1","We will not forget.","きっと忘れないわ。"
+"traveler:HUSBAND_WIFE1","Why?","なんでよ？"
+"traveler:HUSBAND_WIFE1","You have doomed me.","もう終わりだわ。"
+"traveler:HUSBAND_WIFE1","Why did you turn my husband away?","どうして主人を追い返したの？"
+"traveler:HUSBAND_WIFE1","I will not leave him to die.","彼を一人で死なせるわけには<br>いかない。"
+"traveler:HUSBAND_WIFE1","You have doomed us both.","あなたのせいで<br>私たちは終わりね。"
+"traveler:HIRING_ENGINEERS_START","You see many people, yes?","あなた、色んな人に<br>会いますよね？"
+"traveler:HIRING_ENGINEERS_START","I am looking for engineers.","ｴﾝｼﾞﾆｱを探してるんです。"
+"traveler:HIRING_ENGINEERS_START","Do me a favor.","頼まれてくれますか。"
+"traveler:HIRING_ENGINEERS_START","Give my card to any engineers you meet.","ｴﾝｼﾞﾆｱに会ったら私の名刺を渡して下さい。"
+"traveler:HIRING_ENGINEERS_START","I come back in few days.","数日後に戻りますから。"
+"traveler:HIRING_ENGINEERS_START","Pay you 5 credits for each engineer that calls me.","問い合わせがあったｴﾝｼﾞﾆｱ<br>1人につき5ｸﾚｼﾞｯﾄ差し上げます。"
+"traveler:HIRING_ENGINEERS_START","You make a mistake but I let you fix it.","あなたは間違いを犯したようですが、まぁいいですよ。"
+"traveler:HIRING_ENGINEERS","What is this?","なんですかコレ？"
+"traveler:HIRING_ENGINEERS","Oh. Huh. ; Huh. ; They are hiring?","へぇ。ふむ。. ; ふうむ。 ; 求人ですか？"
+"traveler:HIRING_ENGINEERS","I have already.","もういただきました。"
+"traveler:HIRING_ENGINEERS","Stop giving to me.","そんなに渡さないで下さい。"
+"traveler:HIRING_ENGINEERS","Forget it, take them both. I don't want.","もういいです、両方持ってて下さい。いりませんから。"
+"traveler:HIRING_ENGINEERS_END","Is good card, yes? ; Thanks ; These were not cheap you know. ;","いい名刺でしょう？ ; 感謝します。 ; 安くなかったですから。 ;"
+"traveler:HIRING_ENGINEERS_END","I am back.","戻ってきましたよ。"
+"traveler:HIRING_ENGINEERS_END","How many engineers did you meet?","何人のｴﾝｼﾞﾆｱに会えましたか？"
+"traveler:HIRING_ENGINEERS_END","I got no calls.","問い合わせは1件もありませんでした。"
+"traveler:HIRING_ENGINEERS_END","You gave my cards to no one.","誰にも名刺を渡さなかったんですね。"
+"traveler:HIRING_ENGINEERS_END","Thank you for nothing.","何もしないでくれてどうも。"
+"traveler:HIRING_ENGINEERS_END","I get only one call.","問い合わせは1件だけありました。"
+"traveler:HIRING_ENGINEERS_END","I'm lucky that he is good lead.","良い人材で良かったですよ。"
+"traveler:HIRING_ENGINEERS_END","Here is what I promised.","約束の分です。"
+"traveler:HIRING_ENGINEERS_END","I got two calls.","2件問い合わせがありました。"
+"traveler:HIRING_ENGINEERS_END","One guy, he was good.","1人はなかなか良かったです。"
+"traveler:HIRING_ENGINEERS_END","Other one not so much.","もう1人はそうでもなかったな。"
+"traveler:HIRING_ENGINEERS_END","Thanks anyways.","とにかく感謝します。"
+"traveler:HIRING_ENGINEERS_END","I got three calls.","3件問い合わせがありました。"
+"traveler:HIRING_ENGINEERS_END","Two guys were good.","2人はなかなか良かったです。"
+"traveler:HIRING_ENGINEERS_END","Last one was a fool. Didn't know basics.","最後の奴はダメですね。基礎もわかってない。"
+"traveler:HIRING_ENGINEERS_END","But is ok. I appreciate.","でもいいです。助かりました。"
+"traveler:HIRING_ENGINEERS_END","I got four calls.","4件問い合わせがありました。"
+"traveler:HIRING_ENGINEERS_END","Three were civil engineers. Useless.","3人は一般のｴﾝｼﾞﾆｱでした。使えません。"
+"traveler:HIRING_ENGINEERS_END","I need mechanicals. I told you.","私は機械の専門家が必要なんです。"
+"traveler:HIRING_ENGINEERS_END","Anyway, is ok. Last guy very sharp.","どちらにしろ、大丈夫です。最後の方はなかなか切れ者でしたし。"
+"traveler:HIRING_ENGINEERS_END","Thanks for the help.","協力に感謝します。"
+"traveler:FRIENDLY_GUARD0","Hello.","やぁ。"
+"traveler:FRIENDLY_GUARD0","I heard that you are from Nirsk?","ニルスクから来たって聞いたよ。"
+"traveler:FRIENDLY_GUARD0","I grew up there but I have not been back in many years.","俺もニルスク出身だけど、何年も帰ってないな。"
+"traveler:FRIENDLY_GUARD0","@It is still a shit-hole. As before.","@相変わらず、どぶのような<br>場所さ。"
+"traveler:FRIENDLY_GUARD0","Haha, of course. This is what I remember too.","はっは、そうだろうな。<br>俺もひどい思い出しかないよ。"
+"traveler:FRIENDLY_GUARD0","I am Sergiu. It is good to meet you.","俺はSergiu。話せてよかった。"
+"traveler:FRIENDLY_GUARD0","I will do my best to keep you safe.","君の安全のために<br>全力を尽くすよ。"
+"traveler:FRIENDLY_GUARD1","Thank you for yesterday.","昨日はありがとう。"
+"traveler:FRIENDLY_GUARD1","My aim is not like before.","俺も腕が落ちたもんだよ。"
+"traveler:FRIENDLY_GUARD2","There is more action at this checkpoint than in the war.","この検問所じゃ戦時中よりも<br>事件が多いな。"
+"traveler:FRIENDLY_GUARD2","I fought in Kolechia for 5 years.","俺はコレチアで5年戦ったんだ。"
+"traveler:FRIENDLY_GUARD2","If you think it is bad in Arstotzka, it is ten times worse in Kolechia.","ｱﾙｽﾄﾂｶが悪い状態だと<br>思うなら、コレチアはその<br>5倍ひどい。"
+"traveler:FRIENDLY_GUARD2","I do not blame them for coming here.","コレチア人がやって来るのも<br>仕方が無いさ。"
+"traveler:FRIENDLY_GUARD2","Anyways, you are doing well. Keep it up.","ともかく、いつもご苦労様。<br>頑張っていこう。"
+"traveler:FRIENDLY_GUARD3","Friend, how are you?","元気にやってるか？"
+"traveler:FRIENDLY_GUARD3","I have a small favor to ask.","ちょっと頼み事があるんだ。"
+"traveler:FRIENDLY_GUARD3","During the war, I met a beautiful girl.","実は戦争中に美しい女性と<br>出会ってね。"
+"traveler:FRIENDLY_GUARD3","I think about her every moment.","彼女のことが頭から離れない。"
+"traveler:FRIENDLY_GUARD3","Yesterday I receive word that she is finally coming here.","ようやくこっちに来られると、<br>昨日連絡があったんだよ。"
+"traveler:FRIENDLY_GUARD3","Please, let her pass and I will be in your debt.","世話をかけてしまうけど、<br>どうか彼女を通して欲しい。"
+"traveler:FRIENDLY_GUARD3","Her name is Elisa.","名前はElisaだ。"
+"traveler:FRIENDLY_GUARD4","Thank you for everything.","何もかも感謝する。"
+"traveler:FRIENDLY_GUARD4","Elisa is so happy here.","Elisaも本当に嬉しそうだった。"
+"traveler:FRIENDLY_GUARD4","She says our first son will have your name.","長男には君の名前を付けるんだ<br>なんて言ってたよ。"
+"traveler:FRIENDLY_GUARD4","This is fine but I told her I want a daughter first!","それは良いけど、俺は先に娘が<br>欲しいぞって言い返した！"
+"traveler:FRIENDLY_GUARD4","I would like to show the locket to her.","ロケットを彼女に見せたいんだ。"
+"traveler:FRIENDLY_GUARD4","Do you still have it?","まだ持ってるかい？"
+"traveler:FRIENDLY_GUARD4","Ah, I missed not having this with me.","あぁ、どれだけこれが<br>恋しかったか。"
+"traveler:FRIENDLY_GUARD4","It is not much, but we have found a small way to thank you.","大したものは渡せないけど、<br>お礼を受け取って欲しい。"
+"traveler:FRIENDLY_GUARD4","Elisa will deliver it to your home. I hope that it helps.","Elisaが家まで届けるよ。<br>役に立てくれ。"
+"traveler:FRIENDLY_GUARD4","Tomorrow I am transferred to another post.","俺は明日から別の場所へ<br>異動になったんだよ。"
+"traveler:FRIENDLY_GUARD4","Stay safe my friend.","気をつけて頑張れよ。"
+"traveler:FRIENDLY_GUARD4","Elisa did not come.","Elisaは来なかったよ。"
+"traveler:FRIENDLY_GUARD4","@She arrived, but her papers were not in order.","@彼女は来たが、必要書類に<br>不備があった。"
+"traveler:FRIENDLY_GUARD4","@Tell her to try again with the correct documents.","@正しい書類を揃えてまた来る<br>ように伝えてくれ。"
+"traveler:FRIENDLY_GUARD4","You know this is impossible.","無理だって知ってるだろう。"
+"traveler:FRIENDLY_GUARD4","If you have the locket, give it back to me.","ロケットを持ってるなら、<br>返してくれないか。"
+"traveler:ELISA","Do you know Sergiu?","Sergiuを知ってる？"
+"traveler:ELISA","He said you were friend. That you would help.","あなたは友達だから、<br>助けてくれるって。"
+"traveler:ELISA","Please, my family is gone.","お願い、もう家族も残ってない。"
+"traveler:ELISA","I have only Sergiu left.","私にはSergiuしかいないの。"
+"traveler:ELISA","@You do not have the required documentation.","@必要な書類が不足してますね。"
+"traveler:ELISA","I tried for so long.","ずっと手を尽くして来たわ。"
+"traveler:ELISA","They would not allow me to leave.","でも政府は私を国から<br>出してくれない。"
+"traveler:ELISA","I am denied?","拒否、なのね？"
+"traveler:ELISA","I understand.","わかったわ。"
+"traveler:ELISA","Please, tell Sergiu I will always love him.","お願い、Sergiuにいつまでも<br>愛していると伝えて。"
+"traveler:ELISA","We will be together in another life.","来世で一緒になりましょうって。"
+"traveler:ELISA","Return this for him to remember me.","私を思い出せるように、<br>これを彼に返してあげて。"
+"traveler:ELISA","Thank you so much.","どうもありがとう。"
+"traveler:ELISA","I will never forget your kindness.","この恩は一生忘れないわ。"
+"traveler:ELISA","@He is waiting for you.","@彼が待ってますよ。"
+"traveler:ELISA","My love.","愛しい人。"
+"traveler:ELISA","I miss him.","ずっと会いたかった。"
+"traveler:ELISA","@I am sorry. Sergiu was killed.","@申し訳ない。<br>Sergiuは殺された。"
+"traveler:ELISA","My Sergiu.","私の、Sergiu。"
+"traveler:ELISA","Thank you for your kindness.","ご親切にありがとう。"
+"traveler:ELISA","There is nothing for me here any more.","ここにはもう何の用もないわ。"
+"traveler:ELISA","Thank you.","ありがとうね。"
+"traveler:PRISON_GUARD_REPORTDETAINS","You detained nobody.","一人も拘束しなかったな。"
+"traveler:PRISON_GUARD_REPORTDETAINS","You detained only one person.","一人しか拘束しなかったな。"
+"traveler:PRISON_GUARD_REPORTDETAINS","You detained ${Game/NumDetains} people.","${Game/NumDetains}人拘束したな。"
+"traveler:PRISON_GUARD0","Hello.","やぁ。"
+"traveler:PRISON_GUARD0","@Are you the spy?","@貴方がスパイですか？"
+"traveler:PRISON_GUARD0","What? No.","は？いや違う。"
+"traveler:PRISON_GUARD0","I am guard here. My name is Calensk.","自分はここの護衛。<br>Calenskだ。"
+"traveler:PRISON_GUARD0","They told me I get good position, then send me here.","良いところだと聞いて、<br>ここに配備された。"
+"traveler:PRISON_GUARD0","This is thanks I get.","それには感謝している。"
+"traveler:PRISON_GUARD0","Now they pay me almost nothing.","でも給料は無いに等しい。"
+"traveler:PRISON_GUARD0","@They pay us all as much.","@私も同じようなものです。"
+"traveler:PRISON_GUARD0","Yes. But look.","あぁ。でも見てくれ。"
+"traveler:PRISON_GUARD0","I get small bonus when you detain people.","あんたが誰かを拘束する度に<br>少し手当が入るんだ。"
+"traveler:PRISON_GUARD0","More you detain, more they give me for processing.","あんたが拘束すればするほど、<br>自分は連行できて手当をもらえる。"
+"traveler:PRISON_GUARD0","But this is not fair, right? You should get something too.","でもそれって不公平だろ？<br>あんたも何かもらえるべきだ。"
+"traveler:PRISON_GUARD0","So I fix this problem.","そこで一肌脱ごうと思う。"
+"traveler:PRISON_GUARD0","I give you 5 credits from my bonus for every two people you detain.","二人拘束する度に、自分の手当<br>から5ｸﾚｼﾞｯﾄ渡す。"
+"traveler:PRISON_GUARD0","Sounds like good deal to me.","おいしい話だと思うが。"
+"traveler:PRISON_GUARD0","I give money to you after I get paid.","手当が支払われたら<br>渡しにくるよ。"
+"traveler:PRISON_GUARD0","Let us make the best of this.","互いに最善を尽くそう<br>じゃないか。"
+"traveler:PRISON_GUARD3","Here.","受け取ってくれ。"
+"traveler:PRISON_GUARD3","For bonus and selling bomb parts.","手当と爆弾の部品を売った分だ。"
+"traveler:PRISON_GUARD3","They move our station to prison.","我々の詰め所は牢の方に<br>移動されるらしい。"
+"traveler:PRISON_GUARD3","We still get bonus so keep detaining.~","手当は変わらず支給されるから<br>拘束を続けてくれ~"
+"traveler:PRISON_GUARD3","I stop visiting you here.","ここに訪れるのは今日で最後だ。"
+"traveler:PRISON_GUARD3","I will drop off money at your home instead.","これからはあんたの家に<br>金を置いていくよ。"
+"traveler:PRISON_GUARD3","Every other night.","1日おき、夜間に寄る。"
+"traveler:PRISON_GUARD_PAYOUT","What is going on?","一体どうしたんだ？"
+"traveler:PRISON_GUARD_PAYOUT","I am getting nothing because of you.","あんたのせいで手当が<br>一切もらえない。"
+"traveler:PRISON_GUARD_PAYOUT","Detain more people and we will both benefit.","もっと拘束してくれれば<br>お互いに利益になるだろ。"
+"traveler:PRISON_GUARD_PAYOUT","Good morning.","お早う。"
+"traveler:PRISON_GUARD_PAYOUT","You are not detaining enough people.","拘束人数が足りないな。"
+"traveler:PRISON_GUARD_PAYOUT","I have nothing to give you.","これじゃ分け前は無い。"
+"traveler:PRISON_GUARD_PAYOUT","Detain more to share part of my bonus.","手当を分けられるように<br>もっと拘束してくれ。"
+"traveler:PRISON_GUARD_PAYOUT","Bonus is good, they pay ok.","手当はちゃんと支給されている。"
+"traveler:PRISON_GUARD_PAYOUT","It is not much though.","ただ十分とは言えない。"
+"traveler:PRISON_GUARD_PAYOUT","Maybe you detain more people and we do better.","拘束人数を増やしてくれた方が<br>お互いにとって良いだろう。"
+"traveler:PRISON_GUARD_PAYOUT","@This is not enough.","@これじゃ足りません。"
+"traveler:PRISON_GUARD_PAYOUT","Yes, I know.","あぁ、分かっている。"
+"traveler:PRISON_GUARD_PAYOUT","My wife sick now. Neighbor spreads the flu.","女房が倒れた。近所で<br>ｲﾝﾌﾙｴﾝｻﾞが流行ってて。"
+"traveler:PRISON_GUARD_PAYOUT","This is what is left after medicine.","薬を買った残りがこれだけだ。"
+"traveler:PRISON_GUARD_PAYOUT","I give you rest next time.","あとはまた今度渡す。"
+"traveler:PRISON_GUARD_PAYOUT","Maybe you detain more people to make it easier.","拘束を増やしてくれれば<br>もっと楽になるだろう。"
+"traveler:PRISON_GUARD_PAYOUT","Here is your cut.","これがあんたの取り分だ。"
+"traveler:PRISON_GUARD_PAYOUT","@There is more from last time.","@前回よりは増えましたね。"
+"traveler:PRISON_GUARD_PAYOUT","This is all I have now but soon I make up rest.","今はこれで精一杯だが<br>次までにはなんとかする。"
+"traveler:PRISON_GUARD_PAYOUT","Again it is a little short.","まだ数が少し足りない。"
+"traveler:PRISON_GUARD_PAYOUT","Keep detaining and I pay you back soon.","拘束を続けてくれ、<br>その内ちゃんと支払う。"
+"traveler:PRISON_GUARD_BOMB","What is going on?","一体何があった？"
+"traveler:PRISON_GUARD_BOMB","Oh. Hah.","おぉ、なるほど。"
+"traveler:PRISON_GUARD_BOMB","What is this amateur shit?","なんだよこの素人仕事は？"
+"traveler:PRISON_GUARD_BOMB","@Should we evacuate?","@避難すべきですかね？"
+"traveler:PRISON_GUARD_BOMB","For that little thing? No of course not.","このちっこいののために？<br> バカな。"
+"traveler:PRISON_GUARD_BOMB","Just disable it. Open the cover.","解除するんだ。蓋をあけてみろ。"
+"traveler:PRISON_GUARD_BOMB","Stupid fucking terrorist.","無能なくそテロリストめ。"
+"traveler:PRISON_GUARD_BOMB","Could not even add a display.","ﾃﾞｨｽﾌﾟﾚｲすらつけてない。"
+"traveler:PRISON_GUARD_BOMB","@What should I do now?","@それでどうしたら？"
+"traveler:PRISON_GUARD_BOMB","This is poorest bomb I ever see. A simple mind created this.","こんな酷い爆弾は初めてみた。<br>単細胞が作ったんだろうな。"
+"traveler:PRISON_GUARD_BOMB","Just cut the wires in order.","順番に電線を切ればいい。"
+"traveler:PRISON_GUARD_BOMB","Ok, all done. Back to work.","よし、完了だ。仕事に戻るぞ。"
+"traveler:PRISON_GUARD_BOMB","@We should close the checkpoint.","@検問所を閉鎖すべきでは？"
+"traveler:PRISON_GUARD_BOMB","Bullshit. I need to earn money today.","阿呆か。今日もしっかり<br>稼ぐんだよ。"
+"traveler:PRISON_GUARD_BOMB","Give bomb to me.","爆弾を渡してくれ。"
+"traveler:PRISON_GUARD_BOMB","I sell materials and give you cut.","部品を売っ払って分け前を渡す。"
+"traveler:PRISON_GUARD_BOMB","What a piece of shit.","なんて酷い代物だ。"
+"traveler:PRISON_GUARD_BOMB","I doubt it is even worth much.","大した金にはならないだろうな。"
+"traveler:PRISON_GUARD_BOMB","Call the next immigrant.","さぁ次の移住者を呼ぶんだ。"
+"traveler:TIME_BOMBER","DEATH TO ARSTOTZKA!","ｱﾙｽﾄﾂｶに死を！"
+"traveler:BOSS_REPORTCITATIONS","You have received no citations.","通告は一つも受けていないようだ。"
+"traveler:BOSS_REPORTCITATIONS","You have received one citation.","受けた通告は1つだけだな。"
+"traveler:BOSS_REPORTCITATIONS","You have received ${Game/NumCitations} citations.","受けた通告は ${Game/NumCitations} 個か。"
+"traveler:BOSS0","So.~","ふむ~"
+"traveler:BOSS0","You are inspector here.~","君がここの審査官か~"
+"traveler:BOSS0","That makes you my responsibility.~","つまり私の管理下にある<br>ということだ~"
+"traveler:BOSS0","You make Arstotzka proud.~","ｱﾙｽﾄﾂｶは君を誇りに思う~"
+"traveler:BOSS0","Hang it on wall here.","この壁にかけておけ。"
+"traveler:BOSS0","I return in 10 days.~","10日後にまた来る~"
+"traveler:BOSS0","Maintain your diligence.","引き続き励むように。"
+"traveler:BOSS0","Glory to Arstotzka.","ｱﾙｽﾄﾂｶに栄光あれ。"
+"traveler:BOSS0","Perhaps it was mistake to rely on lottery.","抽選制度は間違いかもしれんな。"
+"traveler:BOSS0","Let this motivate you.~","もっと精進するように~"
+"traveler:BOSS0","Do not embarrass me.","がっかりさせないでくれたまえ。"
+"traveler:BOSS0","It makes me look like fool to trust lottery.~","抽選に頼ったのは馬鹿だった。~"
+"traveler:BOSS0","Let this motivate you to improve.~","これで態度を改めるように。~"
+"traveler:BOSS0","Do not embarrass me further.","これ以上がっかりさせないで<br>くれたまえ。"
+"traveler:BOSS1","It is too early to come all the way out here.","わざわざここまで出向くにはまだ早かったな。"
+"traveler:BOSS1","The smell at this checkpoint makes me sick.","この検問所の空気は吐き気がする。"
+"traveler:BOSS1","Where is plaque I gave you?","贈られた額はどうした？"
+"traveler:BOSS1","Why is it not on wall?","なぜ壁に飾っていない？"
+"traveler:BOSS1","What is other shit hanging here?","一緒に掛けてあるこのゴミはなんだね？"
+"traveler:BOSS1","These walls are for official plaques only.","この壁公式な額以外を飾るな。"
+"traveler:BOSS1","Your pay will be docked for violation.","違反行為の分はで給与から差し引かれる。"
+"traveler:BOSS1","@It will not happen again.","@これから気をつけます。"
+"traveler:BOSS1","At least you are performing well.","仕事ぶりは良いからまだいいが。"
+"traveler:BOSS1","Continue this honorable service.","今後もこの名誉ある職務を全うするように。"
+"traveler:BOSS1","At least your performance is not terrible.","仕事ぶりは問題ないからまだいいが。"
+"traveler:BOSS1","Do not slip further.","これ以上はミスを犯さぬように。"
+"traveler:BOSS1","And your performance is terrible.","しかも仕事ぶりにも問題がある。"
+"traveler:BOSS1","Maybe you have forgotten what your job is.","君の職務を理解していないのではないかね。"
+"traveler:BOSS1","There are many more who can take your place.","代わりはいくらでもいるのだよ。"
+"traveler:BOSS1","Now.","さて。"
+"traveler:BOSS1","I have old friend coming through.","旧い友人が訪ねて来ることになっている。"
+"traveler:BOSS1","Approve her entry.","彼女を通してくれ。"
+"traveler:BOSS1","She is Shae Piersovska.~","Shae Piersovskaという。~"
+"traveler:BOSS1","I do not want to hear of any trouble to her.","彼女に面倒をかけるようなことがないように。"
+"traveler:BOSS1","Glory to Arstotzka.","ｱﾙｽﾄﾂｶに栄光あれ。"
+"traveler:BOSS2","You little bastard.~","このクズ。~"
+"traveler:BOSS2","Shae thinks I am powerless fool now.","Shaeは、私がもはや無力な能無しになったと思っている。"
+"traveler:BOSS2","It was made very clear to let her through.","彼女を通すように申し伝えたはずだ。"
+"traveler:BOSS2","Now I must think about the consequences for you.~","君の顛末は考えておいてやる。"
+"traveler:BOSS2","Maybe this place not so bad.","ここもそう悪くないかもしれないな。"
+"traveler:BOSS2","With everything going on, checkpoint visit is nice break.~","全てが忙しく稼働している今、ちょっとした休憩にもなる。~"
+"traveler:BOSS2","You still do not hang the plaques.","まだ額を飾っていないじゃないか。"
+"traveler:BOSS2","Why do you not hang both plaques?","なぜ額を二つとも飾らない？"
+"traveler:BOSS2","But again you have unauthorized items on wall.","また許可されていないものを飾っているな。"
+"traveler:BOSS2","I warned before.~","前回注意したはずだが。~"
+"traveler:BOSS2","But what is other shit hanging here?","それに一緒に掛けてあるこのゴミはなんだね？"
+"traveler:BOSS2","These walls are for official plaques only.","この壁公式な額以外を飾るな。"
+"traveler:BOSS2","Your pay will be docked for violation.","違反行為の分はで給与から差し引かれる。"
+"traveler:BOSS2","@It will not happen again.","@これから気をつけます。"
+"traveler:BOSS2","There are no more plaques.","もう贈られる額はない。"
+"traveler:BOSS_BUDDY","How is Dimitri?","Dimitriは元気かしら？"
+"traveler:BOSS_BUDDY","I hear he runs checkpoint now.","この検問所を任されてると聞いたわ。"
+"traveler:BOSS_BUDDY","It looks like somewhere he would fit in.","彼にはお似合いの場所ね。"
+"traveler:BOSS_BUDDY","I bet he is still terrible boss.","きっと今も酷い上官なんでしょ。"
+"traveler:BOSS_BUDDY","You know, Dimitri asked me to come.","Dimitriに来るように言われたのよ。"
+"traveler:BOSS_BUDDY","Said I would get through.","通れるからって。"
+"traveler:BOSS_BUDDY","But I guess he is not so much in control.","でも彼にはそんな力もないみたいね。"
+"traveler:BOSS_BUDDY","I hope Dimitri tires more easily now.","Dimitriも体力が落ちてるといいのだけど。"
+"traveler:BOSS_BUDDY","I do not want to stay long in Arstotzka.","ｱﾙｽﾄﾂｶにはあまり居たくないの。"
+"traveler:BOSS_BUDDY","Ah, I would not do that.","あ、私ならそれはしないわ。"
+"traveler:BOSS_BUDDY","Dimitri is not forgiving person.","Dimitriは人を許したりしない。"
+"traveler:BOSS_BUDDY","I am no fool.","私も馬鹿じゃないわ。"
+"traveler:BOSS_BUDDY","This is inconvenience, but I am not worried for myself.","面倒はかかったけど、大変になるのは私じゃないから。"
+"traveler:BOSS_BUDDY","Tell Dimitri I said hello.","Dimitriによろしく伝えておいて。"
+"traveler:BOSS_ANGRY","You worthless urchin.~","どうしようもないクソガキだな。~"
+"traveler:BOSS_ANGRY","I had to pull many strings to get Shae out.","Shaeを解放するのに色んな手を使わなければならなかった。"
+"traveler:BOSS_ANGRY","It was made very clear to let her through.~","彼女を通すように申し伝えたはずだ。"
+"traveler:BOSS_ANGRY","My patience with you has run out.~","さすがに私も頭に来た。~"
+"traveler:KID_KILLER0","Look at it.~","見てくれ。~"
+"traveler:KID_KILLER0","Simon Wens took her from me.~","Simon Wensに彼女を奪われた。~"
+"traveler:KID_KILLER0","I follow him for many weeks.","もう何週間もヤツを追っているんだ。"
+"traveler:KID_KILLER0","I know he comes here soon.~","まもなくここにやって来るのはわかっている。"
+"traveler:KID_KILLER0","It is big favor I ask, but is important.","大変な依頼だが、大事なことを頼みたい。"
+"traveler:KID_KILLER0","Let him through if you see him.","ヤツに会ったら通してくれ。"
+"traveler:KID_KILLER0","But take his passport first.~","ただその前にﾊﾟｽﾎﾟｰﾄを差し押さえて欲しい。~"
+"traveler:KID_KILLER0","I come back.","私はまた戻って来る。"
+"traveler:KID_KILLER0","You give me his passport and I track him down.~","ヤツのﾊﾟｽﾎﾟｰﾄを渡してもらえれば追跡できる。~"
+"traveler:KID_KILLER0","I make him suffer like he did to Julia.~","Juliaと同じ苦しみを与えてやるんだ。~"
+"traveler:KID_KILLER1","What the fuck!","ふざけるな！"
+"traveler:KID_KILLER2","Did you see him?","ヤツに会ったのか？"
+"traveler:KID_KILLER2","Give his passport to me.","ﾊﾟｽﾎﾟｰﾄを渡してくれ。"
+"traveler:KID_KILLER2","Hmmm.~","ふうむ。~"
+"traveler:KID_KILLER2","I know this city.","この街なら知ってる。"
+"traveler:KID_KILLER2","He will be easily found.","簡単に見つけられそうだ。"
+"traveler:KID_KILLER2","Let me through.","私を通してくれ。"
+"traveler:KID_KILLER2","Thank you.","感謝する。"
+"traveler:KID_KILLER2","Now please, give back my daughter's photo.","そして娘の写真も返してくれないか。"
+"traveler:KID_KILLER2","I show it to him while he suffers.","彼が苦しんでいる間に見せてやるんだ。"
+"traveler:KID_KILLER2","You heartless scum.","薄情なカス野郎め。"
+"traveler:KID_KILLER2","Give back my daughter's photo.","娘の写真を返せ。"
+"traveler:KID_KILLER2","My Julia.~","私のJulia。~"
+"traveler:KID_KILLER2","Read the news tomorrow.","明日の報道を楽しみにしてくれ。"
+"traveler:KID_KILLER2","She was just little girl.","まだ少女だったんだ。"
+"traveler:KID_KILLER2","@I do not know what you are talking about.","@何を言っているのかよく分かりませんが。"
+"traveler:KID_KILLER2","Damnit.","くっそ。"
+"traveler:KID_KILLER2","She was just a little girl.","まだ少女だったんだ。"
+"traveler:KID_KILLER2","@Yes. He has been arrested.","@えぇ、彼なら逮捕されました。"
+"traveler:KID_KILLER2","What? I asked you to let him pass.","なんだって？通すように頼んだだろ？"
+"traveler:KID_KILLER2","There will be no true justice now.","これで真の正義が貫かれることはない。"
+"traveler:KID_KILLER2","@Yes. He ran off.","@えぇ、彼なら逃亡しましたよ。"
+"traveler:KID_KILLER2","Ran off? Which way?","逃げた？どこに？"
+"traveler:KID_KILLER2","@I do not know. Back into Kolechia.","@分かりません。コレチアに戻ったのではないかと。"
+"traveler:KID_KILLER2","Damn it.","くっそ。"
+"traveler:KID_KILLER2","@I have no photos.","@写真は持っていません。"
+"traveler:KID_KILLER2","Heartless bastard.","薄情な野郎め。"
+"traveler:RESISTER","No.","いやだ。"
+"traveler:RESISTER","I am not leaving.","動かない。"
+"traveler:RESISTER","@You are delaying the line.","@列の邪魔になります。"
+"traveler:RESISTER","I refuse!","拒否する！"
+"traveler:RESISTER","You fools better to not touch me.","<m>俺</m><f>私</f>に触らない方がいい<f>わよ</f>。"
+"traveler:RESISTER","I will explode like wild tiger.","獣のように暴れる<m>ぞ</m><f>から</f>。"
+"traveler:RESISTER","I have every right to enter Arstotzka.","ｱﾙｽﾄﾂｶに入国する正当な権利がある。"
+"traveler:RESISTER","You think I am joking but tiger does not joke.","ふざけてない<m>ぞ</m><f>わ</f>、獣は嘘をつかない。"
+"traveler:RESISTER","Let me through!","通して<m>くれ</m><f>よ</f>！"
+"traveler:JOURNALIST_FIRST","I write report on conditions in Arstotzka.","ｱﾙｽﾄﾂｶの現状を書きにきました。"
+"traveler:JOURNALIST_FIRST","As long as it takes.","必要なだけいる予定です。"
+"traveler:JOURNALIST_FIRST","@You are missing required papers.","@必要な書類が不足しています。"
+"traveler:JOURNALIST_FIRST","I am journalist.","私はｼﾞｬｰﾅﾘｽﾄですよ。"
+"traveler:JOURNALIST_FIRST","You have my pass there.","証明書もここにあります。"
+"traveler:JOURNALIST_FIRST","This is outrage!","横暴です！"
+"traveler:JOURNALIST_FIRST","Why am I denied?","なんで拒否なんですか？"
+"traveler:JOURNALIST_FIRST","@Your press pass is worthless for entry.","@報道官身分証明書では入国できません。"
+"traveler:JOURNALIST_FIRST","This is violation of rights.","これは権利の侵害<m>だ</m><f>ね</f>。"
+"traveler:JOURNALIST_FIRST","I will not lay down for your corrupt abuses.","不当な妨害には屈しない<m>ぞ</m><f>わよ</f>。"
+"traveler:JOURNALIST_FIRST","Expect to read about this!","記事を期待する<m>んだな</m><f>ことね</f>。"
+"traveler:JOURNALIST_FIRST","You are slowest inspector I have ever seen.","今まで見た中で貴方が一番のろい審査官ですよ。"
+"traveler:JOURNALIST_FIRST","No wonder Arstotzka is screwed.","ｱﾙｽﾄﾂｶがダメになるのも分かります。"
+"traveler:JOURNALIST","I cover big story.","大きな事件を追っているんです。"
+"traveler:JOURNALIST","I cannot say.","言えません。"
+"traveler:JOURNALIST","Maybe few days, maybe few weeks.","数日間か、数週間か。"
+"traveler:JOURNALIST","@You are missing required papers.","@必要な書類が不足しています。"
+"traveler:JOURNALIST","I am reporter and have right to enter.","私は報道記者です。入国する権利がある。"
+"traveler:JOURNALIST","Give me visa stamp.","ビサに押印して下さい。"
+"traveler:JOURNALIST","@This pass means nothing.","@この証明書は何の意味もありません。"
+"traveler:JOURNALIST","Fascist!","このファシストが。"
+"traveler:JOURNALIST","Such inefficiency is stunning.","この非効率もなかなか悪くない<f>わ</f>。"
+"traveler:FAMILIAR_FACE","Hey I know you.","あなたのこと知ってるわ。"
+"traveler:FAMILIAR_FACE","You are from Nirsk?","ニルスク出身でしょう？"
+"traveler:FAMILIAR_FACE","I worked with your father for many years.","お父様と何年も一緒に<br>働いたのよ。"
+"traveler:FAMILIAR_FACE","You were such a little brat.","ちっちゃなわんぱく坊主<br>だったのにね。"
+"traveler:FAMILIAR_FACE","I go back to Nirsk and tell them you are doing well here.","ニルスクに戻ったら元気に<br>やってると伝えておくわね。"
+"traveler:FAMILIAR_FACE","You are still brat.","今もクソガキね。"
+"traveler:FAMILIAR_FACE","Just not so little any more.","図体だけ大きくなって。"
+"traveler:WATCH_GIVER0","I have only passport but hear me out.~","ﾊﾟｽﾎﾟｰﾄしかないんだけど、<br>なんとかして下さい。~"
+"traveler:WATCH_GIVER0","There is little time. I must enter today.","時間がないんです。<br>今日入国しないと。~"
+"traveler:WATCH_GIVER0","I come back in 3 days with right papers.~","書類を揃えて3日後に<br>戻りますから。~"
+"traveler:WATCH_GIVER0","To prove, I give you something important.","その証して、大切な物を<br>渡しておきます。"
+"traveler:WATCH_GIVER0","Is special family treasure.~","うちの家宝なんです。~"
+"traveler:WATCH_GIVER0","Fully digital.~","完全デジタルですよ。~"
+"traveler:WATCH_GIVER0","You hold as collateral.","担保として持っていて下さい。"
+"traveler:WATCH_GIVER0","I will be back to pick it up.~","取りに戻ってきますから。~"
+"traveler:WATCH_GIVER0","And take this.","あとこれも。"
+"traveler:WATCH_GIVER0","All for green stamp.","緑のハンコのお礼に。"
+"traveler:WATCH_GIVER0","@You are missing some papers.","@書類が不足しています。"
+"traveler:WATCH_GIVER0","Yes I told you this.","さっき言った通りだって。"
+"traveler:WATCH_GIVER0","Arstotzkan bastard.","ｱﾙｽﾄﾂｶ野郎め。"
+"traveler:WATCH_GIVER0","I am telling to you.","だから言ってるだろ。"
+"traveler:WATCH_GIVER0","Keep watch as promise.","腕時計を担保にする。"
+"traveler:WATCH_GIVER0","I get it back in few days.","数日で戻るから。"
+"traveler:WATCH_GIVER0","You crook!","この盗人！"
+"traveler:WATCH_GIVER0","All Arsotzkans are same.","ｱﾙｽﾄﾂｶ人はみんな同じだな。"
+"traveler:WATCH_GIVER0","Liars and cheats!","嘘つきの詐欺師だ！"
+"traveler:WATCH_GIVER0","I will not leave without watch.","腕時計を返さないと帰らないぞ。"
+"traveler:WATCH_GIVER0","Is expensive gift from cousin!","従兄からもらった高級品なんだ！"
+"traveler:WATCH_GIVER0","Only needs new battery.","電池が切れてるだけで。"
+"traveler:WATCH_GIVER0","Tell guards to keep away.","護衛には近付くなと言え。"
+"traveler:WATCH_GIVER0","Give back my watch!","腕時計を返せ！"
+"traveler:WATCH_GIVER0","Thank you.","ありがとうございます。"
+"traveler:WATCH_GIVER0","I come back in few days to pick up watch.","数日したら取りに戻りますから。"
+"traveler:WATCH_GIVER0","Damnit.","くっそ。"
+"traveler:WATCH_GIVER0","Fine. Give watch back.","いいよ。腕時計を返してくれ。"
+"traveler:WATCH_BUYER0","I used to have watch like that.","昔、そんな腕時計持ってました。"
+"traveler:WATCH_BUYER0","Sell it to me.","売って頂けませんか？"
+"traveler:WATCH_BUYER0","@It is held for someone.","@預かっているだけなんです。"
+"traveler:WATCH_BUYER0","Give me break.","まぁ待って下さい。"
+"traveler:WATCH_BUYER0","For sure he is not coming back.","戻ってくるはずがありませんよ。"
+"traveler:WATCH_BUYER0","Let me take it off your hands.","私に買い取らせて下さい。"
+"traveler:WATCH_BUYER0","10 credits for it.","10ｸﾚｼﾞｯﾄ払います。"
+"traveler:WATCH_BUYER0","Ah!","おぉ！"
+"traveler:WATCH_BUYER0","All digital!","完全デジタルですね！"
+"traveler:WATCH_BUYER0","Is very nice.","素敵です。"
+"traveler:WATCH_BUYER1","That watch.~","その腕時計。~"
+"traveler:WATCH_BUYER1","Guy behind me in line would not shut up about it.","後ろに並んだ人がずっと話してましたよ。"
+"traveler:WATCH_BUYER1","On and on about how important is to family.~","家族にとってどれだけ大事な物か。~"
+"traveler:WATCH_BUYER1","Look.","確かに。"
+"traveler:WATCH_BUYER1","Is good watch, I can see.","いい時計ですよね、それ。"
+"traveler:WATCH_BUYER1","I give you 20 credits for it right now.","今すぐ20ｸﾚｼﾞｯﾄ払いますよ。"
+"traveler:WATCH_BUYER1","He say he pay you back only 10 credits.","彼は10ｸﾚｼﾞｯﾄしか払わないつもりですよ。"
+"traveler:WATCH_BUYER1","Is good deal here I offer you.","私との取引の方がお得じゃないですか。"
+"traveler:WATCH_BUYER1","Ah!","おぉ！"
+"traveler:WATCH_BUYER1","All digital!","完全デジタルですね！"
+"traveler:WATCH_BUYER1","Is very nice.","素敵です。"
+"traveler:WATCH_GIVER1","As promised, I am back with right papers now.","約束通り、書類を持って<br>戻ってきました。"
+"traveler:WATCH_GIVER1","You have my watch?","腕時計持ってますよね？"
+"traveler:WATCH_GIVER1","Arstotzkan bastard.","このｱﾙｽﾄﾂｶ野郎。"
+"traveler:WATCH_GIVER1","I was to give you nice reward.","ちゃんとお礼渡そうと<br>思ってたのに。"
+"traveler:WATCH_GIVER1","Ah she is beautiful!","あぁ、なんて美しい。"
+"traveler:WATCH_GIVER1","Here.","どうぞ。"
+"traveler:WATCH_GIVER1","Now I just need battery.","あとは新しい電池さえあれば。"
+"traveler:WATCH_GIVER1","Hey!","おい！"
+"traveler:WATCH_GIVER1","There is new scratch here!","新しいキズが付いてるぞ！"
+"traveler:WATCH_GIVER1","Give money back!","金を返せ！"
+"traveler:WATCH_GIVER1","Wow. You are pretty honest person.","ほお。素直じゃないか。"
+"traveler:WATCH_GIVER1","You know, I cannot take this.","それじゃ、受け取れないな。"
+"traveler:WATCH_GIVER1","Scratch was there before actually.","実はキスは前からあったんだ。"
+"traveler:WATCH_GIVER1","Thank you.","どうもありがとう。"
+"traveler:WATCH_GIVER1","Now please give watch back.","さあ腕時計を返して下さい。"
+"traveler:WATCH_GIVER1","I start to think maybe all Arstotzkans are not so bad.","ｱﾙｽﾄﾂｶ人も悪い人ばかり<br>ではないかもしれない。"
+"traveler:WATCH_GIVER1","Ah forget it.","いやいや。"
+"traveler:WATCH_GIVER1","You keep money.","お金は取っておいて下さい。"
+"traveler:WATCH_GIVER1","But all papers are good!","書類はしっかり揃えましたよ！"
+"traveler:WATCH_GIVER1","Are you blind?","目が悪いのか？"
+"traveler:WATCH_GIVER1","Fine.","あっそう。"
+"traveler:WATCH_GIVER1","Give watch back.","腕時計を返してくれ。"
+"traveler:WATCH_GIVER1","You crook!","この盗人！"
+"traveler:WATCH_GIVER1","All Arsotzkans are same.","ｱﾙｽﾄﾂｶ人は<br>みんな同じだな。"
+"traveler:WATCH_GIVER1","Liars and cheats!","嘘つきの詐欺師だ！"
+"traveler:WATCH_GIVER1","I will not leave without watch.","腕時計を返さないと帰らないぞ。"
+"traveler:WATCH_GIVER1","Is expensive gift from cousin!","従兄からもらった高級品なんだ！"
+"traveler:WATCH_GIVER1","Only needs new battery.","電池が切れてるだけで。"
+"traveler:WATCH_GIVER1","Tell guards to keep away.","護衛には近付くなと言え。"
+"traveler:WATCH_GIVER1","Give back my watch!","腕時計を返せ！"
+"traveler:WATCH_GIVER1","I will not leave without money.","金を返さなきゃ帰らないぞ！"
+"traveler:WATCH_GIVER1","You ruin my good watch.","高級時計を傷付けやがって。"
+"traveler:WATCH_GIVER1","Give back my money!","俺の金を返せ！"
+"traveler:WATCH_GIVER1","Where is my watch?","私の時計はどこですか？"
+"traveler:WATCH_GIVER1","@I sold it.","@売りました。"
+"traveler:WATCH_GIVER1","What!","えーっ？"
+"traveler:WATCH_GIVER1","I give you watch to hold.","担保として預けたんですよ。"
+"traveler:WATCH_GIVER1","Put trust in you!","信じて渡したのに！"
+"traveler:WATCH_GIVER1","Watch was gift from cousin.","従兄からの贈り物だったんだ。"
+"traveler:WATCH_GIVER1","I hope you got good money for it.","いい値で売れたんだろうな。"
+"traveler:WATCH_GIVER1","Damn Arstotzkan crook.","ｱﾙｽﾄﾂｶのクソ盗人め。"
+"traveler:ARSKICKER0","Hey man.","よお、兄ちゃん。"
+"traveler:ARSKICKER0","I lost id card.","IDカードをなくしちまった。"
+"traveler:ARSKICKER0","I think someone stole it from locker room.","誰かがロッカールームから<br>盗んだんだと思う。"
+"traveler:ARSKICKER0","But we won match!","でも試合に勝ったんだよ！"
+"traveler:ARSKICKER0","Can't wait to get home.~","家に帰るのが待ち遠しいなあ~"
+"traveler:ARSKICKER0","I have carried this for years, maybe you take it.","これは何年も持ってたもの<br>なんだけど、君にやるよ。"
+"traveler:ARSKICKER0","@Your Arstotzkan id card is missing.","@ｱﾙｽﾄﾂｶ国民のIDカードがありませんね。"
+"traveler:ARSKICKER0","I know man. I told you.","そうだよ。だから言っただろ。"
+"traveler:ARSKICKER0","It was stolen.","盗まれたんだよ。"
+"traveler:ARSKICKER0","C'mon let me through.","通してくれよー。"
+"traveler:ARSKICKER0","Thanks bud, is good to be home!","ありがとう親友、<br>家に帰れて嬉しいよ！"
+"traveler:ARSKICKER0","Hey bullshit!","おい、うそだろ！"
+"traveler:ARSKICKER0","I gave you pennant even!","ペナントもあげたじゃないか！"
+"traveler:ARSKICKER0","Gonna tell coach about this crap.","このことはコーチにも<br>伝えるからな。"
+"traveler:ARSKICKER1","Hi again.","また会ったな。"
+"traveler:ARSKICKER1","Remember me?","俺を覚えてるか？"
+"traveler:ARSKICKER1","Go Arskickers!","ゴー、アルスキッカーズ！"
+"traveler:ARSKICKER1","I give you that great banner.~","そのバナーをあげただろ~"
+"traveler:ARSKICKER1","Listen, I tell my coach about this.","実はコーチにこの間のことを<br>話したんだよ。"
+"traveler:ARSKICKER1","He get very upset.","すごい怒られたよ。"
+"traveler:ARSKICKER1","Say if I do not get banner back, I lose front seat on team bus.~","バナーを取り戻さないと<br>チームバスの最前列の席を<br>奪われちまうんだ。"
+"traveler:ARSKICKER1","All seats good, but front seat definitely best.","どの席も悪くないんだけど、<br>最前列が一番なんだよ。"
+"traveler:ARSKICKER1","So I really just need banner back.","だからバナーさえもらえれば<br>いいんだ。"
+"traveler:ARSKICKER1","What you say?","どうだい？"
+"traveler:ARSKICKER1","Lousy fan!","ひどいファンだぜ！"
+"traveler:ARSKICKER1","Ah thanks!","ああ、助かった！"
+"traveler:ARSKICKER1","Do not forget to root for us!","チームを応援するのも<br>忘れないでくれよ！"
+"traveler:ARSKICKER1","Ah good.","これはこれは。"
+"traveler:ARSKICKER1","It is more beaten up than I remember.","前よりボロくなってるなあ。"
+"traveler:ARSKICKER1","Even there is big tear here.","ここなんか大きく破れてるし。"
+"traveler:ARSKICKER1","What did you do?","何をしたんだ？"
+"traveler:ARSKICKER1","Oh well. Coach should be happy.","まあいいさ。コーチは喜ぶよ。"
+"traveler:ARSKICKER1","Alright that is great yeah.","よし、最高だぜ。"
+"traveler:ARSKICKER1","But where is banner?","で、バナーはどこだ？"
+"traveler:ARSKICKER1","Thanks bud!","ありがとう親友。"
+"traveler:ARSKICKER1","Do not forget to root for us at regionals.","Do not forget to root for us at regionals."
+"traveler:ARSKICKER1","Ok. Well.","ああ、そうかよ。"
+"traveler:ARSKICKER1","That is messed up.","ひどいな。"
+"traveler:ARSKICKER1","At least you give banner back right?","せめてバナーは返してくれる<br>よな？"
+"traveler:ARSKICKER1","At least you give banner back.","バナーだけは返してくれよ。"
+"traveler:ARSKICKER1","@The banner is mine now.","@バナーはもう俺のものだ。"
+"traveler:ARSKICKER1","Oh boy.","なんだよ。"
+"traveler:ARSKICKER1","Such an asshole here.","嫌なやつもいたもんだ。"
+"traveler:ARSKICKER1","If guards do not kill me, coach will.","護衛に殺されなくても、コーチに<br>殺られちまうよ。"
+"traveler:BUSTED_SPY","I have not much time.","時間がないんです。"
+"traveler:BUSTED_SPY","You must hold on to these.","どうかこれを預かって。"
+"traveler:BUSTED_SPY","Keep them safe today.","今日一日守って下さい。"
+"traveler:BUSTED_SPY","I am being followed by an imposter.","私は詐欺師に追われていて。"
+"traveler:BUSTED_SPY","They pretend to be from the Ministry of Information but it is a lie.","彼らは情報省の者のフリを<br>していますが、偽者です。"
+"traveler:BUSTED_SPY","If they ask for documents, give these instead.","書類を求められたら、代わりに<br>コレを渡して下さい。"
+"traveler:BUSTED_SPY","Do not mix them up.","2つを間違えないで下さいね。"
+"traveler:BUSTED_SPY_FOLLOWER","@Your papers?","@書類は？"
+"traveler:BUSTED_SPY_FOLLOWER","I am from the Ministry of Information.","私は情報省の者です。"
+"traveler:BUSTED_SPY_FOLLOWER","You have something to give us.","私たちに渡すモノが<br>あるでしょう。"
+"traveler:BUSTED_SPY_FOLLOWER","Perfect.","結構。"
+"traveler:GYM_INSTRUCTOR","You are skin and bones.","まるで骨と皮ですね。"
+"traveler:GYM_INSTRUCTOR","Bet you have no real strength.","あなた体力ないでしょう。"
+"traveler:GYM_INSTRUCTOR","Come to gym, I make you big.","ジムに来てくれれば、<br>鍛えますよ。"
+"traveler:GYM_INSTRUCTOR","I guarantee you get big at Get Big Town.","ムキムキタウンに来れば、<br>絶対ムキムキになれます。"
+"traveler:GYM_INSTRUCTOR","Is what we do.","それが私たちの仕事ですから。"
+"traveler:GYM_INSTRUCTOR","Denied? Hah.","拒否？そうですか。"
+"traveler:GYM_INSTRUCTOR","This is what I expect from skinny weakling.","弱っちいガリガリは<br>こういうことするんだな。"
+"traveler:OLD_INSPECTOR","I used to be an inspector like you.","私も昔は審査官を<br>やっていたんだ。"
+"traveler:OLD_INSPECTOR","Many years ago. Back in United Fed.~","何年も昔さ。<br>合衆連邦にいた頃に~"
+"traveler:OLD_INSPECTOR","We denied most people.~","ほとんどの人を拒否したなぁ~"
+"traveler:OLD_INSPECTOR","It is all done by computers now.","今はコンピューターだからね。"
+"traveler:OLD_INSPECTOR","They can deny much faster that way.","前よりも早く拒否ができるんだ。"
+"traveler:OLD_INSPECTOR","Good luck.","頑張れよ。"
+"traveler:OLD_INSPECTOR","I do not miss it.","私は戻りたいとは思わないがね。"
+"traveler:OLD_INSPECTOR","What? Why am I denied?~","何？私が入国拒否？~"
+"traveler:OLD_INSPECTOR","So this is what it feels like.~","そうか、こういう気分なんだな~"
+"traveler:OLD_INSPECTOR","@Where is entry permit?","@入国許可証は？"
+"traveler:OLD_INSPECTOR","Eh, it does not matter what I say.","ふん、何をいっても関係ないか。"
+"traveler:OLD_INSPECTOR","Just deny the visa and I will go.","ビザを拒否してくれたら帰るよ。"
+"traveler:RED_STAMP","Red stamp.","赤いハンコ。"
+"traveler:RED_STAMP","@What?","@はい？"
+"traveler:RED_STAMP","Give me red stamp.","赤いハンコを押して下さい。"
+"traveler:RED_STAMP","I am serious.","真剣です。"
+"traveler:RED_STAMP","I have better job offer in Impor.","インポールに、もっと良い仕事が<br>あるんですよ。"
+"traveler:RED_STAMP","Red stamp and I can break contract in Arstotzka.","赤いハンコがあればｱﾙｽﾄﾂｶの契約は無効にできる。"
+"traveler:RED_STAMP","10 credits for you.","10ｸﾚｼﾞｯﾄあげますから。"
+"traveler:RED_STAMP","Damn it.","くっそ。"
+"traveler:RED_STAMP","I am sure you deny people all day.","一日に何人も拒否してるんでしょう？"
+"traveler:RED_STAMP","Why not now?","なんでダメなんですか？"
+"traveler:RED_STAMP","I figure something else out.","何か違う方法を探しますよ。"
+"traveler:RED_STAMP","Ok, now I get free from this bad job.","よし、これでひどい仕事から<br>おさらばだ。"
+"traveler:RED_STAMP","Thanks.","感謝します。"
+"traveler:NEED_SURGERY","I come for medical reasons.","医療上の理由で来ました。"
+"traveler:NEED_SURGERY","@Your papers are missing.","@書類が不足しています。"
+"traveler:NEED_SURGERY","Please.","頼みます。"
+"traveler:NEED_SURGERY","Surgery I need is outlawed in Kolechia.","必要な手術がコレチアでは<br>違法なんです。"
+"traveler:NEED_SURGERY","Even so, I do not trust doctors there.","そうでなくても、あそこの医者は信用できない。"
+"traveler:NEED_SURGERY","Only Arstotzka have skilled surgeons.","ｱﾙｽﾄﾂｶにしか腕の良い<br>外科医はいないんです。"
+"traveler:NEED_SURGERY","@You do not have the right documents.","@正しい書類を持っていません<br>よね。"
+"traveler:NEED_SURGERY","Yes.","えぇ。"
+"traveler:NEED_SURGERY","They will not give papers for surgery.","手術のために、書類を出しては<br>くれないのです。"
+"traveler:NEED_SURGERY","Thank you. I will not forget this.","ありがとう。一生忘れません。"
+"traveler:NEED_SURGERY","I expected this.","こうなるだろうと思った。"
+"traveler:NEED_SURGERY","I do not know how long I survive.","あとどれだけ生きられるか<br>分からないんだ。"
+"traveler:NEED_SURGERY","But you do not care.~","しかし、貴方にとってそれは<br>どうでもいいことか。"
+"traveler:NEED_SURGERY","I hope you are not in same place as me.","私と同じ立場にならないと<br>いいですね。"
+"traveler:LOVE_SONG","I will leave this here.","これを置いていきますね。"
+"traveler:LOVE_SONG","Great!","素晴らしい！"
+"traveler:LOVE_SONG","You really super guy!~","アナタは本当にイケてますね。"
+"traveler:LOVE_SONG","Can I have note back now?","その手紙返してくれますか？"
+"traveler:LOVE_SONG","I need it for next inspector.","次の審査官に渡さないと<br>いけないので。"
+"traveler:LOVE_SONG","But I give you such lovely note!","あんなに素敵な手紙を渡したのに！"
+"traveler:LOVE_SONG","Thanks and like I say, you super guy.","ありがとう、そしてアナタ<br>本当にイケてますよ。"
+"traveler:LOVE_SONG","Do not forget.","どうか忘れないで。"
+"traveler:LOVE_SONG","Is too much?","やり過ぎですか？"
+"traveler:LOVE_SONG","@Yes.","@はい。"
+"traveler:LOVE_SONG","Is too much. I can see that now.","やり過ぎか。わかりました。"
+"traveler:LOVE_SONG","Next time I make couple copies first.","次はいくつかコピーしてから<br>来ます。"
+"traveler:LOVE_SONG_LONELY","Life sucks.","人生最悪。"
+"traveler:LOVE_SONG_LONELY","Nobody loves me.","誰も愛してなんかくれない。"
+"traveler:LOVE_SONG_LONELY","For me?","私に？"
+"traveler:LOVE_SONG_LONELY","Like fire?","まるで熱い炎？"
+"traveler:LOVE_SONG_LONELY","Object of desire?","欲望そのもの？"
+"traveler:LOVE_SONG_LONELY","Wow, nobody say such nice things!","いやぁ、こんなこと今まで<br>言われたことがありません！"
+"traveler:LOVE_SONG_LONELY","Part about visa is confusing but rest is very powerful.","ビザのところはよくわからない<br>けど、あとはグッと来ます。"
+"traveler:LOVE_SONG_LONELY","Thank you!","ありがとう！"
+"traveler:LOVE_SONG_LONELY","Thank you again!","ホントにありがとう！"
+"traveler:LOVE_SONG_LONELY","Thanks I guess.","どうも。"
+"traveler:LOVE_SONG_LONELY","No problem!","大丈夫！"
+"traveler:LOVE_SONG_LONELY","Today is good day anyway!","今日は良い日だからね！"
+"traveler:LOVE_SONG_LONELY","Even you hate me.","あなたにも嫌われたか。"
+"traveler:LOVE_SONG_LONELY","Some guy I do not even know.","見ず知らずの相手なのに。"
+"traveler:KOLECHIAN_HATER","It was a mistake to open this checkpoint.","こんな検問所開設したのは<br>間違いだ。"
+"traveler:FINALLY_RETURN_HOME","Finally I can return home.","ようやく家に帰れる。"
+"traveler:FINALLY_RETURN_HOME","You bastard.","この野郎。"
+"traveler:FINALLY_RETURN_HOME","Thank you.","ありがとう。"
+"traveler:SMALL_CHECKPOINT","This checkpoint is smaller than I expected.","この検問所は思ったより<br>小規模ですね。"
+"traveler:WAITED_FOREVER","I have waited in this damn line since for 8 hours.","このくそ長い列に並んで<br>もう8時間ですよ。"
+"traveler:WAITED_FOREVER","I hope it was worth it.","待った甲斐があるといいけど。"
+"traveler:WAITED_FOREVER","Unbelievable. Go to hell.","信じられない。地獄に堕ちろ。"
+"traveler:HURRY_UP","Hurry up.","急いで下さい。"
+"traveler:HURRY_UP","I am meeting bus soon.","すぐにバスに乗るんです。"
+"traveler:HURRY_UP","What is this?","なんですか？"
+"traveler:HURRY_UP","Finally.","やっとか。"
+"traveler:GLAD_YOU_HAVE_JOB","I heard about terrorist attack.","テロリストの襲撃が<br>あったそうですね。"
+"traveler:GLAD_YOU_HAVE_JOB","You are lucky to have a job still.","まだ仕事があるのは<br>幸せなことですよ。"
+"traveler:GLAD_YOU_HAVE_JOB","Be safe.","どうか気をつけて。"
+"traveler:TICKET_NOT_PERMIT","What? I do not know. To visit?","なんですか？わかりません。<br>観光ですよ。"
+"traveler:TICKET_NOT_PERMIT","A few days maybe.","数日間だと思います。"
+"traveler:TICKET_NOT_PERMIT","Entry permit? I have ticket here.","入国許可証？<br>入国券ならありますけど。"
+"traveler:TICKET_NOT_PERMIT","Let me through.","通して下さい。"
+"traveler:TICKET_NOT_PERMIT","@Ticket is not enough any more.","@入国券はもう使えません。"
+"traveler:TICKET_NOT_PERMIT","@Get a permit.","@入国許可証を持ってきて<br>下さい。"
+"traveler:TICKET_NOT_PERMIT","Bullshit!","うそだー！"
+"traveler:TICKET_NOT_PERMIT","I paid good money for ticket.","この入国券高かったのに。"
+"traveler:VISIT_SON","I am so happy that the border has opened.","国境が開かれて本当に嬉しいわ。"
+"traveler:VISIT_SON","I will visit my son. I have not seen him in six years. [Speech/Purpose]","息子に会いに来たの。<br>6年ぶりよ。[Speech/Purpose]"
+"traveler:VISIT_SON","6 months. [Speech/Duration]","6ヶ月です。[Speech/Duration]"
+"traveler:VISIT_SON","Please, let me pass. My son is waiting.","通して。息子が待ってるの。"
+"traveler:VISIT_SON","Thank you.","ありがとう。"
+"traveler:VISIT_SON","Curse you.","くそくらえ。"
+"traveler:DETAIN_FIRST","Hey wait.","ちょっと待って。"
+"traveler:DETAIN_FIRST","Do not arrest me, please.","どうか拘束しないで下さい。"
+"traveler:DETAIN_FIRST","Just deny my passport and I will go away.","ﾊﾟｽﾎﾟｰﾄを拒否してくれれば<br>帰りますから。"
+"traveler:HATE_COUNTRY","It is not my choice. I hate this damn country.","来たくて来たんじゃありません。<br>こんな最低の国。"
+"traveler:HATE_COUNTRY","I am just passing through. [Speech/Purpose]","通過するだけです。 [Speech/Purpose]"
+"traveler:HATE_COUNTRY","As little as possible. 2 days. [Speech/Duration]","できるだけ短期間。 2日ですね。 [Speech/Duration]"
+"traveler:HATE_COUNTRY","Ugh.","はぁ。"
+"traveler:HATE_COUNTRY","Just as well.","むしろ良かった。"
+"traveler:SEARCH_BRIBE_INTRO","Slow down my friend.","まぁ待ってくれ。"
+"traveler:SEARCH_BRIBE_INTRO","I have only harmless medicine.","ちょっとした薬を<br>持ってるだけなんだ。"
+"traveler:SEARCH_BRIBE_INTRO","I give you 10 credits to let me through.","10ｸﾚｼﾞｯﾄやるから<br>通してくれ。"
+"traveler:SEARCH_BRIBE_INTRO","Excellent.","よし。"
+"traveler:SEARCH_BRIBE_INTRO","As I promised.","約束の物だ。"
+"traveler:SEARCH_BRIBE_INTRO","Why you turn down good money?","これだけの金をなぜ<br>受け取らない？"
+"traveler:SEARCH_BRIBE_INTRO","@You are lucky to escape arrest.","@逮捕されなくて<br>ラッキーでしたね。"
+"traveler:SEARCH_BRIBE_INTRO","@Do not come back.","@もう来ないで下さい。"
+"traveler:SEARCH_BRIBE_INTRO","@You cannot bribe an officer of Arstotzka.","@ｱﾙｽﾄﾂｶの役人に<br>賄賂は通用しない。"
+"traveler:SEARCH_BRIBE_INTRO","They must pay well for such obedience, dog.","こんなお利口な犬には、給料の<br>支払いもいいんだろうな。"
+"traveler:TWO_PASSPORTS","Shit!","おっと！"
+"traveler:TWO_PASSPORTS","I make small mistake.","ちょっと間違えました。"
+"traveler:TWO_PASSPORTS","Please give documents back.","書類を返して下さい。"
+"traveler:TWO_PASSPORTS","@Why do you have two passports?","@なぜﾊﾟｽﾎﾟｰﾄが二つ<br>あるんですか？"
+"traveler:TWO_PASSPORTS","Is funny story.","おかしな話でして。"
+"traveler:TWO_PASSPORTS","I tell you everything.","全部ご説明しますよ。"
+"traveler:TWO_PASSPORTS","First, you give papers back to me.","まず、書類を返して下さい。"
+"traveler:TWO_PASSPORTS","And the others?","他のは？"
+"traveler:TWO_PASSPORTS","Last one please.","最後のもお願いします。"
+"traveler:IDSUPPLEMENT_COMPLAIN","This id supplement is total pain.","この身元証明補完書って<br>酷いですよね。"
+"traveler:IDSUPPLEMENT_COMPLAIN","Was not easy to get and only lasts few days.","取得が大変なのに数日しか<br>期限がない。"
+"traveler:IDSUPPLEMENT_COMPLAIN","You Arstotzkans just make it harder and harder.","あなたたちｱﾙｽﾄﾂｶ人は<br>どんどん物をややこしくする。"
+"traveler:IDSUPPLEMENT_COMPLAIN","Why even have open border?","なんで国境を開けたりしたん<br>ですかね？"
+"traveler:IDSUPPLEMENT_COMPLAIN","Bah.","ふん！"
+"traveler:IDSUPPLEMENT_COMPLAIN","Would be better to spend money on bribe.","賄賂に金をかけた方がよかった。"
+"traveler:IDSUPPLEMENT_COMPLAIN","Less trouble and faster.","速いし問題も少ない。"
+"traveler:IDSUPPLEMENT_COMPLAIN","I knew it would not even work.","どうせダメだろうと思った。"
+"traveler:CRIMINAL_FIRST","@Funny to see you here.","@こんな所でお会いするとは。"
+"traveler:CRIMINAL_FIRST","@Just when starting to look for criminals.","@いつから指名手配犯のような<br>お顔に？"
+"traveler:CRIMINAL_FIRST","Criminals?","指名手配？"
+"traveler:CRIMINAL_FIRST","What are you saying?","何を言ってるんですか？"
+"traveler:DENIAL_REASON_FIRST","Denied?","拒否？"
+"traveler:DENIAL_REASON_FIRST","For what reason?","どうして？"
+"traveler:DENIAL_REASON_FIRST","@It is clearly stamped there.","@この印の通りです。"
+"traveler:DENIAL_REASON_FIRST","Oh.~","ふーん。~"
+"traveler:DENIAL_REASON_FIRST","Screw you anyways.","くそくらえ。"
+"traveler:NO_IMPORIANS_FIRST","@Imporians are prohibited from entering.","@インポール人は入国が<br>禁じられています。"
+"traveler:NO_IMPORIANS_DAY","@Imporians are prohibited from entering.","@インポール人は入国が<br>禁じられています。"
+"traveler:NO_UNITEDFED_FIRST","@Do not bring your sickness to Arstotzka.","@ｱﾙｽﾄﾂｶに病気を<br>持ち込まないで下さい。"
+"traveler:NO_UNITEDFED_FIRST","What?","えっ？"
+"traveler:NO_UNITEDFED_FIRST","I am perfectly healthy.","私は至って健康ですよ。"
+"traveler:NO_UNITEDFED_FIRST","It is so easy to deny entry.","入国を拒否するのは<br>簡単ですよね。"
+"traveler:NO_UNITEDFED_FIRST","All this paperwork is wasted.","書類一式ぜんぶ無駄か。"
+"traveler:NO_UNITEDFED","@Do not bring your sickness to Arstotzka.","@ｱﾙｽﾄﾂｶに病気を<br>持ち込まないで下さい。"
+"traveler:NO_UNITEDFED","What?","えっ？"
+"traveler:NO_UNITEDFED","I am perfectly healthy.","私は至って健康ですよ。"
+"traveler:NO_UNITEDFED","It is so easy to deny entry.","入国を拒否するのは<br>簡単ですよね。"
+"traveler:NO_UNITEDFED","All this paperwork is wasted.","書類一式ぜんぶ無駄か。"
+"traveler:CONFISCATION_DISTRICT_FIRST","Thank you. It is good to be back home.","ありがとう。帰れて嬉しいです。"
+"traveler:CONFISCATION_DISTRICT_FIRST","I am leaving for trip soon so I just need my passport back.","またすぐに旅に出るので<br>ﾊﾟｽﾎﾟｰﾄを返してください。"
+"traveler:CONFISCATION_DISTRICT_FIRST","@It is being confiscated.","@押収されました。"
+"traveler:CONFISCATION_DISTRICT_FIRST","What do you mean?","どういう意味ですか？"
+"traveler:CONFISCATION_DISTRICT_FIRST","@Contact number on slip for recovery.","@補償は伝票の番号に<br>問い合わせて下さい。"
+"traveler:CONFISCATION_DISTRICT_FIRST","You can just hand it back.","ただ返してくれればいいんです。"
+"traveler:CONFISCATION_DISTRICT_FIRST","@It has been filed. I cannot give it back.","@既に処理済みです。<br>返却はできません。"
+"traveler:CONFISCATION_DISTRICT_FIRST","I am not leaving without passport.","ﾊﾟｽﾎﾟｰﾄなしでは<br>ここを去りませんよ。"
+"traveler:CONFISCATION_DISTRICT_FIRST","Where is my passport?","ﾊﾟｽﾎﾟｰﾄは？"
+"traveler:CONFISCATION_DISTRICT_FIRST","You deny entry and take passport?","入国を拒否した上にﾊﾟｽﾎﾟｰﾄも<br>奪うんですか？"
+"traveler:CONFISCATION_DISTRICT_FIRST","What am I supposed to do?","私はどうしたらいいんですか？"
+"traveler:CONFISCATION_DISTRICT_FIRST","@Contact number on slip.","@伝票の番号に<br>問い合わせて下さい。"
+"traveler:CONFISCATION_DISTRICT_FIRST","You cannot do this to me!","こんなことしていいはずがない！"
+"traveler:CONFISCATION_DISTRICT_FIRST","I am Arstotzkan citizen.","私はｱﾙｽﾄﾂｶ国民ですよ。"
+"traveler:CONFISCATION_DISTRICT_FIRST","I have right to travel freely.","自由に行き来できるはずです。"
+"traveler:WHISTLEBLOWER","Thank you.","ありがとうございます。"
+"traveler:WHISTLEBLOWER","I hope that things are better here.","ここはマシな場所だと<br>いいのですが。"
+"traveler:WHISTLEBLOWER","What? I was promised asylum here.","え？亡命できると言われて<br>来たんです。"
+"traveler:WHISTLEBLOWER","I have nowhere else to go.","他に行くところがありません。"
+"traveler:WHISTLEBLOWER","@This is not my problem.","@仕方が無いんです。"
+"traveler:ACCESSPERMIT_FIRST","You Arstotzkans keep changing rules here.","あなたたちｱﾙｽﾄﾂｶ人は<br>すぐ規則を変える。"
+"traveler:ACCESSPERMIT_FIRST","My sister came through last week with different documents.","私の姉は別な書類で先週ちゃんと<br>通れたのに。"
+"traveler:ACCESSPERMIT_FIRST","Now I need new access permit.","私には新しい渡航許可証が<br>必要だなんて。"
+"traveler:ACCESSPERMIT_FIRST","Costs twice as much as before.","今までの2倍お金がかかる。"
+"traveler:ACCESSPERMIT_WRONG","What the hell is access permit?","渡航許可証って一体<br>何なんですか？"
+"traveler:ACCESSPERMIT_WRONG","Do you mean entry permit?","入国許可証のことですか？"
+"traveler:ACCESSPERMIT_WRONG","I have it there.","それならありますけど。"
+"traveler:ACCESSPERMIT_WRONG","@I mean access permit.","@いえ、渡航許可賞です。"
+"traveler:ACCESSPERMIT_WRONG","Never heard of it. Sounds stupid.","そんなの聞いたことも無い。<br>変な名前だし。"
+"traveler:ACCESSPERMIT_WRONG","@Entry permit and supplement are no longer accepted.","@入国許可証と身分証明補完書は<br>もう承認されません。"
+"traveler:ACCESSPERMIT_WRONG","@Access permit replaces them.","@渡航許可証がその代わり<br>なんです。"
+"traveler:ACCESSPERMIT_WRONG","@Makes my job easier.","@私の仕事が楽になります。"
+"traveler:ACCESSPERMIT_WRONG","I do not care about your job.","あなたの仕事なんて<br>どうでもいい。"
+"traveler:ACCESSPERMIT_WRONG","Damnit.","くっそー。"
+"traveler:STRICT_BORDER","I've heard this is very strict checkpoint.","ここの検問所はとても厳しいと<br>聞きました。"
+"traveler:STRICT_BORDER","I am glad my papers are in order.","ちゃんと書類を揃えられて<br>よかったですよ。"
+"traveler:DESPERATE_BEFORECLOSE","I have heard the border will close.","国境が閉鎖されると聞きました。"
+"traveler:DESPERATE_BEFORECLOSE","My access permit will not arrive in time.","それまでに入国許可証が<br>間に合わないんです。"
+"traveler:DESPERATE_BEFORECLOSE","Please have mercy.","どうかご慈悲を。"
+"traveler:DESPERATE_BEFORECLOSE","Yes I know. I just told you that.","わかってます。<br>今言った通りです。"
+"traveler:DESPERATE_BEFORECLOSE","I am afraid the border will close before I can enter.","入国できる前にきっと国境が<br>閉鎖されてしまいます。"
+"traveler:WALLCOMMENT_PLAQUEONE","What is this plaque on the wall?","壁にかかってる額は何ですか？"
+"traveler:WALLCOMMENT_PLAQUEONE","You are recognized for presence?","可、ですか。"
+"traveler:WALLCOMMENT_PLAQUEONE","Way to go.","頑張りましたね。"
+"traveler:WALLCOMMENT_PLAQUEONE","What is this on the wall?","壁にかかってるこれは何ですか？"
+"traveler:WALLCOMMENT_PLAQUEONE","Recognized for sufficience?","良として評価？"
+"traveler:WALLCOMMENT_PLAQUEONE","Impressive. Why even bother with plaque?","すごいですね。表彰なんて気にしなくていいですよ。"
+"traveler:WALLCOMMENT_PLAQUEONE","You are recognized for excellence?","優として評価されたんですか？"
+"traveler:WALLCOMMENT_PLAQUEONE","I hope they give you raise and not just plaque.","額だけじゃなくて昇給もしてくれるといいですね。"
+"traveler:WALLCOMMENT_PLAQUEONE","Find a better plaque.","もっと良い額を探した方がいいですよ。"
+"traveler:WALLCOMMENT_PLAQUEONE","This one looks like cheap shit.","これじゃ安っぽいおもちゃみたいです。"
+"traveler:WALLCOMMENT_PLAQUEONE","Figures.","似てますね。"
+"traveler:WALLCOMMENT_PLAQUEONE","You are like this plaque.","あなたとこの額ですよ。"
+"traveler:WALLCOMMENT_PLAQUEONE","Cheap shit.","ただの粗悪品。"
+"traveler:WALLCOMMENT_PLAQUEONE","What the hell?","チクショー！"
+"traveler:WALLCOMMENT_ARSKICKER","Nice banner!","かっこいいバナーですね！"
+"traveler:WALLCOMMENT_ARSKICKER","I remember that game.","あの試合は今でも覚えています。"
+"traveler:WALLCOMMENT_ARSKICKER","Intense.","白熱したなぁ。"
+"traveler:WALLCOMMENT_ARSKICKER","Go Arskickers!","ゴー、アルスキッカーズ！"
+"traveler:WALLCOMMENT_ARSKICKER","What the hell?","ちくしょう。"
+"traveler:WALLCOMMENT_ARSKICKER","I thought we have Arskickers connection.","アルスキッカー仲間だと<br>思ったのに。"
+"traveler:WALLCOMMENT_SONDRAWING","What is this drawing on the wall?","この壁にかかってる絵は<br>何ですか？"
+"traveler:WALLCOMMENT_SONDRAWING","My dog can do better.","うちの犬でももっと<br>うまく描ける。"
+"traveler:WALLCOMMENT_SONDRAWING","@It is from my son.","@息子がくれたんです。"
+"traveler:WALLCOMMENT_SONDRAWING","Oh.~","あぁ。~"
+"traveler:WALLCOMMENT_SONDRAWING","Maybe he should try sports.","運動とかが向いてるかも<br>しれませんね。"
+"traveler:WALLCOMMENT_SONDRAWING","Thanks.","ありがとうございます。"
+"traveler:WALLCOMMENT_SONDRAWING","The drawing is not so bad really.","絵はそんなに悪くないですよ。"
+"traveler:WALLCOMMENT_SONDRAWING","I was just in rough mood. Sorry.","ちょっと機嫌が悪かったんです。<br>ごめんなさい。"
+"traveler:WALLCOMMENT_SONDRAWING","Huh?","はあ？"
+"traveler:WALLCOMMENT_SONDRAWING","You deny me for comment about drawing, right?","絵に口を出したから<br>拒否したんでしょう？"
+"traveler:WALLCOMMENT_SONDRAWING","@The exit is to your right.","@出口は右です。"
+"traveler:WALLCOMMENT_SONDRAWING","What are you doing?","何してるんですか？"
+"traveler:WALLCOMMENT_SONDRAWING","Is this because I make fun of drawing?","絵をバカにしたからですか？"
+"traveler:WALLCOMMENT_SONDRAWING","I take it back!","撤回します！"
+"traveler:WALLCOMMENT_SONDRAWING","Picture should be in museum!","この絵は美術館に飾られる<br>べきです！"
+"traveler:WALLCOMMENT_FAMILYPHOTO","I like picture on wall here.","この壁の写真、いいですね。"
+"traveler:WALLCOMMENT_FAMILYPHOTO","Reminds me of how my family was.","私も家族を思い出しますよ。"
+"traveler:WALLCOMMENT_FAMILYPHOTO","Thank you.","ありがとう。"
+"traveler:WALLCOMMENT_FAMILYPHOTO","Take care of your family.","ご家族をお大事に。"
+"traveler:WALLCOMMENT_FAMILYPHOTO","It is too easy to lose them.","なくすのは簡単ですから。"
+"speech:ask-purpose","What is the purpose of your trip?","渡航の目的は？"
+"speech:state-purpose","Visiting.","観光です。"
+"speech:state-purpose","Just visiting.","ただの観光です。"
+"speech:state-purpose","I am visiting relatives.","親戚に会いに来ました。"
+"speech:state-purpose","Visiting friends.","友人に会いに。"
+"speech:state-purpose","I come for visit.","観光に来ました。"
+"speech:state-purpose","Only to visit.","観光に来ただけです。"
+"speech:state-purpose","I will visit friends.","友人に会います。"
+"speech:state-purpose","Transit.","乗継ぎです。"
+"speech:state-purpose","I pass through.","乗継ぎで通るだけです。"
+"speech:state-purpose","Transit through the country.","乗継ぎをします。"
+"speech:state-purpose","I am transiting to elsewhere.","他の場所への乗継ぎで。"
+"speech:state-purpose","Transit through Arstotzka.","ｱﾙｽﾄﾂｶで乗継ぎです。"
+"speech:state-purpose","Passing through.","乗継ぎで通過します。"
+"speech:state-purpose","I am in transit.","乗継ぎするんです。"
+"speech:state-purpose","Work.","労働です。"
+"speech:state-purpose","I come to work.","仕事をしに来ました。"
+"speech:state-purpose","I have job here.","ここで仕事があるんです。"
+"speech:state-purpose","I plan to work.","働く予定です。"
+"speech:state-purpose","Immigrating.","移住です。"
+"speech:state-purpose","I am immigrating to Arstotzka.","ｱﾙｽﾄﾂｶに移住します。"
+"speech:state-purpose","I will move here.","ここに引っ越すんです。"
+"speech:state-purpose","I am coming to live with my husband.","主人と一緒に住むために来ました。"
+"speech:state-purpose","I am coming to live with my wife.","妻と一緒に住むために来ました。"
+"speech:state-purpose","I am diplomatic envoy.","私は外交使節です。"
+"speech:state-purpose","I was called to diplomatic discussions.","外交会談のために呼ばれました。"
+"speech:state-purpose","My presence was requested.","召還されたので来ました。"
+"speech:state-purpose","I am seeking asylum.","亡命を希望しています。"
+"speech:state-purpose","I come for political asylum.","政治亡命で来ました。"
+"speech:state-purpose","Asylum.","亡命です。"
+"speech:ask-wrong-purpose","This entry permit is for work.","労働用の入国許可のようですが。"
+"speech:ask-wrong-purpose","You are authorized for transit only.","乗継ぎ目的でしか<br>認められていませんが。"
+"speech:ask-wrong-purpose","You have only a visitors entry permit.","観光目的の入国許可しか<br>出ていませんが。"
+"speech:ask-wrong-purpose","This entry permit is for immigrating.","この入国許可は移住用ですよ。"
+"speech:ask-wrong-purpose","Your entry purpose does not match up.","渡航目的が一致しませんね。"
+"speech:ask-wrong-purpose","This entry permit purpose does not match.","入国許可証の渡航目的と<br>一致しません。"
+"speech:mistake-prefix","Right.","そうです。"
+"speech:mistake-prefix","I make mistake.","間違えました。"
+"speech:mistake-prefix","Yes, of course.","あぁ、もちろん。"
+"speech:mistake-prefix","Apologies.","すみません。"
+"speech:wrong-purpose","$mistake-prefix I am just visiting.","$mistake-prefix 普通に観光です。"
+"speech:wrong-purpose","$mistake-prefix I just pass through.","$mistake-prefix 通るだけです。"
+"speech:wrong-purpose","$mistake-prefix I have come to work.","$mistake-prefix 仕事をしにきました。"
+"speech:wrong-purpose","$mistake-prefix I move here permanently.","$mistake-prefix 永住します。"
+"speech:ask-duration","Duration of stay?","滞在期間は？"
+"speech:random-stay","I stay","滞在します。"
+"speech:random-stay","I remain for","居ます。"
+"speech:random-stay","It will be","の予定です。"
+"speech:state-duration","$random-stay forever.","$random-stay 永住します。"
+"speech:state-duration","$random-stay until I die.","$random-stay 死ぬまでです。"
+"speech:state-duration","I don't plan to leave.","去る予定はありません。"
+"speech:state-duration","$random-stay just 2 days.","2日だけ$random-stay"
+"speech:state-duration","$random-stay couple days.","数日$random-stay"
+"speech:state-duration","$random-stay just 14 days.","14日だけ$random-stay"
+"speech:state-duration","$random-stay couple weeks.","数週間$random-stay"
+"speech:state-duration","$random-stay only two weeks.","2週間だけ$random-stay"
+"speech:state-duration","$random-stay 30 days.","30日$random-stay"
+"speech:state-duration","$random-stay a few weeks.","何週間か$random-stay"
+"speech:state-duration","$random-stay one month.","1ヶ月$random-stay"
+"speech:state-duration","$random-stay 60 days.","60日$random-stay"
+"speech:state-duration","$random-stay 8 weeks.","8週間$random-stay"
+"speech:state-duration","$random-stay couple months.","数ヶ月$random-stay"
+"speech:state-duration","$random-stay two months.","2ヶ月$random-stay"
+"speech:state-duration","$random-stay 90 days.","90日$random-stay"
+"speech:state-duration","$random-stay 12 weeks.","12週間$random-stay"
+"speech:state-duration","$random-stay three months.","3ヶ月$random-stay"
+"speech:state-duration","$random-stay a few months.","数ヶ月間$random-stay"
+"speech:state-duration","$random-stay six months.","6ヶ月$random-stay"
+"speech:state-duration","$random-stay half a year.","半年$random-stay"
+"speech:state-duration","$random-stay one year.","1年だけ$random-stay"
+"speech:state-duration","$random-stay full year.","1年間$random-stay"
+"speech:state-duration","$random-stay a year.","1年$random-stay"
+"speech:ask-wrong-duration","The length of your stay is different.","滞在期間の長さが違いますが。"
+"speech:wrong-duration","$mistake-prefix $state-duration","$mistake-prefix $state-duration"
+"speech:ask-forgery-missing","This document is missing its seal.","この書類には印鑑が<br>ありませんね。"
+"speech:ask-forgery-missing","There is no seal here.","ここに印鑑がありません。"
+"speech:ask-forgery-missing","I do not see the required seal here.","必要な印鑑が見当たりません。"
+"speech:ask-forgery-wrong","This document is forged.","これは偽造された書類ですね。"
+"speech:ask-forgery-wrong","This is a forgery.","これは偽造です。"
+"speech:ask-forgery-idcard","This card contains false information.","このカードには偽の情報が<br>記載されています。"
+"speech:ask-forgery-diplo","This seal is forged.","この印鑑は偽造されたものです。"
+"speech:ask-forgery-diplo","This seal is not correct.","印鑑が正しくありません。"
+"speech:ask-forgery-asylumgrant","This seal is forged.","偽造された印鑑です。"
+"speech:ask-forgery-asylumgrant","This grant is not sealed properly.","この許可書にはちゃんとした押印がありません。"
+"speech:ask-wrong-birthdate","These dates do not match.","日付が合っていません。"
+"speech:forgery","I have no idea what you are talking about.","一体何のことだか。"
+"speech:forgery","I do not know anything about that.","私は何も知りません。"
+"speech:forgery","I do not understand.","よく分かりません。"
+"speech:ask-expired-paper","This document has expired.","この書類は期限切れです。"
+"speech:ask-expired-paper","You cannot enter using an expired document.","期限の切れた書類では<br>入国できません。"
+"speech:expired-permit","I could not come until now.","今日まで来ることが<br>できなかったんです。"
+"speech:expired-permit","I was busy.","忙しかったので。"
+"speech:expired-passport","What? That is mistake. I just renewed it.","え？そんなはずはありません。<br>更新したばかりなんです。"
+"speech:expired-passport","That must be a typographical error.","きっとﾐｽﾌﾟﾘﾝﾄですよ。"
+"speech:expired-asylumgrant","There was nothing I could do.","どうにも出来なかったんです。"
+"speech:expired-asylumgrant","My travel was difficult.","とても厳しい旅でした。"
+"speech:expired-asylumgrant","Please, have mercy.","どうか、ご慈悲を。"
+"speech:ask-missing-passport","Where is passport?","ﾊﾟｽﾎﾟｰﾄは？"
+"speech:ask-missing-passport","A passport is required.","ﾊﾟｽﾎﾟｰﾄが必要です。"
+"speech:missing-passport","They took away my passport.","ﾊﾟｽﾎﾟｰﾄは取り上げられたんです。"
+"speech:missing-passport","What is passport?","ﾊﾟｽﾎﾟｰﾄって何ですか？"
+"speech:ask-missing-entrypermit","Where is the entry permit?","入国許可証は？"
+"speech:ask-missing-entrypermit","You have no entry permit.","入国許可証がありませんね。"
+"speech:ask-missing-entrypermit","The entry permit is missing.","入国許可証が不足しています。"
+"speech:missing-permit","I was not able to get one.","取得できなかったんです。"
+"speech:missing-permit","What is that?","なんですかそれ？"
+"speech:missing-permit","Do I need one?","必要なんですか？"
+"speech:missing-permit","Is required?","それがいるのですか？"
+"speech:missing-permit","I lost it.","なくしました。"
+"speech:missing-permit","I did not know it was required.","必要だとは知りませんでした。"
+"speech:ask-missing-workpermit","Where is the work pass?","労働許可証は？"
+"speech:ask-missing-workpermit","You have no work pass.","労働許可証がありませんね。"
+"speech:ask-missing-workpermit","The work pass is missing.","労働許可証が不足しています。"
+"speech:missing-workpermit","I will get one after I enter.","入国後に取得します。"
+"speech:ask-missing-idcard","Where is your id card?","IDカードは？"
+"speech:ask-missing-idcard","I need your id card.","IDカードが必要です。"
+"speech:missing-idcard","I never got one.","もらったことがありません。"
+"speech:missing-idcard","I left before they were issued.","発行される前に出国したので。"
+"speech:missing-idcard","I lost it.","なくしました。"
+"speech:ask-missing-idsupplement","You must carry an id supplement.","身元証明補完書が必要です。"
+"speech:ask-missing-idsupplement","Where is your id supplement?","身元証明補完書は？"
+"speech:missing-idsupplement","I never got one.","もらったことがありません。"
+"speech:missing-idsupplement","What is a supplement?","補完書って何ですか？"
+"speech:missing-idsupplement","This was not provided to me.","私には配られていません。"
+"speech:ask-missing-asylumgrant","You have no grant for asylum.","亡命の認可証がありませんね。"
+"speech:ask-missing-asylumgrant","Where is your asylum grant?","亡命認可証は？"
+"speech:missing-asylumgrant","I could not secure one in time.","間に合わなかったんです。"
+"speech:missing-asylumgrant","I have none.","持っていません。"
+"speech:missing-asylumgrant","What is that?","何ですかそれは？"
+"speech:ask-missing-accesspermit","Where is the access permit?","渡航許可証は？"
+"speech:ask-missing-accesspermit","You have no access permit.","渡航許可証がありませんね。"
+"speech:ask-missing-accesspermit","The access permit is missing.","渡航許可証が不足しています。"
+"speech:ask-wrong-name","These names do not match.","氏名が一致していません。"
+"speech:wrong-name","I have two different names.","名前が2つあるんです。"
+"speech:wrong-name","I have multiple names.","複数の氏名があるんです。"
+"speech:wrong-name","My name was changed recently.","最近名前を変えました。"
+"speech:ask-wrong-workend","You are not authorized to work this long.","この期間働くことは<br>認められていません。"
+"speech:ask-wrong-workend","This work pass expires before your visit.","この労働許可証は渡航前に<br>期限が切れます。"
+"speech:wrong-workend","I will renew the pass soon.","すぐに更新しようと思っています。"
+"speech:wrong-workend","I am planning to renew it.","更新する予定です。"
+"speech:wrong-workend","My entry permit is longer than I need.","入国許可証の期限が必要以上に<br>長いんです。"
+"speech:ask-wrong-idnumber","These numbers do not match.","番号が一致しません。"
+"speech:ask-wrong-idnumber","There is a discrepancy here.","ここが一致しませんね。"
+"speech:ask-wrong-idnumber","There are two different numbers here.","それぞれ別の番号が記載されて<br>いますが。"
+"speech:wrong-idnumber","It must be a mistake. The document is valid.","きっと間違いです。<br>正式な書類ですよ。"
+"speech:wrong-idnumber","Check again.","もう一度確認して下さい。"
+"speech:ask-wrong-face","This does not look like you.","この写真はあなたに<br>見えません。"
+"speech:ask-wrong-face","Your picture. It is different.","写真が違いますね。"
+"speech:ask-wrong-face","Your appearance has changed.","見た目が変わりましたね。"
+"speech:wrong-face","It is an old picture.","古い写真ですから。"
+"speech:wrong-face","I had surgery.","手術を受けたんです。"
+"speech:wrong-face","The years have been cruel.","年月って残酷ですよね。"
+"speech:wrong-face","I do not know what to say. It is me.","なんと言えばいいのか。<br>それは私です。"
+"speech:ask-wrong-issuingcity","This issuing city is incorrect.","発行地が誤っています。"
+"speech:ask-wrong-issuingcity","Your passport has false information.","ﾊﾟｽﾎﾟｰﾄに謝った情報が<br>あります。"
+"speech:ask-wrong-gender","You are a man?","男性ですか？"
+"speech:ask-wrong-gender","It says here that you are male.","ここには男性と記載されて<br>いますが。"
+"speech:ask-wrong-gender","You are a woman?","女性ですか？"
+"speech:ask-wrong-gender","Your passport says you are female.","ﾊﾟｽﾎﾟｰﾄには女性と記載されて<br>いますが。"
+"speech:ask-wrong-gender","Are you a woman or a man?","貴方は女性、男性、<br>どちらですか？"
+"speech:ask-wrong-gender","You are male or female?","男性ですか、女性ですか？"
+"speech:wrong-gender","The passport is correct.","ﾊﾟｽﾎﾟｰﾄの記載が正しいです。"
+"speech:wrong-gender","Why do you ask?","なぜ聞くんですか？"
+"speech:wrong-gender","As the document says.","書類の通りです。"
+"speech:wrong-gender","What is this question?","何を聞いてるんですか？"
+"speech:ask-wrong-gender-busted","There is a problem with your documentation.","書類に問題があります。"
+"speech:ask-approved","Glory to Arstotzka.","ｱﾙｽﾄﾂｶに栄光あれ。"
+"speech:ask-approved","Cause no trouble.","問題を起こさぬように。"
+"speech:ask-nativesonly","Try again.","また来て下さい。"
+"speech:ask-nativesonly","Arstotzkans only.","ｱﾙｽﾄﾂｶ国民以外は入国不可です。"
+"speech:ask-wrong-nation","No entry from Obristan.","ｵﾌﾞﾘｽﾀ国民は入国不可です。"
+"speech:ask-wrong-nation","No entry from Kolechia.","ｺﾚﾁｱ国民は入国不可です。"
+"speech:ask-wrong-nation","No entry from United Federation.","合衆連邦国民は入国不可です。"
+"speech:ask-wrong-nation","No entry from Antegria.","ｱﾝﾃｸﾞﾘｱ国民は入国不可です。"
+"speech:ask-wrong-nation","No entry from Republia.","ﾘﾊﾟﾌﾞﾘｱ国民は入国不可です。"
+"speech:ask-wrong-nation","No entry from Arstotzka.","ｱﾙｽﾄﾂｶ国民は入国不可です。"
+"speech:ask-wrong-nation","No entry from Impor.","ｲﾝﾎﾟｰﾙ国民は入国不可です。"
+"speech:ask-search","Face the scanner.","ｽｷｬﾅｰに体を向けて下さい。"
+"speech:ask-search","Turn towards the scanner.","ｽｷｬﾅｰの方を向いて下さい。"
+"speech:ask-detain","Wait here.","ここで待っていて下さい。"
+"speech:ask-detain","One moment please.","少々お待ち下さい。"
+"speech:detain","What are you doing?","何をしているんです？"
+"speech:detain","What is happening?","何が起こったんです？"
+"speech:detain","What is this?","何ですかこれは？"
+"speech:detain","You cannot do this!","こんなことしていいわけがない！"
+"speech:detain","What will happen to me?","私はどうなるんですか？"
+"speech:detain","Who do you think you are?","何様のつもりですか？"
+"speech:detain","You have no authority for this!","こんな権利はないでしょう！"
+"speech:detain","You are a fool!","バカ野郎！"
+"speech:ask-search-enabled","You have been selected for a random search.","無作為検査の対象に選ばれました。"
+"speech:ask-wrong-entryticket-date","This ticket is for another day.","この入国券は別日のものです。"
+"speech:ask-wrong-entryticket-date","You cannot enter today.","本日の入国は不可能です。"
+"speech:ask-wrong-entryticket-date","The date on this ticket is wrong.","入国券の日付が間違っています。"
+"speech:wrong-entryticket-date","It is my mistake.","私が間違えてしまいました。"
+"speech:wrong-entryticket-date","Oh?","え？"
+"speech:ask-missing-entryticket","You cannot enter without a ticket.","入国券がないと入国できません。"
+"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","外国からの渡航者は入国券の提示が<br>必要です。"
+"speech:ask-missing-entryticket","Where is your entry ticket?","入国券は？"
+"speech:missing-entryticket","I do not know what that is.","それは一体何ですか？"
+"speech:missing-entryticket","I have none.","持っていません。"
+"speech:missing-entryticket","It was lost.","なくなりました。"
+"speech:ask-wrong-identity","I cannot verify your identity.","身元の確認がとれません。"
+"speech:ask-wrong-identity","Your identity does not match.","身元が一致しません。"
+"speech:ask-wrong-alias","There is no record of this name.","この名前は登録がありません。"
+"speech:ask-wrong-alias","I cannot verify your alias.","あなたの別名は確認できません。"
+"speech:ask-wrong-fingerprints","Your fingerprints do not match our records.","指紋が登録と合いません。"
+"speech:ask-wrong-fingerprints","I cannot verify your fingerprints.","指紋の確認がとれません。"
+"speech:ask-contraband","There is zero tolerance for contraband.","密輸は一切認められません。"
+"speech:ask-contraband","You have made a mistake coming here.","ここに来たのは間違いでしたね。"
+"speech:contraband","You can see that?","見えるんですか？"
+"speech:contraband","What?","なんですか？"
+"speech:contraband","I know nothing.","何も知りませんよ。"
+"speech:contraband","Is it so obvious?","バレましたか？"
+"speech:ask-wrong-information","This information does not look correct.","この情報は正しくないようです。"
+"speech:ask-wrong-information","This is incorrect.","これは間違ってますね。"
+"speech:ask-wrong-height","Your height is different.","身長が異なっています。"
+"speech:wrong-height","Perhaps my shoes are different.","たぶん靴のせいです。"
+"speech:wrong-height","It is a natural difference.","ちょっと伸びたかな。"
+"speech:ask-wrong-weight","Your weight is different.","体重が違いますね。"
+"speech:wrong-weight","I am wearing different clothes.","着ている服が違うから。"
+"speech:wrong-weight","My weight has changed naturally.","ちょっと太りました。"
+"speech:ask-criminal","You have interesting face.","面白い顔をしていますね。"
+"speech:ask-criminal","Maybe you should not have come.","ここに来るべきではなかったかも<br>しれませんね。"
+"speech:ask-criminal","We have some questions for you.","少し聞きたいことがあります。"
+"speech:criminal","I have nothing to say.","何も言うことはありません。"
+"speech:criminal","Let me through or you will regret it.","通さないと後悔しますよ。"
+"speech:criminal","I do not like your tone.","その口調気に入らないな。"
+"speech:ask-wrong-description","This does not sound like you.","どうも貴方のことではない<br>ようですが。"
+"speech:ask-wrong-description","You do not match this description.","特徴と合いませんね。"
+"speech:wrong-description","I have changed.","雰囲気を変えましたから。"
+"speech:wrong-description","How can you say for sure?","どうしてそう言えるんですか？"
+"speech:wrong-description","Is that good or bad?","それは良いことですか、悪いことですか？"
+"speech:hidden-paper","Here it is.","はいどうぞ。"
+"speech:hidden-paper","Sorry. I have it here.","すみません。これですね。"
+"speech:hidden-paper","I have it here.","これですね。"
+"speech:hidden-paper","Here.","どうぞ。"
+"speech:ask-wrong-thumbprint","Your thumb print does not match.","拇印が一致しません。"
+"speech:ask-wrong-thumbprint","This print does not match.","この指紋は一致しませんね。"
+"speech:ask-wrong-diploaccess","Your diplomatic authorization does not cover Arstotzka.","外交権限証明にｱﾙｽﾄﾂｶが<br>含まれていません。"
+"speech:ask-wrong-diploaccess","You have no diplomatic rights here.","本国での外交権限はありません。"
+"speech:ask-wrong-diploaccess","This authorization does not include Arstotzka.","この権限証明にｱﾙｽﾄﾂｶは<br>入っていません。"
+"speech:wrong-diploaccess","Nonsense.","そんなバカな。"
+"speech:wrong-diploaccess","Check with your superiors.","上司に確認して下さい。"
+"speech:wrong-diploaccess","I have full authorization.","正当な権限があるはずです。"
+"speech:ask-missing-vaccinecert","Where is the vaccine certification?","ワクチン証明書は？"
+"speech:ask-missing-vaccinecert","Where is your proof of vaccination?","ワクチン接種の証明書は<br>どこですか？"
+"speech:ask-missing-vaccinecert","All entrants must be vaccinated.","入国者は全員ワクチン接種が<br>必要です。"
+"speech:missing-vaccinecert","I do not believe in vaccines.","ワクチンを信じていないんです。"
+"speech:missing-vaccinecert","I could not afford certification.","お金がなかったんです。"
+"speech:ask-vaccine-expired","This vaccine has expired.","ワクチンが期限切れですね。"
+"speech:ask-vaccine-expired","This vaccine is no longer active.","このワクチンはもう無効です。"
+"speech:ask-vaccine-wrongdrugs","You are missing the required vaccination.","必要なワクチンが接種されて<br>いません。"
+"speech:ask-vaccine-wrongdrugs","This vaccine certificate is insufficient.","このワクチン証明書では<br>不十分です。"
+"speech:trade-fingerprints","Here.","はい。"
+"speech:trade-fingerprints","Is this ok?","これでいいですか？"
+"speech:trade-fingerprints","Here are my fingerprints.","指紋です、どうぞ。"
+"speech:trade-fingerprints","Now I have ink everywhere.","もうインクだらけですよ。"
+"speech:default","Please let me through.","通して下さい。"
+"speech:default","What are you talking about?","何のことですか？"
+"speech:default","I know nothing about this.","私は知りません。"
+"speech:default","I do not know what to say.","何と言ったらいいのか。"
+"speech:default","Oh?","え？"
+"face:M00","Short Hair","短髪"
+"face:M00","Good Vision","視力良好"
+"face:M00","Balding","禿げかけ"
+"face:M00","Glasses","眼鏡あり"
+"face:M00","Large Mustache","大きな口ひげ"
+"face:M01","Bald","禿げ"
+"face:M01","Large Curly Locks","大きな巻き髪"
+"face:M01","Glasses","眼鏡あり"
+"face:M02","Cropped Hair","散切り"
+"face:M02","Glasses","眼鏡あり"
+"face:M02","Overweight","太り気味"
+"face:M02","No Glasses","眼鏡なし"
+"face:M03","Dark Hair","暗い髪色"
+"face:M03","Mustache","口ひげ"
+"face:M03","Light Hair","明るい髪色"
+"face:M03","Glasses","眼鏡あり"
+"face:M10","Beard","ひげ"
+"face:M10","Mustache","口ひげ"
+"face:M10","Shaved Head","スキンヘッド"
+"face:M10","Glasses","眼鏡あり"
+"face:M11","Goatee","あごひげ"
+"face:M11","Perfect Vision","視力完璧"
+"face:M11","Mohawk","モヒカン"
+"face:M11","Glasses","眼鏡あり"
+"face:M12","Short Cropped Hair","散切り 短髪"
+"face:M12","Long Wavy Hair","ウェーブ 長髪"
+"face:M12","Glasses","眼鏡あり"
+"face:M13","Balding","禿げかけ"
+"face:M13","Huge Afro","巨大なアフロ"
+"face:M13","Thick Glasses","厚い眼鏡"
+"face:M20","Balding","禿げかけ"
+"face:M20","Curly Hair","縮毛"
+"face:M20","Glasses","眼鏡あり"
+"face:M21","Short Straight Hair","直毛 短髪"
+"face:M21","Bald","禿げ"
+"face:M21","Glasses","眼鏡あり"
+"face:M22","Short Light Hair","明るい短髪"
+"face:M22","Dark Hair","暗い髪色"
+"face:M22","Glasses","眼鏡あり"
+"face:M23","Widow's Peak","富士額"
+"face:M23","Mustache","口ひげ"
+"face:M23","Shaved Head","スキンヘッド"
+"face:M23","Glasses","眼鏡あり"
+"face:M23","Clean Shaven","ひげなし"
+"face:M30","Tall Forehead","広い額"
+"face:M30","Totally Bald","完全禿げ"
+"face:M30","Glasses","眼鏡あり"
+"face:M31","Killer Sideburns","立派なもみあげ"
+"face:M31","Light Hair","明るい髪色"
+"face:M31","Glasses","眼鏡あり"
+"face:M32","Bobbed Hair","ボブ"
+"face:M32","Long Curly Hair","縮毛 長髪"
+"face:M32","Glasses","眼鏡あり"
+"face:M32","Large Mustache","大きな口ひげ"
+"face:M33","Short Curly Hair","縮毛 短髪"
+"face:M33","Mustache","口ひげ"
+"face:M33","Balding","禿げかけ"
+"face:M33","Glasses","眼鏡あり"
+"face:M33","No Mustache","口ひげなし"
+"face:M40","Bald","禿げ"
+"face:M40","Long Hair","長髪"
+"face:M40","Glasses","眼鏡あり"
+"face:M41","Mohawk","モヒカン"
+"face:M41","Large Sideburns","太いもみあげ"
+"face:M41","Glasses","眼鏡あり"
+"face:M42","Short Curly Hair","縮毛 短髪"
+"face:M42","Flat-top Hair","角刈り"
+"face:M42","Glasses","眼鏡あり"
+"face:M42","Pencil Mustache","細い口ひげ"
+"face:M43","Unkempt Curly Hair","乱れた縮毛"
+"face:M43","Mustache","口ひげ"
+"face:M43","Long Straight Hair","直毛 長髪"
+"face:M43","Glasses","眼鏡あり"
+"face:F00","Wavy Hair","ウェーブヘア"
+"face:F00","Short Hair","短髪"
+"face:F00","Glasses","眼鏡あり"
+"face:F01","Small Head","顔が小さい"
+"face:F01","Glasses","眼鏡あり"
+"face:F01","Afro","アフロ"
+"face:F01","Perfect Vision","視力完璧"
+"face:F02","Overweight","太り気味"
+"face:F02","Slim Figure","やせ型"
+"face:F02","Glasses","眼鏡あり"
+"face:F03","Bobbed Hair","ボブ"
+"face:F03","Long Hair","長髪"
+"face:F03","Glasses","眼鏡あり"
+"face:F10","Straight Hair","直毛"
+"face:F10","Long Curly Hair","縮毛 長髪"
+"face:F10","Glasses","眼鏡あり"
+"face:F11","Bobbed Hair","ボブ"
+"face:F11","Afro","アフロ"
+"face:F11","Glasses","眼鏡あり"
+"face:F12","Short Hair","短髪"
+"face:F12","Huge Afro","大きなアフロ"
+"face:F12","Thick Glasses","厚い眼鏡"
+"face:F13","Very Short Hair","極短髪"
+"face:F13","Long Straight Hair","直毛 長髪"
+"face:F13","Glasses","眼鏡あり"
+"face:F20","Short Hair","短髪"
+"face:F20","Long Curly Hair","縮毛 長髪"
+"face:F20","Glasses","眼鏡あり"
+"face:F21","Overweight","太り気味"
+"face:F21","Slim Figure","やせ型"
+"face:F21","Glasses","眼鏡あり"
+"face:F22","Bobbed Hair","ボブ"
+"face:F22","Shaved Head","スキンヘッド"
+"face:F22","Glasses","眼鏡あり"
+"face:F23","Short Curly Hair","縮毛ショートヘア"
+"face:F23","Long Straight Hair","直毛 長髪"
+"face:F23","Glasses","眼鏡あり"
+"face:F30","Curly Bobbed Hair","縮毛 ボブ"
+"face:F30","Shaved Head","スキンヘッド"
+"face:F30","Thick Glasses","厚い眼鏡"
+"face:F31","Short Wavy Hair","ウェーブ 短髪"
+"face:F31","Glasses","眼鏡あり"
+"face:F31","Long Hair","長髪"
+"face:F31","Good Vision","視力良好"
+"face:F32","Bobbed Hair","ボブ"
+"face:F32","Light Curly Hair","明るい縮毛"
+"face:F32","Glasses","眼鏡あり"
+"face:F33","Long Hair","長髪"
+"face:F33","Shaved Head","スキンヘッド"
+"face:F33","Glasses","眼鏡あり"
+"face:F40","Straight Hair","直毛"
+"face:F40","Curly Hair","縮毛"
+"face:F40","Glasses","眼鏡あり"
+"face:F41","Bobbed Hair","ボブ"
+"face:F41","Round Face","丸顔"
+"face:F41","Glasses","眼鏡あり"
+"face:F42","Dark Hair","暗い髪色"
+"face:F42","Long Straight Hair","直毛 長髪"
+"face:F42","Glasses","眼鏡あり"
+"face:F43","Long Hair","長髪"
+"face:F43","Shaved Head","スキンヘッド"
+"face:F43","No Glasses","眼鏡なし"
