@@ -652,7 +652,7 @@ CORRELATION","KEINE
 "text:booth_cleared","DISCREPANCY
 CLEARED","DISCREPANCY
 CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Einreise genehmight"
+"text:env_clearforentry","Applicant clear for entry","Person war einreiseberechtigt"
 "text:env_lettermale","M","M"
 "text:env_letterfemale","F","W"
 "text:env_noalias","No known alias","Kein Alias bekannt"
