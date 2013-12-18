@@ -242,9 +242,9 @@ LOS POLVOS CON EL PASAPORTE"
 "RulesInnerDiplomaticAuth","DIPLOMATIC","AUTORIZACIÓN"
 "RulesInnerDiplomaticAuth","AUTHORIZATION","DIPLOMÁTICA"
 "RulesInnerDiplomaticAuth","VALIDATE SEAL WITH COUNTRY PAGE","COTÉJENSE LOS SELLOS EN LA PÁGINA DE CADA PAÍS"
-"RulesInnerAsylumGrant","GRANT OF<br>ASYLUM","GRANT OF<br>ASYLUM"
-"RulesInnerAsylumGrant","VALID SEALS","VALID SEALS"
-"RulesInnerAsylumGrant","ALWAYS VERIFY FINGERPRINTS","ALWAYS VERIFY FINGERPRINTS"
+"RulesInnerAsylumGrant","GRANT OF<br>ASYLUM","CONCESIÓN<br>DE ASILO"
+"RulesInnerAsylumGrant","VALID SEALS","SELLOS VÁLIDOS"
+"RulesInnerAsylumGrant","ALWAYS VERIFY FINGERPRINTS","COMPRUEBE SIEMPRE LAS HUELLAS DACTILARES"
 "RulesInnerVaccineCert","VACCINE CERTIFICATE","CERTIFICADOS<br>DE VACUNACIÓN"
 "RulesInnerVaccineCert","MINISTRY","MINISTERIO"
 "RulesInnerVaccineCert","OF","DE"
@@ -561,7 +561,7 @@ LOS POLVOS CON EL PASAPORTE"
 "text:menu_paused","PAUSED","EN PAUSA"
 "text:menu_settings","SETTINGS","OPCIONES"
 "text:menu_credits","CREDITS","CRÉDITOS"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:menu_checkforupdates","CHECK FOR UPDATES","BUSCAR ACTUALIZACIONES"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -644,8 +644,8 @@ DATA","DATOS COINCIDENTES"
 "text:booth_nocorrelation","NO
 CORRELATION","SIN CORRELACIÓN"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
+CLEARED","DISCREPANCIA
+RESUELTA"
 "text:env_clearforentry","Applicant clear for entry","Solicitante apto para la entrada"
 "text:env_lettermale","M","H"
 "text:env_letterfemale","F","M"
