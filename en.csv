@@ -334,6 +334,9 @@
 "PezpertInner","STAMP HERE","STAMP HERE"
 "image:SonDrawingInner.png","capture/SonDrawingInner.png","capture/SonDrawingInner.png"
 "SonDrawingInner","hanG on wAll","hanG on wAll"
+"image:SonDrawingOuter.png","capture/SonDrawingOuter.png","capture/SonDrawingOuter.png"
+"image:SonDrawingMount.png","capture/SonDrawingMount.png","capture/SonDrawingMount.png"
+"image:VictimPhotoInnerBack.png","capture/VictimPhotoInnerBack.png","capture/VictimPhotoInnerBack.png"
 "image:Emotions.png","export/Emotions.png","export/Emotions.png"
 "image:LoadButtonLatest.png","export/LoadButtonLatest.png","export/LoadButtonLatest.png"
 "image:InkApproved.png","export/InkApproved.png","export/InkApproved.png"
@@ -534,6 +537,7 @@
 "text:budget_heat","HEAT","HEAT"
 "text:budget_medicine","MEDICINE ($0)","MEDICINE ($0)"
 "text:budget_sleep","SLEEP","SLEEP"
+"text:budget_escape","ESCAPE","ESCAPE"
 "text:menu_back","BACK","BACK"
 "text:confirm_ok","OKAY","OKAY"
 "text:confirm_cancel","CANCEL","CANCEL"
@@ -558,6 +562,7 @@
 "text:menu_paused","PAUSED","PAUSED"
 "text:menu_settings","SETTINGS","SETTINGS"
 "text:menu_credits","CREDITS","CREDITS"
+"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -642,6 +647,9 @@ DATA"
 "text:booth_nocorrelation","NO
 CORRELATION","NO
 CORRELATION"
+"text:booth_cleared","DISCREPANCY
+CLEARED","DISCREPANCY
+CLEARED"
 "text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
 "text:env_lettermale","M","M"
 "text:env_letterfemale","F","F"
@@ -658,6 +666,7 @@ $time
 $score Points"
 "text:endless_ranked","Ranked #$0","Ranked #$0"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
+"text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$month $day, $year"
 "text:month_1","January","January"
 "text:month_2","February","February"
@@ -2302,7 +2311,7 @@ HOLD YOUR FIRE
 "traveler:KID_KILLER2","Read the news tomorrow.","Read the news tomorrow."
 "traveler:KID_KILLER2","She was just little girl.","She was just little girl."
 "traveler:KID_KILLER2","@I do not know what you are talking about.","@I do not know what you are talking about."
-"traveler:KID_KILLER2","Damnit.","Damnit."
+"traveler:KID_KILLER2","Damnit.","Damn it."
 "traveler:KID_KILLER2","She was just a little girl.","She was just a little girl."
 "traveler:KID_KILLER2","@Yes. He has been arrested.","@Yes. He has been arrested."
 "traveler:KID_KILLER2","What? I asked you to let him pass.","What? I asked you to let him pass."
