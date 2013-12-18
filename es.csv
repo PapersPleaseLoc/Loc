@@ -345,6 +345,10 @@ LOS POLVOS CON EL PASAPORTE"
 "image:StampBotDenied.png","export/StampBotDenied.png","final/es/StampBotDenied.png"
 "image:ReasonStampTop.png","export/ReasonStampTop.png","final/es/ReasonStampTop.png"
 "image:InkReason.png","export/InkReason.png","final/es/InkReason.png"
+"image:Arstotzka.png","export/Arstotzka.png","export/Arstotzka.png"
+"image:Intro1.png","export/Intro1.png","export/Intro1.png"
+"image:Obrinspector.png","export/Obrinspector.png","export/Obrinspector.png"
+"image:Shutter.png","export/Shutter.png","export/Shutter.png"
 "news:RANDOM_WEATHER","The Weather","El tiempo"
 "news:RANDOM_SPORTS","Sports","Deportes"
 "news:RANDOM_ENTERTAINMENT","Entertainment","Espectáculos"
@@ -557,6 +561,7 @@ LOS POLVOS CON EL PASAPORTE"
 "text:menu_paused","PAUSED","EN PAUSA"
 "text:menu_settings","SETTINGS","OPCIONES"
 "text:menu_credits","CREDITS","CRÉDITOS"
+"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -638,6 +643,9 @@ DETECTED","DISCREPANCIA DETECTADA"
 DATA","DATOS COINCIDENTES"
 "text:booth_nocorrelation","NO
 CORRELATION","SIN CORRELACIÓN"
+"text:booth_cleared","DISCREPANCY
+CLEARED","DISCREPANCY
+CLEARED"
 "text:env_clearforentry","Applicant clear for entry","Solicitante apto para la entrada"
 "text:env_lettermale","M","H"
 "text:env_letterfemale","F","M"
@@ -2484,7 +2492,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:GYM_INSTRUCTOR","You are skin and bones.","Está usted hecho un sequillo."
 "traveler:GYM_INSTRUCTOR","Bet you have no real strength.","Apuesto a que no tiene ni pizca de fuerza."
 "traveler:GYM_INSTRUCTOR","Come to gym, I make you big.","Venga a mi gimnasio. Se pondrá cachas."
-"traveler:GYM_INSTRUCTOR","I guarantee you get big at Get Big Town.","Venga a Gimnasio Karl y enseguida sacará bola."
+"traveler:GYM_INSTRUCTOR","I guarantee you get big at Get Big Town.","Venga a Gimnasio Krapp y enseguida sacará bola."
 "traveler:GYM_INSTRUCTOR","Is what we do.","Se lo garantizo."
 "traveler:GYM_INSTRUCTOR","Denied? Hah.","¿Denegado?"
 "traveler:GYM_INSTRUCTOR","This is what I expect from skinny weakling.","Justo lo que me esperaba de un flacucho flojucho."
