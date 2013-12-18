@@ -334,6 +334,9 @@
 "PezpertInner","STAMP HERE","TIMBRO QUI"
 "image:SonDrawingInner.png","capture/SonDrawingInner.png","final/it/SonDrawingInner.png"
 "SonDrawingInner","hanG on wAll","appenDi su mUro"
+"image:SonDrawingOuter.png","capture/SonDrawingOuter.png","final/it/SonDrawingOuter.png"
+"image:SonDrawingMount.png","capture/SonDrawingMount.png","final/it/SonDrawingMount.png"
+"image:VictimPhotoInnerBack.png","capture/VictimPhotoInnerBack.png","final/it/VictimPhotoInnerBack.png"
 "image:Emotions.png","export/Emotions.png","final/it/Emotions.png"
 "image:LoadButtonLatest.png","export/LoadButtonLatest.png","final/it/LoadButtonLatest.png"
 "image:InkApproved.png","export/InkApproved.png","final/it/InkApproved.png"
@@ -342,6 +345,10 @@
 "image:StampBotDenied.png","export/StampBotDenied.png","final/it/StampBotDenied.png"
 "image:ReasonStampTop.png","export/ReasonStampTop.png","final/it/ReasonStampTop.png"
 "image:InkReason.png","export/InkReason.png","final/it/InkReason.png"
+"image:Arstotzka.png","export/Arstotzka.png","export/Arstotzka.png"
+"image:Intro1.png","export/Intro1.png","export/Intro1.png"
+"image:Obrinspector.png","export/Obrinspector.png","export/Obrinspector.png"
+"image:Shutter.png","export/Shutter.png","export/Shutter.png"
 "news:RANDOM_WEATHER","The Weather","Meteo"
 "news:RANDOM_SPORTS","Sports","Sport"
 "news:RANDOM_ENTERTAINMENT","Entertainment","Spettacoli"
@@ -530,6 +537,7 @@
 "text:budget_heat","HEAT","RISCALDAMENTO"
 "text:budget_medicine","MEDICINE ($0)","MEDICINE ($0)"
 "text:budget_sleep","SLEEP","DORMI"
+"text:budget_escape","ESCAPE","FUGA"
 "text:menu_back","BACK","INDIETRO"
 "text:confirm_ok","OKAY","OK"
 "text:confirm_cancel","CANCEL","ANNULLA"
@@ -554,6 +562,7 @@
 "text:menu_paused","PAUSED","IN PAUSA"
 "text:menu_settings","SETTINGS","IMPOSTAZIONI"
 "text:menu_credits","CREDITS","RICONOSCIMENTI"
+"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -638,6 +647,9 @@ COINCIDENTI"
 "text:booth_nocorrelation","NO
 CORRELATION","NESSUNA
 CORRELAZIONE"
+"text:booth_cleared","DISCREPANCY
+CLEARED","DISCREPANCY
+CLEARED"
 "text:env_clearforentry","Applicant clear for entry","Richiedente idoneo all'entrata"
 "text:env_lettermale","M","M"
 "text:env_letterfemale","F","F"
@@ -654,6 +666,7 @@ $time
 $score punti"
 "text:endless_ranked","Ranked #$0","Posizione: $0"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Completa la modalità storia senza perdere il lavoro per sbloccare la modalità senza fine"
+"text:endless_wrongcode","S O R R Y","E R R O R"
 "text:date_verbose","$month $day, $year","$day $month $year"
 "text:month_1","January","Gennaio"
 "text:month_2","February","Febbraio"
