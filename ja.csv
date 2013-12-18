@@ -470,17 +470,17 @@
 "text:language_author","Author","PLAYISM"
 "text:wrap_hyphen","-","NONE"
 "text:created_by","created by Lucas Pope","created by Lucas Pope"
-"text:papers_please","Papers, please.","書類を下さい。"
+"text:papers_please","Papers, please.","書類の提示をお願いします。"
 "text:protocol_violated","Protocol Violated.","規定違反。"
-"text:unauth_confiscation","Unauthorized passport confiscation","権限外のﾊﾟｽﾎﾟｰﾄ押収。"
-"text:missing_reason","Denial reason not given","拒否事由の不足。"
-"text:citation_warning","WARNING ISSUED - NO PENALTY","WARNING ISSUED - NO PENALTY"
-"text:citation_lastwarning","LAST WARNING - NO PENALTY","LAST WARNING - NO PENALTY"
-"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","PENALTY ASSESSED - $0 CREDITS"
-"text:border_next","NEXT!","NEXT!"
+"text:unauth_confiscation","Unauthorized passport confiscation","無認可のﾊﾟｽﾎﾟｰﾄ押収。"
+"text:missing_reason","Denial reason not given","拒否事由の欠落。"
+"text:citation_warning","WARNING ISSUED - NO PENALTY","警告 - 罰金なし"
+"text:citation_lastwarning","LAST WARNING - NO PENALTY","最終通告 - 罰金なし"
+"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","罰金 - $0ｸﾚｼﾞｯﾄ"
+"text:border_next","NEXT!","次！"
 "text:border_bomber","FOR KOLECHIA!","ｺﾚﾁｱ万歳！"
 "text:border_comeback","COME BACK AT 6AM TOMORROW","明日午前6時にまたお越し下さい。"
-"text:border_announce0","ENTRY IS NOT GUARANTEED","入国は認められません。"
+"text:border_announce0","ENTRY IS NOT GUARANTEED","入国の保証はありません。"
 "text:border_announce1","HAVE YOUR DOCUMENTS READY","必要書類をご準備下さい。"
 "text:border_announce2","ARSTOTZKA WELCOMES YOU","ｱﾙｽﾄﾂｶはあなたを歓迎します。"
 "text:border_guardout","OUT!","出ろ!"
@@ -502,41 +502,41 @@
 "text:family_mil_message","mother-in-law","義母"
 "text:night_endof","END OF","第$0日目"
 "text:night_day","DAY $0","終了$0"
-"text:family_verysick_1","Your $0 will die without medicine.","薬がなければ$0が亡くなってしまいます。"
-"text:family_verysick_many","Very sick family members will die without medicine.","重症な家族は薬がないと亡くなってしまいます。"
+"text:family_verysick_1","Your $0 will die without medicine.","薬がなければ$0が死んでしまいます。"
+"text:family_verysick_many","Very sick family members will die without medicine.","重症な家族は薬がないと死んでしまいます。"
 "text:family_sick_1","Your $0 is sick and needs medicine.","$0は病気のため薬が必要です。"
 "text:family_sick_many","Your family needs medicine.","家族が薬を必要としています。"
-"text:family_died_1","Your $0 has died.","$0が亡くなりました。"
-"text:family_died_2","Your $0 and $1 have died.","$0と$1が亡くなりました。"
-"text:family_died_3","Your $0, $1, and $2 have died.","$0、$1、そして$2が亡くなりました。"
-"text:family_died_4","Your $0, $1, $2, and $3 have died.","$0、$1、$2、そして$3が亡くなりました。"
-"text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","$0、$1、$2、$3、そして$4が亡くなりました。"
+"text:family_died_1","Your $0 has died.","$0が死にました。"
+"text:family_died_2","Your $0 and $1 have died.","$0と$1が死にました。"
+"text:family_died_3","Your $0, $1, and $2 have died.","$0、$1、$2が死にました。"
+"text:family_died_4","Your $0, $1, $2, and $3 have died.","$0、$1、$2、$3が死にました。"
+"text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","$0、$1、$2、$3、$4が死にました。"
 "text:family_escape_with_0","You leave behind everything.","You leave behind everything."
-"text:family_escape_with_1","You gather your $0 to leave for Obristan.","You gather your $0 to leave for Obristan."
-"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","You gather your $0 and $1 to leave for Obristan."
-"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","You gather your $0、 $1、 and $2 to leave for Obristan."
-"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","You gather your $0、 $1、 $2、 and $3 to leave for Obristan."
-"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","You gather your $0、 $1、 $2、 $3、 and $4 to leave for Obristan."
+"text:family_escape_with_1","You gather your $0 to leave for Obristan.","あなたは$0を連れてｵﾌﾞﾘｽﾀﾝへ逃げ去ります。"
+"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","あなたは$0と$1を連れてｵﾌﾞﾘｽﾀﾝへ逃げ去ります。"
+"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","あなたは$0、$1、$2を連れてｵﾌﾞﾘｽﾀﾝへ逃げ去ります。"
+"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","あなたは$0、$1、$2、$3を連れてｵﾌﾞﾘｽﾀﾝへ逃げ去ります。"
+"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","あなたは$0、$1、$2、$3、$4を連れてｵﾌﾞﾘｽﾀﾝへ逃げ去ります。"
 "text:family_escape_without_1","Your $0 prepares to return to Nirsk.","Your $0 prepares to return to Nirsk."
 "text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","Your $0 and $1 prepare to return to Nirsk."
 "text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","Your $0、 $1、 and $2 prepare to return to Nirsk."
 "text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","Your $0、 $1、 $2、 and $3 prepare to return to Nirsk."
 "text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Your $0、 $1、 $2、 $3、 and $4 prepare to return to Nirsk."
-"text:family_flee_final_0","Obristan Above All","Obristan Above All"
+"text:family_flee_final_0","Obristan Above All","ｵﾌﾞﾘｽﾀﾝ万歳"
 "text:family_flee_final_1","The safety of your $0 is unknown.","The safety of your $0 is unknown."
 "text:family_flee_final_2","The safety of your $0 and $1 is unknown.","The safety of your $0 and $1 is unknown."
 "text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","The safety of your $0、 $1、 and $2 is unknown."
 "text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0、 $1、 $2、 and $3 is unknown."
 "text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0、 $1、 $2、 $3、 and $4 is unknown."
 "text:budget_savings","SAVINGS","貯金"
-"text:budget_salary","SALARY ($0)","給与 ($0)"
+"text:budget_salary","SALARY ($0)","給料 ($0)"
 "text:budget_penalties","PENALTIES ($0)","罰金 ($0)"
 "text:budget_bribes","BRIBES","賄賂"
 "text:budget_rent","RENT","家賃"
 "text:budget_food","FOOD","食料"
 "text:budget_heat","HEAT","暖房費"
 "text:budget_medicine","MEDICINE ($0)","医薬品 ($0)"
-"text:budget_sleep","SLEEP","就寝"
+"text:budget_sleep","SLEEP","寝る"
 "text:budget_escape","ESCAPE","ESCAPE"
 "text:menu_back","BACK","戻る"
 "text:confirm_ok","OKAY","OK"
@@ -577,7 +577,7 @@ Ending $endnum of $endtotal","ﾌﾟﾚｲ時間 $time
 拘束数　$detained
 通告数　$citations
 総押印数　$stamps
-ｴﾝﾃﾞｨﾝｸﾞ　$endtotal種類中 $endnuml番"
+ｴﾝﾃﾞｨﾝｸﾞ　$endtotal種類中 $endnum番"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
 If this problem persists, re-install the Steam client.","STEAMとの接続に失敗しました。
@@ -592,8 +592,8 @@ If this problem persists, re-install the Steam client.","STEAMの再起動に失
 
 The game will attempt to restart through the Steam client.","STEAMとの接続に失敗しました。
 
-Steamｸﾗｲｱﾝﾄからｹﾞｰﾑの再開を試みます。"
-"text:steam_restart","RESTART","再開"
+Steamｸﾗｲｱﾝﾄから再起動を試みます。"
+"text:steam_restart","RESTART","再起動"
 "text:load_title","Select day to continue or start a new game","ﾛｰﾄﾞする日付またはNewを選択して下さい。"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
@@ -622,10 +622,10 @@ $tokens tokens, apartment $apt","第$day日目
 $savingsｸﾚｼﾞｯﾄ、$family人家族、
 記念品 $tokens個、ｱﾊﾟｰﾄ $apt"
 "text:load_continue","CONTINUE","ﾛｰﾄﾞ"
-"text:emotion_happy","HAPPY","幸せ"
+"text:emotion_happy","HAPPY","幸福"
 "text:emotion_ok","OK","普通"
-"text:emotion_sad","SAD","惨め"
-"text:emotion_cold","COLD","寒い"
+"text:emotion_sad","SAD","哀愁"
+"text:emotion_cold","COLD","風邪"
 "text:emotion_sick","SICK","病気"
 "text:emotion_verysick","VERY SICK","重症"
 "text:emotion_dead","DEAD","死亡"
@@ -643,10 +643,10 @@ DETECTED","不一致
 検知"
 "text:booth_interrogate","INTERROGATE","審問する"
 "text:booth_matching","MATCHING
-DATA","一致する
-情報"
+DATA","データ
+一致"
 "text:booth_nocorrelation","NO
-CORRELATION","矛盾
+CORRELATION","関連性
 無し"
 "text:booth_cleared","DISCREPANCY
 CLEARED","DISCREPANCY
@@ -655,7 +655,7 @@ CLEARED"
 "text:env_lettermale","M","男"
 "text:env_letterfemale","F","女"
 "text:env_noalias","No known alias","別名登録なし"
-"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","ｲｳﾕ ,ﾗﾘﾙﾛ ,ﾀﾁﾂﾃﾄ ,ｧｴｲ ,ｶｹｺ"
+"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","ｲｳﾕ,ﾗﾘﾙﾛ,ﾀﾁﾂﾃﾄ,ｧｴｲ,ｶｹｺ,ｼﾂｿﾝ,ｼﾞﾂﾞｿﾞ,ｱﾏ,ｸﾀ,ﾗﾜ"
 "text:endless_complete","$style
 $course
 
@@ -665,10 +665,10 @@ $course
 
 $time
 $score点"
-"text:endless_ranked","Ranked #$0","ﾗﾝｸ #$0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","ｽﾄｰﾘｰﾓｰﾄﾞを完全ｸﾘｱするとｴﾝﾄﾞﾚｽﾓｰﾄﾞが解除されます。"
+"text:endless_ranked","Ranked #$0","ﾗﾝｸ $0"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","現在の仕事を保持しながらｽﾄｰﾘｰﾓｰﾄﾞをｸﾘｱするとｴﾝﾄﾞﾚｽﾓｰﾄﾞが解禁されます。"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
-"text:date_verbose","$month $day, $year","$month $day、$year"
+"text:date_verbose","$month $day, $year","$year/$month/$day"
 "text:month_1","January","1月"
 "text:month_2","February","2月"
 "text:month_3","March","3月"
@@ -722,7 +722,7 @@ $content
 
 Glory to Arstotzka.","ｱﾙｽﾄﾂｶ
 出入国管理省
-公式報告書
+公報
 
 審査員各位、
 
@@ -739,7 +739,7 @@ $content
 
 Glory to Arstotzka.","ｱﾙｽﾄﾂｶ
 出入国管理省
-公式報告書
+公報
 
 告知：
 
@@ -756,7 +756,7 @@ $course
 
 Glory to Arstotzka.","ｱﾙｽﾄﾂｶ
 出入国管理省
-公式報告書
+公報
 
 $style
 
