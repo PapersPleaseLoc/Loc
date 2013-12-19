@@ -772,7 +772,7 @@ Entry is restricted to Arstotzkan citizens only.
 Deny all foreigners.","ｸﾞﾚｽﾁﾝ国境検問所への
 着任おめでとう。
 
-ﾊﾟｽﾎﾟｰﾄの入国ビザを押印し<br>入国者に書類を返却するように。
+ﾊﾟｽﾎﾟｰﾄに入国ビザを押印し<br>入国者に書類を返却するように。
 
 入国はｱﾙｽﾄﾂｶ国民限定とする。
 
@@ -791,8 +791,10 @@ Continued...[PAGESNOTE]","本日より、正規のﾊﾟｽﾎﾟｰﾄを持っ
 
 ﾊﾟｽﾎﾟｰﾄの情報に矛盾がないか
 慎重に調べること。
+また、矛盾がある者の入国は
+拒否するように。
 
-次項へ続く...[PAGESNOTE]"
+続く...[PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -812,21 +814,21 @@ This post is bound by Ministry of Admission rules and regulations. Study the rul
 __________________________
 規則 及び 規制
 
-本通達は出入国管理省の規則及び規制
-に準ずるものである。
+本検問所は出入国管理省の規則
+及び規制に準ずることとする。
 ﾙｰﾙﾌﾞｯｸを熟読すること。"
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","外国人の入国が許可された。
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","外国人の入国が規制された。
 
 全ての外国人は正規の入国券が
-必要である。
+必要となる。
 
-ﾊﾟｽﾎﾟｰﾄの入国ﾋﾞｻﾞに押印し入国者に
-書類を返却する前に、内容を確認
-すること。 [PAGESNOTE]"
+ﾊﾟｽﾎﾟｰﾄに入国ﾋﾞｻﾞを押印し
+入国希望者に書類を返却する前に、
+内容を確認すること。 [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -835,16 +837,16 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","より厳重な資格要件が制定された。
+Continued...","より厳重な審査基準が設けられた。
 
 ｱﾙｽﾄﾂｶ国民にIDｶｰﾄﾞの提示が
 義務付けられた。
 
 外国人は正規の入国許可証を取得し
-提出しなければならない。
+提示しなければならない。
 
-今後入国券は資格要件として
-十分なものではない。
+今後入国券は審査基準を
+満たすことにはならない。
 
 続く..."
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
@@ -861,11 +863,11 @@ Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","書類の特�
 書類に矛盾のある入国希望者は
 全て拒否するように。
 
-入国者の陳述との関連性は録音記録を
-参照すること。"
+入国希望者の陳述と関連付けるには
+録音記録を参照すること。"
 "bulletin:5A","You are now authorized to detain suspicious individuals.
 
-Interrogate discrepancies to enable detention option.","貴方に、身元不審者の拘束権限が
+Interrogate discrepancies to enable detention option.","貴方に、不審者の拘束権限が
 与えられた。
 
 矛盾点を審問することにより
@@ -873,15 +875,15 @@ Interrogate discrepancies to enable detention option.","貴方に、身元不審
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
 Travelers entering for work require a valid WORK PASS.","労働省は移住労働者を規制するための
-特別施策を制定した。
+特別施策を講じた。
 
-労働目的で入国する入国者は正規の
-労働許可証が必要である。"
+労働目的で入国する入国希望者は
+正規の労働許可証が必要である。"
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
 
-Search all Kolechians before approving their entry.","審査を円滑に進めるため、
+Search all Kolechians before approving their entry.","より綿密な審査を促進するため、
 貴方のﾌﾞｰｽに検査ｽｷｬﾅｰが
 設置された。
 
@@ -896,7 +898,7 @@ A diplomat will arrive today for high-level discussions.
 
 Automatic searches of Kolechian citizens are no longer authorized.
 
-Continued...[PAGESNOTE]","ｺﾚﾁｱから公式な申し立てがあった。
+Continued...[PAGESNOTE]","ｺﾚﾁｱが正式に不満を表明した。
 
 本日、上層部との会談のため
 外交官が訪れる。
@@ -914,7 +916,7 @@ Refer to the rulebook for updated document information.","______________________
 外交官
 
 外交官は入国に際し、ﾊﾟｽﾎﾟｰﾄ及び
-外交権限証明のみを必要とする。
+外交特権のみを必要とする。
 
 ﾙｰﾙﾌﾞｯｸにて最新の情報を
 参照のこと。"
@@ -935,8 +937,7 @@ Maintain your best behavior.","本日、東ｸﾞﾚｽﾁﾝ区画の官憲が
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
 Continued...","入管省への不法侵入があり、
-書類印章の信用が傷つけられた
-可能性がある。
+印影が侵害された可能性がある。
 
 重要な物は何も盗まれていないが、
 諜報部によると偽造者たちは
@@ -952,11 +953,11 @@ Double-check that required documents contain valid seals.
 Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
 偽造
 
-正式印章による印鑑があるべき書類は
+正式印章があるべき書類は
 二重確認すること。
 
-偽わり又は不足している印鑑は、
-ﾙｰﾙﾌﾞｯｸ内の該当箇所と
+印章の不備又は偽造印章である場合、
+ﾙｰﾙﾌﾞｯｸの書類の章の該当箇所と
 関連づけるように。"
 "bulletin:13A","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
 
@@ -970,15 +971,14 @@ The rulebook DOCUMENTS chapter has been updated.","新長官は外国人に対�
 最新の身元証明補完書を提示すること
 が義務付けられた。 
 
-ﾙｰﾙﾌﾞｯｸの公式書類の章が更新
-されている。"
+ﾙｰﾙﾌﾞｯｸの書類の章が更新された。"
 "bulletin:14A","The Ministry of Justice has requested our support.
 
 Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
 
 Check faces against entrants and detain suspects immediately.[PAGESNOTE]","法務省より協力の要請があった。
 
-公報には国際重要指名手配犯の
+今後、公報に国際重要指名手配犯の
 上位3名が記載される。
 
 入国者の容貌を確認し、
@@ -992,10 +992,10 @@ The provided key can be used to unlock the tranquilizer gun once an alarm has be
 Continued...[PAGESNOTE]","法務省は外部警備のため分隊を
 派遣した。
 
-今後、貴方は侵入者の行動にも
-責任を持つ。
+今後、貴方は侵入者を抑圧する
+責務を負う。
 
-警報鳴動時、支給されたｷｰで
+警報器作動時、支給されたｷｰで
 麻酔銃を解錠することができる。
 
 続く...[PAGESNOTE]"
@@ -1016,7 +1016,7 @@ Review instructional diagram on following page.","__________________________
 少額の手当となる。
 
 __________________________
-武器 使用規定
+武器使用規定
 
 次項に記載された手順を
 参照すること。"
@@ -1026,17 +1026,17 @@ All denials must be accompanied by a REASON FOR DENIAL stamp.
 
 A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
 
-Continued...","批判的な国際報道官により、
-移民の規制に影響が出た。
+Continued...","批判的な国際報道官の影響により、
+審査手順に変更が生じた。
 
 入国拒否の際は拒否事由の
 押印が義務付けられる。
 
-新しいコンピューターシステムが
+新しいスタンプシステムが
 導入された。
 矛盾を問いただすことで
-拒否事由の印判を出すことが
-できる。
+拒否事由のスタンプを
+使用することができる。
 
 続く..."
 "bulletin:18B","__________________________
@@ -1047,19 +1047,19 @@ REASON FOR DENIAL stamp is activated on first interrogation.
 When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
 
 If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available.","__________________________
-入国拒否 規定
+入国拒否手順
 
-拒否事由の印判は最初の審問で
+拒否事由のスタンプは最初の審問で
 使用可能となる。
 
 入国者を拒否する際は、
-入国拒否の印判及び
-拒否事由の印判の双方を
+入国拒否のスタンプ及び
+拒否事由のスタンプの双方を
 押印すること。
 
 矛盾が解決した場合、
-拒否事由の印判が出ていても
-入国許可の押印が可能である。"
+拒否事由のスタンプが使用可能でも
+入国許可の押印ができる。"
 "bulletin:19A","Impor rejects all imported goods from Arstotzka.
 
 Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
@@ -1067,8 +1067,8 @@ Under request from the Ministry of Trade, the Ministry of Admission will react t
 Deny all travelers from Impor.","ｲﾝﾎﾟｰﾙはｱﾙｽﾄﾂｶからの
 輸入を全面規制している。
 
-貿易省の要請により、入管省は
-この侵害行為に対し姿勢を示す。
+貿易省の要請により、出入国管理省は
+制裁を発動する。
 
 ｲﾝﾎﾟｰﾙからの入国者は全て
 拒否するように。"
@@ -1080,23 +1080,24 @@ The divisional authority of East Grestin operations will visit again today.","�
 
 ｲﾝﾎﾟｰﾙ人の入国は許可される。
 
-東ｸﾚｽﾁﾝ区画の官憲が
+東ｸﾞﾚｽﾁﾝ区画の官憲が
 本日再び訪れる。"
 "bulletin:21A","A special program for political asylum has been established.
 
 Those seeking asylum must carry a valid GRANT OF ASYLUM.
 
-Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","政治亡命に関する特別施策が
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","政治亡命に関する特別措置が
 制定された。
 
-亡命希望者は亡命許可証の提示が
+亡命希望者は亡命認可証の提示が
 必要である。
 
-この許可証を持った者は入国許可証や
-身元証明補完書を必要としない。"
+この認可証を所持する者は
+入国許可証や身元証明補完書の
+提示の必要はない。"
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","貴方の職位は重要であり、
+Follow all protocols strictly.","貴方の職務は重要であり、
 責任は広範囲に及ぶ。
 
 全ての規定に厳密に従うように。"
@@ -1122,19 +1123,19 @@ Confiscate all Arstotzkan passports from residents living in ALTAN district.
 
 Travelers may still be granted entry if passport is confiscated and no other rules are violated.
 
-PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","押収手順に関し、ﾙｰﾙﾌﾞｯｸの
-情報が更新された。
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","押収手順に関する情報が、
+ﾙｰﾙﾌﾞｯｸに追記された。
 
-ｱﾙﾀﾝ地区の全住民から
+ｱﾙﾀﾝ地区の住民から
 ｱﾙｽﾄﾂｶ国のﾊﾟｽﾎﾟｰﾄを
 押収すること。
 
 ﾊﾟｽﾎﾟｰﾄが押収されても、
-他の規則に違反していなければ
-入国者の入国は許可される。
+他に問題がなければ
+入国は許可される。
 
 ﾊﾟｽﾎﾟｰﾄのない者の入国許可及び
-拒否は押収伝票が発行される。"
+拒否には押収伝票が発行される。"
 "bulletin:25A","United Federation citizens present a risk of spreading infectious disease.
 
 Deny all entrants from United Federation.
@@ -1157,9 +1158,9 @@ This requirement extends to natives, foreigners, diplomats, and asylum seekers.
 Continued...","伝染病の危険性は計り知れない。
 新たな規定が制定された。
 
-全ての入国者は、ﾎﾟﾘｵﾜｸﾁﾝが
-有効であるﾜｸﾁﾝ接種証明書を
-所持している必要がある。
+全ての入国者は、有効なﾎﾟﾘｵﾜｸﾁﾝの
+記載を含むﾜｸﾁﾝ接種証明書を
+提示する必要がある。
 
 これは自国民、外国人、外交官、
 亡命希望者、全てに義務化されている。
@@ -1167,8 +1168,8 @@ Continued...","伝染病の危険性は計り知れない。
 続く..."
 "bulletin:26B","United Federation citizens are permitted entry with such certification.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","証明書を持った合衆連邦国民は
-入国が許可される。
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","この証明書を所持する
+合衆連邦国民は入国が許可される。
 
 ｱﾙﾀﾝ地区住民からは引き続き
 ｱﾙｽﾄﾂｶのﾊﾟｽﾎﾟｰﾄを
@@ -1189,10 +1190,10 @@ Continued...","業務の効率化を図るため、
 
 An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨日の計画的襲撃により
-緊急会談が行われた。 
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨日の組織的襲撃を受け
+緊急会談が行われる。 
 
-本日、国境付近の問題に関する
+本日、検問所の問題に関する
 討議のためにｺﾚﾁｱから重要な
 交渉人が到着する。
 
@@ -1204,8 +1205,8 @@ Confiscate all Arstotzkan passports from native entrants.
 
 There are no exceptions.
 
-Do not confiscate foreign passports.","度重なる襲撃をうけて、情報省は
-ﾊﾟｽﾎﾟｰﾄの押収施策の範囲を
+Do not confiscate foreign passports.","度重なる襲撃を受けて、
+情報省はﾊﾟｽﾎﾟｰﾄの押収範囲を
 広げることとした。
 
 全ｱﾙｽﾄﾂｶ国民からﾊﾟｽﾎﾟｰﾄを
@@ -1221,15 +1222,15 @@ Your audit is scheduled for: DECEMBER 24
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
 Continued...","[NOTICE] 全ての政府職員は
-情報捜査の対象である。
+情報監査の対象である。
 
 不正組織との関連が見つかった者は
 直ちに逮捕される。
 
-貴方の捜査は12月24日に
+貴方の監査は12月24日に
 予定されている。
 
-所定地域を去ってはならない。
+所定地域を離れてはならない。
 
 続く..."
 "bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","引き続き全国民よりｱﾙｽﾄﾂｶの
@@ -1241,15 +1242,15 @@ Your audit is scheduled for: DECEMBER 24
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
 Continued...","[NOTICE] 全ての政府職員は
-情報捜査の対象である。
+情報監査の対象である。
 
 不正組織との関連が見つかった者は
 直ちに逮捕される。
 
-貴方の捜査は12月24日に
+貴方の監査は12月24日に
 予定されている。
 
-所定地域を去ってはならない。
+所定地域を離れてはならない。
 
 続く..."
 "bulletin:30B","Continue to confiscate all Arstotzkan passports from native entrants.","引き続き全国民よりｱﾙｽﾄﾂｶの
@@ -1269,10 +1270,10 @@ Continued...","出入国管理省は、本検問所の閉鎖に
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continue to confiscate all Arstotzkan passports from native entrants.","明日、貴方の情報捜査が行われる
+Continue to confiscate all Arstotzkan passports from native entrants.","明朝、貴方の情報監査が行われる
 予定である。
 
-所定地域を後にしてはならない。
+所定地域を離れることは許されない。
 
 引き続き全国民よりｱﾙｽﾄﾂｶの
 ﾊﾟｽﾎﾟｰﾄを押収すること。"
