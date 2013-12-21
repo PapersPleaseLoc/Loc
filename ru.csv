@@ -192,7 +192,7 @@
 "PressPassInner","INTERNATIONAL","МЕЖДУНАРОДНАЯ"
 "PressPassInner","PRESS","ПРЕСС"
 "PressPassInner","IDENTIFICATION","КАРТА"
-"RuleDiploAccess","AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA","ДОКУМЕНТ ДОЛЖЕН ДАВАТЬ ПРАВО<br> ВЪЕЗДА АРСТОТИЮ"
+"RuleDiploAccess","AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA","ДОКУМЕНТ ДОЛЖЕН ДАВАТЬ ПРАВО<br> ВЪЕЗДА В АРСТОТИЮ"
 "RuleIssuingCity","PASSPORT <span>ISS.</span> FIELD MUST BE VALID","ПОЛЕ <span>ВЫД</span> ДОЛЖНО БЫТЬ ДЕЙСТВИТЕЛЬНО"
 "RuleSealRequired","DOCUMENT MUST<br>HAVE A SEAL","НЕОБХОДИМА<br>ПЕЧАТЬ"
 "RulesInnerHome","Arstotzkan","Арстотия"
