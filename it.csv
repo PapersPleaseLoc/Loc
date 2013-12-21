@@ -365,7 +365,7 @@
 "news:FIRST_TERRORISTS","Checkpoint Lockdown","Giro di vite al presidio"
 "news:FIRST_TERRORISTS","More Guards - More Scrutiny","Più guardie, più sorveglianza"
 "news:BLACKMARKET_EXPLODES","Blackmarket Activity Explodes","Boom del mercato nero"
-"news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","Il governo: “Troppe immigrazioni facili”"
+"news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","Il governo: ''Troppe immigrazioni facili''"
 "news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","Rimandato l'ampliamento del presidio"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","Sempre meno posti di lavoro"
 "news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","Immigranti: una minaccia per l'occupazione?"
@@ -537,7 +537,7 @@
 "text:budget_heat","HEAT","RISCALDAMENTO"
 "text:budget_medicine","MEDICINE ($0)","MEDICINE ($0)"
 "text:budget_sleep","SLEEP","DORMI"
-"text:budget_escape","ESCAPE","FUGA"
+"text:budget_escape","ESCAPE","FUGGI"
 "text:menu_back","BACK","INDIETRO"
 "text:confirm_ok","OKAY","OK"
 "text:confirm_cancel","CANCEL","ANNULLA"
@@ -562,7 +562,7 @@
 "text:menu_paused","PAUSED","IN PAUSA"
 "text:menu_settings","SETTINGS","IMPOSTAZIONI"
 "text:menu_credits","CREDITS","RICONOSCIMENTI"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:menu_checkforupdates","CHECK FOR UPDATES","CERCA AGGIORNAMENTI"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
