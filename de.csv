@@ -539,7 +539,7 @@ PASS AUSRICHTEN"
 "text:budget_heat","HEAT","HEIZUNG"
 "text:budget_medicine","MEDICINE ($0)","MEDIKAMENTE ($0)"
 "text:budget_sleep","SLEEP","SCHLAFEN"
-"text:budget_escape","ESCAPE","ESCAPE"
+"text:budget_escape","ESCAPE","FLUCHT"
 "text:menu_back","BACK","ZURÜCK"
 "text:confirm_ok","OKAY","OKAY"
 "text:confirm_cancel","CANCEL","ABBRECHEN"
@@ -564,7 +564,7 @@ PASS AUSRICHTEN"
 "text:menu_paused","PAUSED","PAUSE"
 "text:menu_settings","SETTINGS","EINSTELLUNGEN"
 "text:menu_credits","CREDITS","MITWIRKENDE"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:menu_checkforupdates","CHECK FOR UPDATES","NACH UPDATES SUCHEN"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -650,8 +650,8 @@ STIMMUNG"
 CORRELATION","KEINE
 ÜBEREINSTIMMUNG"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
+CLEARED","DISKREPANZ
+AUFGEKLÄRT"
 "text:env_clearforentry","Applicant clear for entry","Person war einreiseberechtigt"
 "text:env_lettermale","M","M"
 "text:env_letterfemale","F","W"
@@ -669,7 +669,7 @@ $score Punkte"
 "text:endless_ranked","Ranked #$0","Rang #$0"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Schließen Sie die Geschichte ab, ohne Ihre Stelle zu verlieren, um den Endlos-Modus freizuschalten"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
-"text:date_verbose","$month $day, $year","$month $day, $year"
+"text:date_verbose","$month $day, $year","$day. $month $year"
 "text:month_1","January","Januar"
 "text:month_2","February","Februar"
 "text:month_3","March","März"
@@ -1219,6 +1219,7 @@ Arstotzkanische Pässe von Bürgern aus dem Inland sind weiterhin zu konfisziere
 "facts","Face","Gesicht"
 "facts","District","Distrikt"
 "facts","Gender","Geschlecht"
+"facts","Work End Date","Arbeitsende-Datum"
 "facts","Altan","Altan"
 "facts","Vescillo","Vescillo"
 "facts","Burnton","Burnton"
@@ -1507,6 +1508,10 @@ Sammeln Sie Punkte für das Abfertigen von Personen. Keine Verweise erlaubt. 10 
 Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","ENDLOS - AUSDAUER
 
 Fertigen Sie Reisende ab, bis Ihr Kontostand unter 0 fällt. Verweise werden mit immer höheren Bußgeldern bestraft. Die Höchstzahl an gesammelten Punkten wird gespeichert."
+"endless:course1","Course 1","Kurs 1"
+"endless:course2","Course 2","Kurs 2"
+"endless:course3","Course 3","Kurs 3"
+"endless:course4","Course 4","Kurs 4"
 "bullend:1A","Check rulebook for rules in effect.","Schlagen Sie in den Vorschriften nach, welche gerade in Kraft sind."
 "bullend:2A","Check rulebook for rules in effect.","Schlagen Sie in den Vorschriften nach, welche gerade in Kraft sind."
 "bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Schlagen Sie in den Vorschriften nach, welche gerade in Kraft sind. Bei einer Ablehnung ist der Stempel GRUND FÜR ABLEHNUNG erforderlich."
