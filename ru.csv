@@ -571,35 +571,35 @@ $detained detained
 $citations citations earned
 $stamps stamps applied
 Ending $endnum of $endtotal","Время игры $time
-$
-$approved approved
-$denied denied
-$detained detained
-$citations citations earned
-$stamps stamps applied
-Ending $endnum of $endtotal"
+Проверено въезжающих: $processed
+Одобрено: $approved
+Отказано: $denied
+Задержано: $detained
+Замечаний: $citations
+Печатей проставлено: $stamps
+Итог: $endnum из $endtotal"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
-If this problem persists, re-install the Steam client.","STEAM CONNECTION FAILED
+If this problem persists, re-install the Steam client.","ОШИБКА СВЯЗИ СО STEAM
 
-If this problem persists, re-install the Steam client."
+Если ошибка повторится, переустановите клиент Steam."
 "text:steam_restartfailed","STEAM RESTART FAILED
 
-If this problem persists, re-install the Steam client.","STEAM RESTART FAILED
+If this problem persists, re-install the Steam client.","ОШИБКА ПЕРЕЗАПУСКА STEAM
 
-If this problem persists, re-install the Steam client."
+Если ошибка повторится, переустановите клиент Steam."
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
-The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
+The game will attempt to restart through the Steam client.","ОШИБКА СВЯЗИ СО STEAM
 
-The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
-"text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
+Попытка перезапустить игру через клиент Steam."
+"text:steam_restart","RESTART","ПЕРЕЗАПУСК"
+"text:load_title","Select day to continue or start a new game","Выберите, с какого дня продолжить игру, или начните заново"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","Удалить сохраненный день $0?
 
-There is no undo."
+Отменить это решение будет нельзя."
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
 There is no undo.","Delete this save branch from day $0 to day $1?
