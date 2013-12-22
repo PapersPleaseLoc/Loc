@@ -621,7 +621,7 @@ $tokens tokens, apartment $apt","Tag $day
 ""$news""
 
 $savings Credits, $family Familienmitglied(er),
-$tokens Medaillen, Wohnung $apt"
+$tokens Medaille(n), Wohnung $apt"
 "text:load_continue","CONTINUE","FORTSETZEN"
 "text:emotion_happy","HAPPY","FROH"
 "text:emotion_ok","OK","OK"
@@ -1334,7 +1334,7 @@ Arstotzkanische Pässe von Bürgern aus dem Inland sind weiterhin zu konfisziere
 "paper:Rules","KOLECHIA","KOLECHIEN"
 "paper:Rules","OBRISTAN","OBRISTAN"
 "paper:Rules","REPUBLIA","REPUBLIEN"
-"paper:Rules","UNITED FED.","VEREINIGTE FÖDERATION"
+"paper:Rules","UNITED FED.","V. FÖDERATION"
 "paper:Rules","Id Card (Native)","Ausweis (Inländer)"
 "paper:Rules","Entry Permit","Einreise-Genehmigung"
 "paper:Rules","Id Supplement","Ausweis-Anhang"
@@ -1818,7 +1818,7 @@ NICHT SCHIESSEN.
 "traveler:SECRET_POLICE_INTRO","Have you seen anything like this?","Haben Sie so etwas schon einmal gesehen?"
 "traveler:SECRET_POLICE_INTRO","Is some kind of symbol for group.","Das ist so eine Art Symbol dieser Gruppe."
 "traveler:SECRET_POLICE_INTRO","If you have any information, you give to us yes?","Wenn Sie Informationen hätten, würden Sie sie mit uns teilen, nicht wahr?"
-"traveler:SECRET_POLICE_INTRO","Yes?","Jawohl?"
+"traveler:SECRET_POLICE_INTRO","Yes?","Nicht wahr?"
 "traveler:SECRET_POLICE_INTRO","@Yes.","@Jawohl."
 "traveler:SECRET_POLICE_INTRO","Very good.","Sehr gut."
 "traveler:SECRET_POLICE_INTRO","Please return my badge and paper.","Bitte geben Sie mir meine Marke und meine Papiere zurück."
