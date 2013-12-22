@@ -862,7 +862,7 @@ Kolechian extremists are suspected in yesterday's bombing.
 
 Search all Kolechians before approving their entry.","Um die Abfertigung zu beschleunigen, wurde ein SUCH-Scanner-System in Ihrer Kabine installiert.
 
-Kolechische Extremisten stehen im Verdacht, für den Bomben-anschlag vom gestrigen Tage verantwortlich zu sein. 
+Kolechische Extremisten stehen im Verdacht, für den Bombenanschlag vom gestrigen Tage verantwortlich zu sein. 
 
 Durchsuchen Sie alle Kolechen, bevor Sie deren Einreise genehmigen."
 "bulletin:8A","The Kolechians have filed a formal complaint. 
@@ -1306,7 +1306,7 @@ Arstotzkanische Pässe von Bürgern aus dem Inland sind weiterhin zu konfisziere
 "facts","Arstotzkan citizens only","Nur Bürger von Arstotzka"
 "facts","No entry from United Federation","Keine Einreise aus der VF"
 "facts","No weapons or contraband","Keine Waffen oder Schmugglergut"
-"facts","All Kolechians must be searched","Alle Kolechianer werden durchsucht"
+"facts","All Kolechians must be searched","Alle Kolechen werden durchsucht"
 "facts","Diplomats require authorization","Diplomaten müssen akkreditiert sein"
 "facts","Entrant must have polio vaccine cert","Polio-Impf-Bescheinigung nötig"
 "facts","Asylum seekers must have a grant","Asylbewerber brauchen Bescheid"
@@ -2983,8 +2983,8 @@ NICHT SCHIESSEN.
 "speech:wrong-description","How can you say for sure?","Wie können Sie sich da so sicher sein?"
 "speech:wrong-description","Is that good or bad?","Ist das jetzt gut oder schlecht?"
 "speech:hidden-paper","Here it is.","Bitte sehr."
-"speech:hidden-paper","Sorry. I have it here.","Tut mir leid, hier, da ist er."
-"speech:hidden-paper","I have it here.","Ich hab's hier."
+"speech:hidden-paper","Sorry. I have it here.","Tut mir leid, hier."
+"speech:hidden-paper","I have it here.","Bitte."
 "speech:hidden-paper","Here.","Da."
 "speech:ask-wrong-thumbprint","Your thumb print does not match.","Ihr Daumenabdruck paßt nicht."
 "speech:ask-wrong-thumbprint","This print does not match.","Dieser Abdruck paßt nicht."
