@@ -307,7 +307,7 @@ PASS AUSRICHTEN"
 "ApartmentClass","CLASS","KLASSE"
 "DetainButton","DETAIN","ARREST"
 "FingerprintButton","FINGERPRINT","FINGERABDR."
-"SearchButton","SEARCH","SUCHEN"
+"SearchButton","SEARCH","SCANNER"
 "EmblemsMOA","M.O.A","MfG"
 "EmblemsMOA","M.O.L","MfA"
 "EmblemsMOL","M.O.L","MfA"
@@ -390,7 +390,7 @@ PASS AUSRICHTEN"
 "news:KILLERATHLETE_DENIED","Vince Lestrade Apprehended In Kolechia!","Vince Lestrade in Kolechien verhaftet!"
 "news:DIPLOMAT_FIRST","Kolechia Sends Top-Level Diplomat","Kolechien entsendet hochrangigen Diplomaten"
 "news:DIPLOMAT_FIRST","Normalizing Trade Top Issue","Normalisierung des Handels hat Priorität"
-"news:BUSTED_SPY","Top-level Kolechian Exposed as Arstotzkan Spy!","Hochrangiger Koleche ist
+"news:BUSTED_SPY","Top-level Kolechian Exposed as Arstotzkan Spy!","Hochrangiger Koleche ist<br>
  arstotzkanischer Spion!"
 "news:BUSTED_SPY","Missing From Post, Presumed Dead","Als vermißt gemeldet, wahrscheinlich tot"
 "news:BUSTED_SPY_GAVEREALDOCS","Kolechia Cleans House - Eliminates Arstotzkan Spies","Kolechien räumt auf - Arstotzka-Spione tot"
@@ -1166,7 +1166,7 @@ Arstotzkanische Pässe von Bürgern aus dem Inland sind weiterhin zu konfisziere
 "facts","Obristan","Obristan"
 "facts","Antegria","Antegrien"
 "facts","Republia","Republien"
-"facts","UnitedFed","VereinigteFöd"
+"facts","UnitedFed","Ver. Föderation"
 "facts","Impor","Impor"
 "facts","Kolechia","Kolechien"
 "facts","Arstotzka","Arstotzka"
@@ -1285,7 +1285,7 @@ Arstotzkanische Pässe von Bürgern aus dem Inland sind weiterhin zu konfisziere
 "facts","Missing necessary vaccine","Notwendige Impfung fehlt"
 "facts","Name does not match record","Name entspricht nicht den Akten"
 "facts","Alias does not match record","Alias entspricht nicht den Akten"
-"facts","Fingerprints do not match record","Fingerabdrücke entsprechen nicht den Akten"
+"facts","Fingerprints do not match record","Fingerabdrücke nicht lt. Akten"
 "facts","Cobrastan is not a real country","Cobrastan ist kein reales Land"
 "facts","No entry from Antegria","Keine Einreise aus Antegrien"
 "facts","No entry from Arstotzka","Keine Einreise aus Arstotzka"
@@ -1597,7 +1597,7 @@ HELP US FREE ARSTOTZKA FROM ITS SHACKLES
 
 DER KRIEG HAT DIE REGIERUNG GIERIG UND  PARANOID GEMACHT - DAVON KONNTEN SIE SICH SELBST ÜBERZEUGEN.
 
-HELFEN SIE UNS, ARSTOTZKA VON SEINEN KETTEN ZU BEFREIEN
+HELFEN SIE UNS, ARSTOTZKA VON SEINEN KETTEN ZU BEFREIEN.
 
 
 * DER ORDEN DES STERNS VON EZIC"
@@ -1674,7 +1674,7 @@ THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGE
 
 DAS WAREN UNBEKANNTE EXTREMISTEN.
 
-DER ORDEN WILL KORRUPTE MACHTZENTREN SCHWÄCHEN - NICHT UNSCHULDIGE VERLETZEN - EIN EZIC-AGENT TRIFFT HEUTE EIN, UM DIE EXTREMISTEN ZU ENTLARVEN"
+DER ORDEN WILL KORRUPTE MACHTZENTREN SCHWÄCHEN - NICHT UNSCHULDIGE VERLETZEN - EIN EZIC-AGENT TRIFFT HEUTE EIN, UM DIE EXTREMISTEN ZU ENTLARVEN."
 "note:EZIC_POISON_MESSENGER","ASSASSIN COMING FROM ANTEGRIA
 
 WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
@@ -2165,7 +2165,7 @@ NICHT SCHIESSEN.
 "traveler:PRISON_GUARD0","Now they pay me almost nothing.","Und jetzt verdiene ich so gut wie nichts."
 "traveler:PRISON_GUARD0","@They pay us all as much.","@Als ob wir anderen hier mehr verdienen ..."
 "traveler:PRISON_GUARD0","Yes. But look.","Ja. Aber jetzt paß mal auf ..."
-"traveler:PRISON_GUARD0","I get small bonus when you detain people.","Ich kriege einen kleinen Bonus, wen du Leute einbuchtest."
+"traveler:PRISON_GUARD0","I get small bonus when you detain people.","Ich kriege einen kleinen Bonus, wenn du Leute einbuchtest."
 "traveler:PRISON_GUARD0","More you detain, more they give me for processing.","Je mehr du einbuchtest, desto mehr kriege ich."
 "traveler:PRISON_GUARD0","But this is not fair, right? You should get something too.","Aber fair ist das nicht, oder? Du solltest auch was kriegen."
 "traveler:PRISON_GUARD0","So I fix this problem.","Also werde ich dieses kleine Problem lösen."
