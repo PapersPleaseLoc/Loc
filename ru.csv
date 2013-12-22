@@ -259,7 +259,7 @@
 "RulesInnerLast","GLORY TO ARSTOTZKA","СЛАВА АРСТОТИИ"
 "RulesInnerLast","Arstotzkan","АРСТОТИЯ"
 "RulesInnerLast","Ministry of Admission","МИНИСТЕРСТВО МИГРАЦИЙ"
-"RulesInnerLast","Rules &amp; Regulations","Правила и инструкции"
+"RulesInnerLast","Rules &amp; Regulations","Правила и нормативы"
 "RulesInnerLast","for Inspectors","для инстпекторов"
 "RulesInnerLast","1982-1983 Edition","Издание 1982-1983"
 "RulesInnerLast","DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY","РАСПРОСТРАНЕНИЕ КАРАЕТСЯ ПО<br>ЗАКОНУ"
@@ -798,23 +798,23 @@ __________________________
 RULES &amp; REGULATIONS
 
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
-INSPECT MODE
+РЕЖИМ ПРОВЕРКИ
 
-Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+Нажмите красную кнопку на столе и войдите в режим ПРОВЕРКИ. Выделите два фрагмента несовпадающей информации, чтобы продолжить работу.
 
 __________________________
-RULES &amp; REGULATIONS
+ПРАВИЛА И НОРМАТИВЫ
 
-This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+Ваша работа регулируется правилами и нормативами Министерства миграций. Внимательно изучите инструкцию."
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Entry for non-citizens is now regulated. 
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Въезд для граждан других стран теперь ограничен. 
 
-All foreigners require a valid ENTRY TICKET.
+Все иностранцы должны иметь при себе БИЛЕТ НА ВЪЕЗД.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
+Тщательно проверьте всю информацию, поставьте печать в окне ВИЗА НА ВЪЕЗД в паспорте и верните все документы владельцу. [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -823,7 +823,7 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Stricter credential requirements have been instituted.
+Continued...","Процедура проверки документов ужесточена.
 
 Arstotzkan citizens must show their ID CARD.
 
