@@ -719,15 +719,15 @@ Inspector,
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","Арстотия
+Министерство миграций
+Официальный бюллетень
 
-Inspector,
+Инспектор,
 
 $content
 
-Glory to Arstotzka."
+Слава Арстотии!"
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -736,15 +736,15 @@ NOTICE:
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","Арстотия
+Министерство миграций
+Официальный бюллетень
 
-NOTICE:
+ВНИМАНИЕ:
 
 $content
 
-Glory to Arstotzka."
+Слава Арстотии!"
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -753,41 +753,42 @@ $style
 
 $course
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","Арстотия
+Министерство миграций
+Официальный бюллетень
 
 $style
 
 $course
 
-Glory to Arstotzka."
+Слава Арстотии!"
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Welcome to your new position at Grestin Border Checkpoint.
+Deny all foreigners.","Добро пожаловать на пограничный пропускной пункт  Грештин!
 
-Stamp passport ENTRY VISA and return documents to entrant.
 
-Entry is restricted to Arstotzkan citizens only.
+Возьмите паспорт, поставьте печать в окне ВИЗА НА ВЪЕЗД и верните документ владельцу.
 
-Deny all foreigners."
+Въезд разрешен только гражданам Арстотии.
+
+Всем иностранным гражданам - отказ."
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
 
 Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","From today, foreigners with a valid passport are permitted to enter.
+Continued...[PAGESNOTE]","С сегодняшнего дня иностранцам въезд разрешен - при наличии у них действующего паспорта.
 
-Your booth's INSPECTION hardware is now installed.
+На вашем рабочем месте установлена программа ПРОВЕРКИ.
 
-Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+Тщательно проверяйте все данные паспорта. Отказывайте всем, в чьих паспортах будут отмечены несоответствия.
 
-Continued...[PAGESNOTE]"
+Продолжение...[PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
