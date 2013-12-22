@@ -602,59 +602,59 @@ There is no undo.","Удалить сохраненный день $0?
 Отменить это решение будет нельзя."
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
-There is no undo.","Delete this save branch from day $0 to day $1?
+There is no undo.","Удалить сохраненные игры с $0 по $1 день?
 
-There is no undo."
-"text:load_delete","DELETE","DELETE"
+Отменить это решение будет нельзя."
+"text:load_delete","DELETE","УДАЛИТЬ"
 "text:load_confirm_full","Save tracks full.
 
-Continue from a right-most save or delete a save branch to free up a track.","Save tracks full.
+Continue from a right-most save or delete a save branch to free up a track.","Лимит сохранений исчерпан.
 
-Continue from a right-most save or delete a save branch to free up a track."
+Продолжите с крайнего правового сохранения или удалите всю ветку, чтобы освободить место."
 "text:load_summary","Day $day
 ""$news""
 
 $savings credits, $family family members,
-$tokens tokens, apartment $apt","Day $day
+$tokens tokens, apartment $apt","День $day
 ""$news""
 
-$savings credits, $family family members,
-$tokens tokens, apartment $apt"
-"text:load_continue","CONTINUE","CONTINUE"
-"text:emotion_happy","HAPPY","HAPPY"
-"text:emotion_ok","OK","OK"
-"text:emotion_sad","SAD","SAD"
-"text:emotion_cold","COLD","COLD"
-"text:emotion_sick","SICK","SICK"
-"text:emotion_verysick","VERY SICK","VERY SICK"
-"text:emotion_dead","DEAD","DEAD"
-"text:emotion_hungry","HUNGRY","HUNGRY"
-"text:load_latest","LATEST","LATEST"
-"text:entry_approved","ENTRY GRANTED","ENTRY GRANTED"
-"text:entry_denied","ENTRY DENIED","ENTRY DENIED"
-"text:stamp_approved","APPROVED","APPROVED"
-"text:stamp_denied","DENIED","DENIED"
-"text:stamp_reason","REASON","REASON"
-"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+$savings кред., $family чл. семьи,
+$tokens ток., жилье $apt"
+"text:load_continue","CONTINUE","ПРОДОЛЖИТЬ"
+"text:emotion_happy","HAPPY","СЧАСТЛИВ"
+"text:emotion_ok","OK","ОК"
+"text:emotion_sad","SAD","ГРУСТИТ"
+"text:emotion_cold","COLD","МЕРЗНЕТ"
+"text:emotion_sick","SICK","БОЛЕЕТ"
+"text:emotion_verysick","VERY SICK","ТЯЖЕЛО БОЛЕЕТ"
+"text:emotion_dead","DEAD","СМЕРТЬ"
+"text:emotion_hungry","HUNGRY","ХОЧЕТ ЕСТЬ"
+"text:load_latest","LATEST","ПОСЛЕДНИЕ"
+"text:entry_approved","ENTRY GRANTED","ВЪЕЗД РАЗРЕШЕН"
+"text:entry_denied","ENTRY DENIED","ВО ВЪЕЗДЕ ОТКАЗАНО"
+"text:stamp_approved","APPROVED","ОДОБРИТЬ"
+"text:stamp_denied","DENIED","ОТКАЗАТЬ"
+"text:stamp_reason","REASON","ПРИЧИНА"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","ПЕРЕТАЩИТЕ ДОКУМЕНТ СЮДА"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","ВЫДЕЛИТЕ НЕСООТВЕТСТВИЯ"
 "text:booth_discrepancy","DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-"text:booth_interrogate","INTERROGATE","INTERROGATE"
+DETECTED","ОБНАРУЖЕНО
+НЕСОВПАДЕНИЕ"
+"text:booth_interrogate","INTERROGATE","ДОПРОС"
 "text:booth_matching","MATCHING
-DATA","MATCHING
-DATA"
+DATA","ДАННЫЕ
+СОПАДАЮТ"
 "text:booth_nocorrelation","NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","НЕТ
+СВЯЗИ"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
-"text:env_lettermale","M","M"
-"text:env_letterfemale","F","F"
-"text:env_noalias","No known alias","No known alias"
-"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
+CLEARED","НЕСООТВЕТСТВИЕ
+УСТРАНЕНО"
+"text:env_clearforentry","Applicant clear for entry","Въезд разрешен"
+"text:env_lettermale","M","М"
+"text:env_letterfemale","F","Ж"
+"text:env_noalias","No known alias","Кличек нет"
+"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","аеиоу,иуы,пгк,лж,гк,бв"
 "text:endless_complete","$style
 $course
 
@@ -663,8 +663,8 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-"text:endless_ranked","Ranked #$0","Ranked #$0"
+Очки: $score"
+"text:endless_ranked","Ranked #$0","Рейтинг #$0"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$month $day, $year"
