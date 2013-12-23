@@ -863,7 +863,7 @@ Search all Kolechians before approving their entry.","Для более тщат
 
 Во вчерашнем нападении подозреваются колечианские экстремисты. 
 
-Обыскивайте всех граждан Колечиании, прежде чем разрешить им въезд."
+Проводите личный досмотр всех граждан Колечиании, прежде чем разрешить им въезд."
 "bulletin:8A","The Kolechians have filed a formal complaint. 
 
 A diplomat will arrive today for high-level discussions.
@@ -883,11 +883,11 @@ DIPLOMATS
 Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
 
 Refer to the rulebook for updated document information.","__________________________
-DIPLOMATS
+ДИПЛОМАТЫ
 
-Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+Дипломаты должны предъявлять только ПАСПОРТ и действительный документ, подтверждающий ДИПЛОМАТИЧЕСКИЙ СТАТУС. 
 
-Refer to the rulebook for updated document information."
+Обновленная информация по документам содержится в инструкции."
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","Был раскрыт секретный агент Министерства информации.
@@ -902,53 +902,53 @@ Maintain your best behavior.","Сегодня вас посетит началь
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","A break-in at M.O.A. offices may have compromised our document sealing plates.
+Continued...","При ограблении офиса ММ могли быть похищены образцы печатей.
 
-Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+Ничего важного не пропало, но разведка сообщает, что преступники уже начали подделывать официальные документы Арстотии.
 
-Continued..."
+Продолжение..."
 "bulletin:11B","__________________________
 FORGERIES
 
 Double-check that required documents contain valid seals. 
 
 Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
-FORGERIES
+ПОДДЕЛКИ
 
-Double-check that required documents contain valid seals. 
+Обязательно убедитесь, что в документах проставлены действительные печати. 
 
-Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook."
+Сравнивайте отсутствующие и неправильные печати с соответствующими пунктами в главе ДОКУМЕНТЫ инструкции."
 "bulletin:13A","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
 
 From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
 
-The rulebook DOCUMENTS chapter has been updated.","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+The rulebook DOCUMENTS chapter has been updated.","Новый директор считает, что досмотр иностранцев проводится недостаточно тщательно.
 
-From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+С сегодняшнего дня все иностранные граждане должны предъявлять ПРИЛОЖЕНИЕ, в котором указаны их вес, рост и особые приметы.
 
-The rulebook DOCUMENTS chapter has been updated."
+Глава ДОКУМЕНТЫ в инструкции была обновлена."
 "bulletin:14A","The Ministry of Justice has requested our support.
 
 Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]","The Ministry of Justice has requested our support.
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","Министерство юстиции запрашивает поддержку.
 
-Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+Ежедневные бюллетени теперь будут содержать список 3 самых разыскиваемых международных преступников.
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]"
+Сверяйте фотографии с лицами въезжающих. Подозреваемых задерживать немедленно.[PAGESNOTE]"
 "bulletin:16A","The Ministry of Justice has appropriated the outer guard detail. 
 
 You are now responsible for controlling trespasser activity.
 
 The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
 
-Continued...[PAGESNOTE]","The Ministry of Justice has appropriated the outer guard detail. 
+Continued...[PAGESNOTE]","Министерство юстиции изменило порядок внешней охраны. 
 
-You are now responsible for controlling trespasser activity.
+Теперь вы обязаны реагировать на попытки незаконного проникновения через границу. 
 
-The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+Вам выдан ключ: услышав сигнал тревоги, вы можете открыть ящик с винтовкой, заряженной транквилизатором.
 
-Continued...[PAGESNOTE]"
+Продолжение...[PAGESNOTE]"
 "bulletin:16B","__________________________
 COMPENSATION
 
