@@ -296,12 +296,12 @@
 "VisaSlipInner","ENTRY VISA","ВИЗА НА ВЪЕЗД"
 "VisaSlipInner","TO BE USED FOR DENIALS ONLY","ТОЛЬКО ДЛЯ ОТКАЗОВ"
 "WorkPermitInner","Ministry of Labor","Министерство труда"
-"WorkPermitInner","Work Pass","Рабочий пропуск"
-"WorkPermitInner","This pass grants its holder the right to work in a specific field for a limited time.","Пропуск предоставляет право работы в конкретной области в ограниченный период времени"
+"WorkPermitInner","Work Pass","Разрешение на работу"
+"WorkPermitInner","This pass grants its holder the right to work in a specific field for a limited time.","Предоставляет право на трудоустройство в конкретной области в ограниченный период времени"
 "WorkPermitInner","HOLDER","ИМЯ"
 "WorkPermitInner","FIELD","СПЕЦ-ТЬ"
 "WorkPermitInner","UNTIL","ДО"
-"WorkPermitInner","Keep this pass with you at all times.","Всегда держите пропуск при себе"
+"WorkPermitInner","Keep this pass with you at all times.","Всегда иметь при себе"
 "EndNews","Kolechian Consensus Reached Over Grestin","Колечания: достигнут консенсус по Грештину"
 "ApartmentClass","CLASS","КЛАСС"
 "DetainButton","DETAIN","АРЕСТ"
@@ -854,29 +854,29 @@ Interrogate discrepancies to enable detention option.","У вас нет пра�
 
 Travelers entering for work require a valid WORK PASS.","Министерство труда начинает специальную программу контроля за трудоустройством иммигрантов.
 
-Въезжающие с целью работы должны предъявлять действующий РАБОЧИЙ ПРОПУСК"
+Въезжающие с целью трудоустройства должны предъявлять действительное РАЗРЕШЕНИЕ НА РАБОТУ"
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
 
-Search all Kolechians before approving their entry.","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+Search all Kolechians before approving their entry.","Для более тщательной проверки на вашем рабочем месте установлен СКАНЕР.
 
-Kolechian extremists are suspected in yesterday's bombing. 
+Во вчерашнем нападении подозреваются колечианские экстремисты. 
 
-Search all Kolechians before approving their entry."
+Обыскивайте всех граждан Колечиании, прежде чем разрешить им въезд."
 "bulletin:8A","The Kolechians have filed a formal complaint. 
 
 A diplomat will arrive today for high-level discussions.
 
 Automatic searches of Kolechian citizens are no longer authorized.
 
-Continued...[PAGESNOTE]","The Kolechians have filed a formal complaint. 
+Continued...[PAGESNOTE]","Колечианцы подали официальную жалобу.
 
-A diplomat will arrive today for high-level discussions.
+Сегодня для участия в переговорах на высоком уровне прибывает некий дипломат.
 
-Automatic searches of Kolechian citizens are no longer authorized.
+Обязательный обыск граждан Колечании теперь запрещен.
 
-Continued...[PAGESNOTE]"
+Продолжение...[PAGESNOTE]"
 "bulletin:8B","__________________________
 DIPLOMATS
 
@@ -890,14 +890,14 @@ Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter.
 Refer to the rulebook for updated document information."
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","An undercover agent of the Ministry of Information has been compromised.
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","Был раскрыт секретный агент Министерства информации.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today."
+Министерство миграций предложило сои услуги в качестве посредника. В течение дня вам могут нанести визит."
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
-Maintain your best behavior.","The divisional authority of East Grestin operations will visit today.
+Maintain your best behavior.","Сегодня вас посетит начальник оперативного отдела по Восточному Грештину.
 
-Maintain your best behavior."
+Не ударьте в грязь лицом."
 "bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
