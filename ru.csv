@@ -54,12 +54,12 @@
 "BulletinInnerFilerTut","Passport Confiscation","Конфискация паспорта"
 "BulletinInnerFilerTut","Verify ALTAN resident on id.","Проверить проживание в район АЛТАН по ID-карте"
 "BulletinInnerFilerTut","Drop passport in confiscation drawer.","Бросить паспорт в ящик для конфискованных документов"
-"BulletinInnerFilerTut","If arresting, confiscate before detaining.","Перед арестом конфискуйте паспорт"
+"BulletinInnerFilerTut","If arresting, confiscate before detaining.","Перед задержанием конфискуйте паспорт"
 "BulletinInnerCriminals","Ministry of Justice","Министерство юстиции"
 "BulletinInnerCriminals","WANTED CRIMINALS","РАЗЫСКИВАЮТСЯ"
 "BulletinInnerNews","NEWS","НОВОСТИ"
 "BulletinPagesNote","CHECK ALL<br>PAGES","ПРОСМОТРИТЕ<br>ВСЕ СТРАНИЦЫ"
-"CitationInner","M.O.A. CITATION","ММ: ВЫГОВОР"
+"CitationInner","M.O.A. CITATION","ММ: ЗАМЕЧАНИЕ"
 "DiplomaticAuthInner","Diplomatic<br>Authorization","Дипломатический<br>статус"
 "DiplomaticAuthInner","This document authorizes named agent as a diplomatic entity of a Council of Nations member state.","Предъявитель является дипломатическим представителем государства, входящего в Совет Наций"
 "DiplomaticAuthInner","AGENT","ИМЯ"
@@ -74,7 +74,7 @@
 "EntryPermitInner","Purpose","Цель поездки"
 "EntryPermitInner","Duration","Срок"
 "EntryPermitInner","Enter by","Въезд до"
-"EntryPermitInner","Ministry of Admission","Ministry of Admission"
+"EntryPermitInner","Ministry of Admission","Министерство миграций"
 "EntryTicketInner","Arstotzka","Arstotzka"
 "EntryTicketInner","ENTRY TICKET","ПРОПУСК"
 "EntryTicketInner","VALID ON","ДЕЙСТВИТЕЛЕН"
@@ -102,7 +102,7 @@
 "GymFlyerInner","East Grestin","Восточный Грештин"
 "HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","ДОКУМЕНТЫ ОТСУТСТВУЮТ"
 "HintMissingInner","To proceed, use INSPECT mode to interrogate.","Чтобы начать допрос, перейдите в режим ПРОВЕРКА"
-"HintMissingInner","Review page 2 of today's bulletin for full instructions.","Подробную инструкцию можно найти на стр. 2 сегодняшнего новостного листка"
+"HintMissingInner","Review page 2 of today's bulletin for full instructions.","Подробную инструкцию можно найти на стр. 2 сегодняшнего бюллетеня"
 "IdCardInner","ARSTOTZKA IDENTITY CARD","АРСТОТИЯ ID-КАРТА"
 "IdCardInner","DOB","ДР"
 "IdCardInner","HT.","РОСТ"
@@ -252,7 +252,7 @@
 "RulesInnerConfiscation","PASSPORT CONFISCATION","КОНФИСКАЦИЯ ПАСПОРТА"
 "RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","БРОСЬТЕ ПАСПОРТ <br>В ЯЩИК ДЛЯ КОНФИСКОВАННЫХ ДОКУМЕНТОВ"
 "RulesInnerConfiscation","POLICY","ПРАВИЛА"
-"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ПАСПОРТ ДОЛЖЕН БЫТЬ КОНФИСКОВАН <br>ДО ЗАКЛЮЧЕНИЯ ПОД СТРАЖУ"
+"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ПАСПОРТ ДОЛЖЕН БЫТЬ КОНФИСКОВАН <br>ДО ЗАДЕРЖАНИЯ"
 "RulesInnerConfiscation","MOI","ММ"
 "RulesInnerLast","PROPERTY OF","СОБСТВЕННОСТЬ"
 "RulesInnerLast","M.O.A.","ММ"
@@ -436,20 +436,20 @@
 "news:IMPOR_SANCTIONS_END","Impor Sanctions End!","Импор отменяет санкции!"
 "news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Так быстро? Что случилось?"
 "news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","Уникальные операции на позвоночнике"
-"news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","Доступны только в клиниках Арстотии"
+"news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","Их не умеет делать никто, кроме врачей  Арстотии"
 "news:VIRUS_PRIMER","Polio Resurfaces In United Fed","Новая вспышка полиомиелита в Союзе Наций"
 "news:VIRUS_PRIMER","Isolated Diagnosis Or Something More?","Отдельный случай или все серьезнее?"
 "news:VIRUS_BAN_UNITED_FED","Full-blown Epidemic Threatens United Fed!","СН грозит полномасштабная эпидемия!"
-"news:VIRUS_BAN_UNITED_FED","Previously Under Control, Polio Back With Vengeance","Полиомиелит возвращается - и он готов мстить!"
+"news:VIRUS_BAN_UNITED_FED","Previously Under Control, Polio Back With Vengeance","Полиомиелит возвращается - и готов мстить!"
 "news:VIRUS_REQUIRE_CERT","Ministry of Health Acts To Protect Citizens","Минздоровья готово защитить граждан"
-"news:VIRUS_REQUIRE_CERT","New Policy, Safeguards At Borders","Новые правила и защитные процедуры на границе"
+"news:VIRUS_REQUIRE_CERT","New Policy, Safeguards At Borders","Новые правила и контроль безопасности на границе"
 "news:SERIAL_KILLER","Serial Child Killer Escapes United Fed Prison!","СН: серийный убийца детей бежал из тюрьмы!"
 "news:SERIAL_KILLER","Simon Wens: An Arstotzkan Native - Returning Home?","Симон Венс: уроженец Арстотии возвращается домой?"
 "news:SERIAL_KILLER_MURDERED","Bloody Scene In Gennistora!","Кровавая резня в Геннисторе!"
 "news:SERIAL_KILLER_MURDERED","Simon Wens Found Dead In Confusing Mess","Симон Венс найден мертвым, тело изуродованно"
 "news:EZIC_ATTACK0","Grestin Metro Halted","Строительстов метро в Грештине остановлено"
-"news:EZIC_ATTACK0","Tunnel Cave-in, Hints At Sabotage","Обрушение туннеля, вероятность диверсии"
-"news:EZIC_ATTACK1_GIFT","Gov't Headquarters In Paradizna Evacuated!","Правительство эвакуировано из Парадиза!"
+"news:EZIC_ATTACK0","Tunnel Cave-in, Hints At Sabotage","Обрушение туннеля, возможна диверсия"
+"news:EZIC_ATTACK1_GIFT","Gov't Headquarters In Paradizna Evacuated!","Правительство эвакуировано из Парадизны!"
 "news:EZIC_ATTACK1_GIFT","Strange Gas Detected - Staff Safe, Records Missing","Газовая атака - чиновники в безопасности, документы похищены"
 "news:EZIC_ATTACK1_NOGIFT","Head Minister Of Finance Missing!","Пропал глава Министерства финансов!"
 "news:EZIC_ATTACK1_NOGIFT","Markets React With Fast Selling, Instability","Рынки: слив активов, потеря стабильности"
@@ -463,7 +463,7 @@
 "news:DIPLOMAT_ORIGINAL","Kolechian Talks Establish Common Ground","Переговоры в Колечании: общие темы найдены"
 "news:TALKS_BREAK_DOWN","Roadblock To Kolechian Resolution","Препятствие на пути колечианских решений"
 "news:TALKS_BREAK_DOWN","Contested City Drives Wedge","Спорный город стал причиной раскола"
-"news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","Будущее КПП в Грештине неясно"
+"news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","Будущее ППП в Грештине неясно"
 "news:BORDER_CLOSING","Too Open, Too Soon?","Слишком рано, слишком просто?"
 "text:language_code","en","ru"
 "text:language_name","ENGLISH","ENGLISH"
@@ -825,31 +825,31 @@ Entry tickets are no longer sufficient.
 
 Continued...","Процедура проверки документов ужесточена.
 
-Arstotzkan citizens must show their ID CARD.
+Граждане Арстотии должны предъявлять ID-КАРТУ.
 
-Foreigners must secure and present a valid ENTRY PERMIT.
+Иностранцы должны получить и предъявить РАЗРЕШЕНИЕ НА ВЪЕЗД.
 
-Entry tickets are no longer sufficient.
+Билеты на въезд больше не действуют.
 
-Continued..."
+Продолжение..."
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
 
 Check all information thoroughly.
 
 Deny any applicant with discrepant documents.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","A new chapter detailing document features has been added to your rulebook.
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","В инструкцию добавлена глава с описанием документа.
 
-Check all information thoroughly.
+Тщательно проверяйте всю информацию.
 
-Deny any applicant with discrepant documents.
+Отказывайте всем, в чьих документах будут обнаружены несоответствия.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements."
+Ответы въезжающего можно проверить по СТЕНОГРАММЕ."
 "bulletin:5A","You are now authorized to detain suspicious individuals.
 
-Interrogate discrepancies to enable detention option.","You are now authorized to detain suspicious individuals.
+Interrogate discrepancies to enable detention option.","У вас не права задерживать подозрительных граждан.
 
-Interrogate discrepancies to enable detention option."
+Чтобы включить команду ""Задержать"", указывайте на несоответствия в документах."
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
 Travelers entering for work require a valid WORK PASS.","The Ministry of Labor has instituted a special program to control immigrant labor.
