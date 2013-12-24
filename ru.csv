@@ -51,9 +51,9 @@
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","Вставить ключ, открыть доступ к оружию"
 "BulletinInnerGunTut","Select gun, aim and fire.","Взять оружие, прицелиться, выстрелить"
 "BulletinInnerGunTut","Time is short. Act fast.","Времени будет мало. Действуйте быстро."
-"BulletinInnerFilerTut","Passport Confiscation","Конфискация паспорта"
+"BulletinInnerFilerTut","Passport Confiscation","Изъятие паспорта"
 "BulletinInnerFilerTut","Verify ALTAN resident on id.","Проверить проживание в район АЛТАН по ID-карте"
-"BulletinInnerFilerTut","Drop passport in confiscation drawer.","Бросить паспорт в ящик для конфискованных документов"
+"BulletinInnerFilerTut","Drop passport in confiscation drawer.","Бросить паспорт в ящик для изъятых документов"
 "BulletinInnerFilerTut","If arresting, confiscate before detaining.","Перед задержанием конфискуйте паспорт"
 "BulletinInnerCriminals","Ministry of Justice","Министерство юстиции"
 "BulletinInnerCriminals","WANTED CRIMINALS","РАЗЫСКИВАЮТСЯ"
@@ -249,10 +249,10 @@
 "RulesInnerVaccineCert","REGULATION DOCUMENT","ИНСТРУКЦИЯ"
 "RulesInnerVaccineCert","POLIO VACCINATION REQUIRED FOR ALL ENTRANTS","НЕОБХОДИМА СПРАВКА О ПРИВИВКЕ ОТ ПОЛИОМИЕЛИТА"
 "RulesInnerVaccineCert","NO EXCEPTIONS","БЕЗ ИСКЛЮЧЕНИЙ"
-"RulesInnerConfiscation","PASSPORT CONFISCATION","КОНФИСКАЦИЯ ПАСПОРТА"
-"RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","БРОСЬТЕ ПАСПОРТ <br>В ЯЩИК ДЛЯ КОНФИСКОВАННЫХ ДОКУМЕНТОВ"
+"RulesInnerConfiscation","PASSPORT CONFISCATION","ИЗЪЯТИЕ ПАСПОРТА"
+"RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","БРОСЬТЕ ПАСПОРТ <br>В ЯЩИК ДЛЯ ИЗЪЯТЫХ ДОКУМЕНТОВ"
 "RulesInnerConfiscation","POLICY","ПРАВИЛА"
-"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ПАСПОРТ ДОЛЖЕН БЫТЬ КОНФИСКОВАН <br>ДО ЗАДЕРЖАНИЯ"
+"RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ПАСПОРТ ДОЛЖЕН<br>БЫТЬ ИЗЪЯТ<br>ДО ЗАДЕРЖАНИЯ"
 "RulesInnerConfiscation","MOI","ММ"
 "RulesInnerLast","PROPERTY OF","СОБСТВЕННОСТЬ"
 "RulesInnerLast","M.O.A.","ММ"
@@ -310,7 +310,7 @@
 "EmblemsMOA","M.O.A","ММ"
 "EmblemsMOA","M.O.L","МТ"
 "EmblemsMOL","M.O.L","МТ"
-"Filer","CONFISCATED DOCUMENTS","КОНФИСКОВАННЫЕ ДОКУМЕНТЫ"
+"Filer","CONFISCATED DOCUMENTS","ИЗЪЯТЫЕ ДОКУМЕНТЫ"
 "Filer","PROPERTY OF","ИМУЩЕСТВО"
 "Filer","M.O.A.","ММ"
 "GiveIcon","GIVE","ВЫДАТЬ"
@@ -472,7 +472,7 @@
 "text:created_by","created by Lucas Pope","автор Lucas Pope"
 "text:papers_please","Papers, please.","Papers, please."
 "text:protocol_violated","Protocol Violated.","Нарушение процедуры"
-"text:unauth_confiscation","Unauthorized passport confiscation","Паспорт конфискован незаконно"
+"text:unauth_confiscation","Unauthorized passport confiscation","Паспорт изъят незаконно"
 "text:missing_reason","Denial reason not given","Отказ без указания причин"
 "text:citation_warning","WARNING ISSUED - NO PENALTY","ПРЕДУПРЕЖДЕНИЕ - БЕЗ ШТРАФА"
 "text:citation_lastwarning","LAST WARNING - NO PENALTY","ПОСЛЕДНЕЕ ПРЕДУПРЕЖДЕНИЕ - БЕЗ ШТРАФА"
@@ -1023,44 +1023,44 @@ Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.",
 Въезжающие по такой справке не обязаны предоставлять ни РАЗРЕШЕНИЕ НА ВЪЕЗД, ни ПРИЛОЖЕНИЕ."
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","Your position is important and your responsibilities are broad.
+Follow all protocols strictly.","Вы занимаете важный пост и несете высокую ответственность.
 
-Follow all protocols strictly."
+Безукоризненно следуйте всем процедурам."
 "bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
 
 The Ministry of Information has requested our cooperation.
 
 A special drawer for confiscating documents has been installed in your booth.
 
-Continued...","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+Continued...","Недавние события заставляют подозревать, что граждане Арстотии, проживающие в районе АЛТАН, вовлечены в незаконную деятельность.  
 
-The Ministry of Information has requested our cooperation.
+Министерство информации просит нас о сотрудничестве.
 
-A special drawer for confiscating documents has been installed in your booth.
+На вашем рабочем месте был установлен специальный ящик для изъятых документов.
 
-Continued..."
+Продолжение..."
 "bulletin:24B","The rulebook has been updated with information regarding confiscation policy.
 
 Confiscate all Arstotzkan passports from residents living in ALTAN district.
 
 Travelers may still be granted entry if passport is confiscated and no other rules are violated.
 
-PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","The rulebook has been updated with information regarding confiscation policy.
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","В инструкцию была внесена информация, касающаяся изъятия документов.
 
-Confiscate all Arstotzkan passports from residents living in ALTAN district.
+Изфмайте паспорта всех граждан Арстотии, проживающих в районе АЛТАН.
 
-Travelers may still be granted entry if passport is confiscated and no other rules are violated.
+Несмотря на это, въезжающим может быть разрешен въезд, если паспорт изъят, но никакие правила не нарушены.
 
-PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport."
+Будут выпущены справки об ИЗЪЯТИИ ПАСПОРТА, по которым можно будет давать отказ или разрешение на въезд при отсутствии паспорта."
 "bulletin:25A","United Federation citizens present a risk of spreading infectious disease.
 
 Deny all entrants from United Federation.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","United Federation citizens present a risk of spreading infectious disease.
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","Граждане Союза Наций представляют риск распространения инфекционного заболевания.
 
-Deny all entrants from United Federation.
+Отказывайте всем, прибывающим из Союза Наций.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+Продолжайте изымать паспорта граждан Арстотии, проживающих в районе АЛТАН."
 "bulletin:26A","The risk of disease is too great. A new protocol has been instituted.
 
 All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
