@@ -357,7 +357,7 @@ LOS POLVOS CON EL PASAPORTE"
 "news:RANDOM_ENTERTAINMENT","Entertainment","Espectáculos"
 "news:RANDOM_POLITICS","Politics","Política"
 "news:FIRST_DAY","Grestin Border Checkpoint Opens At Last!","Reabre la frontera de Grestin tras 6 años"
-"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","¿Podrá el Ministerio de Admisiones velar por nuestra seguridad?"
+"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","¿Podrá velar por nuestra seguridad el Ministerio de Admisiones?"
 "news:FIRST_DAY","Families To Reunite","Reunificación familiar"
 "news:CHECKPOINT_SUCCESS","Grestin Checkpoint a Success!","Rotundo éxito de la aduana de Grestin"
 "news:CHECKPOINT_SUCCESS","Entry Restrictions To Relax, Admit Foreigners","A partir de hoy se admitirá la entrada de ciudadanos extranjeros"
@@ -371,7 +371,7 @@ LOS POLVOS CON EL PASAPORTE"
 "news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","El gobierno tilda de tibios a los controles de inmigración"
 "news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","No se abrirán más puestos fronterizos"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","Creciente escasez de empleo"
-"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","Los inmigrantes dejan sin trabajo<br>a los ciudadanos arstotzkos"
+"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","Los inmigrantes dejan sin trabajo a los ciudadanos arstotzkos"
 "news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","El líder kolechio eleva una queja contra Arstotzka"
 "news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","Supuesta violación de derechos en registros fronterizos"
 "news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","Nuevo ataque a la aduana de Grestin"
@@ -380,7 +380,7 @@ LOS POLVOS CON EL PASAPORTE"
 "news:GENERIC_BOMBER","Suicide Bombings Becoming Routine","Los hombres bomba marcan la rutina"
 "news:PIMP_BUSTED","Human Trafficking Ring Shut Down!","Desarticulada trama de trata de blancas"
 "news:PIMP_BUSTED","Grestin Checkpoint Officer Nabs Mastermind","Inspector de aduana de Grestin desenmascara al cabecilla"
-"news:PIMP_ESCAPED","Dancers At Grestin Club Found Dead!","Asesinadas bailarinas de un club de Grestin"
+"news:PIMP_ESCAPED","Dancers At Grestin Club Found Dead!","Asesinadas bailarinas en un club de Grestin"
 "news:PIMP_ESCAPED","Newly Immigrated Girls Victims Of Human Trafficking","Recién llegadas al país como víctimas de la trata de blancas"
 "news:KILLERATHLETE","Republian Track Star Wanted For Murder!","Deportista republio buscado por asesinato"
 "news:KILLERATHLETE","Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia","Se sospecha que Vince Lestrade puede haber abandonado Republia"
@@ -561,7 +561,7 @@ LOS POLVOS CON EL PASAPORTE"
 "text:menu_easytip","+ 20 credits per day","+ 20 créditos diarios"
 "text:menu_stats","STATS","ESTADÍSTICAS"
 "text:menu_next","NEXT","SIGUIENTE"
-"text:menu_walktowork","WALK TO WORK","IR AL TRABAJO"
+"text:menu_walktowork","WALK TO WORK","IR A TRABAJAR"
 "text:menu_paused","PAUSED","EN PAUSA"
 "text:menu_settings","SETTINGS","OPCIONES"
 "text:menu_credits","CREDITS","CRÉDITOS"
@@ -622,7 +622,7 @@ $tokens tokens, apartment $apt","Día $day
 ""$news""
 
 $savings créditos, $family familiares,
-$tokens medallas, vivienda $apt"
+$tokens medalla(s), vivienda $apt"
 "text:load_continue","CONTINUE","CONTINUAR"
 "text:emotion_happy","HAPPY","FELIZ"
 "text:emotion_ok","OK","BIEN"
@@ -719,8 +719,8 @@ Inspector,
 
 $content
 
-Glory to Arstotzka.","Ministerio de Admisiones
-Gobierno de Arstotzka
+Glory to Arstotzka.","Gobierno de Arstotzka
+Ministerio de Admisiones
 Boletín oficial
 
 Inspector,
@@ -820,9 +820,9 @@ Entry tickets are no longer sufficient.
 
 Continued...","Los requisitos en la presentación de documentos acreditativos han sido endurecidos. 
 
-Los ciudadanos arstotzkos deberán presentar su documento artstotzko de identidad (D.A.I.).
+Los ciudadanos arstotzkos deberán presentar su documento arstotzko de identidad (D.A.I.).
 
-Los extranjeros deberán obtener y acreditar un PERMISO DE ENTRADA válido. La presentación de un TIQUE del MDA no será suficiente.
+Los extranjeros deberán obtener y acreditar un PERMISO DE ENTRADA válido. La presentación de un TIQUE de ACCESO no será suficiente.
 
 (Continúa)"
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
@@ -837,7 +837,7 @@ Estudie las nuevas instrucciones meticulosamente.
 
 Niegue la entrada a todo solicitante con documentos discordantes.
 
-Haga uso de la TRANSCRIPCIÓN DE VOZ para confrontar documentos y declaración del solicitante."
+Haga uso de la TRANSCRIPCIÓN DE VOZ para cotejar la declaración del solicitante con sus documentos."
 "bulletin:5A","You are now authorized to detain suspicious individuals.
 
 Interrogate discrepancies to enable detention option.","En virtud de la presente, se le concede autorización para llevar a cabo la detención de ciudadanos.
@@ -856,7 +856,7 @@ Search all Kolechians before approving their entry.","Con el objeto de posibilit
 
 Se sospecha que el extremismo kolechio anda detrás del atentado ayer perpetrado.
 
-Escanee a todos los ciudadanos antes de permitir su entrada a nuestro país."
+Escanee a todos los ciudadanos kolechios antes de permitir su entrada a nuestro país."
 "bulletin:8A","The Kolechians have filed a formal complaint. 
 
 A diplomat will arrive today for high-level discussions.
@@ -865,7 +865,7 @@ Automatic searches of Kolechian citizens are no longer authorized.
 
 Continued...[PAGESNOTE]","Kolechia ha elevado una queja formal contra nuestra patria.
 
-Durante  presente jornada, se espera la llegada de un alto diplomático kolechio con el fin de iniciar las negociaciones.
+Durante la presente jornada, se espera la llegada de un alto diplomático kolechio con el fin de iniciar las negociaciones.
 
 Por la presente, se revoca la autorización que permitía el registro automático de ciudadanos kolechios. 
 
@@ -1112,7 +1112,7 @@ Su sesión tendrá lugar el 24 DE DICIEMBRE.
 
 NO ABANDONE LA REGIÓN A LA QUE FUE ASIGNADO.
 
-(Continuar)"
+(Continúa)"
 "bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "bulletin:30A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
 
@@ -1126,7 +1126,7 @@ Su sesión tendrá lugar el 24 DE DICIEMBRE.
 
 NO ABANDONE LA ZONA  A LA QUE FUE ASIGNADO.
 
-(Continuar)"
+(Continúa)"
 "bulletin:30B","Continue to confiscate all Arstotzkan passports from native entrants.","Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "bulletin:31A","The Ministry of Admission is involved in discussions regarding the closure of this checkpoint.
 
@@ -1335,7 +1335,7 @@ Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "intro","Congratulations.","¡Enhorabuena!"
 "intro","The October labor lottery is complete. Your name was pulled.","Su nombre ha salido elegido en la lotería de trabajo."
 "intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","Preséntese inmediatamente ante el Ministerio de Admisiones, en el puesto fronterizo de Grestin."
-"intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","Se le proporcionará una vivienda de clase 8 en Grestin Oriental, en la cual podrá alojarse junto a toda su familia."
+"intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","Se le proporcionará una vivienda de clase 8 en Grestin Oriental, en la cual podrá alojarse junto a su familia."
 "intro","Glory to Arstotzka.","Gloria a Arstotzka."
 "end:in-debt","Arstotzka has zero tolerance for delinquency.","Arstotzka observa una política de tolerancia cero<br>contra la delincuencia."
 "end:in-debt","Your family will be sent back to their village.","Su familia será enviada de vuelta a su aldea natal."
@@ -1756,7 +1756,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:EZIC_INTRO","The Order awaits.","La Orden aguarda."
 "traveler:EZIC_CORMAN","Very good.","Muy bien."
 "traveler:EZIC_CORMAN","Read quickly.","Lea rápido."
-"traveler:EZIC_CORMAN","Do not lose this.","No pierda eso."
+"traveler:EZIC_CORMAN","Do not lose this.","No pierda esto."
 "traveler:EZIC_CORMAN","You have something of mine.","Tiene algo que me pertenece."
 "traveler:EZIC_CORMAN","My name is Corman Drex.","Me llamo Corman Drex."
 "traveler:EZIC_CORMAN","Read the note then return it to me.","Lea la nota y devuélvamela."
@@ -1764,7 +1764,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","Mañana empieza todo."
 "traveler:EZIC_HANDLER_PRE0","Let them pass.","Déjeles pasar."
 "traveler:EZIC_AGENT0","The Order rises.","La Orden se alza."
-"traveler:EZIC_AGENT0","The Order knows.","La orden lo sabe."
+"traveler:EZIC_AGENT0","The Order knows.","La Orden observa."
 "traveler:EZIC_AGENT1","For Arstotzka and the Order.","Por Arstotzka y por la Orden."
 "traveler:EZIC_HANDLER_POST1","Give me the coded documents.","Entrégueme los documentos en clave."
 "traveler:EZIC_HANDLER_POST1","Both.","Ambos."
@@ -1810,7 +1810,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:SECRET_POLICE_INTRO","Very good.","Muy bien."
 "traveler:SECRET_POLICE_INTRO","Please return my badge and paper.","Por favor, devuélvame mi placa y mi documentación."
 "traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","Creemos que un grupo clandestino intenta causar problemas."
-"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Puede que algunos de sus miembros entrasen por esta aduana."
+"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Puede que algunos de sus miembros hayan entrado por esta aduana."
 "traveler:SECRET_POLICE_INTRO","What is this?","¿Qué es esto?"
 "traveler:SECRET_POLICE_INTRO","Interesting.","Interesante."
 "traveler:SECRET_POLICE_INTRO","Yes, very interesting.","Sí, realmente interesante."
@@ -2009,7 +2009,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:BROTHEL0","Don't forget to visit.","No dudes en venir a visitarme."
 "traveler:BROTHEL1","Hey there.","Hola, ¿qué tal?"
 "traveler:BROTHEL1","I can make you happy any time.","Puedo hacerte feliz cuando quieras."
-"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","Ven al Vicio Rosa. Pregunta por Ava."
+"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","Ven a La Casita Rosa. Pregunta por Ava."
 "traveler:BROTHEL2","Oh. Here.","Perdone."
 "traveler:BROTHEL2","Please help me.","Por favor, ayúdeme."
 "traveler:BROTHEL3","Hello friend.","Hola, amigo."
@@ -2034,7 +2034,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:HUSBAND_WIFE0","No! They will kill us!","¡No! ¡Nos matarán!"
 "traveler:HUSBAND_WIFE0","Please, I beg you.","¡Por favor, se lo ruego!"
 "traveler:HUSBAND_WIFE0","Let my wife pass. She is coming to you next.","Deje pasar a mi mujer. Viene justo detrás."
-"traveler:HUSBAND_WIFE1","Did you see my husband?","¿Ha visto a mi marido?"
+"traveler:HUSBAND_WIFE1","Did you see my husband?","El caballero que ha pasado antes era mi marido."
 "traveler:HUSBAND_WIFE1","He made it through, yes?","¿Ha pasado, verdad?"
 "traveler:HUSBAND_WIFE1","@Where is your entry permit?","@¿Dónde está su permiso de entrada?"
 "traveler:HUSBAND_WIFE1","Please, I beg you.","Por favor, tenga piedad."
@@ -2150,16 +2150,16 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:PRISON_GUARD0","They told me I get good position, then send me here.","Me dijeron que tendría un buen trabajo y me mandaron aquí."
 "traveler:PRISON_GUARD0","This is thanks I get.","Así me lo agradecen."
 "traveler:PRISON_GUARD0","Now they pay me almost nothing.","Me pagan una miseria."
-"traveler:PRISON_GUARD0","@They pay us all as much.","@Nos pagan lo mismo a todos.."
+"traveler:PRISON_GUARD0","@They pay us all as much.","@Nos pagan lo mismo a todos."
 "traveler:PRISON_GUARD0","Yes. But look.","Sí. Pero no."
 "traveler:PRISON_GUARD0","I get small bonus when you detain people.","Me dan una pequeña gratificación cuando detienes a alguien."
 "traveler:PRISON_GUARD0","More you detain, more they give me for processing.","Cuanta más gente detienes, a más gente debo procesar."
 "traveler:PRISON_GUARD0","But this is not fair, right? You should get something too.","¿A que no es justo? ¿A que tú también tendrías que llevarte algo?"
 "traveler:PRISON_GUARD0","So I fix this problem.","Pues mira, arreglemos eso ya mismo."
 "traveler:PRISON_GUARD0","I give you 5 credits from my bonus for every two people you detain.","Por cada dos personas que detengas te daré 5 créditos."
-"traveler:PRISON_GUARD0","Sounds like good deal to me.","Me parece un muy buen trato."
+"traveler:PRISON_GUARD0","Sounds like good deal to me.","Buen trato, ¿eh?"
 "traveler:PRISON_GUARD0","I give money to you after I get paid.","Te iré dando el dinero a medida que me paguen."
-"traveler:PRISON_GUARD0","Let us make the best of this.","Vamos a sacarle provecho a esto."
+"traveler:PRISON_GUARD0","Let us make the best of this.","Vamos a sacar provecho de todo esto."
 "traveler:PRISON_GUARD3","Here.","Toma."
 "traveler:PRISON_GUARD3","For bonus and selling bomb parts.","Tu parte de las denuncias y las piezas de la bomba."
 "traveler:PRISON_GUARD3","They move our station to prison.","Se llevan este puesto de guarda a la cárcel."
@@ -2571,7 +2571,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:LOVE_SONG_LONELY","Today is good day anyway!","Al fin y al cabo, ¡hoy es un buen día!"
 "traveler:LOVE_SONG_LONELY","Even you hate me.","Incluso usted me odia."
 "traveler:LOVE_SONG_LONELY","Some guy I do not even know.","Un tipo al que ni siquiera conozco."
-"traveler:KOLECHIAN_HATER","It was a mistake to open this checkpoint.","Ha sido un error abrir esta aduana."
+"traveler:KOLECHIAN_HATER","It was a mistake to open this checkpoint.","Abrir esta aduana ha sido un error."
 "traveler:FINALLY_RETURN_HOME","Finally I can return home.","Por fin vuelvo a casa."
 "traveler:FINALLY_RETURN_HOME","You bastard.","¡Cabrón!"
 "traveler:FINALLY_RETURN_HOME","Thank you.","Gracias."
@@ -2580,9 +2580,9 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:WAITED_FOREVER","I hope it was worth it.","Espero que haya valido la pena."
 "traveler:WAITED_FOREVER","Unbelievable. Go to hell.","Increíble. Váyase a la mierda."
 "traveler:HURRY_UP","Hurry up.","Dese prisa."
-"traveler:HURRY_UP","I am meeting bus soon.","Tengo que coger un bus."
+"traveler:HURRY_UP","I am meeting bus soon.","Voy a perder el bus."
 "traveler:HURRY_UP","What is this?","¿Pero qué pasa?"
-"traveler:HURRY_UP","Finally.","Por fin."
+"traveler:HURRY_UP","Finally.","Ya era hora."
 "traveler:GLAD_YOU_HAVE_JOB","I heard about terrorist attack.","He oído lo del ataque terrorista."
 "traveler:GLAD_YOU_HAVE_JOB","You are lucky to have a job still.","Tiene suerte de seguir con trabajo."
 "traveler:GLAD_YOU_HAVE_JOB","Be safe.","Cuídese."
@@ -2762,7 +2762,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "speech:state-purpose","I am coming to live with my husband.","Vengo a vivir aquí con mi marido."
 "speech:state-purpose","I am coming to live with my wife.","Vengo a vivir aquí con mi mujer."
 "speech:state-purpose","I am diplomatic envoy.","Soy un enviado diplomático."
-"speech:state-purpose","I was called to diplomatic discussions.","He sido llamado a participar en las negociaciones."
+"speech:state-purpose","I was called to diplomatic discussions.","Se me ha convocado para participar en las negociaciones."
 "speech:state-purpose","My presence was requested.","Se ha requerido mi presencia."
 "speech:state-purpose","I am seeking asylum.","Estoy buscando asilo."
 "speech:state-purpose","I come for political asylum.","Busco asilo político."
@@ -2933,8 +2933,8 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "speech:wrong-entryticket-date","It is my mistake.","Es culpa mía."
 "speech:wrong-entryticket-date","Oh?","¡Oh!"
 "speech:ask-missing-entryticket","You cannot enter without a ticket.","Sin tique no puede entrar."
-"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","Los extranjeros deben presentar un tique del MDA."
-"speech:ask-missing-entryticket","Where is your entry ticket?","¿Donde está su tique del MDA?"
+"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","Los extranjeros deben presentar un tique de acceso."
+"speech:ask-missing-entryticket","Where is your entry ticket?","¿Donde está su tique de acceso?"
 "speech:missing-entryticket","I do not know what that is.","No sé qué es eso."
 "speech:missing-entryticket","I have none.","No tengo."
 "speech:missing-entryticket","It was lost.","Se me ha perdido."
