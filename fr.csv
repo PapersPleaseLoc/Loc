@@ -430,11 +430,11 @@
 "news:WHISTLEBLOWER_IN","Antegrian Whistleblower Arrives - Disappears Immediately","À peine arrivé, l'informateur antègre disparaît de la circulation"
 "news:WHISTLEBLOWER_OUT","Antegrian Whistleblower Turned Away - Whereabouts Unknown","L'informatrice antègre, refusée à la frontière, disparaît dans la nature"
 "news:IMPOR_UNHAPPY","Impor Protests Unbalanced Trade Restrictions","L'Impor s'élève contre notre politique commerciale"
-"news:IMPOR_UNHAPPY","Claims Arstotzka Unfairly Taxes Imporian Goods","Les importations imporaises taxées de manière abusive ?"
+"news:IMPOR_UNHAPPY","Claims Arstotzka Unfairly Taxes Imporian Goods","Les importations imporaises taxées de manière excessive"
 "news:IMPOR_SANCTIONS_START","Impor Begins Trade Sanctions!","L'Impor met en place des sanctions commerciales"
 "news:IMPOR_SANCTIONS_START","Immediately Restricts All Imports From Arstotzka","Restrictions drastiques sur les importations arstotzkes"
 "news:IMPOR_SANCTIONS_END","Impor Sanctions End!","Fin des sanctions imporaises"
-"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Pourquoi ce revirement soudain ?"
+"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Un revirement bien soudain"
 "news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","Spectaculaires progrès en chirurgie spinale"
 "news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","Les médecins arstotzkes à la pointe de la science"
 "news:VIRUS_PRIMER","Polio Resurfaces In United Fed","Résurgence de la polio en Fédération Unie"
@@ -456,12 +456,12 @@
 "news:POISONING","Mysterious Poison Hospitalizes Several!","Un poison mystérieux frappe"
 "news:POISONING","Unnamed Immigrant Smuggles Deadly Agent","Un immigrant inconnu aurait introduit la substance toxique"
 "news:MARKED_DIPLOMAT","Top-Level Talks Called","Réunion au sommet"
-"news:MARKED_DIPLOMAT","Grestin Territory Remains Dividing Issue","Les négotiations sur Grestin divisent les parties"
+"news:MARKED_DIPLOMAT","Grestin Territory Remains Dividing Issue","Les négociations sur Grestin divisent les parties"
 "news:DIPLOMAT_SWAPPED","Kolechians Are Crazy","Les Kolèches frappés de démence"
 "news:DIPLOMAT_SWAPPED","Bizarre Behavior From Top Negotiator Spoils Talks","L'attitide fantasque de la délégation fait capoter les discussions"
 "news:DIPLOMAT_ORIGINAL","A Tentative Understanding","Un accord possible ?"
-"news:DIPLOMAT_ORIGINAL","Kolechian Talks Establish Common Ground","Les négotiations avec les Kolèches posent des bases communes"
-"news:TALKS_BREAK_DOWN","Roadblock To Kolechian Resolution","Échec des négotiations avec les Kolèches"
+"news:DIPLOMAT_ORIGINAL","Kolechian Talks Establish Common Ground","Les négociations avec les Kolèches posent des bases communes"
+"news:TALKS_BREAK_DOWN","Roadblock To Kolechian Resolution","Échec des négociations avec les Kolèches"
 "news:TALKS_BREAK_DOWN","Contested City Drives Wedge","Le partage de la ville toujours épineux"
 "news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","Avenir incertain pour le poste-frontière de Grestin"
 "news:BORDER_CLOSING","Too Open, Too Soon?","A-t-il été ouvert trop tôt ?"
@@ -665,7 +665,7 @@ $course
 $time
 $score points"
 "text:endless_ranked","Ranked #$0","Classement $0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Terminez le mode Histoire sans perdre votre emploi pour y accéder"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Finir le mode Histoire en gardant votre emploi pour obtenir le code"
 "text:endless_wrongcode","S O R R Y","E R R O R"
 "text:date_verbose","$month $day, $year","$day $month $year"
 "text:month_1","January","janvier"
@@ -1068,7 +1068,7 @@ This requirement extends to natives, foreigners, diplomats, and asylum seekers.
 
 Continued...","Le risque de contamination est trop important. Un nouveau protocole a été instauré.
 
-Tout entrant devra présenter<br>un CERTIFICAT DE VACCINATION valide, prouvant qu'il est vacciné contre la POLIO.
+Tout entrant devra présenter un CERTIFICAT DE VACCINATION valide, prouvant qu'il est vacciné contre la POLIO.
 
 Cette exigence s'étend aux arstotzkes, aux étrangers, aux diplomates et aux demandeurs d'asile.
 
@@ -1093,7 +1093,7 @@ An important Kolechian negotiator will arrive today to discuss issues at this ch
 
 Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","Une réunion d'urgence a eu lieu, suite à l'attaque coordonnée d'hier. 
 
-Un important négociateur kolèche arrivera aujourd'hui via ce Poste Frontière, afin de venir discuter des problèmes.
+Un important négociateur kolèche arrivera aujourd'hui via ce poste-frontière afin de venir discuter des problèmes.
 
 Continuez à confisquer les passeports arstotzkes des résidents du district d'ALTAN."
 "bulletin:28A","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
@@ -1547,7 +1547,7 @@ Traitez des voyageurs jusqu'à ce que vos financent passent dans le rouge. Les r
 "night:SON_BIRTHDAY2","Your son's birthday is tomorrow. He wants an expensive crayon set.","Demain, c'est l'anniversaire de votre fils. Il voudrait une boîte de crayons."
 "night:SON_BIRTHDAY2","SON'S GIFT","CADEAU POUR VOTRE FILS"
 "night:SON_BIRTHDAY3","Your son has drawn a picture for you to take to work.","Votre fils vous a fait un dessin à emporter au travail."
-"night:NIECE","Your sister has been arrested. Her young daughter needs a home.","Votre soeur a été arrêtée. Sa petite fille a besoin d'un foyer."
+"night:NIECE","Your sister has been arrested. Her young daughter needs a home.","Votre soeur a été arrêtée. Sa fille a besoin d'un foyer."
 "night:NIECE","ADOPT NIECE","ADOPTER VOTRE NIÈCE"
 "night:NIECE2_YES","Your niece has brought her mother's savings.","Votre nièce a apporté les économies de sa mère."
 "night:NIECE2_YES","SISTER'S SAVINGS","ÉCONOMIES DE VOTRE SOEUR"
@@ -1816,7 +1816,7 @@ N'OUVREZ PAS LE FEU
 "traveler:SECRET_POLICE_INTRO","So we come talk to you.","C'est pourquoi nous venons discuter un peu avec vous..."
 "traveler:SECRET_POLICE_INTRO","Have you seen anything like this?","Avez-vous déjà vu quelque chose dans ce genre ?"
 "traveler:SECRET_POLICE_INTRO","Is some kind of symbol for group.","C'est une sorte de symbole pour ce groupe."
-"traveler:SECRET_POLICE_INTRO","If you have any information, you give to us yes?","Si vous avez des informations, vous nous les donnerez...<br>N'est-ce pas?"
+"traveler:SECRET_POLICE_INTRO","If you have any information, you give to us yes?","Si vous avez des informations, vous nous les communiquerez. N'est-ce pas ?"
 "traveler:SECRET_POLICE_INTRO","Yes?","Oui ?"
 "traveler:SECRET_POLICE_INTRO","@Yes.","@Oui."
 "traveler:SECRET_POLICE_INTRO","Very good.","Très bien !"
@@ -2189,10 +2189,10 @@ N'OUVREZ PAS LE FEU
 "traveler:PRISON_GUARD_PAYOUT","Bonus is good, they pay ok.","La prime est bonne, ils paient bien."
 "traveler:PRISON_GUARD_PAYOUT","It is not much though.","Mais ça ne représente toujours pas grand-chose..."
 "traveler:PRISON_GUARD_PAYOUT","Maybe you detain more people and we do better.","Essayez de placer plus de monde en détention et nous toucherons plus."
-"traveler:PRISON_GUARD_PAYOUT","@This is not enough.","@Ça ne suffit pas."
+"traveler:PRISON_GUARD_PAYOUT","@This is not enough.","@Ce n'est pas la somme convenue."
 "traveler:PRISON_GUARD_PAYOUT","Yes, I know.","Oui, je sais."
-"traveler:PRISON_GUARD_PAYOUT","My wife sick now. Neighbor spreads the flu.","Ma femme est malade maintenant. Un voisin a répandu la grippe."
-"traveler:PRISON_GUARD_PAYOUT","This is what is left after medicine.","C'est ce qui reste, après avoir payé les médicaments."
+"traveler:PRISON_GUARD_PAYOUT","My wife sick now. Neighbor spreads the flu.","Ma femme est malade en ce moment. Un voisin a répandu la grippe."
+"traveler:PRISON_GUARD_PAYOUT","This is what is left after medicine.","C'est ce qui me reste, après avoir payé les médicaments."
 "traveler:PRISON_GUARD_PAYOUT","I give you rest next time.","Je vous donnerai le reste la prochaine fois..."
 "traveler:PRISON_GUARD_PAYOUT","Maybe you detain more people to make it easier.","Vous pourriez essayer de placer en détention plus de monde, ça sera plus facile."
 "traveler:PRISON_GUARD_PAYOUT","Here is your cut.","Voici votre part."
@@ -2202,9 +2202,9 @@ N'OUVREZ PAS LE FEU
 "traveler:PRISON_GUARD_PAYOUT","Keep detaining and I pay you back soon.","Continuez à placer les gens en détention et je vous paierai bientôt ce que je vous dois."
 "traveler:PRISON_GUARD_BOMB","What is going on?","Qu'est-ce qui se passe ?"
 "traveler:PRISON_GUARD_BOMB","Oh. Hah.","Oh ! Ah..."
-"traveler:PRISON_GUARD_BOMB","What is this amateur shit?","Qu'est-ce que c'est que ce truc d'amateur ?"
+"traveler:PRISON_GUARD_BOMB","What is this amateur shit?","Pff, c'est quoi ce truc d'amateur ?"
 "traveler:PRISON_GUARD_BOMB","@Should we evacuate?","@Faut-il évacuer le poste ?"
-"traveler:PRISON_GUARD_BOMB","For that little thing? No of course not.","À cause de ce petit machin ? Non, bien sûr que non."
+"traveler:PRISON_GUARD_BOMB","For that little thing? No of course not.","À cause de ce petit machin ? Bien sûr que non."
 "traveler:PRISON_GUARD_BOMB","Just disable it. Open the cover.","Vous n'avez qu'à la désamorcer. Ouvrez le couvercle."
 "traveler:PRISON_GUARD_BOMB","Stupid fucking terrorist.","Quelle bande de minables, ces terroristes..."
 "traveler:PRISON_GUARD_BOMB","Could not even add a display.","Même pas fichus d'installer un afficheur !"
@@ -2213,7 +2213,7 @@ N'OUVREZ PAS LE FEU
 "traveler:PRISON_GUARD_BOMB","Just cut the wires in order.","Vous n'avez qu'à couper les fils dans l'ordre."
 "traveler:PRISON_GUARD_BOMB","Ok, all done. Back to work.","OK, c'est bon. Je retourne au boulot."
 "traveler:PRISON_GUARD_BOMB","@We should close the checkpoint.","@Nous devrions fermer le poste-frontière."
-"traveler:PRISON_GUARD_BOMB","Bullshit. I need to earn money today.","Ça va pas, non ?! J'ai besoin de gagner de l'argent aujourd'hui."
+"traveler:PRISON_GUARD_BOMB","Bullshit. I need to earn money today.","Ça va pas, non ! J'ai besoin de gagner de l'argent aujourd'hui."
 "traveler:PRISON_GUARD_BOMB","Give bomb to me.","Donnez-moi la bombe."
 "traveler:PRISON_GUARD_BOMB","I sell materials and give you cut.","Je vais revendre les pièces et je vous filerai une part."
 "traveler:PRISON_GUARD_BOMB","What a piece of shit.","C'est vraiment de la camelote."
@@ -2736,7 +2736,7 @@ N'OUVREZ PAS LE FEU
 "traveler:WALLCOMMENT_SONDRAWING","Maybe he should try sports.","Il devrait peut-être plutôt se mettre au sport..."
 "traveler:WALLCOMMENT_SONDRAWING","Thanks.","Merci."
 "traveler:WALLCOMMENT_SONDRAWING","The drawing is not so bad really.","Ce dessin n'est pas si mal que ça, finalement..."
-"traveler:WALLCOMMENT_SONDRAWING","I was just in rough mood. Sorry.","J'étais juste un peu de mauvaise humeur... Pardonnez-moi."
+"traveler:WALLCOMMENT_SONDRAWING","I was just in rough mood. Sorry.","J'étais simplement de mauvaise humeur... Pardonnez-moi."
 "traveler:WALLCOMMENT_SONDRAWING","Huh?","Hein ?"
 "traveler:WALLCOMMENT_SONDRAWING","You deny me for comment about drawing, right?","Vous me refusez à cause de mon commentaire sur le dessin de votre fils, c'est ça ?"
 "traveler:WALLCOMMENT_SONDRAWING","@The exit is to your right.","@La sortie est sur votre droite."
@@ -3080,7 +3080,7 @@ N'OUVREZ PAS LE FEU
 "face:M42","Flat-top Hair","Coupe en brosse"
 "face:M42","Glasses","Lunettes"
 "face:M42","Pencil Mustache","Fine moustache"
-"face:M43","Unkempt Curly Hair","Cheveux bouclés en bataille"
+"face:M43","Unkempt Curly Hair","Cheveux en bataille"
 "face:M43","Mustache","Moustache"
 "face:M43","Long Straight Hair","Cheveux longs et raides"
 "face:M43","Glasses","Lunettes"
