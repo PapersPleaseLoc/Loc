@@ -664,7 +664,7 @@ $course
 
 $time
 $score points"
-"text:endless_ranked","Ranked #$0","Classement $0"
+"text:endless_ranked","Ranked #$0","Classement : $0"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Finir le mode Histoire en gardant votre emploi pour obtenir le code"
 "text:endless_wrongcode","S O R R Y","E R R O R"
 "text:date_verbose","$month $day, $year","$day $month $year"
@@ -1492,7 +1492,7 @@ Continuez à confisquer les passeports de tous les citoyens arstotzkes."
 
 Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","INFINI - TEMPS LIMITÉ
 
-Traitez autant de voyageurs que possible en 10 minutes. Gagnez 1 point par voyageur. Perdez 30 secondes par réprimande."
+Traitez autant de voyageurs que possible en 10 minutes. Vous gagnerez 1 point par voyageur et perdrez 30 secondes par réprimande."
 "endless:perfection","Perfection","Perfection"
 "endless:perfection","Game over at first penalty. Earn dwindling points.","Game over dès la première pénalité. Les points diminuent progressivement."
 "endless:perfection","ENDLESS - PERFECTION
