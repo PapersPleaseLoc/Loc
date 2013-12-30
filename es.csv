@@ -540,7 +540,7 @@ LOS POLVOS CON EL PASAPORTE"
 "text:budget_heat","HEAT","CALEFACCIÓN"
 "text:budget_medicine","MEDICINE ($0)","MEDICAMENTOS ($0)"
 "text:budget_sleep","SLEEP","IR A DORMIR"
-"text:budget_escape","ESCAPE","HUÍDA"
+"text:budget_escape","ESCAPE","HUIR"
 "text:menu_back","BACK","VOLVER"
 "text:confirm_ok","OKAY","ACEPTAR"
 "text:confirm_cancel","CANCEL","CANCELAR"
@@ -736,8 +736,8 @@ NOTICE:
 
 $content
 
-Glory to Arstotzka.","Ministerio de Admisiones
-de Arstotzka
+Glory to Arstotzka.","Gobierno de Arstotzka
+Ministerio de Admisiones
 Boletín oficial
 
 AVISO:
@@ -1106,21 +1106,21 @@ Your audit is scheduled for: DECEMBER 24
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continued...","[NOTICE] Todos los funcionarios del gobierno están obligados a asistir a una sesión informativa en profundidad. La implicación con grupos no autorizados será causa de arresto inmediato.
+Continued...","[NOTICE] Todos los funcionarios del gobierno están obligados a asistir a una sesión de control en profundidad. La implicación con grupos no autorizados será causa de arresto inmediato.
 
 Su sesión tendrá lugar el 24 DE DICIEMBRE.
 
 NO ABANDONE LA REGIÓN A LA QUE FUE ASIGNADO.
 
 (Continúa)"
-"bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
+"bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","Prosiga con el decomiso de los pasaportes pertenecientes a solicitantes oriundos de Arstotzka."
 "bulletin:30A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
 
 Your audit is scheduled for: DECEMBER 24
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continued...","[NOTICE] Todos los funcionarios del gobierno están obligados a asistir a detallada sesión informativa. La implicación con grupos no autorizados será causa de arresto inmediato.
+Continued...","[NOTICE] Todos los funcionarios del gobierno están obligados a asistir a detallada sesión de control. La implicación con grupos no autorizados será causa de arresto inmediato.
 
 Su sesión tendrá lugar el 24 DE DICIEMBRE.
 
@@ -1302,7 +1302,7 @@ Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "facts","Foreigners require an access permit","Permiso de acceso para los extranjeros"
 "facts","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.","DECOMISE PASAPORTES ARSTOTZKOS A RESIDENTES EN ALTAN"
 "facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","DECOMISE TODOS LOS PASAPORTES ARSTOTZKOS SIN EXCEPCIÓN"
-"facts","Passport not confiscated","PASAPORTE<br>NO CONFISCADO"
+"facts","Passport not confiscated","PASAPORTE NO CONFISCADO"
 "paper:SecondPassport","West Grestin","Grestin Occ."
 "paper:Rules","Basic Rules","Normas básicas"
 "paper:Rules","Regional Map","Mapa de la zona"
@@ -1411,11 +1411,11 @@ Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "end:wall-destroyed","The border will reopen under a replacement inspector.","La aduana seguirá abierta gracias a un inspector sustituto."
 "end:wall-destroyed","Glory to Arstotzka.","Gloria a Arstotzka."
 "end:help-ezic-kill-attackers-wall-safe","Hello inspector.","Hola, inspector."
-"end:help-ezic-kill-attackers-wall-safe","We have audited your recent activities.","Su actividad reciente ha sido objeto de una investigación"
-"end:help-ezic-kill-attackers-wall-safe","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","que ha evidenciado su implicación con un grupo autodenominado ""ORDEN DE LA ESTRELLA DE EZIC"", muchos"
-"end:help-ezic-kill-attackers-wall-safe","Several members of this group have been arrested in Arstotzka.","de cuyos miembros han sido arrestados en Arstotzka."
-"end:help-ezic-kill-attackers-wall-safe","At least one EZIC member has confessed to receiving your help.","Al menos uno de ellos ha confesado haber recibido su"
-"end:help-ezic-kill-attackers-wall-safe","This represents treason of the highest order.","ayuda, lo que constituye un delito de alta traición."
+"end:help-ezic-kill-attackers-wall-safe","We have audited your recent activities.","Su actividad reciente ha sido objeto de una investigación."
+"end:help-ezic-kill-attackers-wall-safe","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","Su implicación con el grupo autodenominado ""ORDEN DE LA ESTRELLA DE EZIC"" ha sido puesta en evidencia."
+"end:help-ezic-kill-attackers-wall-safe","Several members of this group have been arrested in Arstotzka.","Muchos de sus miembros han sido arrestados en Arstotzka."
+"end:help-ezic-kill-attackers-wall-safe","At least one EZIC member has confessed to receiving your help.","Al menos uno de ellos ha confesado haber recibido su ayuda."
+"end:help-ezic-kill-attackers-wall-safe","This represents treason of the highest order.","Tal implicación constituye un delito de alta traición."
 "end:help-ezic-kill-attackers-wall-safe","Goodbye inspector.","Adiós, inspector."
 "end:help-ezic-kill-attackers-wall-safe","The execution is scheduled for tonight.","Su ejecución tendrá lugar esta misma noche."
 "end:help-ezic-kill-attackers-wall-safe","Your family's safety is unknown.","Ignoramos si su familia está a salvo."
@@ -1432,17 +1432,17 @@ Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "end:help-ezic-kill-attackers-wall-destroyed","Goodbye inspector.","Adiós, inspector."
 "end:help-ezic-kill-attackers-wall-destroyed","Glory to the New Arstotzka.","Gloria a la Nueva Arstotzka."
 "end:help-few-ezic","Hello inspector.","Hola, inspector."
-"end:help-few-ezic","We have audited your recent activities.","Su actividad reciente han sido objeto de una investigación"
-"end:help-few-ezic","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","que ha evidenciado su implicación con un grupo autodenominado ""ORDEN DE LA ESTRELLA DE EZIC"", muchos"
-"end:help-few-ezic","Several members of this group have been arrested in Arstotzka.","de cuyos miembros han sido arrestados en Arstotzka."
-"end:help-few-ezic","At least one EZIC member has confessed to receiving your help.","Al menos uno de ellos ha confesado haber recibido su"
-"end:help-few-ezic","This represents treason of the highest order.","ayuda, lo que constituye un delito de alta traición."
+"end:help-few-ezic","We have audited your recent activities.","Su actividad reciente han sido objeto de una investigación."
+"end:help-few-ezic","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","Su implicación con el grupo autodenominado ""ORDEN DE LA ESTRELLA DE EZIC"" ha sido puesta en evidencia."
+"end:help-few-ezic","Several members of this group have been arrested in Arstotzka.","Muchos de sus miembros han sido arrestados en Arstotzka."
+"end:help-few-ezic","At least one EZIC member has confessed to receiving your help.","Al menos uno de ellos ha confesado haber recibido su ayuda."
+"end:help-few-ezic","This represents treason of the highest order.","Tal implicación constituye un delito de alta traición."
 "end:help-few-ezic","Goodbye inspector.","Adiós, inspector."
 "end:help-few-ezic","The execution is scheduled for tonight.","Su ejecución tendrá lugar esta misma noche."
 "end:help-few-ezic","Your family's safety is unknown.","Ignoramos si su familia está a salvo."
 "end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZIC ha sido aniquilada. El equilibrio de la justicia ha sido restituido."
 "end:help-few-ezic","Glory to Arstotzka.","Gloria a Arstotzka."
-"end:escape","You board the late train to the Northern Territories. It is nearly empty.","Tomas el último tren que sale hacia los territorios del norte."
+"end:escape","You board the late train to the Northern Territories. It is nearly empty.","Tomas el último tren que parte hacia los territorios del norte."
 "end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","Adquieres un pasaporte y un tique falsificados a toda prisa y mal."
 "end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","Adquieres pasaportes y tiques de acceso falsificados a toda prisa y mal."
 "end:escape","You reach the border crossing at dawn. The line is immense.","Al alba, llegas a la frontera. La cola es inmensa."
@@ -1453,7 +1453,7 @@ Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "end:escape","Yes.","Sí."
 "end:escape","I come to visit relatives.","Vengo a visitar a unos parientes."
 "end:escape","No, my family as well.","No."
-"end:escape","Hand over all documents now.","Entrégueme todos sus documentos."
+"end:escape","Hand over all documents now.","Entrégueme toda la documentación."
 "end:escape","We come to visit relatives.","Venimos a visitar a unos parientes."
 "end:escape","I do not care why you come. Wait here.","Me trae sin cuidado a qué ha venido."
 "end:escape","*KACHUNK*","*APROBADO*"
@@ -1476,21 +1476,21 @@ Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","La aduana de Grestin volverá a abrir sus puertas en breve."
 "end:ignore-ezic","Return to your post on January 1st.","Volverá al trabajo el día 1 de enero."
 "end:ignore-ezic","ENDLESS UNLOCK CODE: 62131","CÓDIGO PARA DESBLOQUEAR EL MODO ETERNO: 62131"
-"endless:timed","Timed","CRONOMETRADO"
+"endless:timed","Timed","CONTRARRELOJ"
 "endless:timed","Process as many travelers as possible in 10 minutes.","Atienda a tantos viajeros como pueda en 10 minutos."
 "endless:timed","ENDLESS - TIMED
 
 Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","ETERNO - CRONOMETRADO
 
 Atienda a tantos solicitantes como pueda en diez minutos. Un punto por solicitante. Penalización de 30 segundos por cada amonestación."
-"endless:perfection","Perfection","Perfección"
+"endless:perfection","Perfection","PERFECCIÓN"
 "endless:perfection","Game over at first penalty. Earn dwindling points.","Fin de partida tras primera sanción. Menos puntos conforme avanza el tiempo."
 "endless:perfection","ENDLESS - PERFECTION
 
 Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","ETERNO - PERFECCIÓN
 
 Consiga puntos procesando a los viajeros. No se permiten amonestaciones. Se otorgarán diez puntos por solicitante durante el primer minuto y un punto menos por cada minuto que pase. ¡Sea rápido!"
-"endless:endurance","Endurance","Resistencia"
+"endless:endurance","Endurance","RESISTENCIA"
 "endless:endurance","Play until balance goes negative. Avoid penalties.","El juego acabará cuando haya balance negativo. Las amonestaciones penalizan."
 "endless:endurance","ENDLESS - ENDURANCE
 
@@ -1511,7 +1511,7 @@ La partida acabará cuando el balance sea menor a cero. Las amonestaciones penal
 "night:ATTACK_DIDNOTHING","The day was cut short by a terrorist attack.","La jornada ha concluido antes de tiempo a raíz de un ataque terrorista."
 "night:ATTACK_FIREDGUN","The day was cut short by a terrorist attack.","La jornada ha concluido antes de tiempo a raíz de un ataque terrorista."
 "night:ATTACK_FIREDGUN","TRIGGER BONUS","DISPARO (GRATIFICACIÓN)"
-"night:ATTACK_SOLVED","The day was cut short by a terrorist attack.","La jornada ha acabado antes de tiempo debido a un ataque terrorista"
+"night:ATTACK_SOLVED","The day was cut short by a terrorist attack.","La jornada ha acabado antes de tiempo debido a un ataque terrorista."
 "night:ATTACK_SOLVED","SHARPSHOOTER BONUS","PUNTERÍA (GRATIFICACIÓN)"
 "night:POISONING","The day was cut short by a security incident.","El día ha concluido antes de tiempo a raíz de un problema de seguridad."
 "night:FAMILY_PICTURE","Your wife found an old family picture.","Tu mujer ha encontrado una vieja fotografía de familia."
@@ -1574,7 +1574,7 @@ La partida acabará cuando el balance sea menor a cero. Las amonestaciones penal
 "night:SELL_WATCH","WATCH PROFIT","VENTA DEL RELOJ"
 "night:EASY_MODE","EASY MODE CRUTCH","SUBVENCIÓN (MODO FÁCIL)"
 "night:SNEAK_HOME","You have rushed home amid the panic at work to check on your family.","Has salido corriendo del  caos del trabajo para ver cómo está tu familia."
-"night:SNEAK_HOME","Your information audit is scheduled for tomorrow morning.","Mañana deberás asistir a una sesión informativa."
+"night:SNEAK_HOME","Your information audit is scheduled for tomorrow morning.","Mañana deberás asistir a una sesión de control."
 "note:EZIC_CORMAN","ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
 
 WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
@@ -1825,8 +1825,8 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:SECRET_POLICE_FINAL","It has been some time.","Cuánto tiempo, ¿verdad?"
 "traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","Lea el boletín de hoy con especial atención."
 "traveler:SECRET_POLICE_FINAL","We will be speaking with many workers.","Hablaremos con muchos trabajadores."
-"traveler:SECRET_POLICE_FINAL","Your audit comes soon.","Falta poco para su sesión informativa."
-"traveler:SECRET_POLICE_FINAL","I will personally conduct it.","La llevaré a cabo yo mismo."
+"traveler:SECRET_POLICE_FINAL","Your audit comes soon.","Falta poco para su sesión de control."
+"traveler:SECRET_POLICE_FINAL","I will personally conduct it.","Yo mismo me encargaré de ella."
 "traveler:SECRET_POLICE_FINAL","There is nothing to fear.","No tiene nada que temer."
 "traveler:SECRET_POLICE_FINAL","Work hard.","Trabaje duro."
 "traveler:JORJI_BASE","All right! You the best!","¡Vale! ¡Eres el mejor!"
@@ -1970,7 +1970,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:JORJI_PASSPORTS","@Our passports have been confiscated.","@Nuestros pasaportes han sido confiscados."
 "traveler:JORJI_PASSPORTS","@We cannot leave.","@No podemos salir del país."
 "traveler:JORJI_PASSPORTS","Hey that not good sign.","Eso no pinta nada bien."
-"traveler:JORJI_PASSPORTS","Hold on.","Espero."
+"traveler:JORJI_PASSPORTS","Hold on.","Espera."
 "traveler:JORJI_PASSPORTS","I know a guy.","Conozco a un tipo."
 "traveler:JORJI_PASSPORTS","Just give him real passports to work with.","Solo tienes que darle un pasaporte de verdad."
 "traveler:JORJI_PASSPORTS","He changes info to match for you.","Y cambia lo que sea para que parezca tuyo."
@@ -2251,7 +2251,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:BOSS2","It was made very clear to let her through.","Dejé bien claro que debía dejarla pasar."
 "traveler:BOSS2","Now I must think about the consequences for you.~","Así que es mi deber pensar en qué consecuencias tendrá esto para usted.~"
 "traveler:BOSS2","Maybe this place not so bad.","Puede que este sitio no esté tan mal."
-"traveler:BOSS2","With everything going on, checkpoint visit is nice break.~","Con la que está cayendo, esta visita es un buen cambio de aires.~"
+"traveler:BOSS2","With everything going on, checkpoint visit is nice break.~","Con la que está cayendo, visitar esta aduana es un buen cambio de aires.~"
 "traveler:BOSS2","You still do not hang the plaques.","Sigue sin colgar las placas."
 "traveler:BOSS2","Why do you not hang both plaques?","¿Por qué no las ha colgado?"
 "traveler:BOSS2","But again you have unauthorized items on wall.","Sin embargo, sigue colgando objetos no autorizados en las paredes."
@@ -2280,7 +2280,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:BOSS_ANGRY","It was made very clear to let her through.~","Dejé muy claro que debía dejarla pasar.~"
 "traveler:BOSS_ANGRY","My patience with you has run out.~","Ha agotado mi paciencia.~"
 "traveler:KID_KILLER0","Look at it.~","Mire esto.~"
-"traveler:KID_KILLER0","Simon Wens took her from me.~","Simon Wens me lo quitó.~"
+"traveler:KID_KILLER0","Simon Wens took her from me.~","Simon Wens me la arrebató.~"
 "traveler:KID_KILLER0","I follow him for many weeks.","Llevo semanas siguiéndole."
 "traveler:KID_KILLER0","I know he comes here soon.~","Sé que va a intentar entrar pronto.~"
 "traveler:KID_KILLER0","It is big favor I ask, but is important.","Le estoy pidiendo un favor enorme, pero muy importante."
@@ -2306,7 +2306,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:KID_KILLER2","She was just little girl.","Solo era una niña..."
 "traveler:KID_KILLER2","@I do not know what you are talking about.","@No sé de qué me está hablando."
 "traveler:KID_KILLER2","Damnit.","¡Mierda!"
-"traveler:KID_KILLER2","She was just a little girl.","NO era más que una niña."
+"traveler:KID_KILLER2","She was just a little girl.","No era más que una niña."
 "traveler:KID_KILLER2","@Yes. He has been arrested.","@Sí. Ha sido arrestado."
 "traveler:KID_KILLER2","What? I asked you to let him pass.","¿Qué? Le pedí que le dejase pasar."
 "traveler:KID_KILLER2","There will be no true justice now.","Ahora jamás se hará justicia de verdad."
@@ -2502,8 +2502,8 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "traveler:GYM_INSTRUCTOR","You are skin and bones.","Está usted hecho un sequillo."
 "traveler:GYM_INSTRUCTOR","Bet you have no real strength.","Apuesto a que no tiene ni pizca de fuerza."
 "traveler:GYM_INSTRUCTOR","Come to gym, I make you big.","Venga a mi gimnasio. Se pondrá cachas."
-"traveler:GYM_INSTRUCTOR","I guarantee you get big at Get Big Town.","Venga a Gimnasio Krapp y enseguida sacará bola."
-"traveler:GYM_INSTRUCTOR","Is what we do.","Se lo garantizo."
+"traveler:GYM_INSTRUCTOR","I guarantee you get big at Get Big Town.","Venga a Gimnasio Krapp y ¡saque bola ya!"
+"traveler:GYM_INSTRUCTOR","Is what we do.","¡Garantizado!"
 "traveler:GYM_INSTRUCTOR","Denied? Hah.","¿Denegado?"
 "traveler:GYM_INSTRUCTOR","This is what I expect from skinny weakling.","Justo lo que me esperaba de un flacucho flojucho."
 "traveler:OLD_INSPECTOR","I used to be an inspector like you.","¿Sabe? Yo también fui inspector, igual que usted."
@@ -2991,7 +2991,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "speech:ask-vaccine-wrongdrugs","You are missing the required vaccination.","Carece de las vacunas necesarias."
 "speech:ask-vaccine-wrongdrugs","This vaccine certificate is insufficient.","Su certificado de vacunación no tiene todo lo necesario."
 "speech:trade-fingerprints","Here.","Ahí está."
-"speech:trade-fingerprints","Is this ok?","¿Está bien?"
+"speech:trade-fingerprints","Is this ok?","¿Están bien?"
 "speech:trade-fingerprints","Here are my fingerprints.","Aquí tiene mis huellas."
 "speech:trade-fingerprints","Now I have ink everywhere.","Ya voy de tinta hasta los codos."
 "speech:default","Please let me through.","Por favor, déjeme pasar."
