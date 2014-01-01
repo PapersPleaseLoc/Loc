@@ -1497,10 +1497,10 @@ Consiga puntos procesando a los viajeros. No se permiten amonestaciones. Se otor
 Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","ETERNO - RESISTENCIA
 
 La partida acabará cuando el balance sea menor a cero. Las amonestaciones penalizan en una escala ascendiente. Se grabarán las puntuaciones más altas de cara a los marcadores."
-"endless:course1","Course 1","Itinerario 1"
-"endless:course2","Course 2","Itinerario 2"
-"endless:course3","Course 3","Itinerario 3"
-"endless:course4","Course 4","Itinerario 4"
+"endless:course1","Course 1","Serie 1"
+"endless:course2","Course 2","Serie 2"
+"endless:course3","Course 3","Serie 3"
+"endless:course4","Course 4","Serie 4"
 "bullend:1A","Check rulebook for rules in effect.","Revise el reglamento para ver la normativa vigente."
 "bullend:2A","Check rulebook for rules in effect.","Revise el reglamento para ver la normativa vigente."
 "bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Revise el reglamento para ver la normativa vigente. Al denegar la entrada, se requiere sello de RAZÓN de la denegación."
