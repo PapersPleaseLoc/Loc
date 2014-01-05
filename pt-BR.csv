@@ -36,7 +36,7 @@
 "BulletinInnerDiploTut","Verify issuing country","Verificar país de origem"
 "BulletinInnerDiploTut","Verify identity","Verificar Identidade"
 "BulletinInnerDiploTut","Verify diplomatic access to Arstotzka","Verificar se possui acesso diplomático à Arstotzka"
-"BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","Para apontar documentos pendentes, aponte o balcão e a regra em questão no livro de regras."
+"BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","Para acusar documentos pendentes, aponte o balcão e a regra em questão no livro de regras."
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","Correlacione informações inválidas com as regras pertinentes do livro para habilitar mais opções."
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","Correlacione armas ou contrabandos descobertos com a regra em questão no livro de regras."
 "BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Selecione duas informações discrepantes no modo INSPEÇÃO para ativar o interrogatório."
@@ -359,11 +359,11 @@ AQUI"
 "news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","Após 6 Longos Anos. Será o Ministério Capaz de Manter a Segurança?"
 "news:FIRST_DAY","Families To Reunite","Famílias Serão Reunidas"
 "news:CHECKPOINT_SUCCESS","Grestin Checkpoint a Success!","Posto de Controle de Grestin é um Sucesso!"
-"news:CHECKPOINT_SUCCESS","Entry Restrictions To Relax, Admit Foreigners","Restrições de Entrada Diminuirão, Estrangeiros Serão Admitidos."
+"news:CHECKPOINT_SUCCESS","Entry Restrictions To Relax, Admit Foreigners","Restrições de Entrada Diminuirão, Estrangeiros Serão Admitidos"
 "news:CHECKPOINT_SUCCESS","Analysts Upbeat","Analistas Animados"
 "news:CHECKPOINT_SUCCESS","Increased Trade And Cooperation Predicted","Preveem Aumento no Comércio e na Cooperação"
 "news:FIRST_TERRORISTS","Terrorists Strike At Grestin!","Terroristas Atacam Grestin!"
-"news:FIRST_TERRORISTS","Kolechian Agitators Suspected.","Agitadores Kolechianos São Suspeitos."
+"news:FIRST_TERRORISTS","Kolechian Agitators Suspected.","Agitadores Kolechianos São Suspeitos"
 "news:FIRST_TERRORISTS","Checkpoint Lockdown","Segurança Máxima no Posto de Controle"
 "news:FIRST_TERRORISTS","More Guards - More Scrutiny","Mais Guardas - Mais Cuidado"
 "news:BLACKMARKET_EXPLODES","Blackmarket Activity Explodes","Atividades do Mercado Negro Disparam"
@@ -372,7 +372,7 @@ AQUI"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","Empregos Cada Vez Mais Raros"
 "news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","Imigrantes Tomando Vagas de Locais"
 "news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","Líder Kolechiano Registra Queixa"
-"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","Alega que Revistas sem Motivo na Fronteira Violam Direitos."
+"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","Alega que Revistas sem Motivo na Fronteira Violam Direitos"
 "news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","Mais Um Ataque no Posto de Grestin!"
 "news:AFTER_SUICIDE_BOMBER","Suicide Bomber Slips Through Security","Homem-Bomba Passa Pela Segurança"
 "news:GENERIC_BOMBER","Grestin Suffers Another Border Attack","Grestin Sofre Mais Um Ataque Na Fronteira"
@@ -384,7 +384,7 @@ AQUI"
 "news:KILLERATHLETE","Republian Track Star Wanted For Murder!","Atleta Republiano Procurado Por Homicídio"
 "news:KILLERATHLETE","Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia","Vince Lestrade Está Foragido - Provável Fuga de Republia"
 "news:KILLERATHLETE","Vince Lestrade: Profile","Vince Lestrade: Perfil"
-"news:KILLERATHLETE","Girlfriend Killed In Jealous Rage?","Namorada Morta em Ataque de Ciúmes?"
+"news:KILLERATHLETE","Girlfriend Killed In Jealous Rage?","Matou Namorada em Ataque de Ciúmes?"
 "news:KILLERATHLETE_DETAINED","Vince Lestrade Apprehended In Grestin!","Vince Lestrade Detido Em Grestin!"
 "news:KILLERATHLETE_DETAINED","Track Champ Looks Quite Guilty Now","Como o Campeão de Atletismo Negará Culpa Agora?"
 "news:KILLERATHLETE_APPROVED","Vince Lestrade Spotted in Arstotzka","Vince Lestrade Avistado em Arstotzka"
@@ -770,7 +770,7 @@ Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Bem-vindo à sua nova posição no Posto da Fronteira de Grestin.
+Deny all foreigners.","Bem-vindo ao seu novo cargo no Posto da Fronteira de Grestin.
 
 Carimbe o VISTO no passaporte e devolva o documento ao aplicante.
 
@@ -824,7 +824,7 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Foram implementados requerimentos mais restritos sobre credenciais.
+Continued...","Foram implementados requerimentos mais restritos para as credenciais.
 
 Cidadãos Arstotzkanos devem apresentar seus documentos de IDENTIDADE.
 
@@ -1771,7 +1771,7 @@ NÃO ATACAR
 "traveler:EZIC_INTRO","The Order awaits.","A Ordem aguarda."
 "traveler:EZIC_CORMAN","Very good.","Muito bom."
 "traveler:EZIC_CORMAN","Read quickly.","Leia rápido."
-"traveler:EZIC_CORMAN","Do not lose this.","Não perca isto."
+"traveler:EZIC_CORMAN","Do not lose this.","Não perca isso."
 "traveler:EZIC_CORMAN","You have something of mine.","Você tem algo que é meu."
 "traveler:EZIC_CORMAN","My name is Corman Drex.","Meu nome é Corman Drex."
 "traveler:EZIC_CORMAN","Read the note then return it to me.","Leia o bilhete e devolva."
@@ -1852,10 +1852,11 @@ NÃO ATACAR
 "traveler:JORJI0","The greatest country!","Melhor país!"
 "traveler:JORJI0","@Where is your passport?","@Onde está seu passaporte?"
 "traveler:JORJI0","Passport!","Passaporte!?"
-"traveler:JORJI0","Arstotzka so great, passport not required.","Arstotzka tão boa, não precisa passaporte."
+"traveler:JORJI0","Arstotzka so great, passport not required.","Arstotzka tão boa,
+não precisa passaporte."
 "traveler:JORJI0","Right?","Não é?"
 "traveler:JORJI0","@A passport is required.","@O passaporte é obrigatório."
-"traveler:JORJI0","Ok, ok. I hear you.","Ok, ok. Eu entendo."
+"traveler:JORJI0","Ok, ok. I hear you.","Ok, ok. Eu entende."
 "traveler:JORJI0","I come back again.","Eu vem de novo."
 "traveler:JORJI1","Ok! Hello again!","Ok! Olá de novo!"
 "traveler:JORJI1","Now I have passport!","Agora eu ter passaporte!"
@@ -2024,7 +2025,8 @@ NÃO ATACAR
 "traveler:BROTHEL0","Don't forget to visit.","Não esqueça de me ver."
 "traveler:BROTHEL1","Hey there.","Oi você."
 "traveler:BROTHEL1","I can make you happy any time.","Te faço feliz qualquer hora."
-"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","Venha à Tentação Violeta. Pergunte por Ava."
+"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","Venha à Tentação Violeta.
+Pergunte por Ava."
 "traveler:BROTHEL2","Oh. Here.","Ah. Ei."
 "traveler:BROTHEL2","Please help me.","Por favor, me ajude."
 "traveler:BROTHEL3","Hello friend.","Olá, amigo."
@@ -2043,7 +2045,8 @@ NÃO ATACAR
 "traveler:KILLERATHLETE","Let me through.","Deixe-me passar."
 "traveler:KILLERATHLETE","Shit.","Merda."
 "traveler:HUSBAND_WIFE0","Today is beautiful day, my friend.","Hoje é lindo dia, meu amigo."
-"traveler:HUSBAND_WIFE0","We finally become free from Antegrian tyranny!","Estamos finalmente livres de tirania Antegriana."
+"traveler:HUSBAND_WIFE0","We finally become free from Antegrian tyranny!","Estamos finalmente livres
+de tirania Antegriana."
 "traveler:HUSBAND_WIFE0","Thank you so much!","Muito obrigado!"
 "traveler:HUSBAND_WIFE0","Please be kind to my wife, she is just after me.","Peço que seja bom com minha esposa, ela vem em seguida."
 "traveler:HUSBAND_WIFE0","No! They will kill us!","Não! Eles vão nos matar!"
@@ -2053,8 +2056,9 @@ NÃO ATACAR
 "traveler:HUSBAND_WIFE1","He made it through, yes?","Ele passou, sim?"
 "traveler:HUSBAND_WIFE1","@Where is your entry permit?","@Cadê a licença de entrada?"
 "traveler:HUSBAND_WIFE1","Please, I beg you.","Por favor, eu imploro."
-"traveler:HUSBAND_WIFE1","They would not give me permit. I have no choice.","Eles negam minha licença. Eu não ter escolha."
-"traveler:HUSBAND_WIFE1","I will be killed if I return to Antegria.","Serei executada se voltar para Antegria."
+"traveler:HUSBAND_WIFE1","They would not give me permit. I have no choice.","Eles negam minha licença.
+Eu não ter escolha."
+"traveler:HUSBAND_WIFE1","I will be killed if I return to Antegria.","Sou executada se volto para Antegria."
 "traveler:HUSBAND_WIFE1","Thank you.","Obrigada."
 "traveler:HUSBAND_WIFE1","We will not forget.","Não esqueceremos."
 "traveler:HUSBAND_WIFE1","Why?","Por quê?"
@@ -2601,8 +2605,8 @@ minha responsabilidade.~"
 "traveler:HURRY_UP","I am meeting bus soon.","Pego ônibus daqui a pouco."
 "traveler:HURRY_UP","What is this?","Como assim?"
 "traveler:HURRY_UP","Finally.","Finalmente."
-"traveler:GLAD_YOU_HAVE_JOB","I heard about terrorist attack.","Soube do atentado terrorista."
-"traveler:GLAD_YOU_HAVE_JOB","You are lucky to have a job still.","Você tem sorte por ainda ter emprego."
+"traveler:GLAD_YOU_HAVE_JOB","I heard about terrorist attack.","Soube de atentado terrorista."
+"traveler:GLAD_YOU_HAVE_JOB","You are lucky to have a job still.","Você tem sorte de ainda ter emprego."
 "traveler:GLAD_YOU_HAVE_JOB","Be safe.","Tenha cuidado."
 "traveler:TICKET_NOT_PERMIT","What? I do not know. To visit?","O quê? Eu não sei. Visitar?"
 "traveler:TICKET_NOT_PERMIT","A few days maybe.","Alguns dias, talvez."
@@ -2971,7 +2975,7 @@ minha responsabilidade.~"
 "speech:ask-wrong-information","This information does not look correct.","Esta informação não parece correta."
 "speech:ask-wrong-information","This is incorrect.","Isto está incorreto."
 "speech:ask-wrong-height","Your height is different.","Sua altura está diferente."
-"speech:wrong-height","Perhaps my shoes are different.","Deve ser por causa da sapato."
+"speech:wrong-height","Perhaps my shoes are different.","Deve ser por causa de sapato."
 "speech:wrong-height","It is a natural difference.","É diferença natural."
 "speech:ask-wrong-weight","Your weight is different.","Seu peso está diferente."
 "speech:wrong-weight","I am wearing different clothes.","Estou usando roupas diferentes."
