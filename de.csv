@@ -2965,7 +2965,7 @@ NICHT SCHIESSEN.
 "speech:ask-wrong-information","This information does not look correct.","Diese Angabe hier scheint mir nicht zu stimmen."
 "speech:ask-wrong-information","This is incorrect.","Das hier ist falsch."
 "speech:ask-wrong-height","Your height is different.","Ihre Körpergröße ist anders."
-"speech:wrong-height","Perhaps my shoes are different.","Vielleicht liegt das an meinen Schuhe."
+"speech:wrong-height","Perhaps my shoes are different.","Vielleicht liegt das an meinen Schuhen."
 "speech:wrong-height","It is a natural difference.","Das sind doch nur natürliche Schwankungen."
 "speech:ask-wrong-weight","Your weight is different.","Ihr Gewicht ist anders."
 "speech:wrong-weight","I am wearing different clothes.","Ich trage andere Sachen."
