@@ -97,7 +97,7 @@
 "ForgeryFlyerInnerBack","Service at border Arstotzka/Obristan","Работаем на границе Арстотии и Орбистана"
 "ForgeryFlyerInnerBack","Ask for Timofei Wee","Спросить Тимофея Ви"
 "GymFlyerInner","Underweight?Weak?Tired?","Мелкий?Слабый?Устаешь?"
-"GymFlyerInner","JOIN BEST GYM!","БЕГИ В<br>ЗАЛ"
+"GymFlyerInner","JOIN BEST GYM!","БЕГИ В ЗАЛ"
 "GymFlyerInner","GET BIG TOWN","КАЧАЙ МЫШЦУ"
 "GymFlyerInner","East Grestin","Восточный Грештин"
 "HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","ДОКУМЕНТЫ ОТСУТСТВУЮТ"
@@ -182,7 +182,7 @@
 "PoisonInnerOpen1","DO NOT TOUCH POWDER","ПОРОШОК НЕ ТРОГАТЬ"
 "PoisonInnerOpen1","CLOSE","ЗАКРЫТЬ"
 "PoisonInnerOpen2","ALIGN POWDER OVER PASSPORT","ПОМЕСТИТЬ НА ПАСПОРТ"
-"PoisonInnerOpen2","PUSH HARD TO AFFIX","СИЛЬНО НАЖАТЬ"
+"PoisonInnerOpen2","PUSH HARD TO AFFIX","ПРИЖАТЬ"
 "PoisonInnerOpen2","CLOSE","ЗАКРЫТЬ"
 "PoliceBadgeInner","MINISTRY OF INFORMATION","МИНИНФОРМАЦИИ"
 "PoliceBadgeInner","Office of Investigation","Следственный отдел"
@@ -287,7 +287,7 @@
 "SpyDocsInnerBack","A FULL REPORT","ПОЛНЫЙ ОТЧЕТ"
 "SpyDocsInnerBack","Ministry of Information","Министерство информации"
 "TranscriptInner","AUDIO TRANSCRIPT","СТЕНОГРАММА"
-"VaccineCertInner","Certificate<span>of</span>Vaccination","Справка<span>о</span>наличии прививки"
+"VaccineCertInner","Certificate<span>of</span>Vaccination","Справка<span>о</span>вакцинации"
 "VaccineCertInner","ID#","ID#"
 "VaccineCertInner","DATE","ДАТА"
 "VaccineCertInner","VACCINE","ПРИВИВКА"
@@ -447,7 +447,7 @@
 "news:SERIAL_KILLER","Simon Wens: An Arstotzkan Native - Returning Home?","Симон Венс: уроженец Арстотии возвращается домой?"
 "news:SERIAL_KILLER_MURDERED","Bloody Scene In Gennistora!","Кровавая резня в Геннисторе!"
 "news:SERIAL_KILLER_MURDERED","Simon Wens Found Dead In Confusing Mess","Симон Венс найден мертвым, тело изуродованно"
-"news:EZIC_ATTACK0","Grestin Metro Halted","Строительство метро в Грештине остановлено"
+"news:EZIC_ATTACK0","Grestin Metro Halted","Строительстов метро в Грештине остановлено"
 "news:EZIC_ATTACK0","Tunnel Cave-in, Hints At Sabotage","Обрушение туннеля, возможна диверсия"
 "news:EZIC_ATTACK1_GIFT","Gov't Headquarters In Paradizna Evacuated!","Правительство эвакуировано из Парадизны!"
 "news:EZIC_ATTACK1_GIFT","Strange Gas Detected - Staff Safe, Records Missing","Газовая атака - чиновники в безопасности, документы похищены"
@@ -466,7 +466,7 @@
 "news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","Будущее ППП в Грештине неясно"
 "news:BORDER_CLOSING","Too Open, Too Soon?","Слишком рано, слишком просто?"
 "text:language_code","en","ru"
-"text:language_name","ENGLISH","RUSSIAN"
+"text:language_name","ENGLISH","ENGLISH"
 "text:language_author","Author","Перевод"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","автор Lucas Pope"
@@ -489,7 +489,7 @@
 "text:family_wife_budget","WIFE","ЖЕНА"
 "text:family_niece_budget","NIECE","ПЛЕМЯННИЦА"
 "text:family_uncle_budget","UNCLE","ДЯДЯ"
-"text:family_mil_budget","MIL","ТЕЩА"
+"text:family_mil_budget","MIL","ТЫС."
 "text:family_son_status","Son","Сын"
 "text:family_wife_status","Wife","Жена"
 "text:family_niece_status","Niece","Племянница"
@@ -1254,7 +1254,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","RUBELLA","КРАСНУХА"
 "facts","HEP-B","ГЕПАТИТ B"
 "facts","MEASLES","КОРЬ"
-"facts","TUBERC.","ТУБЕРКУЛЕЗ"
+"facts","TUBERC.","ТКБЕРКУЛЕЗ"
 "facts","2 DAYS","2 ДНЯ"
 "facts","14 DAYS","14 ДНЕЙ"
 "facts","1 MONTH","1 МЕСЯЦ"
@@ -1296,7 +1296,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Possible Terrorist Admitted","Разрешен въезд лицу, подозреваемому в терроризме"
 "facts","Entrant Holds Conflicting Passports","Паспорта въезжающего не соответствуют друг другу"
 "facts","Entrant must have a passport","Въезжающий обязан предъявить паспорт"
-"facts","Foreigners require an entry permit","Ин-цам нужно разрешение на въезд"
+"facts","Foreigners require an entry permit","Ин-цам нужно азрешение на въезд"
 "facts","Foreigners require an entry ticket","Ин-цам нужен пропуск"
 "facts","All documents must be current","Документы с истекшим сроком"
 "facts","Workers must have a work pass","Нужно разрешение на работу"
@@ -1557,34 +1557,34 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:DETAIN_PAYOUT","DETAIN BONUS","ПРЕМИЯ ЗА ЗАДЕРЖАНИЕ"
 "night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","Незнакомец принес вам деньги. Уберите отметку, чтобы их сжечь."
 "night:EZIC_PAYOUT","EZIC GIFT","ДАР EZIC"
-"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","A strange man brought money again. Uncheck to burn it."
+"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","Некто снова принес вам деньги. Уберите отметку, чтобы их сжечь."
 "night:EZIC_PAYOUT_RETRY","EZIC GIFT","ДАР EZIC"
-"night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","The neighbors have reported your new wealth."
-"night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","The Ministry of Income has confiscated your savings pending investigation."
-"night:EZIC_CLEARED","The Ministry of Income has cleared all wrongdoing.","The Ministry of Income has cleared all wrongdoing."
-"night:EZIC_CLEARED","Your savings will not be returned.","Your savings will not be returned."
-"night:EZIC_REWARD","A small package arrived.","A small package arrived."
-"night:EZIC_REWARD","EZIC GIFT","EZIC GIFT"
-"night:TAKE_FAMILY_PASSPORTS","The Ministry of Information has confiscated your family's passports.","The Ministry of Information has confiscated your family's passports."
-"night:ESCAPE","You can now escape to Obristan by yourself.","You can now escape to Obristan by yourself."
-"night:ESCAPE","You can now escape to Obristan with one family member.","You can now escape to Obristan with one family member."
-"night:ESCAPE","You can now escape to Obristan with two family members.","You can now escape to Obristan with two family members."
-"night:ESCAPE","You can now escape to Obristan with three family members.","You can now escape to Obristan with three family members."
-"night:ESCAPE","You can now escape to Obristan with four family members.","You can now escape to Obristan with four family members."
-"night:ESCAPE","You can now escape to Obristan with everyone.","You can now escape to Obristan with everyone."
-"night:ESCAPE_1","ESCAPE (SELF)","ESCAPE (SELF)"
-"night:ESCAPE_2","ESCAPE (SELF+1)","ESCAPE (SELF+1)"
-"night:ESCAPE_3","ESCAPE (SELF+2)","ESCAPE (SELF+2)"
-"night:ESCAPE_4","ESCAPE (SELF+3)","ESCAPE (SELF+3)"
-"night:ESCAPE_5","ESCAPE (SELF+4)","ESCAPE (SELF+4)"
-"night:ESCAPE_6","ESCAPE (SELF+5)","ESCAPE (SELF+5)"
-"night:HANGINGS_PENALTY","A fine has been assessed for unofficial wall hangings.","A fine has been assessed for unofficial wall hangings."
-"night:HANGINGS_PENALTY","HANGINGS FINE","HANGINGS FINE"
-"night:SELL_WATCH","You sold the digital watch on your way home.","You sold the digital watch on your way home."
-"night:SELL_WATCH","WATCH PROFIT","WATCH PROFIT"
-"night:EASY_MODE","EASY MODE CRUTCH","EASY MODE CRUTCH"
-"night:SNEAK_HOME","You have rushed home amid the panic at work to check on your family.","You have rushed home amid the panic at work to check on your family."
-"night:SNEAK_HOME","Your information audit is scheduled for tomorrow morning.","Your information audit is scheduled for tomorrow morning."
+"night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","Сочеди настучали, что вы внезапно разбогатели."
+"night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","Миндоходов конфисковало ваши сбережения, начато расследование."
+"night:EZIC_CLEARED","The Ministry of Income has cleared all wrongdoing.","Министерство доходов снимает с вас все обвинения."
+"night:EZIC_CLEARED","Your savings will not be returned.","Ваши сбережения возвращены не будут."
+"night:EZIC_REWARD","A small package arrived.","Прибыла небольшая посылка."
+"night:EZIC_REWARD","EZIC GIFT","ДАР EZIC"
+"night:TAKE_FAMILY_PASSPORTS","The Ministry of Information has confiscated your family's passports.","Министерство информации изъяло у всей вашей семьи паспорта."
+"night:ESCAPE","You can now escape to Obristan by yourself.","Вы можете бежать в Орбистан в одиночку."
+"night:ESCAPE","You can now escape to Obristan with one family member.","Вы можете бежать в Орбистан с одним членом вашей семьи."
+"night:ESCAPE","You can now escape to Obristan with two family members.","Вы можете бежать в Орбистан с двумя членами вашей семьи."
+"night:ESCAPE","You can now escape to Obristan with three family members.","Вы можете бежать в Орбистан с тремя членами вашей семьи."
+"night:ESCAPE","You can now escape to Obristan with four family members.","Вы можете бежать в Орбистан с четырьмя членами вашей семьи."
+"night:ESCAPE","You can now escape to Obristan with everyone.","Вы можете бежать в Орбистан со всей вашей семьей."
+"night:ESCAPE_1","ESCAPE (SELF)","БЕЖАТЬ (В ОДИНОЧКУ)"
+"night:ESCAPE_2","ESCAPE (SELF+1)","БЕЖАТЬ (САМ+1)"
+"night:ESCAPE_3","ESCAPE (SELF+2)","БЕЖАТЬ (САМ+2)"
+"night:ESCAPE_4","ESCAPE (SELF+3)","БЕЖАТЬ (САМ+3)"
+"night:ESCAPE_5","ESCAPE (SELF+4)","БЕЖАТЬ (САМ+4)"
+"night:ESCAPE_6","ESCAPE (SELF+5)","БЕЖАТЬ (САМ+5)"
+"night:HANGINGS_PENALTY","A fine has been assessed for unofficial wall hangings.","Наложен штраф за развешивание посторонних материалов на стенах."
+"night:HANGINGS_PENALTY","HANGINGS FINE","ШТРАФ ЗА РАЗВЕШИВАНИЕ"
+"night:SELL_WATCH","You sold the digital watch on your way home.","По дороге домой вы продаете свои электронные часы."
+"night:SELL_WATCH","WATCH PROFIT","ПОЛУЧЕНО ЗА ЧАСЫ"
+"night:EASY_MODE","EASY MODE CRUTCH","ФОРА НА ЛЕГКОМ УРОВНЕ"
+"night:SNEAK_HOME","You have rushed home amid the panic at work to check on your family.","Воспользовавшись паникой на работе, вы спешите домой, к семье."
+"night:SNEAK_HOME","Your information audit is scheduled for tomorrow morning.","Ваше слушание назначено на завтрашнее утро."
 "note:EZIC_CORMAN","ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
 
 WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
@@ -1592,23 +1592,23 @@ WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
 HELP US FREE ARSTOTZKA FROM ITS SHACKLES
 
 
-* THE ORDER OF THE EZIC STAR","ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
+* THE ORDER OF THE EZIC STAR","АСРСТОТИЯ - ВЕЛИКАЯ СТРАНА, ТЕРЗАЕМАЯ КОРРУМПИРОВАННЫМИ ПРАВИТЕЛЯМИ
 
-WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
+ВЫ САМИ ВИДИТЕ, ЧТО ВОЙНА ПРЕВРАТИЛА ВЛАСТЬ В ТОЛПУ ЖАДНЫХ ПАРАНОИКОВ
 
-HELP US FREE ARSTOTZKA FROM ITS SHACKLES
+ПОМОГИТЕ НАМ ОСВОБОДИТЬ АРСТОТИЮ ИЗ ЭТИХ ОКОВ
 
 
-* THE ORDER OF THE EZIC STAR"
+* ОРДЕН ЗВЕЗДЫ EZIC"
 "note:EZIC_HANDLER_POST0","FIRST AGENT WAS DENIED
 
 SECOND WILL COME IN TWO DAYS
 
-DO NOT MAKE SAME MISTAKE","FIRST AGENT WAS DENIED
+DO NOT MAKE SAME MISTAKE","ПЕРВОМУ АГЕНТУ ОТКАЗАНО
 
-SECOND WILL COME IN TWO DAYS
+ЧЕРЕЗ ДВА ДНЯ ПРИБУДЕТ ВТОРОЙ
 
-DO NOT MAKE SAME MISTAKE"
+НЕ ПОВТОРЯЙТЕ СВОЮ ОШИБКУ"
 "note:EZIC_HANDLER_PRE1","LARGE GIFT WAS MISTAKE
 
 MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
