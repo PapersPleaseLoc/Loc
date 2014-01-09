@@ -230,9 +230,9 @@
 "RulesInnerIdSupplement","FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE","ВНЕШНИЕ ДАННЫЕ ВЪЕЗЖАЮЩЕГО"
 "RulesInnerIdSupplement","VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE","ОТПЕЧАТОК ПАЛЬЦА (ПРИ НАЛИЧИИ ОЬРАЗЦА ОТПЕЧАТКА)"
 "RulesInnerIdSupplement","THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY","ЭТОТ ДОКУМЕНТ ДЕЙСТВУЕТ НЕДОЛГО - ТЩАТЕЛЬНО ПРОВЕРЯЙТЕ ДАТУ"
-"RulesInnerAccessPermit","ACCESS PERMIT","РАЗРЕШЕНИЕ<br>НА ВЪЕЗД"
+"RulesInnerAccessPermit","ACCESS PERMIT","ВИЗА<br>НА ВЪЕЗД"
 "RulesInnerAccessPermit","VALID SEALS","ПЕЧАТИ"
-"RulesInnerAccessPermit","THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT","ЭТОТ ДОКУМЕНТ ЗАМЕНЯЕТ СОБОЙ ПРОПУСК И ПРИЛОЖЕНИЕ К ID-КАРТЕ"
+"RulesInnerAccessPermit","THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT","ЭТОТ ДОКУМЕНТ ЗАМЕНЯЕТ СОБОЙ РАЗРЕШЕНИЕ НА ВЪЕЗД И ПРИЛОЖЕНИЕ К ID-КАРТЕ"
 "RulesInnerWorkPermit","WORK PASS","РАЗРЕШЕНИЕ<br>НА РАБОТУ"
 "RulesInnerWorkPermit","ISSUED TO ALL QUALIFIED FOREIGN LABOR","ВЫДАЕТСЯ ВСЕМ ИНОСТРАННЫМ РАБОЧИМ"
 "RulesInnerWorkPermit","VALID SEALS","ПЕЧАТИ"
@@ -1083,7 +1083,7 @@ Continue to confiscate Arstotzkan passports from residents living in ALTAN distr
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
-Continued...","В целях повышения эффективности работы РАЗРЕШЕНИЕ НА ВЪЕЗД и ПРИЛОЖЕНИЕ  объединены в единый документ -  .
+Continued...","В целях повышения эффективности работы РАЗРЕШЕНИЕ НА ВЪЕЗД и ПРИЛОЖЕНИЕ  объединены в единый документ - ВИЗУ НА ВЪЕЗД.
 
 Иностранные граждане теперь должны предъявлять действительную ВИЗУ НА ВЪЕЗД.
 
