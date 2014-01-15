@@ -723,7 +723,7 @@ Glory to Arstotzka.","Арстотия
 Министерство миграций
 Официальный бюллетень
 
-Инспектор,
+Инспектор!
 
 $content
 
@@ -1474,16 +1474,16 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "end:help-ezic-hold-fire","Your services as an inspector are no longer required. We need agents.","Ваши услуги в качестве инспектора нам больше не нужны. Нам нужны агенты."
 "end:help-ezic-hold-fire","Follow us and together we will complete the revolution!","Вступайте в наши ряды, и мы вместе доведем революцию до победного конца!"
 "end:help-ezic-hold-fire","Glory to the New Arstotzka.","Слава новой Арстотии!"
-"end:ignore-ezic","Hello inspector.","Здравствуйте, инспектор."
+"end:ignore-ezic","Hello inspector.","Здравствуйте, инспектор!"
 "end:ignore-ezic","We have audited your activities for the past 20 years.","Мы провели проверку вашей деятельности за последние 20 лет."
-"end:ignore-ezic","There are some anomalies.","Обнаружен некоторые нарушения."
-"end:ignore-ezic","But you have served Arstotzka well.","Однако вы много лет верно служили Арстотии."
+"end:ignore-ezic","There are some anomalies.","Нельзя сказать, что все было гладко."
+"end:ignore-ezic","But you have served Arstotzka well.","И все-таки Арстотия благодарна вам за верную службу."
 "end:ignore-ezic","We will overlook these small transgressions.","Мы готовы закрыть глаза на эти маленькие недочеты."
 "end:ignore-ezic","You have been cleared of any suspicion.","С вас сняты все подозрения."
 "end:ignore-ezic","Glory to Arstotzka.","Слава Арстотии!"
 "end:ignore-ezic","A new agreement has been reached with Kolechia.","С Колечией достигнуто новое соглашение."
-"end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","Пропускной пункт Герштин скоро вернется к работе."
-"end:ignore-ezic","Return to your post on January 1st.","Вы должны явиться 1 января."
+"end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","Пропускной пункт Грештин скоро вернется к работе."
+"end:ignore-ezic","Return to your post on January 1st.","С 1 января вы продолжите работу в той же должности."
 "end:ignore-ezic","ENDLESS UNLOCK CODE: 62131","КОД ДЛЯ ОТКРЫТИЯ РЕЖИМА БЕСКОНЕЧНОЙ ИГРЫ: 62131"
 "endless:timed","Timed","На время"
 "endless:timed","Process as many travelers as possible in 10 minutes.","У вас есть 10 минут: примите как можно больше въезжающих."
@@ -1505,7 +1505,7 @@ Earn points for processing travelers. No citations allowed. Ten points per trave
 
 Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","БЕСКОНЕЧНО - НА ИЗНОС
 
-Принимайте въезжающих, пока баланс не упадет ниже нуля. За каждое новое замечание штраф больше. Самый лучший счет будет учтен."
+Принимайте въезжающих, пока баланс не упадет ниже нуля. За каждое новое замечание штраф больше. Лучший счет войдет в таблицу рекордов."
 "endless:course1","Course 1","Раунд 1"
 "endless:course2","Course 2","Раунд 2"
 "endless:course3","Course 3","Раунд 3"
@@ -1514,7 +1514,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "bullend:2A","Check rulebook for rules in effect.","Все новые правила можно найти в инструкции."
 "bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Все новые правила можно найти в инструкции. Для отказа во въезде необходимо поставить печать ПРИЧИНА ОТКАЗА."
 "bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Все новые правила можно найти в инструкции. Для отказа во въезде необходимо поставить печать ПРИЧИНА ОТКАЗА."
-"night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","Планируйте свои расходы, выбирая ячейки."
+"night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","Планируйте свои расходы, отмечая нужное."
 "night:AFTER_6PM","Applicants entering after 6PM are unpaid.","За лиц, принятых после 18:00, плата не начисляется."
 "night:PROGRESS_SAVED","Progress is saved at the start of each day.","Ишра сохраняется в начале каждого дня."
 "night:ATTACK_DIDNOTHING","The day was cut short by a terrorist attack.","Рабочий день прерван из-за атаки террористов."
@@ -1522,13 +1522,13 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:ATTACK_FIREDGUN","TRIGGER BONUS","ПРЕМИЯ ЗА ВЫСТРЕЛ"
 "night:ATTACK_SOLVED","The day was cut short by a terrorist attack.","Рабочий день прерван из-за атаки террористов."
 "night:ATTACK_SOLVED","SHARPSHOOTER BONUS","ПРЕМИЯ ЗА ПОПАДАНИЕ"
-"night:POISONING","The day was cut short by a security incident.","Рабочий день прерван из-за проблем с безопасностью."
+"night:POISONING","The day was cut short by a security incident.","Рабочий день прерван из-за пограничного инцидента."
 "night:FAMILY_PICTURE","Your wife found an old family picture.","Ваша жена нашла старую семейную фотографию."
 "night:BUY_UPGRADE0","Booth Upgrade Available: SPACE key to toggle INSPECT mode.","Улучшение: SPACE - переход в режим ПРОВЕРКА."
 "night:BUY_UPGRADE0","UPGRADE BOOTH","УЛУЧШЕНИЕ"
 "night:BUY_UPGRADE1","Booth Upgrade Available: TAB key to toggle stamp bar.","Улучшение: TAB - вызов печатей."
 "night:BUY_UPGRADE1","UPGRADE BOOTH","УЛУЧШЕНИЕ"
-"night:BUY_UPGRADE2","Booth Upgrade Available: Rulebook shortcuts.","Улучшение: маерокоманды для ""Инструкции""."
+"night:BUY_UPGRADE2","Booth Upgrade Available: Rulebook shortcuts.","Улучшение: макрокоманды для ""Инструкции""."
 "night:BUY_UPGRADE2","UPGRADE BOOTH","УЛУЧШЕНИЕ"
 "night:BUY_UPGRADE3","Booth Upgrade Available: Double-click for quick INSPECT.","Улучшение: двойной щелчок для быстрой ПРОВЕРКИ."
 "night:BUY_UPGRADE3","UPGRADE BOOTH","УЛУЧШЕНИЕ"
@@ -1542,7 +1542,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:APARTMENT_UPGRADE","A class-5 apartment is available. (Rent = 50, Heat = 0)","Доступна квартира 5 класса (квартира = 50, отопление = 0)"
 "night:APARTMENT_UPGRADE","Class-5 is the best a worker can have.","5 класс - лучшее жилье, которое может получить служащий."
 "night:APARTMENT_UPGRADE","MOVE TO CLASS-5","ПЕРЕЕХАТЬ В КЛАСС 5"
-"night:SON_BIRTHDAY","Your son's birthday is in 2 days.","Через 2 дня - день олждения вашего сына."
+"night:SON_BIRTHDAY","Your son's birthday is in 2 days.","Через 2 дня - день рождения вашего сына."
 "night:SON_BIRTHDAY2","Your son's birthday is tomorrow. He wants an expensive crayon set.","Завтра - день рождения сына. Он попросил дорогие карандаши."
 "night:SON_BIRTHDAY2","SON'S GIFT","ПОДАРОК СЫНУ"
 "night:SON_BIRTHDAY3","Your son has drawn a picture for you to take to work.","Ваш сын нарисовал картинку, чтобы вы повесили ее на работе."
@@ -1551,14 +1551,14 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:NIECE2_YES","Your niece has brought her mother's savings.","Ваша племянница привезла с собой сбережения своей матери."
 "night:NIECE2_YES","SISTER'S SAVINGS","СБЕРЕЖЕНИЯ СЕСТРЫ"
 "night:NIECE2_NO","Your niece has disappeared.","Ваша племянница исчезла."
-"night:FRIENDLY_GUARD_PAYOUT","A young woman dropped off something.","Молодая женщина кое-что у вас оставила."
+"night:FRIENDLY_GUARD_PAYOUT","A young woman dropped off something.","Молодая женщина оставила у вас некий предмет."
 "night:FRIENDLY_GUARD_PAYOUT","ELISA'S GIFT","ПОДАРОК ЭЛИЗЫ"
 "night:DETAIN_PAYOUT","DETAIN BONUS","ПРЕМИЯ ЗА ЗАДЕРЖАНИЕ"
 "night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","Незнакомец принес вам деньги. Уберите отметку, чтобы их сжечь."
 "night:EZIC_PAYOUT","EZIC GIFT","ДАР EZIC"
 "night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","Некто снова принес вам деньги. Уберите отметку, чтобы их сжечь."
 "night:EZIC_PAYOUT_RETRY","EZIC GIFT","ДАР EZIC"
-"night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","Сочеди настучали, что вы внезапно разбогатели."
+"night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","Соседи донесли властям, что вы внезапно разбогатели."
 "night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","Миндоходов конфисковало ваши сбережения, начато расследование."
 "night:EZIC_CLEARED","The Ministry of Income has cleared all wrongdoing.","Министерство доходов снимает с вас все обвинения."
 "night:EZIC_CLEARED","Your savings will not be returned.","Ваши сбережения возвращены не будут."
@@ -1579,7 +1579,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:ESCAPE_6","ESCAPE (SELF+5)","БЕЖАТЬ (САМ+5)"
 "night:HANGINGS_PENALTY","A fine has been assessed for unofficial wall hangings.","Наложен штраф за развешивание посторонних материалов на стенах."
 "night:HANGINGS_PENALTY","HANGINGS FINE","ШТРАФ ЗА РАЗВЕШИВАНИЕ"
-"night:SELL_WATCH","You sold the digital watch on your way home.","По дороге домой вы продаете свои электронные часы."
+"night:SELL_WATCH","You sold the digital watch on your way home.","По дороге домой вы продаете электронные часы."
 "night:SELL_WATCH","WATCH PROFIT","ПОЛУЧЕНО ЗА ЧАСЫ"
 "night:EASY_MODE","EASY MODE CRUTCH","ФОРА НА ЛЕГКОМ УРОВНЕ"
 "night:SNEAK_HOME","You have rushed home amid the panic at work to check on your family.","Воспользовавшись паникой на работе, вы спешите домой, к семье."
@@ -1593,7 +1593,7 @@ HELP US FREE ARSTOTZKA FROM ITS SHACKLES
 
 * THE ORDER OF THE EZIC STAR","АСРСТОТИЯ - ВЕЛИКАЯ СТРАНА, ТЕРЗАЕМАЯ КОРРУМПИРОВАННЫМИ ПРАВИТЕЛЯМИ
 
-ВЫ САМИ ВИДИТЕ, ЧТО ВОЙНА ПРЕВРАТИЛА ВЛАСТЬ В ТОЛПУ ЖАДНЫХ ПАРАНОИКОВ
+ВОЙНА ПРЕВРАТИЛА ВЛАСТЬ ИМУЩИХ В ТОЛПУ ЖАДНЫХ ПАРАНОИКОВ - ВЫ САМИ ЭТО ВИДИТЕ
 
 ПОМОГИТЕ НАМ ОСВОБОДИТЬ АРСТОТИЮ ИЗ ЭТИХ ОКОВ
 
@@ -1616,13 +1616,13 @@ NEXT AGENT COMES TODAY
 
 WILL SOLVE PROBLEM
 
-DENY AT OWN RISK","КРУПНАЯ СУММА БЫЛА ОШИБКОЙ
+DENY AT OWN RISK","КРУПНЫЙ ДАР БЫЛ ОШИБКОЙ
 
 МИНИНФОРМАЦИИ РАССЛЕДУЕТ ВАШИ СВЯЗИ С EZIC
 
 СЛЕДУЮЩИЙ АГЕНТ ПРИБУДЕТ СЕГОДНЯ
 
-РЕШИТ ВСЕ ПРОБЛЕМЫ
+ОН РЕШИТ ЭТУ ПРОБЛЕМУ
 
 В СЛУЧАЕ ОТКАЗА МЫ НИЧЕГО НЕ ГАРАНТИРУЕМ"
 "note:EZIC_HANDLER_POST1","BOTH AGENTS WERE DENIED
@@ -1683,9 +1683,9 @@ HIS NAME IS KHALED ISTOM
 
 DO NOT FORGET","КИЛЛЕР ПРИБУДЕТ ИЗ АНТЕГРИИ
 
-ЕГО ЦЕЛЬ - ВАЖНЫЙ АГЕНТ EZIC В АРСТОТИИ
+БУДУЩАЯ ЖЕРТВА - ВАЖНЫЙ АГЕНТ EZIC В АРСТОТИИ
 
-ЕГО НАДО ТОСТАНОВИТЬ
+КИЛЛЕРА НАДО ОСТАНОВИТЬ
 
 ЕГО ЗОВУТ ХАЛИД ИСТОМ
 
@@ -1698,7 +1698,7 @@ IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL
 
 РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - ОН В КРАСНОМ - МЫ ВСЕ ОРГАНИЗУЕМ
 
-ЕСЛИ ВСЕ ПОЛУЧИТСЯ НО ВАС ПОЙМАЮТ - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
+ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
 "note:EZIC_HANDLER_SNIPE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
@@ -1707,7 +1707,7 @@ IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL
 
 РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - ОН В КРАСНОМ - МЫ ВСЕ ОРГАНИЗУЕМ
 
-ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
+ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ, - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
@@ -1740,7 +1740,7 @@ EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","ПРАВИТЕЛЬСТВО НАМЕ�
 
 ПЕРЕГОВОРЫ НАДО ОСТАНОВИТЬ
 
-РАЗРЕШИТЕ КОЛЕЧИАНСКОМ ДИПЛОМАТУ ВЪЕЗД, НО СНАЧАЛА ИЗЫМИТЕ ПАСПОРТ
+РАЗРЕШИТЕ КОЛЕЧИАНСКОМ ДИПЛОМАТУ ВЪЕЗД, НО КОНФИСКУЙТЕ ЕГО ПАСПОРТ
 
 ПОД ЕГО ИМЕНЕМ БУДЕТ ДЕЙСТВОВАТЬ ПРИБЫВШИЙ СЛЕДОМ АГЕНТ EZIC"
 "note:EZIC_FINAL","GRESTIN CHECKPOINT IS AT AN END
@@ -1751,13 +1751,13 @@ YOU WILL BE SAFE
 
 HOLD YOUR FIRE
 
-* THE ORDER OF THE EZIC STAR","ПУНКТ ГРЕШТИН ПРЕКРАЩАЕТ СУЩЕТСВОВАНИЕ
+* THE ORDER OF THE EZIC STAR","ПУНКТ ГРЕШТИН ПРЕКРАЩАЕТ СУЩЕСТВОВАНИЕ
 
 СЕГОДНЯ МЫ РАЗРУШИМ СТЕНУ
 
 ВАМ НИЧЕГО НЕ ГРОЗИТ
 
-НЕ НЕРВНИЧАЙТЕ
+СОХРАНЯЙТЕ СПОКОЙСТВИЕ
 
 * ОРДЕН ЗВЕЗДЫ EZIC"
 "traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","; Мой паспорт? ; Паспорт? ; Что это за справка? Где паспорт?"
@@ -1790,18 +1790,18 @@ HOLD YOUR FIRE
 "traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","Я - колечианский дипломат, я здесь по приглашению правительства."
 "traveler:EZIC_DIPLO","Return passport at once.","Немедленно верните мне паспорт."
 "traveler:EZIC_DIPLO","@Call number on slip to recover.","@Позвоните по номеру на справке, и вам его вернут."
-"traveler:EZIC_DIPLO","Barbarian.","Быдло."
+"traveler:EZIC_DIPLO","Barbarian.","Дикарь."
 "traveler:EZIC_DIPLO","You cannot do this.","Как вы смеете!"
 "traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","Я видел, как он вошел."
 "traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","Отдайте мне его паспорт."
 "traveler:EZIC_DIPLO_FOLLOW","Ah good.","Вот и славно."
 "traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","Я на него похож."
-"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","Только усы сбрить."
-"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","Всем нам приходится идти на жертвы."
+"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","Только усы придется сбрить."
+"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","Что делать, всем нам приходится идти на жертвы."
 "traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","Визу подтвердите."
 "traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","За Арстотию и Орден."
-"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","Мы не так договаривались."
-"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","Я пришел за дипломатическим паспортом."
+"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","Мы так не договаривались."
+"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","Меня прислали за дипломатическим паспортом."
 "traveler:EZIC_DIPLO_FOLLOW","@I do not have it.","@У меня его нет."
 "traveler:SECRET_POLICE_INTRO","Good morning, inspector.","Доброе утро, инспектор."
 "traveler:SECRET_POLICE_INTRO","You are healthy today yes?","Здоровье сегодня получше, я надеюсь?"
@@ -1809,29 +1809,29 @@ HOLD YOUR FIRE
 "traveler:SECRET_POLICE_INTRO","There was problem at Metro last night.","Прошлой ночью в метро произошел инцидент."
 "traveler:SECRET_POLICE_INTRO","Maybe you read about it in paper.","Вы, наверное, читали об этом в газете."
 "traveler:SECRET_POLICE_INTRO","Is very big news.","Об этом все кричат."
-"traveler:SECRET_POLICE_INTRO","We think it is not accident.","Мы думаем, что это не несчастный случай."
-"traveler:SECRET_POLICE_INTRO","We think it is caused by suspicious group.","Мы думаем, это работа некой подозрительной группировки."
-"traveler:SECRET_POLICE_INTRO","We think some members pass through this checkpoint.","Мы думаем, что некоторые из ее членов проходили через этот пропускной пункт."
+"traveler:SECRET_POLICE_INTRO","We think it is not accident.","Мы не думаем, что это случайность."
+"traveler:SECRET_POLICE_INTRO","We think it is caused by suspicious group.","Мы полагаем, это работа некой подозрительной группировки."
+"traveler:SECRET_POLICE_INTRO","We think some members pass through this checkpoint.","Мы считаем, что некоторые из ее членов проходили через этот пропускной пункт."
 "traveler:SECRET_POLICE_INTRO","So we come talk to you.","Так что мы решили с вами побеседовать."
 "traveler:SECRET_POLICE_INTRO","Have you seen anything like this?","Вы ничего похожего не видели?"
-"traveler:SECRET_POLICE_INTRO","Is some kind of symbol for group.","Это - что-то вроде эмблемы этой группы."
+"traveler:SECRET_POLICE_INTRO","Is some kind of symbol for group.","Это - что-то вроде эмблемы той группы."
 "traveler:SECRET_POLICE_INTRO","If you have any information, you give to us yes?","Если вы что-то знаете, вы ведь нам расскажете, правда?"
 "traveler:SECRET_POLICE_INTRO","Yes?","Да?"
 "traveler:SECRET_POLICE_INTRO","@Yes.","@Да."
 "traveler:SECRET_POLICE_INTRO","Very good.","Ну и отлично."
 "traveler:SECRET_POLICE_INTRO","Please return my badge and paper.","Пожалуйста, верните мой жетон и бумаги."
-"traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","Мы думаем, что подозрительные лица сознательно  мутят воду."
-"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Мы думаем, некоторые из ее членов прошли через этот ППП."
+"traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","Мы думаем, что подозрительные лица сознательно мутят воду."
+"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Мы думаем, некоторые из ее членов прошли через этот пункт."
 "traveler:SECRET_POLICE_INTRO","What is this?","Что это?"
 "traveler:SECRET_POLICE_INTRO","Interesting.","Интересно."
 "traveler:SECRET_POLICE_INTRO","Yes, very interesting.","Да, очень интересно."
-"traveler:SECRET_POLICE_INTRO","I think it is best if you come with me.","Я думаю, вам лучше пойти со мной."
+"traveler:SECRET_POLICE_INTRO","I think it is best if you come with me.","Я думаю, вам лучше пройти со мной."
 "traveler:SECRET_POLICE_INTRO","This group is very dangerous.","Эта группа очень опасна."
 "traveler:SECRET_POLICE_INTRO","If you see any curious thing, report immediately.","Если увидите что-то необычное, немедленно сообщите."
 "traveler:SECRET_POLICE_CAUGHT","Hello inspector.","Как дела, инспектор?"
 "traveler:SECRET_POLICE_CAUGHT","There is small discrepancy with your finances.","У вас в финансовой отчетности кое-что не сходится."
 "traveler:SECRET_POLICE_CAUGHT","The Ministry of Income was thoughtful enough to notify us.","Министерство доходов любезно нас об этом информировало."
-"traveler:SECRET_POLICE_CAUGHT","It is best if you come with me.","Вам лучше пойти со мной."
+"traveler:SECRET_POLICE_CAUGHT","It is best if you come with me.","Вам лучше пройти со мной."
 "traveler:SECRET_POLICE_FINAL","Inspector.","Инспектор."
 "traveler:SECRET_POLICE_FINAL","It has been some time.","Давно не виделись."
 "traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","Прочтите сегодняшний бюллетень повнимательней."
@@ -1890,7 +1890,7 @@ HOLD YOUR FIRE
 "traveler:JORJI4","Or cheap! Haha!","И недешево! Ха-ха!"
 "traveler:JORJI4","@I told you not to come back.","@Я ведь сказал: больше не приходите."
 "traveler:JORJI4","This is crap.","Чушь собачья."
-"traveler:JORJI4","You know what? Forget it.","Знаешь что? Забудь про все."
+"traveler:JORJI4","You know what? Forget it.","Знаешь что? Забудь, что я говорил."
 "traveler:JORJI4","Arstotzka worst country.","Арстотия - самая плохая страна."
 "traveler:JORJI4","You worst person.","Ты самый худший."
 "traveler:JORJI4","Thank you so much!","Спасибо тебе большое."
@@ -1918,7 +1918,7 @@ HOLD YOUR FIRE
 "traveler:JORJI_SMUGGLE0","Drugs are bad. Not good for kids.","Наркотики плохо. Детям вредно."
 "traveler:JORJI_SMUGGLE0","You do great work here still.","Ты все равно отлично работаешь."
 "traveler:JORJI_SMUGGLE0","Ok!","Ладно!"
-"traveler:JORJI_SMUGGLE0","We go full speed!","Мы с тобой будем ладить!"
+"traveler:JORJI_SMUGGLE0","We go full speed!","Мы с тобой будем не разлей вода!"
 "traveler:JORJI_SMUGGLE0","Hey what is problem?","Эй, какая проблема?"
 "traveler:JORJI_SMUGGLE0","@I do not trust you.","@Я вам не доверяю."
 "traveler:JORJI_SMUGGLE0","Ok, ok.","Ладно, ладно."
