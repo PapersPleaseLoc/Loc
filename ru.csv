@@ -1570,7 +1570,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:ESCAPE","You can now escape to Obristan with two family members.","Вы можете бежать в Орбистан с двумя членами вашей семьи."
 "night:ESCAPE","You can now escape to Obristan with three family members.","Вы можете бежать в Орбистан с тремя членами вашей семьи."
 "night:ESCAPE","You can now escape to Obristan with four family members.","Вы можете бежать в Орбистан с четырьмя членами вашей семьи."
-"night:ESCAPE","You can now escape to Obristan with everyone.","Вы можете бежать в Орбистан со всей вашей семьей."
+"night:ESCAPE","You can now escape to Obristan with everyone.","Вы можете бежать в Орбистан со всей семьей."
 "night:ESCAPE_1","ESCAPE (SELF)","БЕЖАТЬ (В ОДИНОЧКУ)"
 "night:ESCAPE_2","ESCAPE (SELF+1)","БЕЖАТЬ (САМ+1)"
 "night:ESCAPE_3","ESCAPE (SELF+2)","БЕЖАТЬ (САМ+2)"
@@ -1578,7 +1578,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:ESCAPE_5","ESCAPE (SELF+4)","БЕЖАТЬ (САМ+4)"
 "night:ESCAPE_6","ESCAPE (SELF+5)","БЕЖАТЬ (САМ+5)"
 "night:HANGINGS_PENALTY","A fine has been assessed for unofficial wall hangings.","Наложен штраф за развешивание посторонних материалов на стенах."
-"night:HANGINGS_PENALTY","HANGINGS FINE","ШТРАФ ЗА РАЗВЕШИВАНИЕ"
+"night:HANGINGS_PENALTY","HANGINGS FINE","ШТРАФ ЗА КАРТИНКИ"
 "night:SELL_WATCH","You sold the digital watch on your way home.","По дороге домой вы продаете электронные часы."
 "night:SELL_WATCH","WATCH PROFIT","ПОЛУЧЕНО ЗА ЧАСЫ"
 "night:EASY_MODE","EASY MODE CRUTCH","ФОРА НА ЛЕГКОМ УРОВНЕ"
@@ -1698,14 +1698,14 @@ IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL
 
 РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - ОН В КРАСНОМ - МЫ ВСЕ ОРГАНИЗУЕМ
 
-ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
+ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ, - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
 "note:EZIC_HANDLER_SNIPE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","ХАЛИД УБИЛ ДВУХ АГЕНТОВ EZIC - ПРИБЫВАЕТ ЕЩЕ ОДИН КИЛЛЕР - ОН В КРАСНОМ - У НЕГО ЕСТЬ СПИСКИ ВСЕХ АГЕНТОВ EZIC  В АРСТОТИИ
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","ХАЛИД УБИЛ ДВУХ АГЕНТОВ EZIC - ПРИБЫВАЕТ ЕЩЕ ОДИН КИЛЛЕР - ЧЕЛОВЕК В КРАСНОМ - У НЕГО ЕСТЬ СПИСКИ ВСЕХ АГЕНТОВ EZIC  В АРСТОТИИ
 
-РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - ОН В КРАСНОМ - МЫ ВСЕ ОРГАНИЗУЕМ
+РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - МЫ ВСЕ ОРГАНИЗУЕМ
 
 ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ, - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
@@ -1714,7 +1714,7 @@ CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
 IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","С ХАЛИДОМ РАЗОБРАЛИСЬ - ПРИБЫВАЕТ ДРУГОЙ КИЛЛЕР - ОН В КРАСНОМ - У НЕГО ЕСТЬ СПИСКИ ВСЕХ АГЕНТОВ EZIC  В АРСТОТИИ
 
-РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - ОН В КРАСНОМ - МЫ ВСЕ ОРГАНИЗУЕМ
+РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - МЫ ВСЕ ОРГАНИЗУЕМ
 
 ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
 "note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
@@ -1751,7 +1751,7 @@ YOU WILL BE SAFE
 
 HOLD YOUR FIRE
 
-* THE ORDER OF THE EZIC STAR","ПУНКТ ГРЕШТИН ПРЕКРАЩАЕТ СУЩЕСТВОВАНИЕ
+* THE ORDER OF THE EZIC STAR","ПОГРАНИЧНЫЙ ПУНКТ ГРЕШТИН ПРЕКРАЩАЕТ СВОЕ СУЩЕСТВОВАНИЕ
 
 СЕГОДНЯ МЫ РАЗРУШИМ СТЕНУ
 
@@ -1790,7 +1790,7 @@ HOLD YOUR FIRE
 "traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","Я - колечианский дипломат, я здесь по приглашению правительства."
 "traveler:EZIC_DIPLO","Return passport at once.","Немедленно верните мне паспорт."
 "traveler:EZIC_DIPLO","@Call number on slip to recover.","@Позвоните по номеру на справке, и вам его вернут."
-"traveler:EZIC_DIPLO","Barbarian.","Дикарь."
+"traveler:EZIC_DIPLO","Barbarian.","Быдло."
 "traveler:EZIC_DIPLO","You cannot do this.","Как вы смеете!"
 "traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","Я видел, как он вошел."
 "traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","Отдайте мне его паспорт."
@@ -1798,7 +1798,7 @@ HOLD YOUR FIRE
 "traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","Я на него похож."
 "traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","Только усы придется сбрить."
 "traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","Что делать, всем нам приходится идти на жертвы."
-"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","Визу подтвердите."
+"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","Печать на визу поставьте."
 "traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","За Арстотию и Орден."
 "traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","Мы так не договаривались."
 "traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","Меня прислали за дипломатическим паспортом."
@@ -1821,21 +1821,21 @@ HOLD YOUR FIRE
 "traveler:SECRET_POLICE_INTRO","Very good.","Ну и отлично."
 "traveler:SECRET_POLICE_INTRO","Please return my badge and paper.","Пожалуйста, верните мой жетон и бумаги."
 "traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","Мы думаем, что подозрительные лица сознательно мутят воду."
-"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Мы думаем, некоторые из ее членов прошли через этот пункт."
+"traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Мы считаем, что некоторые из ее членов прошли через этот пункт."
 "traveler:SECRET_POLICE_INTRO","What is this?","Что это?"
 "traveler:SECRET_POLICE_INTRO","Interesting.","Интересно."
 "traveler:SECRET_POLICE_INTRO","Yes, very interesting.","Да, очень интересно."
 "traveler:SECRET_POLICE_INTRO","I think it is best if you come with me.","Я думаю, вам лучше пройти со мной."
 "traveler:SECRET_POLICE_INTRO","This group is very dangerous.","Эта группа очень опасна."
 "traveler:SECRET_POLICE_INTRO","If you see any curious thing, report immediately.","Если увидите что-то необычное, немедленно сообщите."
-"traveler:SECRET_POLICE_CAUGHT","Hello inspector.","Как дела, инспектор?"
+"traveler:SECRET_POLICE_CAUGHT","Hello inspector.","Здравствуйте, инспектор."
 "traveler:SECRET_POLICE_CAUGHT","There is small discrepancy with your finances.","У вас в финансовой отчетности кое-что не сходится."
 "traveler:SECRET_POLICE_CAUGHT","The Ministry of Income was thoughtful enough to notify us.","Министерство доходов любезно нас об этом информировало."
 "traveler:SECRET_POLICE_CAUGHT","It is best if you come with me.","Вам лучше пройти со мной."
-"traveler:SECRET_POLICE_FINAL","Inspector.","Инспектор."
+"traveler:SECRET_POLICE_FINAL","Inspector.","Инспектор!"
 "traveler:SECRET_POLICE_FINAL","It has been some time.","Давно не виделись."
 "traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","Прочтите сегодняшний бюллетень повнимательней."
-"traveler:SECRET_POLICE_FINAL","We will be speaking with many workers.","Мы будем беседовать со многими сотрудниками."
+"traveler:SECRET_POLICE_FINAL","We will be speaking with many workers.","Мы побеседуем со многими сотрудниками."
 "traveler:SECRET_POLICE_FINAL","Your audit comes soon.","Ваше слушание совсем скоро."
 "traveler:SECRET_POLICE_FINAL","I will personally conduct it.","Я проведу его лично."
 "traveler:SECRET_POLICE_FINAL","There is nothing to fear.","Вам бояться нечего."
