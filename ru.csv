@@ -77,7 +77,7 @@
 "EntryPermitInner","Ministry of Admission","Министерство миграций"
 "EntryTicketInner","Arstotzka","Арстотия"
 "EntryTicketInner","ENTRY TICKET","ПРОПУСК"
-"EntryTicketInner","VALID ON","ДЕЙСТВИТЕЛЕН"
+"EntryTicketInner","VALID ON","ДАТА"
 "EzicNoteInnerOpen","READ QUICKLY","ПРОЧЕСТЬ СРОЧНО"
 "EzicNoteInnerOpen","RETURN TO MESSENGER","ВЕРНУТЬ ПОСЫЛЬНОМУ"
 "FamilyPhotoInner","HANG ON WALL","НА СТЕНУ"
@@ -643,7 +643,7 @@ DETECTED","ОБНАРУЖЕНО
 "text:booth_interrogate","INTERROGATE","БЕСЕДА"
 "text:booth_matching","MATCHING
 DATA","ДАННЫЕ
-СОПАДАЮТ"
+СОВПАДАЮТ"
 "text:booth_nocorrelation","NO
 CORRELATION","НЕТ
 СВЯЗИ"
@@ -781,7 +781,7 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","С сегодняшнего дня иностранцам въезд разрешен - при наличии у них действующего паспорта.
+Continued...[PAGESNOTE]","С сегодняшнего дня разрешен въезд иностранцам, имеющим действительные паспорта.
 
 На вашем рабочем месте установлена программа ПРОВЕРКИ.
 
@@ -1177,7 +1177,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","True Glorian","Ст-Глориан"
 "facts","Lesrenadi","Лесренади"
 "facts","Bostan","Бостан"
-"facts","Great Rapid","Бол. Пороги"
+"facts","Great Rapid","Б. Порог"
 "facts","Shingleton","Шинглтон"
 "facts","Korista City","Користа"
 "facts","Enkyo","Энкио"
@@ -1295,9 +1295,9 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Possible Terrorist Admitted","Разрешен въезд лицу, подозреваемому в терроризме"
 "facts","Entrant Holds Conflicting Passports","У въезжающего два паспорта, не соответствующих друг другу"
 "facts","Entrant must have a passport","Въезжающий обязан предъявить паспорт"
-"facts","Foreigners require an entry permit","Ин-цам нужно азрешение на въезд"
+"facts","Foreigners require an entry permit","Ин-цам нужно раз-решение на въезд"
 "facts","Foreigners require an entry ticket","Ин-цам нужен пропуск"
-"facts","All documents must be current","Документы с истекшим сроком"
+"facts","All documents must be current","Все док-ты должны быть действительны"
 "facts","Workers must have a work pass","Нужно разрешение на работу"
 "facts","Citizens must have an id card","У граждан должна быть личная карта"
 "facts","Foreigners require an id supplement","Ин-цам нужно Описание"
