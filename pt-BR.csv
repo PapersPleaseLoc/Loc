@@ -774,7 +774,7 @@ Deny all foreigners.","Bem-vindo à sua nova posição no Posto da Fronteira de 
 
 Carimbe o VISTO no passaporte e devolva o documento ao aplicante.
 
-A entrada é restrita aos cidadãos de Arstotzka.
+A entrada é permitida apenas aos cidadãos de Arstotzka.
 
 Recuse todos os estrangeiros."
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
@@ -785,7 +785,7 @@ Check all passport information carefully for discrepancies. Deny any entrant wit
 
 Continued...[PAGESNOTE]","A partir de hoje é permitida a entrada de estrangeiros com passaportes válidos.
 
-O programa de INSPEÇÃO foi instalado em sua cabine.
+O equipamento de INSPEÇÃO foi instalado em sua cabine.
 
 Busque discrepâncias nas informações do passaporte. Recuse aplicantes com informações inconsistentes.
 
@@ -801,12 +801,12 @@ RULES &amp; REGULATIONS
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
 MODO DE INSPEÇÃO
 
-Para entrar no modo de INSPEÇÃO, aperte o botão vermelho em sua mesa. Nesse modo, selecione duas informações discrepantes para acessar mais opções.
+Para entrar no modo de INSPEÇÃO, aperte o botão vermelho em sua mesa. Nesse modo, aponte duas informações discrepantes para acessar mais opções.
 
 __________________________
 REGRAS E REGULAMENTOS
 
-Esse posto obedece às regras e regulamentos do Ministério da Admissão. Estude o livro de regras com cautela."
+Este posto obedece às regras e regulamentos do Ministério da Admissão. Estude o livro de regras com cautela."
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
@@ -824,13 +824,13 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Foram implementados requerimentos mais restritos sobre credenciais.
+Continued...","Foram implementados requerimentos mais restritos sobre a documentação.
 
 Cidadãos Arstotzkanos devem apresentar seus documentos de IDENTIDADE.
 
 Estrangeiros devem apresentar uma LICENÇA DE ENTRADA válida.
 
-Bilhetes de Entrada não são mais suficientes.
+Bilhetes de Acesso não são mais suficientes.
 
 Continua..."
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
@@ -839,7 +839,7 @@ Check all information thoroughly.
 
 Deny any applicant with discrepant documents.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","Um novo capítulo, com detalhes sobre as particularidades dos documentos, foi adicionado ao seu livro de regras.
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","Um novo capítulo, explicando as particularidades dos documentos, foi adicionado ao seu livro de regras.
 
 Leia todas as informações com cautela.
 
@@ -853,14 +853,14 @@ Interrogate discrepancies to enable detention option.","Você está autorizado a
 Questione as discrepâncias para acessar a possibilidade da detenção."
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
-Travelers entering for work require a valid WORK PASS.","O Ministério do Trabalho instituiu um programa especial para controlar a entrada de trabalhadores imigrantes.
+Travelers entering for work require a valid WORK PASS.","O Ministério do Trabalho instituiu um programa especial para controlar o trabalho imigrante.
 
 Viajantes com o propósito de trabalhar devem apresentar um VISTO DE TRABALHO válido."
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
 
-Search all Kolechians before approving their entry.","A fim de facilitar inspeções mais minuciosas, um scanner de BUSCA foi instalado em sua cabine.
+Search all Kolechians before approving their entry.","A fim de facilitar inspeções mais minuciosas, um scanner para REVISTAR foi instalado em sua cabine.
 
 Suspeitamos que extremistas da Kolechia sejam os responsáveis pelo atentado de ontem.
 
@@ -893,7 +893,7 @@ Informações atualizadas sobre a documentação encontram-se no livro de regras
 
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","Um agente secreto do Ministério da Informação foi descoberto.
 
-O Ministério da Admissão ofereceu seus serviços para recebê-lo. É possível que ele chegue ainda hoje."
+O Ministério da Admissão ofereceu-se para ajudá-lo. Atente-se para uma possível desova de documentos ainda hoje."
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
 Maintain your best behavior.","A autoridade das operações na divisa de Grestin Leste nos visitará hoje.
