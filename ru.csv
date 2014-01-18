@@ -466,8 +466,8 @@
 "news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","Будущее пункта в Грештине неясно"
 "news:BORDER_CLOSING","Too Open, Too Soon?","Слишком рано, слишком просто?"
 "text:language_code","en","ru"
-"text:language_name","ENGLISH","ENGLISH"
-"text:language_author","Author","Перевод"
+"text:language_name","ENGLISH","РУССКИЙ"
+"text:language_author","Author","Lazy Games"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","автор Lucas Pope"
 "text:papers_please","Papers, please.","Ваши документы!"
@@ -501,7 +501,7 @@
 "text:family_uncle_message","uncle","дядя"
 "text:family_mil_message","mother-in-law","теща"
 "text:night_endof","END OF","КОНЕЦ"
-"text:night_day","DAY $0","ДЕНЬ$0"
+"text:night_day","DAY $0","ДЕНЬ $0"
 "text:family_verysick_1","Your $0 will die without medicine.","$0 умрет, если не примет лекарство"
 "text:family_verysick_many","Very sick family members will die without medicine.","Если родственник тяжело болен, без лекарства он умрет"
 "text:family_sick_1","Your $0 is sick and needs medicine.","$0 болеет, нужно лекарство"
@@ -536,7 +536,7 @@
 "text:budget_food","FOOD","ПРОДУКТЫ"
 "text:budget_heat","HEAT","ОТОПЛЕНИЕ"
 "text:budget_medicine","MEDICINE ($0)","ЛЕКАРСТВА ($0)"
-"text:budget_sleep","SLEEP","СОН"
+"text:budget_sleep","SLEEP","ПОЙТИ СПАТЬ"
 "text:budget_escape","ESCAPE","ПОБЕГ"
 "text:menu_back","BACK","НАЗАД"
 "text:confirm_ok","OKAY","ОК"
@@ -558,7 +558,7 @@
 "text:menu_easytip","+ 20 credits per day","+ 20 кредитов в день"
 "text:menu_stats","STATS","СТАТИСТИКА"
 "text:menu_next","NEXT","ДАЛЬШЕ"
-"text:menu_walktowork","WALK TO WORK","ПОЙТИ НА РАБОТУ"
+"text:menu_walktowork","WALK TO WORK","ПОРА НА РАБОТУ"
 "text:menu_paused","PAUSED","ПАУЗА"
 "text:menu_settings","SETTINGS","НАСТРОЙКИ"
 "text:menu_credits","CREDITS","НАД ИГРОЙ РАБОТАЛИ"
@@ -770,11 +770,11 @@ Entry is restricted to Arstotzkan citizens only.
 
 Deny all foreigners.","Добро пожаловать на пограничный пропускной пункт  Грештин!
 
-Возьмите паспорт, поставьте печать в окне ВИЗА НА ВЪЕЗД и верните документ владельцу.
+Возьмите паспорт, поставьте печать на странице ВИЗА НА ВЪЕЗД и верните документ владельцу.
 
 Въезд разрешен только гражданам Арстотии.
 
-Всем иностранным гражданам - отказ."
+Всем иностранцам - отказ."
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
 
 Your booth's INSPECTION hardware is now installed.
@@ -1203,7 +1203,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Fingerprints","Отпечатки пальцев"
 "facts","Name","Имя"
 "facts","Id Number","Номер паспорта"
-"facts","Expiration Date","Действует до"
+"facts","Expiration Date","Истекает"
 "facts","Issuing City","Город выдачи"
 "facts","Birth Date","Дата рождения"
 "facts","Alias","Второе имя"
@@ -1298,7 +1298,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Foreigners require an entry permit","Ин-цам нужно раз-решение на въезд"
 "facts","Foreigners require an entry ticket","Ин-цам нужен пропуск"
 "facts","All documents must be current","Все док-ты должны быть действительны"
-"facts","Workers must have a work pass","Нужно разрешение на работу"
+"facts","Workers must have a work pass","Для работы нужно разрешение"
 "facts","Citizens must have an id card","У граждан должна быть личная карта"
 "facts","Foreigners require an id supplement","Ин-цам нужно Описание"
 "facts","Arstotzkan citizens only","Только граждане Арстотии"
@@ -1843,7 +1843,7 @@ HOLD YOUR FIRE
 "traveler:JORJI_BASE","All right! You the best!","Отлично! Вы лучше всех!"
 "traveler:JORJI_BASE","Arstotzka the best!","Арстотия лучшая страна!"
 "traveler:JORJI_BASE","Here, take this!","Вот, возьмите!"
-"traveler:JORJI0","Ok! Here we go!","Ага! Вот!"
+"traveler:JORJI0","Ok! Here we go!","Ага! Вот я и здесь!"
 "traveler:JORJI0","Glory to Arstotzka!","Слава Арстотии!"
 "traveler:JORJI0","The greatest country!","Самая великая страна!"
 "traveler:JORJI0","@Where is your passport?","@Где ваш паспорт?"
@@ -1867,7 +1867,7 @@ HOLD YOUR FIRE
 "traveler:JORJI2","I am back again!","Это опять я!"
 "traveler:JORJI2","This time everything set.","Теперь все как надо."
 "traveler:JORJI2","@You are missing an entry permit.","@У вас нет разрешения на въезд."
-"traveler:JORJI2","Oh man you funny guy!","Слушай, ну ты вообще!"
+"traveler:JORJI2","Oh man you funny guy!","Слушай, ну, ты вообще!"
 "traveler:JORJI2","@An entry permit is required.","@Без разрешения на въезд нельзя."
 "traveler:JORJI2","Wow, you run very strict border here.","Ну, у вас тут и граница! Не пройдешь!"
 "traveler:JORJI2","That is good. Do job right.","Это правильно. Работай как следует."
@@ -2019,7 +2019,7 @@ HOLD YOUR FIRE
 "traveler:BROTHEL0","I will be around couple months.","Я тут пару месяцев пробуду."
 "traveler:BROTHEL0","Don't forget to visit.","Не забудь, навести меня."
 "traveler:BROTHEL1","Hey there.","Привет."
-"traveler:BROTHEL1","I can make you happy any time.","Могу тебя обрадовать, когда захочешь."
+"traveler:BROTHEL1","I can make you happy any time.","Я готова тебя осчастливить! В любое время."
 "traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","Приходи в ""Розу греха"", спроси Аву."
 "traveler:BROTHEL2","Oh. Here.","О, вот."
 "traveler:BROTHEL2","Please help me.","Пожалуйста, помогите мне."
@@ -2980,7 +2980,7 @@ HOLD YOUR FIRE
 "speech:wrong-description","I have changed.","У меня внешность изменилась."
 "speech:wrong-description","How can you say for sure?","А как вы можете быть в этом уверены?"
 "speech:wrong-description","Is that good or bad?","Это хорошо или плохо?"
-"speech:hidden-paper","Here it is.","Вот оно."
+"speech:hidden-paper","Here it is.","Вот."
 "speech:hidden-paper","Sorry. I have it here.","Простите! Вот."
 "speech:hidden-paper","I have it here.","Вот, пожалуйста."
 "speech:hidden-paper","Here.","Вот."
