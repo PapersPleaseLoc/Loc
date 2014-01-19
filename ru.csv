@@ -1,6 +1,6 @@
 "CONTEXT (DO NOT MODIFY)","ENGLISH (DO NOT MODIFY)","LOCALIZED (EDIT THIS COLUMN)"
 "AccessPermitInner","ARSTOTZKA","АРСТОТИЯ"
-"AccessPermitInner","Access Permit","Виза на въезд"
+"AccessPermitInner","Access Permit","Право на въезд"
 "AccessPermitInner","This permit grants conditional access to the sovereign nation of Arstotzka","Данная виза дает право временного пребывания на территории независимой Арстотии"
 "AccessPermitInner","NAME","ИМЯ, ФАМИЛИЯ"
 "AccessPermitInner","NATIONALITY","ГРАЖДАНСТВО"
@@ -12,7 +12,7 @@
 "AccessPermitInner","WEIGHT","ВЕС"
 "AccessPermitInner","ENTER BY","Въезд до"
 "AccessPermitInner","Keep on person","Иметь при себе"
-"AccessPermitInner","Ministry of Admission","Министерство миграций"
+"AccessPermitInner","Ministry of Admission","Министерство възда"
 "AsylumGrantInner","Arstotzka","Арстотия"
 "AsylumGrantInner","GRANT of ASYLUM","ПРАВО НА УБЕЖИЩЕ"
 "AsylumGrantInner","This document grants conditional asylum status within Arstotzkan borders","Податель имеет временный статус беженца на всей территории Арстотии"
@@ -22,7 +22,7 @@
 "AsylumGrantInner","HT","РОСТ"
 "AsylumGrantInner","WT","ВЕС"
 "AsylumGrantInner","Offer expires after","Действительно до"
-"AsylumGrantInner","Ministry of Admission","Министерство миграций"
+"AsylumGrantInner","Ministry of Admission","Министерство въезда"
 "BizCardInnerFront","ENGINEERING","ENGINEERING"
 "BizCardInnerFront","Director","Директор"
 "BizCardInnerBack","WE NEED ENGINEERS","НАМ НУЖНЫ ИНЖЕНЕРЫ"
@@ -36,16 +36,16 @@
 "BulletinInnerDiploTut","Verify issuing country","Страна выдачи"
 "BulletinInnerDiploTut","Verify identity","Личные данные"
 "BulletinInnerDiploTut","Verify diplomatic access to Arstotzka","Дипломатический статус в Арстотии"
-"BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","На отсутствие документов можно указать, выделив зону слева и соответствующий пункт инструкции справа"
+"BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","На отсутствие документов можно указать, выделив стол слева и соответствующий пункт инструкции справа"
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","Соотнесите пункт инструкции и неверную информацию, чтобы продолжить проверку"
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","Соотнесите пункт инструкции с обнаруженными оружием или контрабандой"
-"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Чтобы начать беседу, выделите несовпадающие данные в режиме ПРОВЕРКА"
+"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Чтобы задать вопрос, выделите несовпадающие данные в режиме ПРОВЕРКА"
 "BulletinInnerPassportTut","Pay attention to passport nationality.","Внимательно проверяйте, какой страной выдан паспорт"
-"BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","Министерсво миграций<br>Арстотии"
+"BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","Министерсво въезда<br>Арстотии"
 "BulletinInnerBoothTut","Inspector's Booth","Место инспектора"
 "BulletinInnerBoothTut","Shutter","Ставни"
 "BulletinInnerBoothTut","Counter","Стол"
-"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","Инструкция<br>Стенограмма<br>Новости<br>Время и дата"
+"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","Инструкция<br>Стенограмма<br>Бюллетень<br>Время и дата"
 "BulletinInnerGunTut","Weapons Protocol","Применение оружия"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","ПРИ СИГНАЛЕ ТРЕВОГИ"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","Вставить ключ, открыть доступ к оружию"
@@ -59,7 +59,7 @@
 "BulletinInnerCriminals","WANTED CRIMINALS","РАЗЫСКИВАЮТСЯ"
 "BulletinInnerNews","NEWS","НОВОСТИ"
 "BulletinPagesNote","CHECK ALL<br>PAGES","ПРОСМОТРИТЕ<br>ВСЕ СТРАНИЦЫ"
-"CitationInner","M.O.A. CITATION","ММ: ЗАМЕЧАНИЕ"
+"CitationInner","M.O.A. CITATION","МВ: ЗАМЕЧАНИЕ"
 "DiplomaticAuthInner","Diplomatic<br>Authorization","Дипломатический<br>статус"
 "DiplomaticAuthInner","This document authorizes named agent as a diplomatic entity of a Council of Nations member state.","Предъявитель является дипломатическим представителем государства, входящего в Объединенную Федерацию"
 "DiplomaticAuthInner","AGENT","ИМЯ"
@@ -74,7 +74,7 @@
 "EntryPermitInner","Purpose","Цель поездки"
 "EntryPermitInner","Duration","Срок"
 "EntryPermitInner","Enter by","Въезд до"
-"EntryPermitInner","Ministry of Admission","Министерство миграций"
+"EntryPermitInner","Ministry of Admission","Министерство въезда"
 "EntryTicketInner","Arstotzka","Арстотия"
 "EntryTicketInner","ENTRY TICKET","ПРОПУСК"
 "EntryTicketInner","VALID ON","ДАТА"
@@ -101,17 +101,17 @@
 "GymFlyerInner","GET BIG TOWN","КАЧАЙ МЫШЦУ"
 "GymFlyerInner","East Grestin","Восточный Грештин"
 "HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","ДОКУМЕНТЫ ОТСУТСТВУЮТ"
-"HintMissingInner","To proceed, use INSPECT mode to interrogate.","Чтобы начать беседу, перейдите в режим ПРОВЕРКА"
+"HintMissingInner","To proceed, use INSPECT mode to interrogate.","Чтобы задать вопрос, перейдите в режим ПРОВЕРКА"
 "HintMissingInner","Review page 2 of today's bulletin for full instructions.","Подробную инструкцию можно найти на стр. 2 сегодняшнего бюллетеня"
 "IdCardInner","ARSTOTZKA IDENTITY CARD","АРСТОТИЯ  ЛИЧНАЯ КАРТА"
 "IdCardInner","DOB","ДР"
 "IdCardInner","HT.","РОСТ"
 "IdCardInner","WT.","ВЕС"
-"IdentityRecordInner","M.O.A. IDENTITY RECORD","ММ ЛИЧНЫЕ ДАННЫЕ"
+"IdentityRecordInner","M.O.A. IDENTITY RECORD","МВ ЛИЧНЫЕ ДАННЫЕ"
 "IdentityRecordInner","NAME:","ИМЯ:"
 "IdentityRecordInner","ALIAS:","ВТОРОЕ ИМЯ:"
 "IdentityRecordInner","Applicant's fingerprints and claimed name/alias must match this record.","Отпечатки пальцев, имя, второе имя должны соответствовать записи"
-"IdSupplementInner","IDENTITY<br>SUPPLEMENT","<br>ОПИСАНИЕ"
+"IdSupplementInner","IDENTITY<br>SUPPLEMENT","ВНЕШНИЕ<br>ДАННЫЕ"
 "IdSupplementInner","HT","РОСТ"
 "IdSupplementInner","WT","ВЕС"
 "IdSupplementInner","DESCRIPTION","ВНЕШНОСТЬ"
@@ -164,18 +164,18 @@
 "PassportInnerRepublia","SEX","ПОЛ"
 "PassportInnerRepublia","ISS.","ВЫД"
 "PassportInnerRepublia","EXP.","ДО"
-"PassportInnerRepublia","REPUBLIA","РЕПУБЛИЯ"
+"PassportInnerRepublia","REPUBLIA","РЕСПУБЛИЯ"
 "PassportInnerUnitedFed","ENTRY VISA","ВИЗА НА ВЪЕЗД"
 "PassportInnerUnitedFed","DOB.","ДР"
 "PassportInnerUnitedFed","SEX","ПОЛ"
 "PassportInnerUnitedFed","ISS.","ВЫД"
 "PassportInnerUnitedFed","EXP.","ДО"
 "PassportInnerUnitedFed","UNITED FEDERATION","ОФ"
-"PlaqueOneInner","Ministry of Admission","Министерство миграций"
+"PlaqueOneInner","Ministry of Admission","Министерство въезда"
 "PlaqueOneInner","RECOGNITION","ГРАМОТА"
 "PlaqueOneInner","FOR","ЗА"
 "PlaqueOneInner","HANG ON WALL","НА СТЕНУ"
-"PlaqueTwoInner","Ministry of Admission","Министерство миграций"
+"PlaqueTwoInner","Ministry of Admission","Министерство въезда"
 "PlaqueTwoInner","RECOGNITION","ГРАМОТА"
 "PlaqueTwoInner","FOR","ЗА"
 "PlaqueTwoInner","HANG ON WALL","НА СТЕНУ"
@@ -189,7 +189,7 @@
 "PoliceBadgeInner","Office of Investigation","Следственный отдел"
 "PoliceBadgeInner","East Grestin Division","Восточный Грештин"
 "PoliceBadgeInner","Special Investigator","Следователь"
-"PoliceBadgeInner","MOI","ММ"
+"PoliceBadgeInner","MOI","МВ"
 "PressPassInner","INTERNATIONAL","МЕЖДУНАРОДНАЯ"
 "PressPassInner","PRESS","ПРЕСС"
 "PressPassInner","IDENTIFICATION","КАРТА"
@@ -197,14 +197,14 @@
 "RuleIssuingCity","PASSPORT <span>ISS.</span> FIELD MUST BE VALID","ПОЛЕ <span>ВЫД</span> ДОЛЖНО БЫТЬ ДЕЙСТВИТЕЛЬНО"
 "RuleSealRequired","DOCUMENT MUST<br>HAVE A SEAL","НЕОБХОДИМА<br>ПЕЧАТЬ"
 "RulesInnerHome","Arstotzkan","Арстотия"
-"RulesInnerHome","Ministry<span>of</span>Admission","Министерство<span></span>миграций"
+"RulesInnerHome","Ministry<span>of</span>Admission","Министерство<span></span>въезда"
 "RulesInnerHome","RULES","ПРАВИЛА"
 "RulesInnerHome","&amp;","И"
-"RulesInnerHome","REGULATIONS","ПРОЦЕДУРЫ"
+"RulesInnerHome","REGULATIONS","НОРМАТИВЫ"
 "RulesInnerHome","for Inspectors","для инспекторов"
 "RulesInnerHome","CONTENTS","СОДЕРЖАНИЕ"
 "RulesInnerHome","PROPERTY OF","ИМУЩЕСТВО"
-"RulesInnerHome","M.O.A","ММ"
+"RulesInnerHome","M.O.A","МВ"
 "RulesInnerBasic","RULES","ПРАВИЛА"
 "RulesInnerRegion","DIPLOMATIC SEALS","ДИПЛОМАТИЧЕСКИЕ ПЕЧАТИ"
 "RulesInnerRegion","PASSPORT","ПАСПОРТ"
@@ -215,7 +215,7 @@
 "RulesInnerBooth","INSPECTOR'S BOOTH","МЕСТО ИНСПЕКТОРА"
 "RulesInnerBooth","Shutter","Ставни"
 "RulesInnerBooth","Counter","Стол"
-"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","Инструкция<br>Стенограмма<br>Новости<br>Время и дата"
+"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","Инструкция<br>Стенограмма<br>Бюллетень<br>Время и дата"
 "RulesInnerBooth","UPGRADES","УЛУЧШЕНИЯ"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","УЛУЧШЕНИЯ<br>НЕ УСТАНОВЛЕНЫ"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","РАЗРЕШЕННЫЕ К ПРИЕМУ"
@@ -226,14 +226,14 @@
 "RulesInnerIdCard","ARSTOTZKAN<br>ID CARD","АРСТОТИЯ<br>ЛИЧНАЯ КАРТА"
 "RulesInnerIdCard","ISSUED TO ALL ARSTOTZKAN CITIZENS","ВЫДАЕТСЯ ВСЕМ ГРАЖДАНАМ АРСТОТИИ"
 "RulesInnerIdCard","DISTRICTS","РАЙОНЫ"
-"RulesInnerIdSupplement","IDENTITY<br>SUPPLEMENT","ОПИСАНИЕ"
+"RulesInnerIdSupplement","IDENTITY<br>SUPPLEMENT","ВНЕШНИЕ<br>ДАННЫЕ"
 "RulesInnerIdSupplement","ISSUED TO ALL QUALIFIED FOREIGNERS","ВЫДАЕТСЯ ВСЕМ ВЪЕЗЖАЮЩИМ ИНОСТРАНЦАМ"
 "RulesInnerIdSupplement","FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE","ВНЕШНИЕ ДАННЫЕ ВЪЕЗЖАЮЩЕГО"
 "RulesInnerIdSupplement","VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE","ОТПЕЧАТОК БОЛЬШОГО ПАЛЬЦА (ПРИ НАЛИЧИИ ОБРАЗЦА ОТПЕЧАТКА)"
 "RulesInnerIdSupplement","THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY","ЭТОТ ДОКУМЕНТ ДЕЙСТВУЕТ НЕДОЛГО - ТЩАТЕЛЬНО ПРОВЕРЯЙТЕ ДАТУ"
-"RulesInnerAccessPermit","ACCESS PERMIT","ВИЗА<br>НА ВЪЕЗД"
+"RulesInnerAccessPermit","ACCESS PERMIT","ПРАВО<br>НА ВЪЕЗД"
 "RulesInnerAccessPermit","VALID SEALS","ПЕЧАТИ"
-"RulesInnerAccessPermit","THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT","ЭТОТ ДОКУМЕНТ ЗАМЕНЯЕТ СОБОЙ РАЗРЕШЕНИЕ НА ВЪЕЗД И ОПИСАНИЕ, ПРИЛАГАЕМОЕ К ЛИЧНОЙ КАРТЕ"
+"RulesInnerAccessPermit","THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT","ЭТОТ ДОКУМЕНТ ЗАМЕНЯЕТ СОБОЙ РАЗРЕШЕНИЕ НА ВЪЕЗД И ОПИСАНИЕ ВНЕШНИХ ДАННЫХ, ПРИЛАГАЕМОЕ К ЛИЧНОЙ КАРТЕ"
 "RulesInnerWorkPermit","WORK PASS","РАЗРЕШЕНИЕ<br>НА РАБОТУ"
 "RulesInnerWorkPermit","ISSUED TO ALL QUALIFIED FOREIGN LABOR","ВЫДАЕТСЯ ВСЕМ ИНОСТРАННЫМ РАБОЧИМ"
 "RulesInnerWorkPermit","VALID SEALS","ПЕЧАТИ"
@@ -254,12 +254,12 @@
 "RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","БРОСЬТЕ ПАСПОРТ <br>В ЯЩИК ДЛЯ ИЗЪЯТЫХ ДОКУМЕНТОВ"
 "RulesInnerConfiscation","POLICY","ПРАВИЛА"
 "RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","ПАСПОРТ ДОЛЖЕН<br>БЫТЬ ИЗЪЯТ<br>ДО ЗАДЕРЖАНИЯ"
-"RulesInnerConfiscation","MOI","ММ"
-"RulesInnerLast","PROPERTY OF","СОБСТВЕННОСТЬ"
-"RulesInnerLast","M.O.A.","ММ"
+"RulesInnerConfiscation","MOI","МВ"
+"RulesInnerLast","PROPERTY OF","ИМУЩЕСТВО"
+"RulesInnerLast","M.O.A.","МВ"
 "RulesInnerLast","GLORY TO ARSTOTZKA","СЛАВА АРСТОТИИ"
 "RulesInnerLast","Arstotzkan","АРСТОТИЯ"
-"RulesInnerLast","Ministry of Admission","МИНИСТЕРСТВО МИГРАЦИЙ"
+"RulesInnerLast","Ministry of Admission","МИНИСТЕРСТВО ВЪЕЗДА"
 "RulesInnerLast","Rules &amp; Regulations","Правила и нормативы"
 "RulesInnerLast","for Inspectors","для инстпекторов"
 "RulesInnerLast","1982-1983 Edition","Издание 1982-1983"
@@ -279,7 +279,7 @@
 "RulesUpgrade2","RULEBOOK SHORTCUTS","БЫСТРЫЕ КЛАВИШИ"
 "RulesUpgrade3","QUICK INSPECT","БЫСТРАЯ ПРОВЕРКА"
 "RulesUpgrade3","DOUBLE-CLICK","ДВОЙНОЙ ЩЕЛЧОК"
-"SeizureSlipInner","Arstotzka Ministry of Admission","Министерство миграций Арстотии"
+"SeizureSlipInner","Arstotzka Ministry of Admission","Министерство въезда Арстотии"
 "SeizureSlipInner","PASSPORT SEIZURE SLIP","СПРАВКА ОБ ИЗЪЯТИИ ПАСПОРТА"
 "SeizureSlipInner","ENTRY VISA","ВИЗА НА ВЪЕЗД"
 "SeizureSlipInner","Your passport has been seized.","Ваш паспорт был изъят"
@@ -303,17 +303,17 @@
 "WorkPermitInner","FIELD","СПЕЦ-ТЬ"
 "WorkPermitInner","UNTIL","ДО"
 "WorkPermitInner","Keep this pass with you at all times.","Всегда иметь при себе"
-"EndNews","Kolechian Consensus Reached Over Grestin","Колечания: достигнут консенсус по Грештину"
+"EndNews","Kolechian Consensus Reached Over Grestin","Колечия: достигнут консенсус по Грештину"
 "ApartmentClass","CLASS","КЛАСС"
 "DetainButton","DETAIN","АРЕСТ"
 "FingerprintButton","FINGERPRINT","ОТПЕЧАТКИ"
 "SearchButton","SEARCH","ОБЫСК"
-"EmblemsMOA","M.O.A","ММ"
+"EmblemsMOA","M.O.A","МВ"
 "EmblemsMOA","M.O.L","МТ"
 "EmblemsMOL","M.O.L","МТ"
 "Filer","CONFISCATED DOCUMENTS","ИЗЪЯТЫЕ ДОКУМЕНТЫ"
 "Filer","PROPERTY OF","ИМУЩЕСТВО"
-"Filer","M.O.A.","ММ"
+"Filer","M.O.A.","МВ"
 "GiveIcon","GIVE","ВЫДАТЬ"
 "LoadButtonNew","NEW","ЗАНОВО"
 "LoadDay","DAY","ДЕНЬ"
@@ -355,17 +355,17 @@
 "news:RANDOM_ENTERTAINMENT","Entertainment","Развлечения"
 "news:RANDOM_POLITICS","Politics","Политика"
 "news:FIRST_DAY","Grestin Border Checkpoint Opens At Last!","Пропускной пункт в Грештине открыт!"
-"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","Мы ждали 6 лет! Способно ли Минмиграций трезво оценить ситуацию?"
+"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","Мы ждали 6 лет! Способно ли Минвъезда трезво оценить ситуацию?"
 "news:FIRST_DAY","Families To Reunite","Воссоединение семей"
 "news:CHECKPOINT_SUCCESS","Grestin Checkpoint a Success!","Пропускной пункт Грештин: история успеха"
 "news:CHECKPOINT_SUCCESS","Entry Restrictions To Relax, Admit Foreigners","Правила стали мягче, разрешен въезд иностранцам"
 "news:CHECKPOINT_SUCCESS","Analysts Upbeat","Аналитики настроены оптимистично"
 "news:CHECKPOINT_SUCCESS","Increased Trade And Cooperation Predicted","Прогноз: развитие торговли и сотрудничества"
 "news:FIRST_TERRORISTS","Terrorists Strike At Grestin!","Атака террористов в Грештине!"
-"news:FIRST_TERRORISTS","Kolechian Agitators Suspected.","Подозреваются революционеры из Колечании"
+"news:FIRST_TERRORISTS","Kolechian Agitators Suspected.","Подозреваются революционеры из Колечии"
 "news:FIRST_TERRORISTS","Checkpoint Lockdown","Пропускной пункт укреплен"
 "news:FIRST_TERRORISTS","More Guards - More Scrutiny","Больше солдат, больше мер безопасности"
-"news:BLACKMARKET_EXPLODES","Blackmarket Activity Explodes","Всплеск активности черного рынка"
+"news:BLACKMARKET_EXPLODES","Blackmarket Activity Explodes","Расцвет черного рынка"
 "news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","Правительство винит во всем слишком мягкие законы о въезде"
 "news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","Расширение пропускного пункта откладывается"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","Рабочих мест не хватает, дальше будет хуже"
@@ -380,8 +380,8 @@
 "news:PIMP_BUSTED","Grestin Checkpoint Officer Nabs Mastermind","Инспектор пропускного пункта в Грештине задержал главаря"
 "news:PIMP_ESCAPED","Dancers At Grestin Club Found Dead!","Клуб в Грештине: танцовщицы убиты!"
 "news:PIMP_ESCAPED","Newly Immigrated Girls Victims Of Human Trafficking","Недавно приехавшие девушки - жертвы работорговцев"
-"news:KILLERATHLETE","Republian Track Star Wanted For Murder!","Републия: знаменитый бегун стал убийцей"
-"news:KILLERATHLETE","Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia","Винс Лестрейд скрылся - скорее всего, покинул Републию"
+"news:KILLERATHLETE","Republian Track Star Wanted For Murder!","Республия: знаменитый бегун стал убийцей"
+"news:KILLERATHLETE","Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia","Винс Лестрейд скрылся - скорее всего, покинул Республию"
 "news:KILLERATHLETE","Vince Lestrade: Profile","Винс Лестрейд: подробности"
 "news:KILLERATHLETE","Girlfriend Killed In Jealous Rage?","Возлюбленная убита в припадке ревности?"
 "news:KILLERATHLETE_DETAINED","Vince Lestrade Apprehended In Grestin!","Винс Лестрейд арестован в Грештине!"
@@ -396,7 +396,7 @@
 "news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","Герои-разведчики раскрыты"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","Чистки в Колечии: и своих не щадят!"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","Причина исчезновений - недостаток улик"
-"news:FORGERY_NEWS","Theft At Ministry Of Admission!","Кража в Министерстве миграций!"
+"news:FORGERY_NEWS","Theft At Ministry Of Admission!","Кража в Министерстве въезда!"
 "news:FORGERY_NEWS","Limited Effects - Few Items Stolen","Небольшой скандал - совершено несколько краж"
 "news:SECRET_SOCIETY","The History of Arstotzka","История Арстотии"
 "news:SECRET_SOCIETY","In Pictures and Words - Mostly Words","В словах и рисунках - но слов больше"
@@ -420,11 +420,11 @@
 "news:NOSY_JOURNALIST_DENIED","Int. Media Reveals Entry Visa Bias","Предвзятое отношение при выдаче виз иностранным журналистам"
 "news:IDSUPPLEMENT_INTRO","Another Bomber Slips Through!","Еще один террорист проник через границу!"
 "news:IDSUPPLEMENT_INTRO","Immigrant Screening Falls Short","Халатность при досмотре въезжающих"
-"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","В ММ новый директор"
+"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","В МВ новый директор"
 "news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","Процедура въезда будет ужесточена"
 "news:WHISTLEBLOWER_SETUP0","Antegria Domestic Spying Exposed!","Антегрия шпионит за своими гражданами!"
 "news:WHISTLEBLOWER_SETUP0","Whistleblower On The Run","Разоблачитель скрылся"
-"news:WHISTLEBLOWER_SETUP1","Antegrian Whistleblower Denied Asylum In Republia","Републия отказала антегрианскому разоблачителю в убежище"
+"news:WHISTLEBLOWER_SETUP1","Antegrian Whistleblower Denied Asylum In Republia","Республия отказала антегрианскому разоблачителю в убежище"
 "news:WHISTLEBLOWER_SETUP2","Antegrian Whistleblower Turned Away From United Fed","ОФ не приняла антегрианского разоблачителя"
 "news:WHISTLEBLOWER_COMING","Antegrian Whistleblower Accepted By Arstotzka","Арстотия приняла разоблачителя из Антегрии"
 "news:WHISTLEBLOWER_COMING","Move Risks Angering Neighbors","Соседи могут рассердиться"
@@ -472,7 +472,7 @@
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","автор Lucas Pope"
 "text:papers_please","Papers, please.","Ваши документы!"
-"text:protocol_violated","Protocol Violated.","Правила нарушены"
+"text:protocol_violated","Protocol Violated.","Нарушение правил"
 "text:unauth_confiscation","Unauthorized passport confiscation","Паспорт изъят незаконно"
 "text:missing_reason","Denial reason not given","Отказ без указания причин"
 "text:citation_warning","WARNING ISSUED - NO PENALTY","ЗАМЕЧАНИЕ БЕЗ ШТРАФА"
@@ -501,7 +501,7 @@
 "text:family_niece_message","niece","племянница"
 "text:family_uncle_message","uncle","дядя"
 "text:family_mil_message","mother-in-law","теща"
-"text:night_endof","END OF","КОНЕЦ"
+"text:night_endof","END OF","ОКОНЧЕН"
 "text:night_day","DAY $0","ДЕНЬ $0"
 "text:family_verysick_1","Your $0 will die without medicine.","$0 умрет, если не примет лекарство"
 "text:family_verysick_many","Very sick family members will die without medicine.","Если родственник тяжело болен, без лекарства он умрет"
@@ -595,7 +595,7 @@ The game will attempt to restart through the Steam client.","ОШИБКА СВЯ
 
 Попытка перезапустить игру через клиент Steam."
 "text:steam_restart","RESTART","ПЕРЕЗАПУСК"
-"text:load_title","Select day to continue or start a new game","Выберите, с какого дня продолжить игру, или начните заново"
+"text:load_title","Select day to continue or start a new game","Начните новую игру или выберите, с какого дня продолжить"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
 There is no undo.","Удалить сохраненный день $0?
@@ -641,7 +641,7 @@ $tokens ток., жилье $apt"
 "text:booth_discrepancy","DISCREPANCY
 DETECTED","ОБНАРУЖЕНО
 НЕСОВПАДЕНИЕ"
-"text:booth_interrogate","INTERROGATE","БЕСЕДА"
+"text:booth_interrogate","INTERROGATE","ВОПРОС"
 "text:booth_matching","MATCHING
 DATA","ДАННЫЕ
 СОВПАДАЮТ"
@@ -721,7 +721,7 @@ Inspector,
 $content
 
 Glory to Arstotzka.","Арстотия
-Министерство миграций
+Министерство въезда
 Официальный бюллетень
 
 Инспектор!
@@ -738,7 +738,7 @@ NOTICE:
 $content
 
 Glory to Arstotzka.","Арстотия
-Министерство миграций
+Министерство въезда
 Официальный бюллетень
 
 ВНИМАНИЕ:
@@ -755,7 +755,7 @@ $style
 $course
 
 Glory to Arstotzka.","Арстотия
-Министерство миграций
+Министерство въезда
 Официальный бюллетень
 
 $style
@@ -805,7 +805,7 @@ This post is bound by Ministry of Admission rules and regulations. Study the rul
 __________________________
 ПРАВИЛА И НОРМАТИВЫ
 
-Ваша работа регулируется правилами и нормативами Министерства миграций. Внимательно изучите инструкцию."
+Ваша работа регулируется правилами и нормативами Министерства въезда. Внимательно изучите инструкцию."
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
@@ -814,7 +814,7 @@ Verify information before stamping passport ENTRY VISA and returning all documen
 
 Все иностранцы должны иметь при себе ПРОПУСК.
 
-Тщательно проверьте всю информацию, поставьте печать в окне ВИЗА НА ВЪЕЗД в паспорте и верните все документы владельцу. [PAGESNOTE]"
+Тщательно проверьте всю информацию, поставьте печать на странице ВИЗА НА ВЪЕЗД в паспорте и верните все документы владельцу. [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -892,7 +892,7 @@ Refer to the rulebook for updated document information.","______________________
 
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","Раскрыт секретный агент Министерства информации.
 
-Министерство миграций предложило свои услуги в качестве посредника. В течение дня вам могут нанести визит."
+Министерство въезда предложило свои услуги в качестве посредника. В течение дня вам могут нанести визит."
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
 Maintain your best behavior.","Сегодня вас посетит начальник оперативного отдела по Восточному Грештину.
@@ -902,7 +902,7 @@ Maintain your best behavior.","Сегодня вас посетит началь
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","При ограблении офиса ММ были похищены образцы печатей.
+Continued...","При ограблении офиса МВ были похищены образцы печатей.
 
 Ничего важного не пропало, но разведка сообщает, что преступники уже начали подделывать официальные документы Арстотии.
 
@@ -924,7 +924,7 @@ From today forward, all foreign entrants must present a recent IDENTITY SUPPLEME
 
 The rulebook DOCUMENTS chapter has been updated.","Новый директор считает, что досмотр иностранцев проводится недостаточно тщательно.
 
-С сегодняшнего дня все иностранные граждане должны предъявлять ОПИСАНИЕ, в котором указаны их вес, рост и особые приметы.
+С сегодняшнего дня все иностранные граждане должны предъявлять ОПИСАНИЕ ВНЕШНИХ ДАННЫХ, в котором указаны их вес, рост и особые приметы.
 
 Глава ДОКУМЕНТЫ в инструкции была обновлена."
 "bulletin:14A","The Ministry of Justice has requested our support.
@@ -989,7 +989,7 @@ When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
 If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available.","__________________________
 ПРОЦЕДУРА ОТКАЗА
 
-Печать ПРИЧИНА ОТКАЗА активизируется во время первой беседы.
+Печать ПРИЧИНА ОТКАЗА активизируется во время первого вопроса.
 
 Отказывая во въезде, ставьте в паспорт обе печати: ОТКАЗ и ПРИЧИНА ОТКАЗА.
 
@@ -1000,7 +1000,7 @@ Under request from the Ministry of Trade, the Ministry of Admission will react t
 
 Deny all travelers from Impor.","Импор накладывает полный запрет на импорт товаров из Арстотии.
 
-Министерство торговли требует, чтобы Министерство миграций отреагировало на это оскорбление.
+Министерство торговли требует, чтобы Министерство въезда отреагировало на это оскорбление.
 
 Отказывайте во въезде всем прибывающим из Импора."
 "bulletin:20A","Impor has relented on their faulty policy.
@@ -1020,7 +1020,7 @@ Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.",
 
 Претендующие на убежище должны иметь при себе действительную справку о ПРАВЕ НА УБЕЖИЩЕ.
 
-Въезжающие по такой справке не обязаны предоставлять ни РАЗРЕШЕНИЕ НА ВЪЕЗД, ни ОПИСАНИЕ."
+Въезжающие по такой справке не обязаны предоставлять ни РАЗРЕШЕНИЕ НА ВЪЕЗД, ни ОПИСАНИЕ ВНЕШНИХ ДАННЫХ."
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
 Follow all protocols strictly.","Вы занимаете важный пост и наделены широкими полномочиями.
@@ -1067,7 +1067,7 @@ All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date PO
 
 This requirement extends to natives, foreigners, diplomats, and asylum seekers.
 
-Continued...","Риск эпидемии слишком высок. Введены новые процедуры.
+Continued...","Риск эпидемии слишком высок. Введены новые правила.
 
 Все въезжающие должны предъявлять СПРАВКУ О ПРИВИВКЕ, подтверждающую своевременную вакцинацию полиомиелита.
 
@@ -1083,7 +1083,7 @@ Continue to confiscate Arstotzkan passports from residents living in ALTAN distr
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
-Continued...","В целях повышения эффективности работы РАЗРЕШЕНИЕ НА ВЪЕЗД и ОПИСАНИЕ объединены в единый документ - ВИЗУ НА ВЪЕЗД.
+Continued...","В целях повышения эффективности работы РАЗРЕШЕНИЕ НА ВЪЕЗД и ВНЕШНИЕ ДАННЫЕ объединены в единый документ - ВИЗУ НА ВЪЕЗД.
 
 Иностранные граждане теперь должны предъявлять действительную ВИЗУ НА ВЪЕЗД.
 
@@ -1142,7 +1142,7 @@ Continued...","[NOTICE] Все государственные служащие �
 
 Until a decision is made, maintain your duties as ordered.
 
-Continued...","Министерство миграций проводит переговоры по вопросу закрытия данного пропускного пункта.
+Continued...","Министерство въезда проводит переговоры по вопросу закрытия данного пропускного пункта.
 
 До окончания переговоров работайте в обычном режиме.
 
@@ -1164,7 +1164,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Excellence","Отличную работу"
 "facts","Obristan","Орбистан"
 "facts","Antegria","Антегрия"
-"facts","Republia","Републия"
+"facts","Republia","Республия"
 "facts","UnitedFed","Объединенная Федерация"
 "facts","Impor","Импор"
 "facts","Kolechia","Колечия"
@@ -1178,25 +1178,25 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","True Glorian","Ст-Глориан"
 "facts","Lesrenadi","Лесренади"
 "facts","Bostan","Бостан"
-"facts","Great Rapid","Б. Порог"
+"facts","Great Rapid","Грейт-Рэпид"
 "facts","Shingleton","Шинглтон"
 "facts","Korista City","Користа"
-"facts","Enkyo","Энкио"
+"facts","Enkyo","Энкё"
 "facts","Haihan","Хайхан"
 "facts","Tsunkeido","Цункейдо"
 "facts","Yurko City","Юрко"
 "facts","Vedor","Ведор"
 "facts","West Grestin","Зап. Грештин"
 "facts","Orvech Vonor","Орвич-Вонор"
-"facts","East Grestin","Вст. Грештин"
+"facts","East Grestin","Вост. Грештин"
 "facts","Paradizna","Парадизна"
 "facts","Passport","Паспорт"
 "facts","Entry Ticket","Пропуск"
 "facts","Entry Permit","Разрешение на въезд"
 "facts","Work Pass","Разрешение на работу"
 "facts","Id Card","Личная карта"
-"facts","Id Supplement","Описание"
-"facts","Access Permit","Виза на въезд"
+"facts","Id Supplement","Внешние данные"
+"facts","Access Permit","Право на въезд"
 "facts","Diplomatic Auth","Диплом. статус"
 "facts","Asylum Grant","Убежище"
 "facts","Vaccine Cert","Справка о вакц."
@@ -1204,7 +1204,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Fingerprints","Отпечатки пальцев"
 "facts","Name","имя"
 "facts","Id Number","номер паспорта"
-"facts","Expiration Date","Истекает"
+"facts","Expiration Date","истекает"
 "facts","Issuing City","город выдачи"
 "facts","Birth Date","дата рождения"
 "facts","Alias","второе имя"
@@ -1254,7 +1254,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","RUBELLA","КРАСНУХА"
 "facts","HEP-B","ГЕПАТИТ B"
 "facts","MEASLES","КОРЬ"
-"facts","TUBERC.","ТКБЕРКУЛЕЗ"
+"facts","TUBERC.","ТУБЕРКУЛЕЗ"
 "facts","2 DAYS","2 ДНЯ"
 "facts","14 DAYS","14 ДНЕЙ"
 "facts","1 MONTH","1 МЕСЯЦ"
@@ -1276,7 +1276,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Forged Entry Permit","Поддельное раз-ние на въезд"
 "facts","Forged Work Pass","Поддельное раз-ние на работу"
 "facts","Id Card: Non-matching photo","Личная карта: чужое фото"
-"facts","Forged Access Permit","Поддельная виза на въезд"
+"facts","Forged Access Permit","Поддельное Право на въезд"
 "facts","No Diplomatic Access to Arstotzka","Нет дип. статуса в Арстотии"
 "facts","Forged Diplomatic Auth","Поддельный дип. паспорт"
 "facts","Forged Asylum Grant Seal","Убежище: поддельная печать"
@@ -1288,7 +1288,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Cobrastan is not a real country","Страны Кобрастан не существует"
 "facts","No entry from Antegria","Гр. Антегрии въезд запрещен"
 "facts","No entry from Arstotzka","Гр. Арстотии въезд запрещен"
-"facts","No entry from Republia","Гр. Републии въезд запрещен"
+"facts","No entry from Republia","Гр. Республии въезд запрещен"
 "facts","No entry from United Fed","Гр. ОФ въезд запрещен"
 "facts","No entry from Obristan","Гр. Орбистана въезд запрещен"
 "facts","No entry from Impor","Гр. Импора въезд запрещен"
@@ -1296,20 +1296,20 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Possible Terrorist Admitted","Лицо подозр. в терроризме"
 "facts","Entrant Holds Conflicting Passports","Два не соотв. паспорта"
 "facts","Entrant must have a passport","Въезжающий обязан предъявить паспорт"
-"facts","Foreigners require an entry permit","Ин-цам нужно раз-решение на въезд"
-"facts","Foreigners require an entry ticket","Ин-цам нужен пропуск"
+"facts","Foreigners require an entry permit","Разреш. на въезд для иностранцев"
+"facts","Foreigners require an entry ticket","Пропуск для иностранцев"
 "facts","All documents must be current","Все док-ты должны быть действительны"
 "facts","Workers must have a work pass","Для работы нужно разрешение"
 "facts","Citizens must have an id card","У граждан должна быть личная карта"
-"facts","Foreigners require an id supplement","Ин-цам нужно Описание"
+"facts","Foreigners require an id supplement","Внешн. данные для иностранцев"
 "facts","Arstotzkan citizens only","Только граждане Арстотии"
 "facts","No entry from United Federation","Въезд из ОФ запрещен"
 "facts","No weapons or contraband","Никакого оружия и контрабанды"
 "facts","All Kolechians must be searched","Обыскивать всех колечианцев"
-"facts","Diplomats require authorization","Статус дип-тов нужно проверять"
-"facts","Entrant must have polio vaccine cert","Всем нужна справка о прививке пол-та"
+"facts","Diplomats require authorization","Проверка дипстатуса обязательна"
+"facts","Entrant must have polio vaccine cert","Справка о прививке пол-та обязательна"
 "facts","Asylum seekers must have a grant","Беженцам нужно право на убежище"
-"facts","Foreigners require an access permit","Ин-цам нужна виза на въезд"
+"facts","Foreigners require an access permit","Право на въезд для иностранцев"
 "facts","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.","ИЗЫМАТЬ ПАСПОРТА АРСТОТИИ<br>У ЖИТЕЛЕЙ АЛТАНА."
 "facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","ИЗЫМАТЬ ВСЕ ПАСПОРТА АРСТОТИИ. БЕЗ ИСКЛЮЧЕНИЙ."
 "facts","Passport not confiscated","Паспорт<br>не изъят"
@@ -1321,7 +1321,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "paper:Rules","Confiscation","Изъятие"
 "paper:Rules","Obristan","Орбистан"
 "paper:Rules","Antegria","Антегрия"
-"paper:Rules","Republia","Републия"
+"paper:Rules","Republia","Республия"
 "paper:Rules","United","Объединенная"
 "paper:Rules","Federation","Федерация"
 "paper:Rules","Impor","Импор"
@@ -1332,19 +1332,19 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "paper:Rules","IMPOR","ИМПОР"
 "paper:Rules","KOLECHIA","КОЛЕЧИЯ"
 "paper:Rules","OBRISTAN","ОРБИСТАН"
-"paper:Rules","REPUBLIA","РЕПУБЛИЯ"
+"paper:Rules","REPUBLIA","РЕСПУБЛИЯ"
 "paper:Rules","UNITED FED.","ОФ"
 "paper:Rules","Id Card (Native)","Личная карта (гржд)"
 "paper:Rules","Entry Permit","Разрешение на въезд"
-"paper:Rules","Id Supplement","Описание"
-"paper:Rules","Access Permit","Виза на въезд"
+"paper:Rules","Id Supplement","Внешние данные"
+"paper:Rules","Access Permit","Право на въезд"
 "paper:Rules","Work Pass","Разрешение на работу"
 "paper:Rules","Diplomatic Auth.","Дип. статус"
 "paper:Rules","Grant of Asylum","Убежище"
 "paper:Rules","Vaccine Cert.","Справка о вакцинации"
 "intro","Congratulations.","Поздравляем!"
 "intro","The October labor lottery is complete. Your name was pulled.","Подведены итоги октябрьской лотереи рабочих мест! Вы - победитель!"
-"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","Немедленно обратитесь в Министерство миграций на пропускном пункте Грештин, чтобы вступить в должность."
+"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","Немедленно обратитесь в Министерство въезда на пропускном пункте Грештин, чтобы вступить в должность."
 "intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","Вашей семье будет предоставлена квартира в Восточном Грештине,  в жилом доме 8 класса."
 "intro","Glory to Arstotzka.","Слава Арстотии!"
 "end:in-debt","Arstotzka has zero tolerance for delinquency.","В Арстотии нет места злостным неплательщикам."
@@ -1515,9 +1515,9 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "bullend:2A","Check rulebook for rules in effect.","Все новые правила можно найти в инструкции."
 "bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Все новые правила можно найти в инструкции. Для отказа во въезде необходимо поставить печать ПРИЧИНА ОТКАЗА."
 "bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Все новые правила можно найти в инструкции. Для отказа во въезде необходимо поставить печать ПРИЧИНА ОТКАЗА."
-"night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","Планируйте свои расходы, отмечая нужное."
+"night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","Отметьте расходы, которые можете себе позволить."
 "night:AFTER_6PM","Applicants entering after 6PM are unpaid.","За лиц, принятых после 18:00, плата не начисляется."
-"night:PROGRESS_SAVED","Progress is saved at the start of each day.","Ишра сохраняется в начале каждого дня."
+"night:PROGRESS_SAVED","Progress is saved at the start of each day.","Игра сохраняется в начале каждого дня."
 "night:ATTACK_DIDNOTHING","The day was cut short by a terrorist attack.","Рабочий день прерван из-за атаки террористов."
 "night:ATTACK_FIREDGUN","The day was cut short by a terrorist attack.","Рабочий день прерван из-за атаки террористов."
 "night:ATTACK_FIREDGUN","TRIGGER BONUS","ПРЕМИЯ ЗА ВЫСТРЕЛ"
@@ -1525,7 +1525,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:ATTACK_SOLVED","SHARPSHOOTER BONUS","ПРЕМИЯ ЗА ПОПАДАНИЕ"
 "night:POISONING","The day was cut short by a security incident.","Рабочий день прерван из-за пограничного инцидента."
 "night:FAMILY_PICTURE","Your wife found an old family picture.","Ваша жена нашла старую семейную фотографию."
-"night:BUY_UPGRADE0","Booth Upgrade Available: SPACE key to toggle INSPECT mode.","Улучшение: SPACE - переход в режим ПРОВЕРКА."
+"night:BUY_UPGRADE0","Booth Upgrade Available: SPACE key to toggle INSPECT mode.","Улучшение: ПРОБЕЛ - переход в режим ПРОВЕРКА."
 "night:BUY_UPGRADE0","UPGRADE BOOTH","УЛУЧШЕНИЕ"
 "night:BUY_UPGRADE1","Booth Upgrade Available: TAB key to toggle stamp bar.","Улучшение: TAB - вызов печатей."
 "night:BUY_UPGRADE1","UPGRADE BOOTH","УЛУЧШЕНИЕ"
@@ -2036,7 +2036,7 @@ HOLD YOUR FIRE
 "traveler:KILLERATHLETE","@You are Vince Lestrade?","@Вы - Винс Лестрейд?"
 "traveler:KILLERATHLETE","Damn.","Черт."
 "traveler:KILLERATHLETE","Look, I did not kill her. I was set up.","Слушайте, я ее не убивал. Меня подставили."
-"traveler:KILLERATHLETE","Do not believe the Republian lies.","Не верьте републианской брехне."
+"traveler:KILLERATHLETE","Do not believe the Republian lies.","Не верьте республианской брехне."
 "traveler:KILLERATHLETE","Let me through.","Пропустите меня."
 "traveler:KILLERATHLETE","Shit.","Вот дерьмо."
 "traveler:HUSBAND_WIFE0","Today is beautiful day, my friend.","Сегодня прекрасный день, друг мой."
@@ -2639,7 +2639,7 @@ HOLD YOUR FIRE
 "traveler:TWO_PASSPORTS","First, you give papers back to me.","Только сначала верните документы."
 "traveler:TWO_PASSPORTS","And the others?","А остальные?"
 "traveler:TWO_PASSPORTS","Last one please.","И последний, пожалуйста."
-"traveler:IDSUPPLEMENT_COMPLAIN","This id supplement is total pain.","Это ""описание"" - полный кошмар."
+"traveler:IDSUPPLEMENT_COMPLAIN","This id supplement is total pain.","Эти ""внешние даные"" - полный кошмар."
 "traveler:IDSUPPLEMENT_COMPLAIN","Was not easy to get and only lasts few days.","Получить трудно, а действует всего несколько дней."
 "traveler:IDSUPPLEMENT_COMPLAIN","You Arstotzkans just make it harder and harder.","Вы тут, в Арстотии, все усложняете и усложняете."
 "traveler:IDSUPPLEMENT_COMPLAIN","Why even have open border?","Зачем было вообще границу открывать?"
@@ -2690,15 +2690,15 @@ HOLD YOUR FIRE
 "traveler:WHISTLEBLOWER","@This is not my problem.","@Это не моя проблема."
 "traveler:ACCESSPERMIT_FIRST","You Arstotzkans keep changing rules here.","Вы тут в Арстотии все время меняете правила."
 "traveler:ACCESSPERMIT_FIRST","My sister came through last week with different documents.","Мою сестру на прошлой неделе пустили по другим документам."
-"traveler:ACCESSPERMIT_FIRST","Now I need new access permit.","А теперь мне нужная новая виза."
-"traveler:ACCESSPERMIT_FIRST","Costs twice as much as before.","Она теперь стоит в два раза дороже."
-"traveler:ACCESSPERMIT_WRONG","What the hell is access permit?","Это что еще за хрень такая - ""виза на въезд""?"
+"traveler:ACCESSPERMIT_FIRST","Now I need new access permit.","А теперь мне нужно новое право на въезд."
+"traveler:ACCESSPERMIT_FIRST","Costs twice as much as before.","Оно уже стоит в два раза дороже."
+"traveler:ACCESSPERMIT_WRONG","What the hell is access permit?","Это что еще за хрень такая - ""право на въезд""?"
 "traveler:ACCESSPERMIT_WRONG","Do you mean entry permit?","Вы про ""разрешение на въезд""?"
 "traveler:ACCESSPERMIT_WRONG","I have it there.","Вот."
 "traveler:ACCESSPERMIT_WRONG","@I mean access permit.","@Я говорю про визу на въезд."
 "traveler:ACCESSPERMIT_WRONG","Never heard of it. Sounds stupid.","Не слышал про такое. Глупость какая-то."
-"traveler:ACCESSPERMIT_WRONG","@Entry permit and supplement are no longer accepted.","@Разрешение на въезд и Описание больше не принимаются."
-"traveler:ACCESSPERMIT_WRONG","@Access permit replaces them.","@Вместо них - виза на въезд."
+"traveler:ACCESSPERMIT_WRONG","@Entry permit and supplement are no longer accepted.","@Разрешение на въезд и описание внешних данных больше не принимаются."
+"traveler:ACCESSPERMIT_WRONG","@Access permit replaces them.","@Вместо них - право на въезд."
 "traveler:ACCESSPERMIT_WRONG","@Makes my job easier.","@Мне так работать проще"
 "traveler:ACCESSPERMIT_WRONG","I do not care about your job.","Мне плевать, как вам тут работается."
 "traveler:ACCESSPERMIT_WRONG","Damnit.","Черт бы побрал."
@@ -2869,18 +2869,18 @@ HOLD YOUR FIRE
 "speech:missing-idcard","I left before they were issued.","Их ввели  уже после моего отъезда."
 "speech:missing-idcard","I lost it.","Потерялась."
 "speech:ask-missing-idsupplement","You must carry an id supplement.","Вы должны иметь при себе описание внешности."
-"speech:ask-missing-idsupplement","Where is your id supplement?","Где описание?"
+"speech:ask-missing-idsupplement","Where is your id supplement?","Где описание внешности?"
 "speech:missing-idsupplement","I never got one.","У меня его никогда не было."
-"speech:missing-idsupplement","What is a supplement?","Что такое описание?"
+"speech:missing-idsupplement","What is a supplement?","Что такое описание внешности?"
 "speech:missing-idsupplement","This was not provided to me.","Мне такого не выдавали."
 "speech:ask-missing-asylumgrant","You have no grant for asylum.","У вас нет документа о предоставлении убежища."
 "speech:ask-missing-asylumgrant","Where is your asylum grant?","Где ваш документ о предоставлении убежища?"
 "speech:missing-asylumgrant","I could not secure one in time.","У меня не получилось его воворемя достать."
 "speech:missing-asylumgrant","I have none.","У меня нету."
 "speech:missing-asylumgrant","What is that?","А что это?"
-"speech:ask-missing-accesspermit","Where is the access permit?","Где виза на въезд?"
-"speech:ask-missing-accesspermit","You have no access permit.","У вас нет визы на въезд."
-"speech:ask-missing-accesspermit","The access permit is missing.","Не вижу визы на въезд."
+"speech:ask-missing-accesspermit","Where is the access permit?","Где право на въезд?"
+"speech:ask-missing-accesspermit","You have no access permit.","У вас нет права на въезд."
+"speech:ask-missing-accesspermit","The access permit is missing.","Не вижу права на въезд."
 "speech:ask-wrong-name","These names do not match.","Имена не совпадают."
 "speech:wrong-name","I have two different names.","У меня два разных имени."
 "speech:wrong-name","I have multiple names.","У меня много разных имен."
@@ -2923,7 +2923,7 @@ HOLD YOUR FIRE
 "speech:ask-wrong-nation","No entry from Kolechia.","Въезд из Колечии запрещен."
 "speech:ask-wrong-nation","No entry from United Federation.","Въезд из Объединенной Федерации запрещен."
 "speech:ask-wrong-nation","No entry from Antegria.","Въезд из Антегрии запрещен."
-"speech:ask-wrong-nation","No entry from Republia.","Въезд из Републии запрещен."
+"speech:ask-wrong-nation","No entry from Republia.","Въезд из Республии запрещен."
 "speech:ask-wrong-nation","No entry from Arstotzka.","Въезд из Арстотии запрещен."
 "speech:ask-wrong-nation","No entry from Impor.","Въезд из Импора запрещен."
 "speech:ask-search","Face the scanner.","Лицом к сканеру."
