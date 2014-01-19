@@ -1498,34 +1498,34 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:ignore-ezic","Return to your post on January 1st.","1月1日付けで任務に戻るように。"
 "end:ignore-ezic","ENDLESS UNLOCK CODE: 62131","エンドレスモード 解除コード：62131"
 "endless:timed","Timed","Timed"
-"endless:timed","Process as many travelers as possible in 10 minutes.","10分間で出来るだけ多くの入国者を判断せよ。"
+"endless:timed","Process as many travelers as possible in 10 minutes.","10分間で出来るだけ多くの入国希望者を審査せよ。"
 "endless:timed","ENDLESS - TIMED
 
-Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","エンドレス - 時間
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","エンドレス - 時間制限
 
-10分で出来る限り多くの入国者を判断せよ。1人につき1点加算。通告1回につき30秒失う。"
+10分で出来る限り多くの入国希望者を審査せよ。1人につき1点加算。通告1回につき30秒失う。"
 "endless:perfection","Perfection","Perfection"
 "endless:perfection","Game over at first penalty. Earn dwindling points.","ミスした時点でゲームオーバー。減り行くポイントを稼げ。"
 "endless:perfection","ENDLESS - PERFECTION
 
 Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","エンドレス - 精度
 
-入国者を判断し点数を稼げ。 通告を受けてはいけない。初めの1分は1人につき10点、1分経つごとにポイントは1ずつ減少する。迅速に作業せよ。"
+入国希望者を審査し点数を稼げ。通告を受けてはいけない。初めの1分は1人につき10点、1分経つごとに加算ポイントは1点ずつ減少する。迅速に作業せよ。"
 "endless:endurance","Endurance","Endurance"
-"endless:endurance","Play until balance goes negative. Avoid penalties.","点数がマイナスになるまで判断せよ。ミスを防げ。"
+"endless:endurance","Play until balance goes negative. Avoid penalties.","点数がマイナスになるまで審査せよ。ミスを防げ。"
 "endless:endurance","ENDLESS - ENDURANCE
 
 Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","エンドレス - 耐久
 
-点数がマイナスになるまで入国者を判断し続けよ。 通告を受け取ると減点が倍増。獲得した最高得点が記録となる。"
+点数がマイナスになるまで入国希望者を審査し続けよ。通告を受け取ると減点が倍増。最高得点はスコアとして記録される。"
 "endless:course1","Course 1","Course 1"
 "endless:course2","Course 2","Course 2"
 "endless:course3","Course 3","Course 3"
 "endless:course4","Course 4","Course 4"
 "bullend:1A","Check rulebook for rules in effect.","有効な規則を規則書で確認せよ。"
 "bullend:2A","Check rulebook for rules in effect.","有効な規則を規則書で確認せよ。"
-"bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","有効な規則を規則書で確認せよ。<br>入国を拒否する際は拒否事由の押印が必要である。"
-"bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","有効な規則を規則書で確認せよ。<br>入国を拒否する際は拒否事由の押印が必要である。"
+"bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","有効な規則を規則書で確認せよ。<br>入国を拒否する際は拒否事由スタンプが必要である。"
+"bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","有効な規則を規則書で確認せよ。<br>入国を拒否する際は拒否事由スタンプが必要である。"
 "night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","下記のチェック項目を用いて、収入を管理せよ。"
 "night:AFTER_6PM","Applicants entering after 6PM are unpaid.","午後6時以降の入国希望者は給与支払い対象外である。"
 "night:PROGRESS_SAVED","Progress is saved at the start of each day.","セーブは各日開始時に行われる。"
