@@ -307,7 +307,7 @@
 "ApartmentClass","CLASS","КЛАСС"
 "DetainButton","DETAIN","АРЕСТ"
 "FingerprintButton","FINGERPRINT","ОТПЕЧАТКИ"
-"SearchButton","SEARCH","ОБЫСК"
+"SearchButton","SEARCH","ДОСМОТР"
 "EmblemsMOA","M.O.A","МВ"
 "EmblemsMOA","M.O.L","МТ"
 "EmblemsMOL","M.O.L","МТ"
@@ -874,7 +874,7 @@ Continued...[PAGESNOTE]","Колечианцы подали официальну
 
 Сегодня для участия в переговорах на высоком уровне прибывает некий дипломат.
 
-Обязательный обыск всех граждан Колечии отменяется.
+Обязательный досмотр всех граждан Колечии отменяется.
 
 Продолжение...[PAGESNOTE]"
 "bulletin:8B","__________________________
@@ -1555,9 +1555,9 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:FRIENDLY_GUARD_PAYOUT","A young woman dropped off something.","Молодая женщина оставила у вас некий предмет."
 "night:FRIENDLY_GUARD_PAYOUT","ELISA'S GIFT","ПОДАРОК ЭЛИЗЫ"
 "night:DETAIN_PAYOUT","DETAIN BONUS","ПРЕМИЯ ЗА ЗАДЕРЖАНИЕ"
-"night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","Незнакомец принес вам деньги. Уберите отметку, чтобы их сжечь."
+"night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","Незнакомец принес вам деньги. Отключите кнопку, чтобы их сжечь."
 "night:EZIC_PAYOUT","EZIC GIFT","ДАР EZIC"
-"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","Некто снова принес вам деньги. Уберите отметку, чтобы их сжечь."
+"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","Некто снова принес вам деньги. Отключите кнопку, чтобы их сжечь."
 "night:EZIC_PAYOUT_RETRY","EZIC GIFT","ДАР EZIC"
 "night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","Соседи донесли властям, что вы внезапно разбогатели."
 "night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","Миндоходов конфисковало ваши сбережения, начато расследование."
@@ -1819,9 +1819,9 @@ HOLD YOUR FIRE
 "traveler:SECRET_POLICE_INTRO","If you have any information, you give to us yes?","Если вы что-то знаете, вы ведь нам расскажете, правда?"
 "traveler:SECRET_POLICE_INTRO","Yes?","Да?"
 "traveler:SECRET_POLICE_INTRO","@Yes.","@Да."
-"traveler:SECRET_POLICE_INTRO","Very good.","Ну и отлично."
+"traveler:SECRET_POLICE_INTRO","Very good.","Ну, и отлично."
 "traveler:SECRET_POLICE_INTRO","Please return my badge and paper.","Пожалуйста, верните мой жетон и бумаги."
-"traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","Мы думаем, что подозрительные лица сознательно мутят воду."
+"traveler:SECRET_POLICE_INTRO","We think suspicious group attempts to stir trouble.","Мы думаем, что есть некая группа лиц, которая пытается создать нам всем проблемы."
 "traveler:SECRET_POLICE_INTRO","We think some members enter this checkpoint.","Мы считаем, что некоторые из ее членов прошли через этот пункт."
 "traveler:SECRET_POLICE_INTRO","What is this?","Что это?"
 "traveler:SECRET_POLICE_INTRO","Interesting.","Интересно."
@@ -2233,7 +2233,7 @@ HOLD YOUR FIRE
 "traveler:BOSS0","Glory to Arstotzka.","Слава Арстотии!"
 "traveler:BOSS0","Perhaps it was mistake to rely on lottery.","Похоже, доверять лотерее было ошибкой."
 "traveler:BOSS0","Let this motivate you.~","Надеюсь, это вас вдохновит.~"
-"traveler:BOSS0","Do not embarrass me.","Не опозорьте меня."
+"traveler:BOSS0","Do not embarrass me.","Только попробуйте меня опозорить!"
 "traveler:BOSS0","It makes me look like fool to trust lottery.~","Какой же я идиот - полагаться на результаты лотереи!~"
 "traveler:BOSS0","Let this motivate you to improve.~","Надеюсь, это заставит вас улучшить свою работу.~"
 "traveler:BOSS0","Do not embarrass me further.","Не вздумайте снова меня опозорить."
@@ -2938,7 +2938,7 @@ HOLD YOUR FIRE
 "speech:detain","Who do you think you are?","Вы кем себя возомнили?"
 "speech:detain","You have no authority for this!","У вас нет на это никакого права!"
 "speech:detain","You are a fool!","Ты идиот!"
-"speech:ask-search-enabled","You have been selected for a random search.","Вы выбраны для случайного обыска."
+"speech:ask-search-enabled","You have been selected for a random search.","Вы выбраны для случайного досмотра."
 "speech:ask-wrong-entryticket-date","This ticket is for another day.","Это пропуск на другой день."
 "speech:ask-wrong-entryticket-date","You cannot enter today.","Сегодня я вас не пропущу."
 "speech:ask-wrong-entryticket-date","The date on this ticket is wrong.","Дата на пропуске неверная."
