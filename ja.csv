@@ -1402,20 +1402,20 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:killed-target","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
 "end:killed-target","Glory to Arstotzka.","アルストツカに栄光あれ。"
 "end:killed-target","[A note appears from under the cell door]","[牢獄の扉の下にメモが差し込まれた]"
-"end:killed-target","INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE","審査官殿 - 家族は無事 -<br>標的排除後、新たな問題浮上"
-"end:killed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","新審査官は非協力的 - EZICの活動は阻まれる"
-"end:killed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","これ以上の援助は不可能 - EZICは活動を再凍結"
-"end:killed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","家族はオブリスタンに送られる - 幸運を祈る"
+"end:killed-target","INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE","審査官殿、家族は無事<br>標的排除後、新たな問題浮上"
+"end:killed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","新審査官は非協力的<br>EZICの活動は阻まれる"
+"end:killed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","これ以上の援助は不可能<br>EZICは活動を再凍結"
+"end:killed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","家族はオブリスタンに送られる<br>幸運を祈る"
 "end:tranqed-target","You are under arrest for attacking an innocent.","貴方は無実の者に<br>危害を加えたとして逮捕された。"
 "end:tranqed-target","The penalty is forced labor.","刑罰は強制労働である。"
 "end:tranqed-target","Your family will be questioned about their involvement.","家族も関与の有無を尋問されるだろう。"
 "end:tranqed-target","The border will remain open under a replacement inspector.","国境検問所は代わりの審査官により<br>引き続き運営される。"
 "end:tranqed-target","Glory to Arstotzka.","アルストツカに栄光あれ。"
 "end:tranqed-target","[A note appears from under the cell door]","[牢獄の扉の下にメモが差し込まれた]"
-"end:tranqed-target","INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL","審査官殿 - 家族は無事 - 標的は病床より回復"
-"end:tranqed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","新審査官は非協力的 - EZICの活動は阻まれる"
-"end:tranqed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","これ以上の援助は不可能 - EZICは活動を再凍結"
-"end:tranqed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","家族はオブリスタンに送られる - 幸運を祈る"
+"end:tranqed-target","INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL","審査官殿、家族は無事<br>標的は病床より回復"
+"end:tranqed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","新審査官は非協力的<br>EZICの活動は阻まれる"
+"end:tranqed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","これ以上の援助は不可能<br>EZICは活動を再凍結"
+"end:tranqed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","家族はオブリスタンに送られる<br>幸運を祈る"
 "end:stuff-on-walls","You are under arrest for violating direct orders.","貴方は指揮命令違反で逮捕された。"
 "end:stuff-on-walls","The penalty is forced labor.","刑罰は強制労働である。"
 "end:stuff-on-walls","Your family will be sent back to their village.","家族は村へ送り返されることになる。"
@@ -1443,13 +1443,13 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:help-ezic-kill-attackers-wall-safe","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅し、正義は回復される。"
 "end:help-ezic-kill-attackers-wall-safe","Glory to Arstotzka.","アルストツカに栄光あれ。"
 "end:help-ezic-kill-attackers-wall-safe","[A note appears from under the cell door]","[牢獄の扉の下にメモが差し込まれた]"
-"end:help-ezic-kill-attackers-wall-safe","INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT","審査官殿 - キミは最後に我々を裏切った"
-"end:help-ezic-kill-attackers-wall-safe","THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY","今のEZICはもう終わりだ -<br>キミの家族に援助はできない"
+"end:help-ezic-kill-attackers-wall-safe","INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT","審査官殿<br>貴方は最後に我らを裏切った"
+"end:help-ezic-kill-attackers-wall-safe","THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY","今のEZICはもう終わりだ<br>貴方の家族に援助はできない"
 "end:help-ezic-kill-attackers-wall-destroyed","The border has been pierced.","国境は崩壊した。"
-"end:help-ezic-kill-attackers-wall-destroyed","It is a glorious day for THE ORDER OF THE EZIC STAR but you have betrayed us at the last moment.","EZICスター組織にとって輝かしい一日だが、<br>キミは最後に我々を裏切った。"
+"end:help-ezic-kill-attackers-wall-destroyed","It is a glorious day for THE ORDER OF THE EZIC STAR but you have betrayed us at the last moment.","EZICスター組織にとって輝かしい一日だが、<br>貴方は最後に我らを裏切った。"
 "end:help-ezic-kill-attackers-wall-destroyed","EZIC grows strong while the corrupt and greedy weaken.","腐敗と貪欲の衰退と共にEZICは勢力を伸ばす。"
-"end:help-ezic-kill-attackers-wall-destroyed","Your betrayal means you have chosen the wrong side.","キミの裏切りは、<br>間違った側についたことを意味する。"
-"end:help-ezic-kill-attackers-wall-destroyed","There is no place for you or your family in this revolution.","この革命にキミと家族の居場所はない。"
+"end:help-ezic-kill-attackers-wall-destroyed","Your betrayal means you have chosen the wrong side.","貴方の裏切りは、<br>間違った側についたことを意味する。"
+"end:help-ezic-kill-attackers-wall-destroyed","There is no place for you or your family in this revolution.","この革命に貴方と家族の居場所はない。"
 "end:help-ezic-kill-attackers-wall-destroyed","Goodbye inspector.","さようなら審査官殿。"
 "end:help-ezic-kill-attackers-wall-destroyed","Glory to the New Arstotzka.","新アルストツカに栄光あれ。"
 "end:help-few-ezic","Hello inspector.","やぁ、審査官。"
@@ -1482,9 +1482,9 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:help-ezic-hold-fire","Inspector! It is a glorious day!","審査官殿！なんて輝かしい日だろう！"
 "end:help-ezic-hold-fire","The border has been pierced.","国境は崩壊した。"
 "end:help-ezic-hold-fire","EZIC grows strong while the corrupt and greedy weaken.","腐敗と貪欲の衰退と共にEZICは勢力を伸ばす。"
-"end:help-ezic-hold-fire","We are moving you and your family to a better home.","キミと家族はもっと良い住まいへ<br>引っ越すことになる。"
-"end:help-ezic-hold-fire","Your services as an inspector are no longer required. We need agents.","審査官としての役目はもう終わった。<br>我々は諜報員を求めている。"
-"end:help-ezic-hold-fire","Follow us and together we will complete the revolution!","我々と共に進み、革命を完全なものとしよう！"
+"end:help-ezic-hold-fire","We are moving you and your family to a better home.","貴方と家族はより良い住まいへ<br>引っ越すことになる。"
+"end:help-ezic-hold-fire","Your services as an inspector are no longer required. We need agents.","審査官としての役目はもう終わった。<br>我らは工作員を求めている。"
+"end:help-ezic-hold-fire","Follow us and together we will complete the revolution!","我らと共に進み、革命を完全なものとしよう！"
 "end:help-ezic-hold-fire","Glory to the New Arstotzka.","新アルストツカに栄光あれ。"
 "end:ignore-ezic","Hello inspector.","やぁ、審査官。"
 "end:ignore-ezic","We have audited your activities for the past 20 years.","我々は過去20年間の君の行動を捜査した。"
@@ -1567,15 +1567,15 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:FRIENDLY_GUARD_PAYOUT","ELISA'S GIFT","ELISAの贈り物"
 "night:DETAIN_PAYOUT","DETAIN BONUS","拘束手当"
 "night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","不審な男が金を持ってきた。燃やす場合チェックを解除。"
-"night:EZIC_PAYOUT","EZIC GIFT","EZICからの贈り物"
+"night:EZIC_PAYOUT","EZIC GIFT","EZICからの報酬"
 "night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","不審な男が再び金を持ってきた。燃やす場合チェックを解除。"
-"night:EZIC_PAYOUT_RETRY","EZIC GIFT","EZICからの贈り物"
+"night:EZIC_PAYOUT_RETRY","EZIC GIFT","EZICからの報酬"
 "night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","近隣住民が貴方の収入の増加を報告した。"
 "night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","所得省が貴方の貯金を押収し取り調べ中である。"
 "night:EZIC_CLEARED","The Ministry of Income has cleared all wrongdoing.","所得省が貴方の不正行為を全て処理した。"
 "night:EZIC_CLEARED","Your savings will not be returned.","貯金が返還されることはない。"
 "night:EZIC_REWARD","A small package arrived.","小包が届いた。"
-"night:EZIC_REWARD","EZIC GIFT","EZICからの贈り物"
+"night:EZIC_REWARD","EZIC GIFT","EZICからの報酬"
 "night:TAKE_FAMILY_PASSPORTS","The Ministry of Information has confiscated your family's passports.","情報省が貴方の家族のパスポートを押収した。"
 "night:ESCAPE","You can now escape to Obristan by yourself.","貴方は１人でオブリスタンへ逃亡可能だ。"
 "night:ESCAPE","You can now escape to Obristan with one family member.","貴方は家族１人とオブリスタンへ逃亡可能だ。"
@@ -1603,25 +1603,25 @@ WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
 HELP US FREE ARSTOTZKA FROM ITS SHACKLES
 
 
-* THE ORDER OF THE EZIC STAR","アルストツカハ　スバラシイクニ
+* THE ORDER OF THE EZIC STAR","アルストツカ　スバラシイクニ
 
-ダガ　フハイシタ　ジョウソウブニ
+ダガ　フハイシタ　ジョウソウブ
 ドクサレテイル
 
-アナタモ　シルトオリ　セイフハ
-センソウデ　ヨクニマミレ　クルッタ
+アナタ　シルトオリ　セイフ　センソウデ
+ヨクマミレ　クルッタ
 
-アルストツカ　クサリカラ　ハナツタメ
+アルストツカ　クサリカラ　ハナツ
 エンジョ　モトム
 
-* EZIC"
+＊　EZIC　スター　ソシキ"
 "note:EZIC_HANDLER_POST0","FIRST AGENT WAS DENIED
 
 SECOND WILL COME IN TWO DAYS
 
-DO NOT MAKE SAME MISTAKE","サイショノ　コウサクイン　キョヒサレタ
+DO NOT MAKE SAME MISTAKE","サイショ　コウサクイン　キョヒ
 
-ツギハ　フツカゴ
+ツギ　フツカゴ
 
 オナジ　アヤマチ　オカスナ"
 "note:EZIC_HANDLER_PRE1","LARGE GIFT WAS MISTAKE
@@ -1632,30 +1632,30 @@ NEXT AGENT COMES TODAY
 
 WILL SOLVE PROBLEM
 
-DENY AT OWN RISK","オオキナ　ホウシュウハ　マチガイダッタ
+DENY AT OWN RISK","オオキナ　ホウシュウ　マチガイ
 
-ジョウホウショウ　アナタト　EZICノ 
-カンケイヲ　ソウサカイシ
+ジョウホウショウ　アナタ　EZIC
+カンケイ　ソウサ　カイシ
 
-ツギノ　コウサクイン　キョウ　クル
+ツギ　コウサクイン　キョウ
 
-モンダイヲ　カイケツシテクレル
+モンダイ　カイケツスル
 
-キョヒスルカハ　ジコセキニンデアル"
+キョヒスル　ジコセキニン"
 "note:EZIC_HANDLER_POST1","BOTH AGENTS WERE DENIED
 
 WE CANNOT SUCCEED WITHOUT YOUR HELP
 
 WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","コウサクインハ　フタリトモ　キョヒ
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","コウサクイン　ドチラモ　キョヒ
 
-アナタノ　キョウリョクナシニ　セイコウ　ナシ
+アナタ　キョウリョク　ナシ　セイコウ　ナシ
 
-アルストツカケンコクノ　トキモ　ソシキハ 
-イマト　オナジ　ヤクメ　ハタシタ
+アルストツカ　ケンコク　トキ　ソシキ
+イマ　オナジ　ヤクメ　ハタシタ
 
-アッセイ　オワリシトキ
+アッセイ　オワル　トキ
 ワレラ　マタ　キエル"
 "note:EZIC_HANDLER_POST1","ONLY ONE AGENT APPROVED
 
@@ -1663,14 +1663,14 @@ WE CANNOT SUCCEED WITHOUT YOUR HELP
 
 WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","コウサクイン　ヒトリガ　キョヒサレタ
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","タッタ　ヒトリ　コウサクイン　ニュウコク
 
-アナタノ　キョウリョクナシニ　セイコウ　ナシ
+アナタ　キョウリョク　ナシ　セイコウ　ナシ
 
-アルストツカケンコクノ　トキモ　ソシキハ 
-イマト　オナジ　ヤクメ　ハタシタ
+アルストツカ　ケンコク　トキ　ソシキ
+イマ　オナジ　ヤクメ　ハタシタ
 
-アッセイ　オワリシトキ
+アッセイ　オワル　トキ
 ワレラ　マタ　キエル"
 "note:EZIC_HANDLER_POST1","YOU HAVE DONE WELL
 
@@ -1680,29 +1680,29 @@ WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
 
 WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","ヨク　ヤッタ
 
-コウサクイン　フタリトモ　ニンム　カイシ
+コウサクイン　ドチラモ　ニンム　カイシ
 
-アナタノ　キョウリョクナシニ　セイコウ　ナシ
+アルストツカ　ケンコク　トキ　ソシキ
+イマ　オナジ　ヤクメ　ハタシタ
 
-アルストツカケンコクノ　トキモ　ソシキハ 
-イマト　オナジ　ヤクメ　ハタシタ
-
-アッセイ　オワリシトキ
+アッセイ　オワル　トキ
 ワレラ　マタ　キエル"
 "note:EZIC_HANDLER_EXT","BORDER ATTACKS ARE NOT EZIC OPERATIONS
 
 UNKNOWN EXTREMIST GROUPS RESPONSIBLE
 
-THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","コッキョウ　シュウゲキハ　EZICノ
-ケイカクニ　アラズ
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","コッキョウ　シュウゲキ　EZIC
+ケイカク　アラズ
 
-ドコカノ　カゲキハノ　シワザ
+シラヌ　カゲキハ　シワザ
 
-ソシキハ　フハイシタ　ケンリョクノ　チュウスウ 
-ヨワラセルタメ　ウゴイテイル
-- ツミナキモノ　マキコマズ
-- カゲキハ　ツイセキノタメ
-EZIC　コウサクイン　キョウ　トウチャク"
+ソシキ　フハイシタ　ケンリョク　チュウスウ
+ヨワラセルタメ　ウゴク
+
+ツミナキモノ　マキコマズ
+
+カゲキハ　ツイセキノタメ　EZIC
+コウサクイン　キョウ　トウチャク"
 "note:EZIC_POISON_MESSENGER","ASSASSIN COMING FROM ANTEGRIA
 
 WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
@@ -1713,97 +1713,93 @@ HIS NAME IS KHALED ISTOM
 
 DO NOT FORGET","アンテグリアヨリ　コロシヤ　クル
 
-アルストツカナイ　ジュウヨウ　コウサクイン
-ネラワレルダロウ
+アルストツカ　ジュウヨウ　EZIC
+コウサクイン　ネラウ
 
-ソシセネバ　ナラナイ
+ソシセネバ　ナラヌ
 
-カレノ　ナハ　KHALED ISTOM
+カレノナ　KHALED ISTOM
 
 ワスレルナ"
 "note:EZIC_HANDLER_SNIPE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","EZICノ　ゼンコウサクインノ　ジョウホウ
-モツ　KHALED　クニニ　カエル
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED　クニ　カエル
+EZIC　ゼンコウサクイン
+ジョウホウ　モツ
 
-モハヤ　ユウヨ　ナシ 
-- キョウ　カレヲ　コロセ -
-アカノ　オトコダ 
-- ソノ　キカイハ　ワレワレガ　ヨウイスル
+モハヤ　ユウヨ　ナシ
+キョウ　カレ　コロセ
+アカ　オトコ
+ワレラ　キカイ　ツクル
 
-セイコウシタ　バアイ　
-アナタハ　タイホ　サレル 
-- アルストツカノ　タメ　ギセイ　ヒツヨウ - 
-カゾクノ　アンゼンハ　ホショウ"
+セイコウ　アカツキ　タイホサレル
+アルストツカノタメ　ギセイ　ヒツヨウ
+カゾク　アンゼン　ホショウ"
 "note:EZIC_HANDLER_SNIPE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED、EZICコウサクイン
-フタリ　サツガイ 
-- ベツノ　コロシヤ　クル - アカノ　オトコ -
-アルストツカニ　イル　EZICノ
-ゼンコウサクインノ　ジョウホウ モッテイル
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED　EZIC　コウサクイン
+フタリ　サツガイ
+ベツ　コロシヤ　クル
+アカ　オトコ
+アルストツカ　EZIC　ジョウホウ モツ
 
-モハヤ　ユウヨ　ナシ 
-- キョウ　カレヲ　コロセ -
-アカノ　オトコダ 
-- ソノ　キカイハ　ワレワレガ　ヨウイスル
+モハヤ　ユウヨ　ナシ
+キョウ　カレ　コロセ
+ワレラ　キカイ　ツクル
 
-セイコウシタ　バアイ　
-アナタハ　タイホ　サレル 
-- アルストツカノ　タメ　ギセイ　ヒツヨウ - 
-カゾクノ　アンゼンハ　ホショウ"
+セイコウ　アカツキ　タイホサレル
+アルストツカノタメ　ギセイ　ヒツヨウ
+カゾク　アンゼン　ホショウ"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED　シマツ　サレタ 
-- ベツノ　コロシヤ　クル - アカノ　オトコ -
-アルストツカニ　イル　EZIC
-ゼンコウサクイン　ノ　ジョウホウ　モッテイル
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED　シマツサレタ
+ベツ　コロシヤ　クル
+アカ　オトコ
+アルストツカ　EZIC　ジョウホウ モツ
 
-モハヤ　ユウヨ　ナシ 
-- キョウ　カレヲ　コロセ -
-アカノ　オトコダ 
-- ソノ　キカイハ　ワレワレガ　ヨウイスル
+モハヤ　ユウヨ　ナシ
+キョウ　カレ　コロセ
+ワレラ　キカイ　ツクル
 
-セイコウシタ　バアイ　
-アナタハ　タイホ　サレル 
-- アルストツカノ　タメ　ギセイ　ヒツヨウ - 
-カゾクノ　アンゼンハ　ホショウ"
+セイコウ　アカツキ　タイホサレル
+アルストツカノタメ　ギセイ　ヒツヨウ
+カゾク　アンゼン　ホショウ"
 "note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
 
 MAN IN RED SURVIVES
 
 HE NOW TARGETS EZIC AGENTS IN KOLECHIA
 
-OUR PLANS MUST ADAPT","ワレワレハ　キカイ　ノガシタ
+OUR PLANS MUST ADAPT","キカイ　ノガシタ
 
-アカノ　オトコ　イキノビタ
+アカ　オトコ　イキノビタ
 
-コンドハ　コレチアノ　EZICコウサクイン
-ネラッテイル
+コンド　コレチア　EZIC
+コウサクイン　ネラウ
 
-ケイカクヲ　ヘンコウセネバ　ナラナイ"
+ケイカク　ヘンコウ"
 "note:EZIC_HANDLER_DIPLO","GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
 
 NEGOTIATIONS MUST BE IMPEDED
 
 ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
 
-EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","セイフハ　コレチアジンノ　ヨウキュウニ　クッシ
-グレスティンヲ　ジョウトスル　ケイカク
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","セイフ　コレチア　ヨウキュウ　クッス
+グレスティン　ジョウト　ケイカク
 
-コウショウヲ　ソシセネバ　ナラナイ
+コウショウ　ソシセネバ　ナラヌ
 
-コレチアジン　ガイコウカンヲ　ニュウコクサセヨ
+コレチア　ガイコウカン　ニュウコクサセヨ
 
-タダシ　パスポートヲ　オウシュウスルコト
+タダシ　パスポート　オウシュウ
 
-EZICノ　シシャガ　カレニ　ナリカワル"
+EZIC　コウサクイン　カレ　ナリカワル"
 "note:EZIC_FINAL","GRESTIN CHECKPOINT IS AT AN END
 
 TODAY WE BREAK THIS WALL DOWN
@@ -1812,15 +1808,15 @@ YOU WILL BE SAFE
 
 HOLD YOUR FIRE
 
-* THE ORDER OF THE EZIC STAR","グレスティン　ケンモンジョハ　オワル
+* THE ORDER OF THE EZIC STAR","グレスティン　ケンモンジョ　オワル
 
-キョウ　カベヲ　ハカイスル
+キョウ　カベ　ハカイ
 
-キミハ　アンゼンダ
+アナタ　アンゼン
 
-ハッポウ　ヒカエルベシ
+ハッポウ　ヒカエヨ
 
-*　EZIC"
+＊　EZIC　スター　ソシキ"
 "traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","パスポートはどこに？ ; 私のパスポートは？ ; パスポートは？ ; この紙、何ですか？パスポートはどこ？"
 "traveler:DEFAULT","@It is being confiscated.","@押収しました。"
 "traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","どうやって旅すれば？ ; どうしたらいいんです？ ; なぜ？ ; こんなことしていいんですか。"
