@@ -1158,7 +1158,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 Продолжайте изымать паспорта у всех въезжающих граждан Арстотии."
 "facts","$paper: Invalid $fact","$paper: ошибка -  $fact"
 "facts","Missing $paper","Отсутствует $paper"
-"facts","$0 DISTRICT","$0 РАЙОН"
+"facts","$0 DISTRICT","РАЙОН  $0"
 "facts","Presence","Ответственность"
 "facts","Sufficience","Эффективную работу"
 "facts","Excellence","Отличную работу"
