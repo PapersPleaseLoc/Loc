@@ -12,7 +12,7 @@
 "AccessPermitInner","WEIGHT","ВЕС"
 "AccessPermitInner","ENTER BY","Въезд до"
 "AccessPermitInner","Keep on person","Иметь при себе"
-"AccessPermitInner","Ministry of Admission","Министерство възда"
+"AccessPermitInner","Ministry of Admission","Министерство въезда"
 "AsylumGrantInner","Arstotzka","Арстотия"
 "AsylumGrantInner","GRANT of ASYLUM","ПРАВО НА УБЕЖИЩЕ"
 "AsylumGrantInner","This document grants conditional asylum status within Arstotzkan borders","Податель имеет временный статус беженца на всей территории Арстотии"
@@ -578,7 +578,7 @@ Ending $endnum of $endtotal","Время игры $time
 Задержано: $detained
 Замечаний: $citations
 Печатей проставлено: $stamps
-Итог: $endnum из $endtotal"
+Финал: $endnum из $endtotal"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
 If this problem persists, re-install the Steam client.","ОШИБКА СВЯЗИ СО STEAM
@@ -800,7 +800,7 @@ RULES &amp; REGULATIONS
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
 РЕЖИМ ПРОВЕРКИ
 
-Нажмите красную кнопку на столе и войдите в режим ПРОВЕРКИ. Выделите два фрагмента несовпадающей информации, чтобы продолжить работу.
+Нажмите красную кнопку на столе и войдите в режим ПРОВЕРКИ. Выделите два фрагмента несовпадающей информации.
 
 __________________________
 ПРАВИЛА И НОРМАТИВЫ
@@ -854,7 +854,7 @@ Interrogate discrepancies to enable detention option.","Теперь вы име
 
 Travelers entering for work require a valid WORK PASS.","Министерство труда начинает специальную программу контроля за трудоустройством иммигрантов.
 
-Въезжающие с целью трудоустройства должны предъявлять действительное РАЗРЕШЕНИЕ НА РАБОТУ"
+Въезжающие с целью трудоустройства должны предъявлять действительное РАЗРЕШЕНИЕ НА РАБОТУ."
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
@@ -863,7 +863,7 @@ Search all Kolechians before approving their entry.","Теперь провер�
 
 Во вчерашнем нападении подозреваются колечианские экстремисты. 
 
-Прежде чем разрешить въезд гражданину Колечии, подвергните его личному досмотру."
+Прежде чем разрешать въезд гражданам Колечии, подвергайте их личному досмотру."
 "bulletin:8A","The Kolechians have filed a formal complaint. 
 
 A diplomat will arrive today for high-level discussions.
@@ -965,7 +965,7 @@ Review instructional diagram on following page.","__________________________
 __________________________
 ПРАВИЛА ОБРАЩЕНИЯ С ОРУЖИЕМ
 
-Изучите диаграмму на следующей странице."
+Изучите схему на следующей странице."
 "bulletin:18A","Unfavorable international press has affected immigration protocol.
 
 All denials must be accompanied by a REASON FOR DENIAL stamp.
@@ -976,7 +976,7 @@ Continued...","Иностранная пресса выражает недово
 
 Все отказы должны сопровождаться печатью ПРИЧИНА ОТКАЗА.
 
-Для печатей установлена новая программа.  Обоснуйте ПРИЧИНУ ОТКАЗА, указы въезжающему на несоответствия в документах.
+Для печатей установлена новая программа.  Обоснуйте ПРИЧИНУ ОТКАЗА, указав въезжающему на несоответствия в документах.
 
 Продолжить..."
 "bulletin:18B","__________________________
@@ -1270,8 +1270,8 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","Possible Smuggler Admitted","Лицо подозр. в контрабанде"
 "facts","Missing documents","Неполный комплект документов"
 "facts","Wanted criminal admitted","Преступник, находится в розыске"
-"facts","Incorrect purpose response","Ответ на вопрос о цели поездки"
-"facts","Incorrect visit duration response","Ответ на вопрос о сроке визита"
+"facts","Incorrect purpose response","Неверный ответ на вопрос о цели визита"
+"facts","Incorrect visit duration response","Неверный ответ на вопрос о сроке визита"
 "facts","Passport: Non-matching photo","Паспорт: чужое фото"
 "facts","Forged Entry Permit","Поддельное раз-ние на въезд"
 "facts","Forged Work Pass","Поддельное раз-ние на работу"
@@ -1294,7 +1294,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","Ваше
 "facts","No entry from Impor","Из Импора въезд запрещен"
 "facts","No entry from Kolechia","Из Колечии въезд запрещен"
 "facts","Possible Terrorist Admitted","Лицо подозр. в терроризме"
-"facts","Entrant Holds Conflicting Passports","Два не соотв. паспорта"
+"facts","Entrant Holds Conflicting Passports","Два паспорта"
 "facts","Entrant must have a passport","Въезжающий обязан предъявить паспорт"
 "facts","Foreigners require an entry permit","Разреш. на въезд для иностранцев"
 "facts","Foreigners require an entry ticket","Пропуск для иностранцев"
@@ -1556,9 +1556,9 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:FRIENDLY_GUARD_PAYOUT","A young woman dropped off something.","Молодая женщина оставила у вас некий предмет."
 "night:FRIENDLY_GUARD_PAYOUT","ELISA'S GIFT","ПОДАРОК ОТ ELISA"
 "night:DETAIN_PAYOUT","DETAIN BONUS","ПРЕМИЯ ЗА ЗАДЕРЖАНИЕ"
-"night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","Незнакомец принес вам деньги. Отключите кнопку, чтобы их сжечь."
+"night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","Незнакомец принес вам деньги. Вбирайте, взять их или сжечь."
 "night:EZIC_PAYOUT","EZIC GIFT","ДАР EZIC"
-"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","Некто снова принес вам деньги. Отключите кнопку, чтобы их сжечь."
+"night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","Некто снова принес вам деньги. Вбирайте, взять их или сжечь."
 "night:EZIC_PAYOUT_RETRY","EZIC GIFT","ДАР EZIC"
 "night:EZIC_TAKESAVINGS","The neighbors have reported your new wealth.","Соседи донесли властям, что вы внезапно разбогатели."
 "night:EZIC_TAKESAVINGS","The Ministry of Income has confiscated your savings pending investigation.","Миндоходов конфисковало ваши сбережения, начато расследование."
@@ -1718,7 +1718,7 @@ IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL
 
 РИСКОВАТЬ НЕЛЬЗЯ - СЕГОДНЯ ВЫ ДОЛЖНЫ ЕГО УБИТЬ - МЫ ВСЕ ОРГАНИЗУЕМ
 
-ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
+ЕСЛИ ВСЕ ПОЛУЧИТСЯ, НО ВАС ПОЙМАЮТ, - ВАМ ПРИДЕТСЯ ПОЖЕРТВОВАТЬ СОБОЙ РАДИ АРСТОТИИ - С СЕМЬЕЙ ВСЕ БУДЕТ В ПОРЯДКЕ"
 "note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
 
 MAN IN RED SURVIVES
@@ -1742,9 +1742,9 @@ EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","ПРАВИТЕЛЬСТВО НАМЕ�
 
 ПЕРЕГОВОРЫ НАДО ОСТАНОВИТЬ
 
-РАЗРЕШИТЕ КОЛЕЧИАНСКОМ ДИПЛОМАТУ ВЪЕЗД, НО КОНФИСКУЙТЕ ЕГО ПАСПОРТ
+РАЗРЕШИТЕ КОЛЕЧИАНСКОМУ ДИПЛОМАТУ ВЪЕЗД, НО КОНФИСКУЙТЕ ЕГО ПАСПОРТ
 
-ПОД ЕГО ИМЕНЕМ БУДЕТ ДЕЙСТВОВАТЬ ПРИБЫВШИЙ СЛЕДОМ АГЕНТ EZIC"
+СЛЕДОМ ПОЯВИТСЯ АГЕНТ EZIC, КОТОРЫЙ ЗАБЕРЕТ ДОКУМЕНТЫ И ВОСПОЛЬЗУЕТСЯ ЕГО ИМЕНЕМ"
 "note:EZIC_FINAL","GRESTIN CHECKPOINT IS AT AN END
 
 TODAY WE BREAK THIS WALL DOWN
@@ -1762,7 +1762,7 @@ HOLD YOUR FIRE
 СОХРАНЯЙТЕ СПОКОЙСТВИЕ
 
 * ОРДЕН ЗВЕЗДЫ EZIC"
-"traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","; Мой паспорт? ; Паспорт? ; Что это за справка? Где паспорт?"
+"traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","Где мой паспорт?; Мой паспорт? ; Паспорт? ; Что это за справка? Где паспорт?"
 "traveler:DEFAULT","@It is being confiscated.","@Он изымается."
 "traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","Как я дальше поеду? ; Что мне делать? ; Почему? ; Вы с ума сошли."
 "traveler:DEFAULT","@Contact number on slip.","@Позвоните по телефону на справке."
@@ -1771,7 +1771,7 @@ HOLD YOUR FIRE
 "traveler:EZIC_CORMAN","Read quickly.","Читайте побыстрей."
 "traveler:EZIC_CORMAN","Do not lose this.","Не потеряйте."
 "traveler:EZIC_CORMAN","You have something of mine.","У вас есть то, что принадлежит мне."
-"traveler:EZIC_CORMAN","My name is Corman Drex.","Меня зовут Корман Дрекс."
+"traveler:EZIC_CORMAN","My name is Corman Drex.","Меня зовут Corman Drex."
 "traveler:EZIC_CORMAN","Read the note then return it to me.","Прочтите записку и верните ее мне."
 "traveler:EZIC_HANDLER_PRE0","Our agents are ready.","Наши люди готовы."
 "traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","Начинаем завтра."
@@ -1786,7 +1786,7 @@ HOLD YOUR FIRE
 "traveler:EZIC_AGENT_EXT","The others do not agree, but I believe the man in red is not a threat.","Остальные со мной не согласны, но я уверен: тот, кто в красном, не опасный."
 "traveler:EZIC_AGENT_EXT","@What?","@Что?"
 "traveler:EZIC_AGENT_EXT","Nevermind.","Ничего."
-"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","Стрелять на поражение."
+"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","Стреляйте на поражение."
 "traveler:EZIC_DIPLO","I require my passport.","Я требую: верните паспорт."
 "traveler:EZIC_DIPLO","@It has been confiscated.","@Он изъят."
 "traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","Я - колечианский дипломат, я здесь по приглашению правительства."
@@ -1997,11 +1997,11 @@ HOLD YOUR FIRE
 "traveler:JORJI_PASSPORTS","@You said I need real Obristan passports.","@Ты сам сказал, мне нужны настоящие  орбистанские паспорта."
 "traveler:JORJI_PASSPORTS","Man. Fine.","Тьфу ты. Ладно."
 "traveler:JORJI_PASSPORTS","I get another but little unhappy about it.","Я другой найду, но я обиделся."
-"traveler:JORJI_PASSPORTS","Memorize flyer and give back.","Запомни флайер и отдай."
+"traveler:JORJI_PASSPORTS","Memorize flyer and give back.","Все запомни, потом верни."
 "traveler:JORJI_PASSPORTS","Hey you know what.","Слушай, знаешь, чего."
 "traveler:JORJI_PASSPORTS","Take my passport.","Возьми мой паспорт."
 "traveler:JORJI_PASSPORTS","I get another one no problem.","Я другой достану, без проблем."
-"traveler:JORJI_PASSPORTS","Now memorize flyer and give back if you finish reading.","Теперь запомни флайер и отдай, когда дочитаешь."
+"traveler:JORJI_PASSPORTS","Now memorize flyer and give back if you finish reading.","Запомни все, что написано, и отдай, если дочитал."
 "traveler:JORJI_PASSPORTS","Do not want to get in trouble!","Мне неприятности не нужны!"
 "traveler:JORJI_PASSPORTS","Obristan really great this time of year.","В Орбистане в это время года очень красиво."
 "traveler:JORJI_PASSPORTS","Lots of snow.","Снега много."
@@ -2011,9 +2011,9 @@ HOLD YOUR FIRE
 "traveler:JORJI_PASSPORTS","Good luck.","Удачи тебе."
 "traveler:JORJI_GOODBYE","Ho boy! I make big score!","Здорово! Я тут срубил бабла."
 "traveler:JORJI_GOODBYE","Huge! You have no idea!","Вагон! Ты себе не представляешь!"
-"traveler:JORJI_GOODBYE","Anyway. I just want to say thank you.","В общем, я хотел сказать тебе спасибо."
+"traveler:JORJI_GOODBYE","Anyway. I just want to say thank you.","В общем, хотел сказать тебе спасибо."
 "traveler:JORJI_GOODBYE","I wait in line just for that!","Я для этого в очереди стоял!"
-"traveler:JORJI_GOODBYE","Maybe I quit now.","Я теперь завяжу, наверное."
+"traveler:JORJI_GOODBYE","Maybe I quit now.","Теперь завяжу, наверное."
 "traveler:JORJI_GOODBYE","Haha!","Ха-ха!"
 "traveler:BROTHEL0","Hello handsome.","Привет, красавчик!"
 "traveler:BROTHEL0","You look bored.","Ты, я смотрю, скучаешь."
@@ -2023,12 +2023,12 @@ HOLD YOUR FIRE
 "traveler:BROTHEL1","Hey there.","Привет."
 "traveler:BROTHEL1","I can make you happy any time.","Я готова тебя осчастливить! В любое время."
 "traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","Приходи в ""Розу греха"", спроси Ava."
-"traveler:BROTHEL2","Oh. Here.","О, вот."
+"traveler:BROTHEL2","Oh. Here.","Ой, вот."
 "traveler:BROTHEL2","Please help me.","Пожалуйста, помогите мне."
 "traveler:BROTHEL3","Hello friend.","Привет, друг."
 "traveler:BROTHEL3","You come down, I give you good girl.","Ты приходи, дам хорошую девочку."
 "traveler:BROTHEL3","That little bitch.","Эта сучка!"
-"traveler:BROTHEL3","I break her in two.","Я ее об колено переломаю."
+"traveler:BROTHEL3","I break her in two.","Я ей башку оторву."
 "traveler:BROTHEL3","@You are Dari Ludum?","@Вы Dari Ludum?"
 "traveler:BROTHEL3","Of course, it says on passport.","А как же, так и в паспорте написано."
 "traveler:BROTHEL3","@One moment.","@Минутку."
@@ -2217,7 +2217,7 @@ HOLD YOUR FIRE
 "traveler:PRISON_GUARD_BOMB","Bullshit. I need to earn money today.","Чушь собачья. Мне сегодня надо денег заработать."
 "traveler:PRISON_GUARD_BOMB","Give bomb to me.","Давай мне бомбу."
 "traveler:PRISON_GUARD_BOMB","I sell materials and give you cut.","Я продам ее по частям и дам тебе долю."
-"traveler:PRISON_GUARD_BOMB","What a piece of shit.","Ну и дерьмо."
+"traveler:PRISON_GUARD_BOMB","What a piece of shit.","Полная дрянь."
 "traveler:PRISON_GUARD_BOMB","I doubt it is even worth much.","За нее небось и денег нормальных не выручишь."
 "traveler:PRISON_GUARD_BOMB","Call the next immigrant.","Вызывай следующего."
 "traveler:TIME_BOMBER","DEATH TO ARSTOTZKA!","СМЕРТЬ АРСТОТИИ!"
@@ -2242,7 +2242,7 @@ HOLD YOUR FIRE
 "traveler:BOSS1","The smell at this checkpoint makes me sick.","Тут такой запах, что меня сейчас стошнит."
 "traveler:BOSS1","Where is plaque I gave you?","Где грамота, которую я вам вручил?"
 "traveler:BOSS1","Why is it not on wall?","Почему она не на стене?"
-"traveler:BOSS1","What is other shit hanging here?","И что там висит за дрянь?"
+"traveler:BOSS1","What is other shit hanging here?","И что там за дрянь висит?"
 "traveler:BOSS1","These walls are for official plaques only.","На этих стенах должны висеть только официальные документы."
 "traveler:BOSS1","Your pay will be docked for violation.","На вас будет наложен штраф."
 "traveler:BOSS1","@It will not happen again.","@Это не повторится."
@@ -2277,15 +2277,15 @@ HOLD YOUR FIRE
 "traveler:BOSS_BUDDY","How is Dimitri?","Как там Dimitri?"
 "traveler:BOSS_BUDDY","I hear he runs checkpoint now.","Говорят, теперь он главный на этом пункте."
 "traveler:BOSS_BUDDY","It looks like somewhere he would fit in.","Да, это местечко для него."
-"traveler:BOSS_BUDDY","I bet he is still terrible boss.","Готов поспорить, он и сейчас кошмарный начальник."
+"traveler:BOSS_BUDDY","I bet he is still terrible boss.","Готова поспорить, он и сейчас кошмарный начальник."
 "traveler:BOSS_BUDDY","You know, Dimitri asked me to come.","Знаете, это Dimitri велел мне придти."
 "traveler:BOSS_BUDDY","Said I would get through.","Сказал, меня пропустят."
 "traveler:BOSS_BUDDY","But I guess he is not so much in control.","Но, похоже, его тут не очень слушают."
 "traveler:BOSS_BUDDY","I hope Dimitri tires more easily now.","Надеюсь, Dimitri теперь устает побыстрее."
 "traveler:BOSS_BUDDY","I do not want to stay long in Arstotzka.","Я в Арстотии надолго оставаться не хочу."
-"traveler:BOSS_BUDDY","Ah, I would not do that.","Эй, я бы этого не делал."
+"traveler:BOSS_BUDDY","Ah, I would not do that.","Эй, я бы этого не делала."
 "traveler:BOSS_BUDDY","Dimitri is not forgiving person.","Dimitri не из тех, кто легко прощает."
-"traveler:BOSS_BUDDY","I am no fool.","Я не дурак."
+"traveler:BOSS_BUDDY","I am no fool.","Я не дура."
 "traveler:BOSS_BUDDY","This is inconvenience, but I am not worried for myself.","Это неприятно, но я не за себя волнуюсь."
 "traveler:BOSS_BUDDY","Tell Dimitri I said hello.","Передайте Dimitri привет."
 "traveler:BOSS_ANGRY","You worthless urchin.~","Ах ты, тупой сопляк.~"
@@ -2371,7 +2371,7 @@ HOLD YOUR FIRE
 "traveler:WATCH_GIVER0","There is little time. I must enter today.","Времени очень мало. Я должен въехать сегодня."
 "traveler:WATCH_GIVER0","I come back in 3 days with right papers.~","Я вернусь через три дня со всеми бумагами.~"
 "traveler:WATCH_GIVER0","To prove, I give you something important.","Чтобы вы не сомневались, я оставлю вам очень важную вещь."
-"traveler:WATCH_GIVER0","Is special family treasure.~","Это семейная раликвия.~"
+"traveler:WATCH_GIVER0","Is special family treasure.~","Это семейная реликвия.~"
 "traveler:WATCH_GIVER0","Fully digital.~","Они электронные.~"
 "traveler:WATCH_GIVER0","You hold as collateral.","Я оставлю их в залог."
 "traveler:WATCH_GIVER0","I will be back to pick it up.~","Я вернусь, чтобы их забрать.~"
@@ -2696,7 +2696,7 @@ HOLD YOUR FIRE
 "traveler:ACCESSPERMIT_WRONG","What the hell is access permit?","Это что еще за хрень такая - ""право на въезд""?"
 "traveler:ACCESSPERMIT_WRONG","Do you mean entry permit?","Вы про ""разрешение на въезд""?"
 "traveler:ACCESSPERMIT_WRONG","I have it there.","Вот."
-"traveler:ACCESSPERMIT_WRONG","@I mean access permit.","@Я говорю про визу на въезд."
+"traveler:ACCESSPERMIT_WRONG","@I mean access permit.","@Я говорю про право на въезд."
 "traveler:ACCESSPERMIT_WRONG","Never heard of it. Sounds stupid.","Не слышал про такое. Глупость какая-то."
 "traveler:ACCESSPERMIT_WRONG","@Entry permit and supplement are no longer accepted.","@Разрешение на въезд и описание внешних данных больше не принимаются."
 "traveler:ACCESSPERMIT_WRONG","@Access permit replaces them.","@Вместо них - право на въезд."
@@ -3018,7 +3018,7 @@ HOLD YOUR FIRE
 "face:M00","Glasses","Очки"
 "face:M00","Large Mustache","Большие усы"
 "face:M01","Bald","Лысый"
-"face:M01","Large Curly Locks","Длинные вьющиеся локоны"
+"face:M01","Large Curly Locks","Длинные кудри"
 "face:M01","Glasses","Очки"
 "face:M02","Cropped Hair","Волосы короткие"
 "face:M02","Glasses","Очки"
@@ -3037,11 +3037,11 @@ HOLD YOUR FIRE
 "face:M11","Mohawk","Ирокез"
 "face:M11","Glasses","Очки"
 "face:M12","Short Cropped Hair","Короткая стрижка"
-"face:M12","Long Wavy Hair","Волосы длинные волнистые"
+"face:M12","Long Wavy Hair","Волосы длинные вьются"
 "face:M12","Glasses","Очки"
 "face:M13","Balding","Лысина"
 "face:M13","Huge Afro","Пышная ""афро"""
-"face:M13","Thick Glasses","Очки с толстыми стеклами"
+"face:M13","Thick Glasses","Толстые очки"
 "face:M20","Balding","Лысина"
 "face:M20","Curly Hair","Волосы вьющиеся"
 "face:M20","Glasses","Очки"
@@ -3051,7 +3051,7 @@ HOLD YOUR FIRE
 "face:M22","Short Light Hair","Волосы короткие светлые"
 "face:M22","Dark Hair","Волосы темные"
 "face:M22","Glasses","Очки"
-"face:M23","Widow's Peak","Клинышек волос на лбу"
+"face:M23","Widow's Peak","Залысины"
 "face:M23","Mustache","Усы"
 "face:M23","Shaved Head","Бритая голова"
 "face:M23","Glasses","Очки"
@@ -3063,10 +3063,10 @@ HOLD YOUR FIRE
 "face:M31","Light Hair","Волосы светлые"
 "face:M31","Glasses","Очки"
 "face:M32","Bobbed Hair","Прическа ""каре"""
-"face:M32","Long Curly Hair","Волосы длинные вьющиеся"
+"face:M32","Long Curly Hair","Волосы длинные вьются"
 "face:M32","Glasses","Очки"
 "face:M32","Large Mustache","Большие усы"
-"face:M33","Short Curly Hair","Волосы короткие вьющиеся"
+"face:M33","Short Curly Hair","Волосы короткие вьются"
 "face:M33","Mustache","Усы"
 "face:M33","Balding","Лысеет"
 "face:M33","Glasses","Очки"
@@ -3077,15 +3077,15 @@ HOLD YOUR FIRE
 "face:M41","Mohawk","Ирокез"
 "face:M41","Large Sideburns","Большие бакенбарды"
 "face:M41","Glasses","Очки"
-"face:M42","Short Curly Hair","Волосы короткие вьющиеся"
-"face:M42","Flat-top Hair","Прическа ""плоская крыша"""
+"face:M42","Short Curly Hair","Волосы короткие вьются"
+"face:M42","Flat-top Hair","ВОлосы до плеч"
 "face:M42","Glasses","Очки"
 "face:M42","Pencil Mustache","Тонкие усики"
-"face:M43","Unkempt Curly Hair","Волосы всклокоченные вьющиеся"
+"face:M43","Unkempt Curly Hair","Нечесаные кудри"
 "face:M43","Mustache","Усы"
 "face:M43","Long Straight Hair","Волосы длинные прямые"
 "face:M43","Glasses","Очки"
-"face:F00","Wavy Hair","Волосы волнистые"
+"face:F00","Wavy Hair","Волосы вьются"
 "face:F00","Short Hair","Волосы короткие"
 "face:F00","Glasses","Очки"
 "face:F01","Small Head","Голова маленькая"
@@ -3101,17 +3101,17 @@ HOLD YOUR FIRE
 "face:F10","Straight Hair","Волосы прямые"
 "face:F10","Long Curly Hair","Волосы длинные вьющиеся"
 "face:F10","Glasses","Очки"
-"face:F11","Bobbed Hair","Прическа ""каре"
+"face:F11","Bobbed Hair","Прическа ""каре"""
 "face:F11","Afro","Прическа ""афро"""
 "face:F11","Glasses","Очки"
 "face:F12","Short Hair","Волосы короткие"
 "face:F12","Huge Afro","Пышная прическа ""афро"""
-"face:F12","Thick Glasses","Очки с толстыми стеклами"
+"face:F12","Thick Glasses","Толстые очки"
 "face:F13","Very Short Hair","Волосы очень короткие"
 "face:F13","Long Straight Hair","Волосы прямые длинные"
 "face:F13","Glasses","Очки"
 "face:F20","Short Hair","Волосы короткие"
-"face:F20","Long Curly Hair","Волосы длинные вьющиеся"
+"face:F20","Long Curly Hair","Волосы длинные вьются"
 "face:F20","Glasses","Очки"
 "face:F21","Overweight","Лишний вес"
 "face:F21","Slim Figure","Стройная фигура"
@@ -3119,18 +3119,18 @@ HOLD YOUR FIRE
 "face:F22","Bobbed Hair","Прическа ""каре"""
 "face:F22","Shaved Head","Голова бритая"
 "face:F22","Glasses","Очки"
-"face:F23","Short Curly Hair","Волосы короткие вьющиеся"
+"face:F23","Short Curly Hair","Волосы короткие вьются"
 "face:F23","Long Straight Hair","Волосы прямые длинные"
 "face:F23","Glasses","Очки"
 "face:F30","Curly Bobbed Hair","Волосы вьющиеся, прическа ""каре"""
 "face:F30","Shaved Head","Голова бритая"
-"face:F30","Thick Glasses","Очки с толстыми стеклами"
-"face:F31","Short Wavy Hair","Волосы короткие волнистые"
+"face:F30","Thick Glasses","Толстые очки"
+"face:F31","Short Wavy Hair","Волосы короткие вьются"
 "face:F31","Glasses","Очки"
 "face:F31","Long Hair","Волосы длинные"
 "face:F31","Good Vision","Зрение хорошее"
 "face:F32","Bobbed Hair","Прическа ""каре"""
-"face:F32","Light Curly Hair","Волосы светлые вьющиеся"
+"face:F32","Light Curly Hair","Волосы светлые вьются"
 "face:F32","Glasses","Очки"
 "face:F33","Long Hair","Волосы длинные"
 "face:F33","Shaved Head","Голова бритая"
