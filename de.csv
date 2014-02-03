@@ -39,7 +39,7 @@
 "BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","Fehlende Dokumente können durch Auswahl des Tresens und des Absatzes in den Vorschriften abgeglichen werden."
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","Gleichen Sie den relevanten Absatz der Vorschriften mit den falschen Daten ab, um Zugriff auf weitere Optionen zu bekommen."
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","Gleichen Sie entdeckte Waffen und Schmugglergut mit den Vorschriften ab."
-"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Markieren Sie zwei Diskrepanzen im PRÜFEN-Modus, um ein Verhör durchführen zu können."
+"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Markieren Sie zwei Diskrepanzen im PRÜF-Modus, um ein Verhör durchführen zu können."
 "BulletinInnerPassportTut","Pay attention to passport nationality.","Achten Sie auf die im Paß angegebene Nationalität."
 "BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","Arstotzka<br>Ministerium für Grenzschutz"
 "BulletinInnerBoothTut","Inspector's Booth","Grenzposten-Kabine"
@@ -58,7 +58,7 @@
 "BulletinInnerCriminals","Ministry of Justice","Ministerium der Justiz"
 "BulletinInnerCriminals","WANTED CRIMINALS","GESUCHTE KRIMINELLE"
 "BulletinInnerNews","NEWS","AKTUELL"
-"BulletinPagesNote","CHECK ALL<br>PAGES","ALLE SEITEN<br>DURCHLESEN"
+"BulletinPagesNote","CHECK ALL<br>PAGES","ALLE SEITEN<br>LESEN"
 "CitationInner","M.O.A. CITATION","MfG-BERICHT"
 "DiplomaticAuthInner","Diplomatic<br>Authorization","Diplomatische<br>Akkreditierung"
 "DiplomaticAuthInner","This document authorizes named agent as a diplomatic entity of a Council of Nations member state.","Kraft dieses Dokuments ist der unten bezeichnete Agent als diplomatischer Vertreter eines Mitgliedsstaates des Völkerrates akkreditiert."
@@ -770,7 +770,7 @@ Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Willkommen bei Ihrer neuen Position am Grenzübergang Grestin.
+Deny all foreigners.","willkommen bei Ihrer neuen Position am Grenzübergang Grestin.
 
 Stempeln Sie EINREISE-VISA in Pässe und geben Sie die Dokumente den Einreisenden zurück.
 
@@ -783,11 +783,11 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","Mit dem heutigen Datum ist auch Ausländern mit gültigem Paß die Einreise zu gestatten.
+Continued...[PAGESNOTE]","mit dem heutigen Datum ist auch Ausländern mit gültigem Paß die Einreise zu gestatten.
 
 Ihre Kabine ist jetzt mit Geräten zur PRÜFUNG ausgestattet.
 
-Alle Pass-Daten sind sorgfältig auf Diskrepanzen zu prüfen. Einreisewillige mit inkonsistenten Daten sind abzuweisen.
+Alle Paß-Daten sind sorgfältig auf Diskrepanzen zu prüfen. Einreisewillige mit inkonsistenten Daten sind abzuweisen.
 
 Bitte wenden ...[PAGESNOTE]"
 "bulletin:2B","__________________________
@@ -811,7 +811,7 @@ Dieser Posten unterliegt den Vorschriften und Richtlinien des Ministeriums für 
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Die Einreise aller Nicht-Bürger ist ab sofort reguliert. 
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","die Einreise aller Nicht-Bürger ist ab sofort reguliert. 
 
 Alle Ausländer haben einen EINREISEBELEG vorzulegen.
 
@@ -824,7 +824,7 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Ab sofort gelten strengere Vorschriften hinsichtlich der Vorlage von Ausweisdokumenten.
+Continued...","ab sofort gelten strengere Vorschriften hinsichtlich der Vorlage von Ausweisdokumenten.
 
 Bürger von Arstotzka haben ihren AUSWEIS vorzulegen.
 
@@ -853,14 +853,14 @@ Interrogate discrepancies to enable detention option.","Sie sind ab sofort autor
 Verhören Sie Einreisewillige hinsichtlich Diskrepanzen, um sie unter Arrest stellen zu können."
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
-Travelers entering for work require a valid WORK PASS.","Das Ministerium für Arbeit hat ein Sonderprogramm zur Kontrolle der Werktätigkeit von Immigranten aufgelegt.
+Travelers entering for work require a valid WORK PASS.","das Ministerium für Arbeit hat ein Sonderprogramm zur Kontrolle der Werktätigkeit von Immigranten aufgelegt.
 
 Personen, die zwecks Aufnahme einer Werktätigkeit einreisen wollen, haben einen gültigen ARBEITSAUSWEIS vorzulegen."
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
 
-Search all Kolechians before approving their entry.","Um die Abfertigung zu beschleunigen, wurde ein SUCH-Scanner-System in Ihrer Kabine installiert.
+Search all Kolechians before approving their entry.","um die Abfertigung zu beschleunigen, wurde ein SUCH-Scanner-System in Ihrer Kabine installiert.
 
 Kolechische Extremisten stehen im Verdacht, für den Bombenanschlag vom gestrigen Tage verantwortlich zu sein. 
 
@@ -871,7 +871,7 @@ A diplomat will arrive today for high-level discussions.
 
 Automatic searches of Kolechian citizens are no longer authorized.
 
-Continued...[PAGESNOTE]","Die Kolechen haben formell Beschwerde eingelegt. 
+Continued...[PAGESNOTE]","die Kolechen haben formell Beschwerde eingelegt. 
 
 Ein Diplomat wird heute zu Gesprächen auf höchster Ebene eintreffen.
 
@@ -891,19 +891,19 @@ Diplomaten benötigen zur Einreise nur einen PASS und eine gültige DIPLOMATISCH
 Aktualisierte Informationen zu den entsprechenden Dokumenten finden Sie in den Vorschriften."
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","Ein verdeckt operierender Agent des Ministeriums für Information ist enttarnt worden.
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","ein verdeckt operierender Agent des Ministeriums für Information ist enttarnt worden.
 
 Das Ministerium für Grenzschutz hat seine Dienste als Vermittler angeboten. Mehr dazu später am heutigen Tage."
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
-Maintain your best behavior.","Heute wird Ihnen die Abteilungsleitung für den Distrikt Ost-Grestin einen Besuch abstatten.
+Maintain your best behavior.","heute wird Ihnen die Abteilungsleitung für den Distrikt Ost-Grestin einen Besuch abstatten.
 
 Legen Sie Ihr bestmögliches Verhalten an den Tag."
 "bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","Durch einen Einbruch beim MfG sind unter Umständen Siegel und Stempel abhanden gekommen.
+Continued...","durch einen Einbruch beim MfG sind unter Umständen Siegel und Stempel abhanden gekommen.
 
 Es wurde nichts von Bedeutung entwendet, doch Geheimdienstberichten zufolge sind Fälscher bereits dabei, offizielle arstotzkanische Dokumente zu fälschen.
 
@@ -923,7 +923,7 @@ Korrelieren Sie fehlende oder falsche Siegel mit den entsprechenden Absätzen de
 
 From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
 
-The rulebook DOCUMENTS chapter has been updated.","Der neue Direktor ist der Auffassung, daß Ausländer bislang noch nicht ausreichend überprüft werden.
+The rulebook DOCUMENTS chapter has been updated.","der neue Direktor ist der Auffassung, daß Ausländer bislang noch nicht ausreichend überprüft werden.
 
 Ab heute müssen alle einreisewilligen Ausländer einen ANHANG A IDENTITÄT mit Gewicht, Größe und Erscheinungsbild vorlegen.
 
@@ -932,7 +932,7 @@ Das Kapitel DOKUMENTE Ihrer Vorschriften wurde aktualisiert."
 
 Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]","Das Ministerium für Justiz hat uns um Unterstützung ersucht.
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","das Ministerium für Justiz hat uns um Unterstützung ersucht.
 
 In den Depeschen des Tages werden ab sofort die drei meistgesuchten internationalen Kriminellen aufgeführt.
 
@@ -943,7 +943,7 @@ You are now responsible for controlling trespasser activity.
 
 The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
 
-Continued...[PAGESNOTE]","Das Ministerium der Justiz hat uns die Zuständigkeit für den äußeren Sicherheitsstreifen übertragen. 
+Continued...[PAGESNOTE]","das Ministerium der Justiz hat uns die Zuständigkeit für den äußeren Sicherheitsstreifen übertragen. 
 
 Ab sofort sind Sie dafür verantwortlich,  auf illegale Grenzübertritte zu achten.
 
@@ -973,7 +973,7 @@ All denials must be accompanied by a REASON FOR DENIAL stamp.
 
 A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
 
-Continued...","Die Kritik der Weltpresse hat Folgen für die Grenzkontrollen.
+Continued...","die Kritik der Weltpresse hat Folgen für die Grenzkontrollen.
 
 Alle abgelehnten Einreisegesuche müssen mit einem Stempel mit dem GRUND DER ABLEHNUNG versehen werden.
 
@@ -1017,7 +1017,7 @@ Heute wird Ihnen die Abteilungsleitung für den Distrikt Ost-Grestin erneut eine
 
 Those seeking asylum must carry a valid GRANT OF ASYLUM.
 
-Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","Ein Sonderprogramm für politisches Asyl ist aufgelegt worden.
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","ein Sonderprogramm für politisches Asyl ist aufgelegt worden.
 
 Asylsuchende müssen einen gültigen ASYLBESCHEID vorlegen.
 
@@ -1033,7 +1033,7 @@ The Ministry of Information has requested our cooperation.
 
 A special drawer for confiscating documents has been installed in your booth.
 
-Continued...","Jüngste Ereignisse haben zu einem Anfangsverdacht gegen arstotzkanische Bürger und deren Aktivitäten im Distrikt ALTAN geführt.
+Continued...","jüngste Ereignisse haben zu einem Anfangsverdacht gegen arstotzkanische Bürger und deren Aktivitäten im Distrikt ALTAN geführt.
 
 Das Ministerium für Information hat uns um Kooperation ersucht.
 
@@ -1068,7 +1068,7 @@ All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date PO
 
 This requirement extends to natives, foreigners, diplomats, and asylum seekers.
 
-Continued...","Die Gefahr des Ausbruchs einer Epidemie ist zu groß. Neue Vorschriften sind ab sofort in Kraft.
+Continued...","die Gefahr des Ausbruchs einer Epidemie ist zu groß. Neue Vorschriften sind ab sofort in Kraft.
 
 Alle Einreisewilligen müssen eine gültige IMPF-BESCHEINIGUNG über einen aktuellen POLIO-Impfstoff vorlegen.
 
@@ -1084,7 +1084,7 @@ Arstotzkanische Pässe von Bürgern aus dem Distrikt ALTAN sind weiterhin zu kon
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
-Continued...","Zur Steigerung der Effizienz wurden EINREISE-GENEHMIGUNG und AUSWEIS-ANHANG zu einem VISUM zusammengefaßt.
+Continued...","zur Steigerung der Effizienz wurden EINREISE-GENEHMIGUNG und AUSWEIS-ANHANG zu einem VISUM zusammengefaßt.
 
 Ausländer müssen ab sofort ein gültiges VISUM vorlegen.
 
@@ -1104,7 +1104,7 @@ Confiscate all Arstotzkan passports from native entrants.
 
 There are no exceptions.
 
-Do not confiscate foreign passports.","Aufgrund der fortwährenden Angriffe weitet das Ministerium für Information die Konfiszierung von Pässen aus.
+Do not confiscate foreign passports.","aufgrund der fortwährenden Angriffe weitet das Ministerium für Information die Konfiszierung von Pässen aus.
 
 Alle arstotzkanischen Pässe von Einreisewilligen aus dem Inland sind zu konfiszieren.
 
@@ -1143,7 +1143,7 @@ Bitte wenden ..."
 
 Until a decision is made, maintain your duties as ordered.
 
-Continued...","Das Ministerium für Grenzschutz führt zurzeit Gespräche über die Schließung dieses Grenzübergangs.
+Continued...","das Ministerium für Grenzschutz führt zurzeit Gespräche über die Schließung dieses Grenzübergangs.
 
 Bis eine Entscheidung feststeht, haben Sie Dienst nach Vorschrift.
 
