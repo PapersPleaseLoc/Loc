@@ -573,7 +573,7 @@ $detained detained
 $citations citations earned
 $stamps stamps applied
 Ending $endnum of $endtotal","プレイ時間 $time
-処理旅行者　$processed
+処理入国者　$processed
 許可数　$approved
 拒否数　$denied
 拘束数　$detained
@@ -965,8 +965,8 @@ WEAPONS PROTOCOL
 Review instructional diagram on following page.","__________________________
 報酬について
 
-侵入者を妨害すると賞与が<br>支給される。
-命中しなかった場合は少額の<br>賞与となる。
+侵入者を妨害すると手当が<br>支給される。
+命中しなかった場合は少額の<br>手当となる。
 
 __________________________
 武器 使用規定
@@ -1532,9 +1532,9 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:PROGRESS_SAVED","Progress is saved at the start of each day.","セーブは各日開始時に行われる。"
 "night:ATTACK_DIDNOTHING","The day was cut short by a terrorist attack.","テロリストの襲撃により本日の業務は中断された。"
 "night:ATTACK_FIREDGUN","The day was cut short by a terrorist attack.","テロリストの襲撃により本日の業務は中断された。"
-"night:ATTACK_FIREDGUN","TRIGGER BONUS","狙撃賞与"
+"night:ATTACK_FIREDGUN","TRIGGER BONUS","狙撃手当"
 "night:ATTACK_SOLVED","The day was cut short by a terrorist attack.","テロリストの襲撃により本日の業務は中断された。"
-"night:ATTACK_SOLVED","SHARPSHOOTER BONUS","精密狙撃賞与"
+"night:ATTACK_SOLVED","SHARPSHOOTER BONUS","精密狙撃手当"
 "night:POISONING","The day was cut short by a security incident.","安全面の問題が浮上したため本日の業務は中断された。"
 "night:FAMILY_PICTURE","Your wife found an old family picture.","妻が古い家族写真を見つけた。"
 "night:BUY_UPGRADE0","Booth Upgrade Available: SPACE key to toggle INSPECT mode.","審査室改良可能：スペースキーで調査モードに切換。"
@@ -2227,29 +2227,29 @@ HOLD YOUR FIRE
 "traveler:PRISON_GUARD0","Now they pay me almost nothing.","だが、給料はないようなものだな。"
 "traveler:PRISON_GUARD0","@They pay us all as much.","@同じようなものです。"
 "traveler:PRISON_GUARD0","Yes. But look.","そこで、だ。聞いてくれ。"
-"traveler:PRISON_GUARD0","I get small bonus when you detain people.","アンタが拘束する度に、手当てが少し出るんだ。"
-"traveler:PRISON_GUARD0","More you detain, more they give me for processing.","アンタが拘束すればするほど、オレももっと連行手当てがもらえる。"
+"traveler:PRISON_GUARD0","I get small bonus when you detain people.","アンタが拘束する度に、手当が少し出るんだ。"
+"traveler:PRISON_GUARD0","More you detain, more they give me for processing.","アンタが拘束すればするほど、オレももっと連行手当がもらえる。"
 "traveler:PRISON_GUARD0","But this is not fair, right? You should get something too.","でも、それって不公平だろ？アンタも何かもらうべきだ。"
 "traveler:PRISON_GUARD0","So I fix this problem.","提案がある。"
-"traveler:PRISON_GUARD0","I give you 5 credits from my bonus for every two people you detain.","アンタが２人拘束するごとに、オレの手当てから５クレジットやる。"
+"traveler:PRISON_GUARD0","I give you 5 credits from my bonus for every two people you detain.","アンタが２人拘束するごとに、オレの手当から５クレジットやる。"
 "traveler:PRISON_GUARD0","Sounds like good deal to me.","おいしい話だと思わんか。"
-"traveler:PRISON_GUARD0","I give money to you after I get paid.","手当てが支払われたら、アンタに金を渡す。"
+"traveler:PRISON_GUARD0","I give money to you after I get paid.","手当が支払われたら、アンタに金を渡す。"
 "traveler:PRISON_GUARD0","Let us make the best of this.","互いに最善を尽くそう。"
 "traveler:PRISON_GUARD3","Here.","受け取れ。"
-"traveler:PRISON_GUARD3","For bonus and selling bomb parts.","手当てと爆弾の部品を売った分だ。"
+"traveler:PRISON_GUARD3","For bonus and selling bomb parts.","手当と爆弾の部品を売った分だ。"
 "traveler:PRISON_GUARD3","They move our station to prison.","オレは牢の方に移されることになった。"
-"traveler:PRISON_GUARD3","We still get bonus so keep detaining.~","手当ては変わらず支給されるから拘束を続けてくれ。~"
+"traveler:PRISON_GUARD3","We still get bonus so keep detaining.~","手当は変わらず支給されるから拘束を続けてくれ。~"
 "traveler:PRISON_GUARD3","I stop visiting you here.","ここに来るのは今日で最後だ。"
 "traveler:PRISON_GUARD3","I will drop off money at your home instead.","これからは、アンタの家に金を置いてく。"
 "traveler:PRISON_GUARD3","Every other night.","２日に一度、夜に寄るよ。"
 "traveler:PRISON_GUARD_PAYOUT","What is going on?","一体、何をしてる？"
-"traveler:PRISON_GUARD_PAYOUT","I am getting nothing because of you.","アンタのせいで手当てが一切もらえない。"
+"traveler:PRISON_GUARD_PAYOUT","I am getting nothing because of you.","アンタのせいで手当が一切もらえない。"
 "traveler:PRISON_GUARD_PAYOUT","Detain more people and we will both benefit.","もっと拘束してくれれば、互いの利益になる。"
 "traveler:PRISON_GUARD_PAYOUT","Good morning.","おはよう。"
 "traveler:PRISON_GUARD_PAYOUT","You are not detaining enough people.","拘束人数が足りないな。"
 "traveler:PRISON_GUARD_PAYOUT","I have nothing to give you.","分け前なしだ。"
-"traveler:PRISON_GUARD_PAYOUT","Detain more to share part of my bonus.","手当て分けられるよう、もっと拘束してくれ。"
-"traveler:PRISON_GUARD_PAYOUT","Bonus is good, they pay ok.","手当ては悪くない。ちゃんと支払われてる。"
+"traveler:PRISON_GUARD_PAYOUT","Detain more to share part of my bonus.","手当が分けられるよう、もっと拘束してくれ。"
+"traveler:PRISON_GUARD_PAYOUT","Bonus is good, they pay ok.","手当は悪くない。ちゃんと支払われてる。"
 "traveler:PRISON_GUARD_PAYOUT","It is not much though.","多くはないがな。"
 "traveler:PRISON_GUARD_PAYOUT","Maybe you detain more people and we do better.","拘束人数を増やせば、お互い得だろう。"
 "traveler:PRISON_GUARD_PAYOUT","@This is not enough.","@これじゃ足りません。"
