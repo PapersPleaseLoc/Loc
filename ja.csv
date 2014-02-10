@@ -409,7 +409,7 @@
 "news:LOSING_GUARDS","Still Safe With Smaller Detail?","縮小体制でも平和の保持可能か"
 "news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","グレスティンで事件 警備体制の甘さ露呈"
 "news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","さらなる侵害行為も予測"
-"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","グレスティン検問所がバイク襲撃！"
+"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","グレスティン検問所 バイク襲撃！"
 "news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","グレスティンに集う過激派か"
 "news:BORDER_TARGETED","Can The Wall Hold?","壁は保たれるか？"
 "news:BORDER_TARGETED","Border Safety Continually Questioned","国境地域の安全につのる不信の声"
@@ -667,7 +667,7 @@ $course
 $time
 $score点"
 "text:endless_ranked","Ranked #$0","ランク $0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","ストーリーモードで最後まで勤め上げてクリアすると、エンドレスモードが解除される。"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","職務を全うしてストーリーをクリアすると、エンドレスが解除される。"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$year年 $month $day"
 "text:month_1","January","1月"
@@ -965,8 +965,8 @@ WEAPONS PROTOCOL
 Review instructional diagram on following page.","__________________________
 報酬について
 
-侵入者を妨害すると手当が<br>支給される。
-命中しなかった場合は少額の<br>手当となる。
+侵入者を妨害すると賞与が<br>支給される。
+命中しなかった場合は少額の<br>賞与となる。
 
 __________________________
 武器 使用規定
@@ -1268,7 +1268,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "facts","MEASLES","はしか"
 "facts","TUBERC.","結核"
 "facts","2 DAYS","２日間"
-"facts","14 DAYS","１４日間"
+"facts","14 DAYS","14日間"
 "facts","1 MONTH","１ヶ月"
 "facts","2 MONTHS","２ヶ月"
 "facts","3 MONTHS","３ヶ月"
@@ -1405,7 +1405,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:killed-target","[A note appears from under the cell door]","[牢獄の扉の下にメモが差し込まれた]"
 "end:killed-target","INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE","シンサカン ドノヘ カゾクハ ブジダ<br>ヒョウテキ ハイジョゴ アラタナモンダイ フジョウ"
 "end:killed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","アラタナ シンサカンハ ヒキョウリョクテキ<br>EZICノ カツドウ ハバマレタ"
-"end:killed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","コレイジョウノ エンジョハ フカノウ<br>ＥＺＩＣハ カツドウヲ サイトウケツ スル"
+"end:killed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","コレイジョウノ エンジョハ フカノウ<br>EZICハ カツドウヲ サイトウケツ スル"
 "end:killed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","カゾクハ オブリスタンニ オクラレル<br>コウウンヲ イノル"
 "end:tranqed-target","You are under arrest for attacking an innocent.","貴方は無実の者に<br>危害を加えたとして逮捕された。"
 "end:tranqed-target","The penalty is forced labor.","刑罰は強制労働である。"
@@ -1415,7 +1415,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:tranqed-target","[A note appears from under the cell door]","[牢獄の扉の下にメモが差し込まれた]"
 "end:tranqed-target","INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL","シンサカン ドノヘ カゾクハ ブジダ<br>ヒョウテキハ ビョウショウヨリ カイフク"
 "end:tranqed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","アラタナ シンサカンハ ヒキョウリョクテキ<br>EZICノ カツドウ ハバマレタ"
-"end:tranqed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","コレイジョウノ エンジョハ フカノウ<br>ＥＺＩＣハ カツドウヲ サイトウケツ スル"
+"end:tranqed-target","WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN","コレイジョウノ エンジョハ フカノウ<br>EZICハ カツドウヲ サイトウケツ スル"
 "end:tranqed-target","FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK","カゾクハ オブリスタンニ オクラレル<br>コウウンヲ イノル"
 "end:stuff-on-walls","You are under arrest for violating direct orders.","貴方は指揮命令違反で逮捕された。"
 "end:stuff-on-walls","The penalty is forced labor.","刑罰は強制労働である。"
@@ -1438,10 +1438,10 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:help-ezic-kill-attackers-wall-safe","Several members of this group have been arrested in Arstotzka.","グループのメンバーがアルストツカで逮捕された。"
 "end:help-ezic-kill-attackers-wall-safe","At least one EZIC member has confessed to receiving your help.","その中に君に協力を得ていたと<br>自白する者がいた。"
 "end:help-ezic-kill-attackers-wall-safe","This represents treason of the highest order.","これは反逆罪の中でも最高の罪に値する。"
-"end:help-ezic-kill-attackers-wall-safe","Goodbye inspector.","さらばだ、審査官。"
+"end:help-ezic-kill-attackers-wall-safe","Goodbye inspector.","さらばだ、審査官よ。"
 "end:help-ezic-kill-attackers-wall-safe","The execution is scheduled for tonight.","君の死刑は今晩執行される。"
 "end:help-ezic-kill-attackers-wall-safe","Your family's safety is unknown.","家族の安否は不明。"
-"end:help-ezic-kill-attackers-wall-safe","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅し、正義は回復される。"
+"end:help-ezic-kill-attackers-wall-safe","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅し、正義は取り戻された。"
 "end:help-ezic-kill-attackers-wall-safe","Glory to Arstotzka.","アルストツカに栄光あれ。"
 "end:help-ezic-kill-attackers-wall-safe","[A note appears from under the cell door]","[牢獄の扉の下にメモが差し込まれた]"
 "end:help-ezic-kill-attackers-wall-safe","INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT","シンサカン ドノヘ<br>アナタハ サイゴニ ワレラヲ ウラギッタ"
@@ -1459,10 +1459,10 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明朝�
 "end:help-few-ezic","Several members of this group have been arrested in Arstotzka.","グループのメンバーがアルストツカで逮捕された。"
 "end:help-few-ezic","At least one EZIC member has confessed to receiving your help.","その中に君に協力を得ていたと<br>自白する者がいた。"
 "end:help-few-ezic","This represents treason of the highest order.","これは反逆罪の中でも最高の罪に値する。"
-"end:help-few-ezic","Goodbye inspector.","さようなら審査官。"
+"end:help-few-ezic","Goodbye inspector.","さらばだ、審査官よ。"
 "end:help-few-ezic","The execution is scheduled for tonight.","貴方の死刑は今晩執行される。"
 "end:help-few-ezic","Your family's safety is unknown.","家族の安否は不明。"
-"end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅し、正義は回復される。"
+"end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZICは壊滅し、正義は取り戻された。"
 "end:help-few-ezic","Glory to Arstotzka.","アルストツカに栄光あれ。"
 "end:escape","You board the late train to the Northern Territories. It is nearly empty.","貴方は北方地区行きの夜行列車に乗った。<br>乗客はほとんどいない。"
 "end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","間に合わせの偽造パスポートと再入国券を<br>購入した。ひどい出来だ。"
@@ -1506,7 +1506,7 @@ Process as many travelers as possible in 10 minutes. One point per traveler. Los
 
 10分で出来る限り多くの入国希望者を審査せよ。1人につき1点加算。通告1回につき30秒を失う。"
 "endless:perfection","Perfection","精度"
-"endless:perfection","Game over at first penalty. Earn dwindling points.","ミスした時点でゲームオーバー。減り行くポイントを稼げ。"
+"endless:perfection","Game over at first penalty. Earn dwindling points.","ミスしたらゲームオーバー。減り行くポイントを稼げ。"
 "endless:perfection","ENDLESS - PERFECTION
 
 Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","エンドレス - 精度
@@ -1557,7 +1557,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:APARTMENT_UPGRADE","MOVE TO CLASS-5","５等級へ転居"
 "night:SON_BIRTHDAY","Your son's birthday is in 2 days.","息子の誕生日は2日後だ。"
 "night:SON_BIRTHDAY2","Your son's birthday is tomorrow. He wants an expensive crayon set.","明日は息子の誕生日だ。高級クレヨンセットを欲しがっている。"
-"night:SON_BIRTHDAY2","SON'S GIFT","息子の贈り物"
+"night:SON_BIRTHDAY2","SON'S GIFT","息子への贈り物"
 "night:SON_BIRTHDAY3","Your son has drawn a picture for you to take to work.","職場に飾れる絵を、息子が描いてくれた。"
 "night:NIECE","Your sister has been arrested. Her young daughter needs a home.","妹が逮捕された。妹の幼い娘には住む場所が必要だ。"
 "night:NIECE","ADOPT NIECE","姪を引き取る"
@@ -1722,7 +1722,7 @@ EZIC　コウサクインヲ　ネラウ
 
 ソシセネバ　ナラヌ
 
-カレノナハ　KHALED ISTOM
+カレノ ナハ　KHALED ISTOM
 
 ワスレルナ"
 "note:EZIC_HANDLER_SNIPE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
@@ -1730,40 +1730,41 @@ EZIC　コウサクインヲ　ネラウ
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
 
 IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALEDハ　クニニ　カエル
-EZIC　ゼンコウサクイン
-ジョウホウ　モツ
+カレハ アルストツカノ　ゼンEZICノ
+ジョウホウヲ モツ
 
 モハヤ　ユウヨ　ナシ
 キョウ　カレヲ　コロセ
-アカノ　オトコ
-ワレラ　キカイ　ツクル
+アカノ　オトコダ
+ワレラガ　チャンスヲ　ツクル
 
 セイコウスレバ　アナタハ　タイホサレル
-アルストツカノタメ　ギセイ　ヒツヨウ
-カゾク　アンゼン　ホショウ"
+アルストツカノタメ　ギセイハ　ツキモノ
+カゾクノ　アンゼンハ　ホショウスル"
 "note:EZIC_HANDLER_SNIPE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED　EZIC　コウサクイン
-フタリ　サツガイ
-ベツノ　コロシヤ　クル
-アカノ　オトコ
-アルストツカ　EZIC　ジョウホウ モツ
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALEDハ　EZIC　コウサクイン
+フタリヲ　サツガイ
+ベツノ　コロシヤガ　クル
+アカノ　オトコダ
+アルストツカノ　ゼンEZICノ
+ジョウホウヲ モツ
 
 モハヤ　ユウヨ　ナシ
 キョウ　カレヲ　コロセ
-ワレラ　キカイ　ツクル
+ワレラガ　チャンスヲ　ツクル
 
 セイコウスレバ　アナタハ　タイホサレル
-アルストツカノタメ　ギセイ　ヒツヨウ
-カゾク　アンゼン　ホショウ"
+アルストツカノタメ　ギセイハ　ツキモノ
+カゾクノ　アンゼンハ　ホショウスル"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
 IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALEDハ　シマツサレタ
-ベツノ　コロシヤ　クル
+ベツノ　コロシヤガ　クル
 アカノ　オトコダ
 アルストツカノ　ゼンEZICノ
 ジョウホウヲ モツ
@@ -1852,7 +1853,7 @@ HOLD YOUR FIRE
 "traveler:EZIC_DIPLO","@It has been confiscated.","@押収されました。"
 "traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","私は政府の要請で来たコレチア外交官だ。"
 "traveler:EZIC_DIPLO","Return passport at once.","今すぐパスポートを返しなさい。"
-"traveler:EZIC_DIPLO","@Call number on slip to recover.","@返還については伝票の番号にお問い合わせ下さい。"
+"traveler:EZIC_DIPLO","@Call number on slip to recover.","@返還については伝票の番号にお問合せ下さい。"
 "traveler:EZIC_DIPLO","Barbarian.","野蛮人め。"
 "traveler:EZIC_DIPLO","You cannot do this.","こんな権利はないぞ。"
 "traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","ヤツが入国するのを見た。"
@@ -1971,8 +1972,8 @@ HOLD YOUR FIRE
 "traveler:JORJI_SMUGGLE0","Uh oh, maybe you not like this!","おっと、たぶんアンタ、これは気に入らないな！"
 "traveler:JORJI_SMUGGLE0","@What is this?","@これは何ですか？"
 "traveler:JORJI_SMUGGLE0","Is drugs!","クスリ！"
-"traveler:JORJI_SMUGGLE0","I have little side business here.","ちょと副業があるんだ。"
-"traveler:JORJI_SMUGGLE0","You let me through and I give you something something.","通してくれば、イイモノやる。"
+"traveler:JORJI_SMUGGLE0","I have little side business here.","ちょっと副業があるんだ。"
+"traveler:JORJI_SMUGGLE0","You let me through and I give you something something.","通してくれたら、イイモノやる。"
 "traveler:JORJI_SMUGGLE0","@Something what?","@いいもの？"
 "traveler:JORJI_SMUGGLE0","Ten credits.","10クレジット。"
 "traveler:JORJI_SMUGGLE0","I give you ten credits for just little stamp.","ちんけなハンコ１個で、10クレジットやる。"
@@ -2226,7 +2227,7 @@ HOLD YOUR FIRE
 "traveler:PRISON_GUARD0","Now they pay me almost nothing.","だが、給料はないようなものだな。"
 "traveler:PRISON_GUARD0","@They pay us all as much.","@同じようなものです。"
 "traveler:PRISON_GUARD0","Yes. But look.","そこで、だ。聞いてくれ。"
-"traveler:PRISON_GUARD0","I get small bonus when you detain people.","アンタ拘束する度に、手当てが少し出るんだ。"
+"traveler:PRISON_GUARD0","I get small bonus when you detain people.","アンタが拘束する度に、手当てが少し出るんだ。"
 "traveler:PRISON_GUARD0","More you detain, more they give me for processing.","アンタが拘束すればするほど、オレももっと連行手当てがもらえる。"
 "traveler:PRISON_GUARD0","But this is not fair, right? You should get something too.","でも、それって不公平だろ？アンタも何かもらうべきだ。"
 "traveler:PRISON_GUARD0","So I fix this problem.","提案がある。"
@@ -2376,7 +2377,7 @@ HOLD YOUR FIRE
 "traveler:KID_KILLER2","You heartless scum.","薄情なカス野郎め。"
 "traveler:KID_KILLER2","Give back my daughter's photo.","娘の写真を返せ。"
 "traveler:KID_KILLER2","My Julia.~","私のJulia。~"
-"traveler:KID_KILLER2","Read the news tomorrow.","明日の報道を楽しみしておけ。"
+"traveler:KID_KILLER2","Read the news tomorrow.","明日の報道を楽しみにしておけ。"
 "traveler:KID_KILLER2","She was just little girl.","まだほんの子どもだったのに。"
 "traveler:KID_KILLER2","@I do not know what you are talking about.","@何を言っているのかよくわかりません。"
 "traveler:KID_KILLER2","Damnit.","くそっ。"
@@ -2393,7 +2394,7 @@ HOLD YOUR FIRE
 "traveler:RESISTER","No.","いや[m]だ[/m][f]よ[/f]。"
 "traveler:RESISTER","I am not leaving.","動かない。"
 "traveler:RESISTER","@You are delaying the line.","@列の邪魔になります。"
-"traveler:RESISTER","I refuse!","イヤ[m]だ[/m][f]わ[/f]！"
+"traveler:RESISTER","I refuse!","イヤ[m]だ[/m][f]だわ[/f]！"
 "traveler:RESISTER","You fools better to not touch me.","[m]オレ[/m][f]私[/f]に近づくな。"
 "traveler:RESISTER","I will explode like wild tiger.","メチャクチャに暴れる[m]ぞ[/m][f]わよ[/f]。"
 "traveler:RESISTER","I have every right to enter Arstotzka.","アルストツカに入国する権利がある！"
@@ -2424,11 +2425,11 @@ HOLD YOUR FIRE
 "traveler:FAMILIAR_FACE","Hey I know you.","あなたのこと、知ってるわ。"
 "traveler:FAMILIAR_FACE","You are from Nirsk?","ニルスク出身でしょう？"
 "traveler:FAMILIAR_FACE","I worked with your father for many years.","お父様と何年も一緒働いたのよ。"
-"traveler:FAMILIAR_FACE","You were such a little brat.","あんなちっちゃな悪ガキだったにね。"
+"traveler:FAMILIAR_FACE","You were such a little brat.","あんなちっちゃな悪ガキだったのにね。"
 "traveler:FAMILIAR_FACE","I go back to Nirsk and tell them you are doing well here.","ニルスクに戻ったら元気にやってると伝えておくわ。"
 "traveler:FAMILIAR_FACE","You are still brat.","今も悪ガキなんだ。"
 "traveler:FAMILIAR_FACE","Just not so little any more.","カラダだけ大きくなって。"
-"traveler:WATCH_GIVER0","I have only passport but hear me out.~","私はパスポートしか持ってない。だけど、聞いて下さい。~"
+"traveler:WATCH_GIVER0","I have only passport but hear me out.~","私はパスポートしか持ってないのですが、聞いて下さい。~"
 "traveler:WATCH_GIVER0","There is little time. I must enter today.","時間がないんです。今日入国しなければ。"
 "traveler:WATCH_GIVER0","I come back in 3 days with right papers.~","ちゃんとした書類を持って、3日後に戻ります。~"
 "traveler:WATCH_GIVER0","To prove, I give you something important.","その証に、大切な物を渡しますよ。"
@@ -2492,7 +2493,7 @@ HOLD YOUR FIRE
 "traveler:WATCH_GIVER1","Scratch was there before actually.","前からあったキズなんだ。"
 "traveler:WATCH_GIVER1","Thank you.","どうもありがとう。"
 "traveler:WATCH_GIVER1","Now please give watch back.","腕時計を返して下さい。"
-"traveler:WATCH_GIVER1","I start to think maybe all Arstotzkans are not so bad.","アルストツカ人も、悪い人ばかりではないかもしれない。"
+"traveler:WATCH_GIVER1","I start to think maybe all Arstotzkans are not so bad.","アルストツカ人も、悪い人ばかりじゃないんだな。"
 "traveler:WATCH_GIVER1","Ah forget it.","いやいや。"
 "traveler:WATCH_GIVER1","You keep money.","お金をどうぞ。"
 "traveler:WATCH_GIVER1","But all papers are good!","書類は全部OKだろ！"
@@ -2568,7 +2569,7 @@ HOLD YOUR FIRE
 "traveler:BUSTED_SPY","I am being followed by an imposter.","詐欺師に追われてるんだ。"
 "traveler:BUSTED_SPY","They pretend to be from the Ministry of Information but it is a lie.","情報省の職員のフリをしているが、偽物だ。"
 "traveler:BUSTED_SPY","If they ask for documents, give these instead.","書類を求められたら、こっちを渡してくれ。"
-"traveler:BUSTED_SPY","Do not mix them up.","二つの書類を間違えるなよ。"
+"traveler:BUSTED_SPY","Do not mix them up.","２つの書類を間違えるなよ。"
 "traveler:BUSTED_SPY_FOLLOWER","@Your papers?","@書類は？"
 "traveler:BUSTED_SPY_FOLLOWER","I am from the Ministry of Information.","情報省職員です。"
 "traveler:BUSTED_SPY_FOLLOWER","You have something to give us.","私に渡す物があるでしょう。"
@@ -3060,7 +3061,7 @@ HOLD YOUR FIRE
 "speech:ask-missing-vaccinecert","All entrants must be vaccinated.","入国者は全てワクチン接種が義務付けられています。"
 "speech:missing-vaccinecert","I do not believe in vaccines.","ワクチンを受ける必要性を感じません。"
 "speech:missing-vaccinecert","I could not afford certification.","証明書を発行する余裕がなかったのです。"
-"speech:ask-vaccine-expired","This vaccine has expired.","ワクチンの予防効果期間は過ぎていますね。"
+"speech:ask-vaccine-expired","This vaccine has expired.","ワクチンの予防効果期間が過ぎていますね。"
 "speech:ask-vaccine-expired","This vaccine is no longer active.","このワクチンの予防効果はもうありません。"
 "speech:ask-vaccine-wrongdrugs","You are missing the required vaccination.","必要なワクチンを接種していませんね。"
 "speech:ask-vaccine-wrongdrugs","This vaccine certificate is insufficient.","このワクチン証明書では不十分です。"
