@@ -725,7 +725,7 @@ Glory to Arstotzka.","Gobierno de Arstotzka
 Ministerio de Admisiones
 Boletín oficial
 
-Inspector,
+Inspector:
 
 $content
 
@@ -1150,7 +1150,7 @@ NO ABANDONE LA REGIÓN A LA QUE FUE ASIGNADO.
 Prosiga con el decomiso de los pasaportes pertenecientes a nativos arstotzkos."
 "facts","$paper: Invalid $fact","Problema con $paper: $fact"
 "facts","Missing $paper","Falta $paper"
-"facts","$0 DISTRICT","REGIÓN  DE  $0"
+"facts","$0 DISTRICT","REGIÓN DE $0"
 "facts","Presence","Presencia"
 "facts","Sufficience","Mediocridad"
 "facts","Excellence","Excelencia"
@@ -2830,7 +2830,7 @@ MANTENGA SU POSICIÓN - NO DISPARE
 "speech:ask-expired-paper","This document has expired.","Ese documento ha caducado."
 "speech:ask-expired-paper","You cannot enter using an expired document.","No puede entrar con un documento caducado."
 "speech:expired-permit","I could not come until now.","No he podido venir antes."
-"speech:expired-permit","I was busy.","He estado ocupado."
+"speech:expired-permit","I was busy.","He estado [m]ocupado[/m][f]ocupada[/f]."
 "speech:expired-passport","What? That is mistake. I just renewed it.","¿Qué? No puede ser. Acabo de renovarlo."
 "speech:expired-passport","That must be a typographical error.","Debe de tratarse de una errata."
 "speech:expired-asylumgrant","There was nothing I could do.","No podía hacer otra cosa."
