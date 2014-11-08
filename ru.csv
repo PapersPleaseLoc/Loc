@@ -46,6 +46,14 @@
 "BulletinInnerBoothTut","Shutter","Ставни"
 "BulletinInnerBoothTut","Counter","Стол"
 "BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","Инструкция<br>Стенограмма<br>Бюллетень<br>Дата и время"
+"BulletinInnerBoothTut2","Arstotzkan<br>Ministry of Admission","Министерсво въезда<br>Арстотцки"
+"BulletinInnerBoothTut2","Inspector's Booth","Место инспектора"
+"BulletinInnerBoothTut2","Shutter","Ставни"
+"BulletinInnerBoothTut2","Counter","Стол"
+"BulletinInnerBoothTut2","Audio Transcript<br>Rule Book<br>Weight<br>","Стенограмма<br>
+Инструкция<br>
+вес"
+"BulletinInnerBoothTut2","Bulletin Storage<br>Time &amp; Date","Бюллетень<br>Дата и время"
 "BulletinInnerGunTut","Weapons Protocol","Применение оружия"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","ПРИ СИГНАЛЕ ТРЕВОГИ"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","Вставить ключ, открыть доступ к оружию"
@@ -219,6 +227,15 @@
 "RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","Инструкция<br>Стенограмма<br>Бюллетень<br>Время и дата"
 "RulesInnerBooth","UPGRADES","УЛУЧШЕНИЯ"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","УЛУЧШЕНИЯ<br>НЕ УСТАНОВЛЕНЫ"
+"RulesInnerBooth2","INSPECTOR'S BOOTH","МЕСТО ИНСПЕКТОРА"
+"RulesInnerBooth2","Shutter","Ставни"
+"RulesInnerBooth2","Counter","Стол"
+"RulesInnerBooth2","Audio Trans.<br>Rule Book<br>Weight","Стенограмма<br>
+Инструкция<br>
+вес"
+"RulesInnerBooth2","Bulletin<br>Time &amp; Date","Бюллетень<br>Время и дата"
+"RulesInnerBooth2","UPGRADES","УЛУЧШЕНИЯ"
+"RulesInnerBooth2","NO UPGRADES<br>INSTALLED","УЛУЧШЕНИЯ<br>НЕ УСТАНОВЛЕНЫ"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","РАЗРЕШЕННЫЕ К ПРИЕМУ"
 "RulesInnerDocs","DOCUMENTS","ДОКУМЕНТЫ"
 "RulesInnerDocs","CONTENTS","СОДЕРЖАНИЕ"
@@ -3148,3 +3165,4 @@ HOLD YOUR FIRE
 "face:F43","Long Hair","Волосы длинные"
 "face:F43","Shaved Head","Голова бритая"
 "face:F43","No Glasses","Очков нет"
+"font-stylesheet-override","css/fonts.css","css/fonts.css"
