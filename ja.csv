@@ -46,6 +46,14 @@
 "BulletinInnerBoothTut","Shutter","安全扉"
 "BulletinInnerBoothTut","Counter","カウンター"
 "BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","規則書<br>録音記録<br>公報保管場所<br>時刻 &amp; 日付"
+"BulletinInnerBoothTut2","Arstotzkan<br>Ministry of Admission","アルストツカ<br>入国管理省"
+"BulletinInnerBoothTut2","Inspector's Booth","入国審査室"
+"BulletinInnerBoothTut2","Shutter","安全扉"
+"BulletinInnerBoothTut2","Counter","カウンター"
+"BulletinInnerBoothTut2","Audio Transcript<br>Rule Book<br>Weight<br>","録音記録<br>
+規則書<br>
+体重"
+"BulletinInnerBoothTut2","Bulletin Storage<br>Time &amp; Date","公報保管場所<br>時刻 &amp; 日付"
 "BulletinInnerGunTut","Weapons Protocol","武器使用規定"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","警報作動時"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","鍵穴にキーを差し込み、<br>武器を解錠。"
@@ -219,6 +227,15 @@
 "RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","規則書<br>録音記録<br>公報<br>時刻 &amp; 日付"
 "RulesInnerBooth","UPGRADES","アップグレード"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","アップグレードは<br>ありません"
+"RulesInnerBooth2","INSPECTOR'S BOOTH","入国審査室"
+"RulesInnerBooth2","Shutter","安全扉"
+"RulesInnerBooth2","Counter","カウンター"
+"RulesInnerBooth2","Audio Trans.<br>Rule Book<br>Weight","録音記録<br>
+規則書<br>
+体重"
+"RulesInnerBooth2","Bulletin<br>Time &amp; Date","公報<br>時刻 &amp; 日付"
+"RulesInnerBooth2","UPGRADES","アップグレード"
+"RulesInnerBooth2","NO UPGRADES<br>INSTALLED","アップグレードは<br>ありません"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","公式認定済"
 "RulesInnerDocs","DOCUMENTS","書類一覧"
 "RulesInnerDocs","CONTENTS","目次"
@@ -3209,3 +3226,4 @@ HOLD YOUR FIRE
 "face:F43","Long Hair","ロングヘア"
 "face:F43","Shaved Head","スキンヘッド"
 "face:F43","No Glasses","眼鏡なし"
+"font-stylesheet-override","css/fonts.css","css/fonts.css"
