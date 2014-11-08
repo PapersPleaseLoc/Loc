@@ -46,6 +46,14 @@
 "BulletinInnerBoothTut","Shutter","Volet"
 "BulletinInnerBoothTut","Counter","Comptoir"
 "BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","Règlement<br>Transcription<br>Panière à bulletin<br>Heure &amp; date"
+"BulletinInnerBoothTut2","Arstotzkan<br>Ministry of Admission","Arstotzkan<br>Ministry of Admission"
+"BulletinInnerBoothTut2","Inspector's Booth","Inspector's Booth"
+"BulletinInnerBoothTut2","Shutter","Volet"
+"BulletinInnerBoothTut2","Counter","Comptoir"
+"BulletinInnerBoothTut2","Audio Transcript<br>Rule Book<br>Weight<br>","Transcription<br>
+Règlement<br>
+Poids"
+"BulletinInnerBoothTut2","Bulletin Storage<br>Time &amp; Date","Panière à bulletin<br>Heure &amp; date"
 "BulletinInnerGunTut","Weapons Protocol","Protocole des armes"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","QUAND L'ALARME RETENTIT"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","Utiliser la clé sur la serrure pour déverrouiller l'arme."
@@ -219,6 +227,15 @@
 "RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","Règlement<br>Transcription<br>Bulletin<br>Heure &amp; date"
 "RulesInnerBooth","UPGRADES","AMÉLIORATIONS"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","AUCUNE AMÉLIORATION INSTALLÉE"
+"RulesInnerBooth2","INSPECTOR'S BOOTH","BOX D'INSPECTEUR"
+"RulesInnerBooth2","Shutter","Volet"
+"RulesInnerBooth2","Counter","Comptoir"
+"RulesInnerBooth2","Audio Trans.<br>Rule Book<br>Weight","Transcription<br>
+Règlement<br>
+Poids"
+"RulesInnerBooth2","Bulletin<br>Time &amp; Date","Bulletin<br>Heure &amp; date"
+"RulesInnerBooth2","UPGRADES","AMÉLIORATIONS"
+"RulesInnerBooth2","NO UPGRADES<br>INSTALLED","AUCUNE AMÉLIORATION INSTALLÉE"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","IDENTIFICATION DES"
 "RulesInnerDocs","DOCUMENTS","DOCUMENTS"
 "RulesInnerDocs","CONTENTS","TABLE"
@@ -3148,3 +3165,4 @@ N'OUVREZ PAS LE FEU
 "face:F43","Long Hair","Cheveux longs"
 "face:F43","Shaved Head","Crâne rasé"
 "face:F43","No Glasses","Pas de lunettes"
+"font-stylesheet-override","css/fonts.css","css/fonts.css"
