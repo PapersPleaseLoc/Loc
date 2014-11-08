@@ -46,6 +46,14 @@
 "BulletinInnerBoothTut","Shutter","Serranda"
 "BulletinInnerBoothTut","Counter","Bancone"
 "BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","Regolamento<br>Trascrizione<br>Bollettino<br>Data e ora"
+"BulletinInnerBoothTut2","Arstotzkan<br>Ministry of Admission","Ministero dell'Accoglienza<br>d'Arstotzka"
+"BulletinInnerBoothTut2","Inspector's Booth","Guardiola dell'ispettore"
+"BulletinInnerBoothTut2","Shutter","Serranda"
+"BulletinInnerBoothTut2","Counter","Bancone"
+"BulletinInnerBoothTut2","Audio Transcript<br>Rule Book<br>Weight<br>","Trascrizione<br>
+Regolamento<br>
+Peso"
+"BulletinInnerBoothTut2","Bulletin Storage<br>Time &amp; Date","Bollettino<br>Data e ora"
 "BulletinInnerGunTut","Weapons Protocol","Procedura armi"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","QUANDO SUONA L'ALLARME"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","Rilasciare la chiave sul lucchetto per sbloccare l'arma."
@@ -135,6 +143,7 @@
 "PassportInnerAntegria","ISS.","CIT"
 "PassportInnerAntegria","EXP.","SCD"
 "PassportInnerAntegria","ANTEGRIA","ANTEGRIA"
+"tweak-passport-arstotzka-nation","16px","16px"
 "PassportInnerArstotzka","ENTRY VISA","VISTO D'ENTRATA"
 "PassportInnerArstotzka","DOB.","DDN"
 "PassportInnerArstotzka","SEX","SES"
@@ -218,6 +227,15 @@
 "RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","Regolamento<br>Trascrizione<br>Bollettino<br>Data e ora"
 "RulesInnerBooth","UPGRADES","MIGLIORIE"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","NESSUNA<br>MIGLIORIA"
+"RulesInnerBooth2","INSPECTOR'S BOOTH","GUARDIOLA DELL'ISPETTORE"
+"RulesInnerBooth2","Shutter","Serranda"
+"RulesInnerBooth2","Counter","Bancone"
+"RulesInnerBooth2","Audio Trans.<br>Rule Book<br>Weight","Trascrizione<br>
+Regolamento<br>
+Peso"
+"RulesInnerBooth2","Bulletin<br>Time &amp; Date","Bollettino<br>Data e ora"
+"RulesInnerBooth2","UPGRADES","MIGLIORIE"
+"RulesInnerBooth2","NO UPGRADES<br>INSTALLED","NESSUNA<br>MIGLIORIA"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","DOCUMENTI"
 "RulesInnerDocs","DOCUMENTS","RICONOSCIUTI"
 "RulesInnerDocs","CONTENTS","SOMMARIO"
@@ -3146,3 +3164,4 @@ NON SPARARE
 "face:F43","Long Hair","Capelli lunghi"
 "face:F43","Shaved Head","Testa rasata"
 "face:F43","No Glasses","Senza occhiali"
+"font-stylesheet-override","css/fonts.css","css/fonts.css"
