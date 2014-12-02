@@ -40,6 +40,7 @@
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","Gleichen Sie den relevanten Absatz der Vorschriften mit den falschen Daten ab, um Zugriff auf weitere Optionen zu bekommen."
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","Gleichen Sie entdeckte Waffen und Schmugglergut mit den Vorschriften ab."
 "BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Markieren Sie zwei Diskrepanzen im PRÜF-Modus, um ein Verhör durchführen zu können."
+"BulletinInnerTouchTut","Touch and drag to fine-tune highlighted selection.","Berühren und ziehen, um aktuelle Auswahl zu verfeinern."
 "BulletinInnerPassportTut","Pay attention to passport nationality.","Achten Sie auf die im Paß angegebene Nationalität."
 "BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","Arstotzka<br>Ministerium für Grenzschutz"
 "BulletinInnerBoothTut","Inspector's Booth","Grenzposten-Kabine"
