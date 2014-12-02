@@ -40,6 +40,7 @@
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","Conecte la información pertinente del Reglamento con toda información no válida a fin de habilitar nuevas opciones."
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","Si se descubre armamento o contrabando oculto, este debe vincularse a la entrada pertinente del Reglamento."
 "BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","Seleccione pares de datos discordantes en el modo INSPECCIÓN para dar inicio al interrogatorio."
+"BulletinInnerTouchTut","Touch and drag to fine-tune highlighted selection.","Toque y arrastre para ajustar su selección."
 "BulletinInnerPassportTut","Pay attention to passport nationality.","Preste atención a la nacionalidad del pasaporte."
 "BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","Ministerio de Admisiones<br>de Arstotzka"
 "BulletinInnerBoothTut","Inspector's Booth","Garita de inspección"
