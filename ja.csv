@@ -40,6 +40,7 @@
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","違反箇所と規則書内の該当箇所を関連付けよ。"
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","武器・密輸品発見時には、規則書内の記載箇所と関連付けよ。"
 "BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","調査モードで矛盾する２つの情報を選択することで入国者への審問が可能。"
+"BulletinInnerTouchTut","Touch and drag to fine-tune highlighted selection.","タッチ＆ドラッグで選択箇所を調整せよ。"
 "BulletinInnerPassportTut","Pay attention to passport nationality.","パスポートに記載された国名に注意を払え。"
 "BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","アルストツカ<br>入国管理省"
 "BulletinInnerBoothTut","Inspector's Booth","入国審査室"
